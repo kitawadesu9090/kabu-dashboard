@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>株式ダッシュボード</title>
+<style>
+  :root {
+    --bg: #0f172a;
+    --surface: #1e293b;
+    --surface2: #334155;
+    --text: #f1f5f9;
+    --text-dim: #94a3b8;
+    --accent: #3b82f6;
+    --up: #22c55e;
+    --down: #ef4444;
+    --div: #a855f7;
+    --earn: #f59e0b;
+    --radius: 12px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', sans-serif;
+    background: var(--bg); color: var(--text); min-height: 100vh; line-height: 1.5;
+  }
+  .container { max-width: 720px; margin: 0 auto; padding: 16px; }
+  .header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; flex-wrap: wrap; gap: 8px; }
+  .header h1 { font-size: 1.3rem; font-weight: 700; }
+  .updated { font-size: 0.75rem; color: var(--text-dim); }
+  .btn { background: var(--accent); color: #fff; border: none; border-radius: 8px; padding: 6px 14px; font-size: 0.8rem; cursor: pointer; font-weight: 600; }
+  .btn:hover { opacity: 0.85; }
+  .metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 16px; }
+  .metric { background: var(--surface); border-radius: var(--radius); padding: 12px; text-align: center; }
+  .metric .num { font-size: 1.8rem; font-weight: 800; line-height: 1.2; }
+  .metric .label { font-size: 0.7rem; color: var(--text-dim); margin-top: 2px; }
+  .metric.up .num { color: var(--up); }
+  .metric.down .num { color: var(--down); }
+  .metric.div .num { color: var(--div); }
+  .metric.earn .num { color: var(--earn); }
+  .tabs { display: flex; gap: 4px; margin-bottom: 12px; }
+  .tab { flex: 1; padding: 8px; text-align: center; background: var(--surface); border: 2px solid transparent; border-radius: 8px; cursor: pointer; font-size: 0.85rem; font-weight: 600; color: var(--text-dim); }
+  .tab.active { border-color: var(--accent); color: var(--text); background: var(--surface2); }
+  .filters { display: flex; gap: 6px; margin-bottom: 10px; flex-wrap: wrap; }
+  .filter-btn { padding: 5px 12px; border-radius: 20px; border: 1.5px solid var(--surface2); background: transparent; color: var(--text-dim); font-size: 0.78rem; cursor: pointer; font-weight: 500; }
+  .filter-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .filter-btn[data-type="up"].active { background: var(--up); border-color: var(--up); }
+  .filter-btn[data-type="down"].active { background: var(--down); border-color: var(--down); }
+  .filter-btn[data-type="div"].active { background: var(--div); border-color: var(--div); }
+  .filter-btn[data-type="earn"].active { background: var(--earn); border-color: var(--earn); }
+  .search-box { width: 100%; padding: 10px 14px; border-radius: 8px; border: 1.5px solid var(--surface2); background: var(--surface); color: var(--text); font-size: 0.9rem; margin-bottom: 12px; outline: none; }
+  .search-box:focus { border-color: var(--accent); }
+  .search-box::placeholder { color: var(--text-dim); }
+  .watchlist-add { display: none; margin-bottom: 12px; gap: 8px; }
+  .watchlist-add.show { display: flex; }
+  .watchlist-add input { flex: 1; padding: 8px 12px; border-radius: 8px; border: 1.5px solid var(--surface2); background: var(--surface); color: var(--text); font-size: 0.85rem; outline: none; }
+  .watchlist-add input:focus { border-color: var(--accent); }
+  .card-list { display: flex; flex-direction: column; gap: 8px; }
+  .card { background: var(--surface); border-radius: var(--radius); padding: 14px; position: relative; }
+  .card:hover { background: var(--surface2); }
+  .card-top { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; flex-wrap: wrap; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 0.7rem; font-weight: 700; color: #fff; }
+  .badge.up { background: var(--up); }
+  .badge.down { background: var(--down); }
+  .badge.div { background: var(--div); }
+  .badge.earn { background: var(--earn); }
+  .code { font-size: 0.75rem; color: var(--accent); font-weight: 600; background: rgba(59,130,246,.15); padding: 2px 6px; border-radius: 4px; }
+  .card-title { font-size: 0.9rem; font-weight: 600; line-height: 1.4; color: var(--text); text-decoration: none; display: block; }
+  .card-title:hover { text-decoration: underline; }
+  .card-meta { font-size: 0.7rem; color: var(--text-dim); margin-top: 6px; }
+  .card-desc { font-size: 0.78rem; color: var(--text-dim); margin-top: 4px; line-height: 1.4; }
+  .star-btn { position: absolute; top: 12px; right: 12px; background: none; border: none; font-size: 1.3rem; cursor: pointer; opacity: 0.4; line-height: 1; }
+  .star-btn:hover { opacity: 0.7; }
+  .star-btn.active { opacity: 1; }
+  .empty { text-align: center; padding: 40px 16px; color: var(--text-dim); font-size: 0.9rem; }
+  .schedule-section { margin-top: 20px; }
+  .schedule-section h2 { font-size: 1rem; margin-bottom: 10px; }
+  .schedule-table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
+  .schedule-table th, .schedule-table td { padding: 8px; text-align: left; border-bottom: 1px solid var(--surface2); }
+  .schedule-table th { color: var(--text-dim); font-weight: 600; }
+  .result-count { font-size: 0.75rem; color: var(--text-dim); margin-bottom: 8px; }
+  @media (max-width: 480px) { .metrics { grid-template-columns: repeat(2, 1fr); } .metric .num { font-size: 1.4rem; } }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <div><h1>📈 株式ダッシュボード</h1><div class="updated" id="updated"></div></div>
+    <div><button class="btn" id="refreshBtn" onclick="loadData()">🔄 更新</button></div>
+  </div>
+  <div class="metrics">
+    <div class="metric earn"><div class="num" id="cnt-earn">0</div><div class="label">決算</div></div>
+    <div class="metric up"><div class="num" id="cnt-up">0</div><div class="label">上方修正</div></div>
+    <div class="metric down"><div class="num" id="cnt-down">0</div><div class="label">下方修正</div></div>
+    <div class="metric div"><div class="num" id="cnt-div">0</div><div class="label">配当</div></div>
+  </div>
+  <div class="tabs">
+    <div class="tab active" data-tab="all" onclick="switchTab('all')">全体</div>
+    <div class="tab" data-tab="watch" onclick="switchTab('watch')">⭐ ウォッチリスト</div>
+  </div>
+  <div class="watchlist-add" id="watchAdd">
+    <input type="text" id="watchInput" placeholder="銘柄コード（例: 7203）" maxlength="4" inputmode="numeric">
+    <button class="btn" onclick="addWatch()">追加</button>
+  </div>
+  <div class="filters">
+    <button class="filter-btn active" data-type="all" onclick="setFilter('all')">すべて</button>
+    <button class="filter-btn" data-type="up" onclick="setFilter('up')">上方修正</button>
+    <button class="filter-btn" data-type="down" onclick="setFilter('down')">下方修正</button>
+    <button class="filter-btn" data-type="earn" onclick="setFilter('earn')">決算</button>
+    <button class="filter-btn" data-type="div" onclick="setFilter('div')">配当</button>
+  </div>
+  <input type="text" class="search-box" id="searchBox" placeholder="🔍 銘柄コード・会社名で検索…" oninput="render()">
+  <div class="result-count" id="resultCount"></div>
+  <div class="card-list" id="cardList"></div>
+  <div class="schedule-section" id="scheduleSection" style="display:none">
+    <h2>📅 本日の決算発表予定</h2>
+    <table class="schedule-table" id="scheduleTable">
+      <thead><tr><th>コード</th><th>銘柄名</th><th>決算期</th></tr></thead>
+      <tbody id="scheduleBody"></tbody>
+    </table>
+  </div>
+</div>
+<script>
+let DATA = { items: [], schedule: [], count: {}, updated: "" };
+let currentTab = "all";
+let currentFilter = "all";
+function getWatchlist() { try { return JSON.parse(localStorage.getItem("watchlist") || "[]"); } catch { return []; } }
+function saveWatchlist(list) { localStorage.setItem("watchlist", JSON.stringify(list)); }
+function toggleWatch(code) { if (!code) return; let wl = getWatchlist(); const idx = wl.indexOf(code); if (idx >= 0) wl.splice(idx, 1); else wl.push(code); saveWatchlist(wl); render(); }
+function addWatch() { const input = document.getElementById("watchInput"); const code = input.value.trim(); if (/^\d{4}$/.test(code)) { let wl = getWatchlist(); if (!wl.includes(code)) { wl.push(code); saveWatchlist(wl); } input.value = ""; render(); } }
+function switchTab(tab) { currentTab = tab; document.querySelectorAll(".tab").forEach(el => { el.classList.toggle("active", el.dataset.tab === tab); }); document.getElementById("watchAdd").classList.toggle("show", tab === "watch"); render(); }
+function setFilter(type) { currentFilter = type; document.querySelectorAll(".filter-btn").forEach(el => { el.classList.toggle("active", el.dataset.type === type); }); render(); }
+const TYPE_LABEL = { up: "上方修正", down: "下方修正", div: "配当", earn: "決算" };
+function render() {
+  const wl = getWatchlist();
+  const query = document.getElementById("searchBox").value.trim().toLowerCase();
+  let items = DATA.items || [];
+  if (currentTab === "watch") items = items.filter(i => i.code && wl.includes(i.code));
+  if (currentFilter !== "all") items = items.filter(i => i.type === currentFilter);
+  if (query) items = items.filter(i => (i.title || "").toLowerCase().includes(query) || (i.code || "").includes(query) || (i.desc || "").toLowerCase().includes(query));
+  document.getElementById("resultCount").textContent = items.length + " 件表示";
+  const list = document.getElementById("cardList");
+  if (items.length === 0) { list.innerHTML = '<div class="empty">' + (currentTab === "watch" ? "⭐ ウォッチリストに銘柄を追加してください" : "ニュースがありません") + '</div>'; return; }
+  list.innerHTML = items.map(item => {
+    const isW = item.code && wl.includes(item.code);
+    const pub = item.pub ? formatDate(item.pub) : "";
+    return '<div class="card"><button class="star-btn ' + (isW ? "active" : "") + '" onclick="toggleWatch(\'' + (item.code || "") + '\')">' + (isW ? "⭐" : "☆") + '</button><div class="card-top"><span class="badge ' + item.type + '">' + (TYPE_LABEL[item.type] || "決算") + '</span>' + (item.code ? '<span class="code">' + item.code + '</span>' : '') + '</div><a class="card-title" href="' + (item.link || "#") + '" target="_blank" rel="noopener">' + escHtml(item.title || "（タイトルなし）") + '</a>' + (item.desc ? '<div class="card-desc">' + escHtml(item.desc) + '</div>' : '') + '<div class="card-meta">' + pub + '</div></div>';
+  }).join("");
+}
+function escHtml(s) { const d = document.createElement("div"); d.textContent = s; return d.innerHTML; }
+function formatDate(s) { try { const d = new Date(s); if (isNaN(d)) return s; return d.getFullYear() + "/" + String(d.getMonth()+1).padStart(2,"0") + "/" + String(d.getDate()).padStart(2,"0") + " " + String(d.getHours()).padStart(2,"0") + ":" + String(d.getMinutes()).padStart(2,"0"); } catch { return s; } }
+function renderSchedule() { const sched = DATA.schedule || []; const section = document.getElementById("scheduleSection"); if (sched.length === 0) { section.style.display = "none"; return; } section.style.display = ""; document.getElementById("scheduleBody").innerHTML = sched.map(s => '<tr><td>' + escHtml(s.Code || s.code || "") + '</td><td>' + escHtml(s.CompanyName || s.company_name || "") + '</td><td>' + escHtml(s.FiscalYear || s.fiscal_year || "") + '</td></tr>').join(""); }
+function loadData() {
+  const btn = document.getElementById("refreshBtn"); btn.textContent = "⏳ 読込中…"; btn.disabled = true;
+  fetch("./data.json?" + Date.now()).then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); }).then(data => {
+    DATA = data;
+    const c = DATA.count || {};
+    document.getElementById("cnt-earn").textContent = c.earn || 0;
+    document.getElementById("cnt-up").textContent = c.up || 0;
+    document.getElementById("cnt-down").textContent = c.down || 0;
+    document.getElementById("cnt-div").textContent = c.div || 0;
+    document.getElementById("updated").textContent = DATA.updated ? "最終更新: " + DATA.updated : "";
+    render(); renderSchedule();
+  }).catch(e => { console.error("データ取得エラー:", e); document.getElementById("cardList").innerHTML = '<div class="empty">データの読み込みに失敗しました。</div>'; }).finally(() => { btn.textContent = "🔄 更新"; btn.disabled = false; });
+}
+document.getElementById("watchInput").addEventListener("keydown", function(e) { if (e.key === "Enter") addWatch(); });
+loadData();
+</script>
+</body>
+</html>
