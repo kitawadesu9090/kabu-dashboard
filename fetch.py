@@ -43,9 +43,10 @@ def classify(title: str) -> str:
 
 def extract_code(title: str) -> str:
     """タイトルから4桁の銘柄コードを正規表現で抽出する"""
-    m = re.search(r"[（(〔\\[【<](\d{4})[）)〕\\]】>]", title)
+    m = re.search(r"[（(〔\[【<](\d{4})[）)〕\]】>]", title)
     if m:
         return m.group(1)
+    # 括弧なしの4桁数字（前後が数字でない）
     m = re.search(r"(?<!\d)(\d{4})(?!\d)", title)
     if m:
         return m.group(1)
@@ -138,15 +139,20 @@ def main():
     print("=== 株式データ取得開始 ===")
     now = datetime.now(JST)
 
+    # Yahoo RSS
     items = fetch_yahoo_rss()
+
+    # J-Quants
     schedule = fetch_jquants_schedule()
 
+    # 件数カウント
     count = {"up": 0, "down": 0, "div": 0, "earn": 0}
     for item in items:
         t = item.get("type", "earn")
         if t in count:
             count[t] += 1
 
+    # data.json 書き出し
     output = {
         "updated": now.strftime("%Y/%m/%d %H:%M"),
         "date": now.strftime("%Y-%m-%d"),
