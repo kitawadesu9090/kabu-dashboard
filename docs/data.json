@@ -1,7 +1,12 @@
 {
-  "updated": "",
-  "date": "",
-  "count": {"up": 0, "down": 0, "div": 0, "earn": 0},
+  "updated": "2026/04/05 07:25",
+  "date": "2026-04-05",
+  "count": {
+    "up": 0,
+    "down": 0,
+    "div": 0,
+    "earn": 0
+  },
   "items": [],
   "schedule": []
 }
