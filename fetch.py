@@ -54,9 +54,7 @@ def extract_code(title: str) -> str:
 
 def clean_xml(text: str) -> str:
     """XMLパースエラー対策: 不正な文字やエンティティを修正"""
-    # XML 1.0 で許可されない制御文字を除去
     text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', text)
-    # エスケープされていない & を &amp; に変換
     text = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)', '&amp;', text)
     return text
 
@@ -75,7 +73,6 @@ def fetch_yahoo_rss() -> list[dict]:
         try:
             root = ET.fromstring(content)
         except ET.ParseError:
-            # XMLクリーンアップしてリトライ
             text = content.decode("utf-8", errors="replace")
             cleaned = clean_xml(text)
             root = ET.fromstring(cleaned.encode("utf-8"))
@@ -113,18 +110,15 @@ def fetch_jquants_schedule() -> list[dict]:
         print("[J-Quants] APIキー未設定のためスキップ")
         return schedule
 
-    today = datetime.now(JST).strftime("%Y%m%d")
-
     try:
         resp = requests.get(
-            f"{JQUANTS_BASE}/fins/announcement",
+            f"{JQUANTS_BASE}/equities/earnings-calendar",
             headers={"x-api-key": JQUANTS_API_KEY},
-            params={"date": today},
             timeout=30,
         )
         if resp.status_code == 200:
             data = resp.json()
-            schedule = data.get("announcement", [])
+            schedule = data.get("data", [])
             print(f"[J-Quants] 決算予定 {len(schedule)} 件取得")
         else:
             print(f"[J-Quants] ステータス {resp.status_code}: {resp.text[:200]}")
