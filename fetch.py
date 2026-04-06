@@ -18,7 +18,7 @@ import requests
 # --- 設定 ---
 RSS_URL = "https://finance.yahoo.co.jp/news/settlement?output=rss"
 JQUANTS_BASE = "https://api.jquants.com/v2"
-JQUANTS_REFRESH_TOKEN = os.environ.get("JQUANTS_API_KEY", "")
+JQUANTS_API_KEY = os.environ.get("JQUANTS_API_KEY", "")
 JST = timezone(timedelta(hours=9))
 OUTPUT_PATH = Path(__file__).resolve().parent / "docs" / "data.json"
 
@@ -46,11 +46,19 @@ def extract_code(title: str) -> str:
     m = re.search(r"[（(〔\[【<](\d{4})[）)〕\]】>]", title)
     if m:
         return m.group(1)
-    # 括弧なしの4桁数字（前後が数字でない）
     m = re.search(r"(?<!\d)(\d{4})(?!\d)", title)
     if m:
         return m.group(1)
     return ""
+
+
+def clean_xml(text: str) -> str:
+    """XMLパースエラー対策: 不正な文字やエンティティを修正"""
+    # XML 1.0 で許可されない制御文字を除去
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', text)
+    # エスケープされていない & を &amp; に変換
+    text = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)', '&amp;', text)
+    return text
 
 
 # --- Yahoo! ファイナンス RSS 取得 ---
@@ -63,15 +71,13 @@ def fetch_yahoo_rss() -> list[dict]:
         })
         resp.raise_for_status()
 
-        # XMLパースエラー対策: 不正な文字を除去
         content = resp.content
         try:
             root = ET.fromstring(content)
         except ET.ParseError:
-            # バイナリとして不正な制御文字を除去してリトライ
+            # XMLクリーンアップしてリトライ
             text = content.decode("utf-8", errors="replace")
-            # XML 1.0 で許可されない制御文字を除去
-            cleaned = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', text)
+            cleaned = clean_xml(text)
             root = ET.fromstring(cleaned.encode("utf-8"))
 
         for item in root.iter("item"):
@@ -98,52 +104,21 @@ def fetch_yahoo_rss() -> list[dict]:
     return items
 
 
-# --- J-Quants API 認証 ---
-def get_jquants_id_token() -> str:
-    """J-Quants API v2: リフレッシュトークン → IDトークンを取得"""
-    if not JQUANTS_REFRESH_TOKEN:
-        print("[J-Quants] APIキーが設定されていません")
-        return ""
-    try:
-        # Step 1: リフレッシュトークンでIDトークンを取得
-        resp = requests.post(
-            f"{JQUANTS_BASE}/token/auth_refresh",
-            params={"refreshtoken": JQUANTS_REFRESH_TOKEN},
-            timeout=30,
-        )
-        if resp.status_code == 200:
-            id_token = resp.json().get("idToken", "")
-            if id_token:
-                print("[J-Quants] IDトークン取得成功")
-                return id_token
-            else:
-                print(f"[J-Quants] IDトークンが空です: {resp.text[:200]}")
-                return ""
-        else:
-            print(f"[J-Quants] 認証エラー ステータス {resp.status_code}: {resp.text[:200]}")
-            return ""
-    except Exception as e:
-        print(f"[J-Quants] 認証エラー: {e}")
-        return ""
-
-
 # --- J-Quants 決算発表予定取得 ---
 def fetch_jquants_schedule() -> list[dict]:
-    """J-Quants API から決算発表予定を取得"""
+    """J-Quants API v2 から決算発表予定を取得 (x-api-key 認証)"""
     schedule = []
 
-    # IDトークンを取得
-    id_token = get_jquants_id_token()
-    if not id_token:
-        print("[J-Quants] IDトークン取得失敗のためスキップ")
+    if not JQUANTS_API_KEY:
+        print("[J-Quants] APIキー未設定のためスキップ")
         return schedule
 
-    today = datetime.now(JST).strftime("%Y-%m-%d")
+    today = datetime.now(JST).strftime("%Y%m%d")
 
     try:
         resp = requests.get(
             f"{JQUANTS_BASE}/fins/announcement",
-            headers={"Authorization": f"Bearer {id_token}"},
+            headers={"x-api-key": JQUANTS_API_KEY},
             params={"date": today},
             timeout=30,
         )
