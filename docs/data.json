@@ -1,25 +1,43 @@
 {
-  "updated": "2026/04/06 12:50",
-  "date": "2026-04-06",
+  "updated": "2026/04/07 08:53",
+  "date": "2026-04-07",
   "count": {
     "up": 3,
-    "down": 1,
-    "div": 1,
-    "earn": 6
+    "down": 0,
+    "div": 3,
+    "earn": 13
   },
   "items": [
     {
-      "title": "【決算速報】オリンピック、前期経常を赤字拡大に下方修正、前期配当を見送り8:33株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9d96e262abcfeee89dc5e3fa7b4354a01e8a09be",
-      "type": "down",
+      "title": "【決算速報】アドヴァンＧ、経常38.4%増益。4/6アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/f8e8c14ed13bdae0e9da5599ec88e327d91c79e6",
+      "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＯｌｙｍｐｉｃＧ、26年02月年間1株配当0円。8:30アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/cad9d1621deb8c074ab7160d878076ce7c6c2fd2",
+      "title": "【決算速報】アドヴァンＧ、今期営業は25％増益へ4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0bed3f5ab2a022ed5d6878be921e7df226e3214b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (04月06日)4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/10f9f8da9a380cabd1a56a3e5af526e66e2fd344",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】グローバル社、今期配当を見送り4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/acf2c83364c1893ff1049028a17d9e8e3ad9baf4",
       "type": "div",
       "code": "",
       "pub": "",
@@ -27,17 +45,17 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (04月03日)4/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9bef7982ce4d56f63dafbdf6c33e775903ec12f2",
-      "type": "earn",
+      "title": "【決算速報】ＴＨＥグローバル、26年06月年間1株配当0円。4/6アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/509e94d2f0e9c211ef8e4d93bf54e74fea864b3e",
+      "type": "div",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】放電精密、前期経常を47％上方修正・7期ぶり最高益、配当も3円増額4/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b9e5542ff4e7a1d41b1c3415967821938cf853df",
+      "title": "【決算速報】山忠、今期経常を一転15％増益に上方修正、配当も10円増額4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b06b9f38f4088decebabf1c924212e3da5623fe8",
       "type": "up",
       "code": "",
       "pub": "",
@@ -45,8 +63,44 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】瑞光、今期経常は5.2倍増益、8円増配へ4/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8cfde53533299f7db0cb19ebe3f38466caa79e07",
+      "title": "【決算速報】ＷＮＩウェザ、12-2月期(3Q)経常は11％増益、株式分割に伴い配当予想を修正4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7a994640274e7fec6aeaa7526655354e7a1518f7",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】メディ一光Ｇ、今期経常は微減益へ4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b14a80fc9de4cb9b698f338eec677ac79fddd796",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】カルラ、今期経常は3％減益へ4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9d3d4f0e7fcedcc1e5990b72b79cd801ffb86ba5",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アンドＳＴ、今期経常は2％増益へ4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/485671c51b451fad6b6afb775328e5d27d43f854",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】イオンファン、前期経常を29％上方修正・最高益予想を上乗せ4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0824a52e96cafc91beaa923041b3fba410707728",
       "type": "up",
       "code": "",
       "pub": "",
@@ -54,8 +108,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】北恵、12-2月期(1Q)経常は11％減益で着地4/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/41158db9e4b3e5e7e9702120a809af87c87a05fc",
+      "title": "【決算速報】ジャパニアス、12-2月期(1Q)経常は11％増益で着地4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/00dbc77a8640a8a7c35e1d8d3c77babfa89f19ca",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -63,8 +117,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】北恵、1Q経常270百万。4/3アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/b372dbacd64d8d4408e9f7882eb4b93c960710e9",
+      "title": "【決算速報】ＫＧ情報、1-3月期(1Q)経常は42％増益で着地4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/27cd64602f48798001a220c628f57cc530edd730",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -72,8 +126,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】瑞光、経常黒字転換。事前予想を下回る4/3アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/c0db6a23c95e5fe9f34d03550465c24d9c4810f6",
+      "title": "【決算速報】壱番屋、今期経常は1％増益へ4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a62ae014969730c4a313ebf2af6d062b1552cb3a",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,31 +135,49 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＫＴＫ、上期経常が39％増益で着地・12-2月期も34％増益4/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/08650350efd4984e2db13a6b16e8b78a0fed2f5c",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＫＴＫ、中間経常302百万。事前予想と同水準4/3アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/5772e5dad87ed962d01102bc2805a47a7abf16fa",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】エクスＭ、12-2月期(1Q)経常は57％増益で着地、今期配当を実質増額修正4/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/506ee0a12b8f3c59ae03f144227163cdc23015b8",
+      "title": "【決算速報】薬王堂ＨＤ、今期経常は微増益、1円増配へ4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/af64be820883c10f73893c0478dad05a123e0d6e",
       "type": "up",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】クリエイトＳ、6-2月期(3Q累計)経常は6％増益で着地4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9ba228a448716e13cde39dc83a4150076d4c2083",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ネクステージ、12-2月期(1Q)経常は3倍増益で着地4/6株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cb0e4689ad34bb2b211a546e4d864a7b9094b84f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "サムスン、1～3月期営業利益8.6倍(共同通信)",
+      "link": "https://news.yahoo.co.jp/articles/9b6790f75de1d38e7e92755a50a04807d2712321?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Mon, 06 Apr 2026 23:42:57 GMT",
+      "desc": "　【ソウル共同】韓国の電機大手サムスン電子が7日発表した2026年1～3月期連結決算（暫定集計）によると、本業のもうけを示す営業利益は前年同期と比べ8.6倍の57.2兆ウォン（約6兆円）を見込んだ。",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "中国セレス、25年売上高13.6％増。ファーウェイ連携EV「AITO」、高級SUV市場でシェア2割超(36Kr Japan)",
+      "link": "https://news.yahoo.co.jp/articles/b19dbf6f00b11ad2daf766526d229cf0bae47678?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Mon, 06 Apr 2026 23:30:36 GMT",
+      "desc": "中国自動車メーカーの賽力斯集団（SERES＝セレス）が発表した2025年決算によると、売上高は前年比13.63％増の1648億8800元（約3兆7900億円）、純利益は0.18％増の59億5700万元",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
