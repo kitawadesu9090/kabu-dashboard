@@ -18,7 +18,7 @@ import requests
 # --- 設定 ---
 RSS_URL = "https://finance.yahoo.co.jp/news/settlement?output=rss"
 JQUANTS_BASE = "https://api.jquants.com/v2"
-JQUANTS_API_KEY = os.environ.get("JQUANTS_API_KEY", "")
+JQUANTS_REFRESH_TOKEN = os.environ.get("JQUANTS_API_KEY", "")
 JST = timezone(timedelta(hours=9))
 OUTPUT_PATH = Path(__file__).resolve().parent / "docs" / "data.json"
 
@@ -62,24 +62,34 @@ def fetch_yahoo_rss() -> list[dict]:
             "User-Agent": "kabu-dashboard/1.0"
         })
         resp.raise_for_status()
-        root = ET.fromstring(resp.content)
+
+        # XMLパースエラー対策: 不正な文字を除去
+        content = resp.content
+        try:
+            root = ET.fromstring(content)
+        except ET.ParseError:
+            # バイナリとして不正な制御文字を除去してリトライ
+            text = content.decode("utf-8", errors="replace")
+            # XML 1.0 で許可されない制御文字を除去
+            cleaned = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', text)
+            root = ET.fromstring(cleaned.encode("utf-8"))
 
         for item in root.iter("item"):
             title = item.findtext("title", "")
-            link = item.findtext("link", "")
-            pub = item.findtext("pubDate", "")
-            desc = item.findtext("description", "")
+            link  = item.findtext("link", "")
+            pub   = item.findtext("pubDate", "")
+            desc  = item.findtext("description", "")
 
             news_type = classify(title)
             code = extract_code(title)
 
             items.append({
                 "title": title,
-                "link": link,
-                "type": news_type,
-                "code": code,
-                "pub": pub,
-                "desc": desc[:200] if desc else "",
+                "link":  link,
+                "type":  news_type,
+                "code":  code,
+                "pub":   pub,
+                "desc":  desc[:200] if desc else "",
                 "source": "yahoo"
             })
         print(f"[Yahoo RSS] {len(items)} 件取得")
@@ -89,19 +99,29 @@ def fetch_yahoo_rss() -> list[dict]:
 
 
 # --- J-Quants API 認証 ---
-def get_jquants_token() -> str:
-    """J-Quants API のリフレッシュトークン → IDトークンを取得"""
-    if not JQUANTS_API_KEY:
-        print("[J-Quants] API キーが設定されていません")
+def get_jquants_id_token() -> str:
+    """J-Quants API v2: リフレッシュトークン → IDトークンを取得"""
+    if not JQUANTS_REFRESH_TOKEN:
+        print("[J-Quants] APIキーが設定されていません")
         return ""
     try:
+        # Step 1: リフレッシュトークンでIDトークンを取得
         resp = requests.post(
-            f"{JQUANTS_BASE}/token/auth_user",
-            headers={"Content-Type": "application/json"},
-            json={"mailaddress": "", "password": ""},
+            f"{JQUANTS_BASE}/token/auth_refresh",
+            params={"refreshtoken": JQUANTS_REFRESH_TOKEN},
             timeout=30,
         )
-        return JQUANTS_API_KEY
+        if resp.status_code == 200:
+            id_token = resp.json().get("idToken", "")
+            if id_token:
+                print("[J-Quants] IDトークン取得成功")
+                return id_token
+            else:
+                print(f"[J-Quants] IDトークンが空です: {resp.text[:200]}")
+                return ""
+        else:
+            print(f"[J-Quants] 認証エラー ステータス {resp.status_code}: {resp.text[:200]}")
+            return ""
     except Exception as e:
         print(f"[J-Quants] 認証エラー: {e}")
         return ""
@@ -111,15 +131,19 @@ def get_jquants_token() -> str:
 def fetch_jquants_schedule() -> list[dict]:
     """J-Quants API から決算発表予定を取得"""
     schedule = []
-    if not JQUANTS_API_KEY:
-        print("[J-Quants] APIキー未設定のためスキップ")
+
+    # IDトークンを取得
+    id_token = get_jquants_id_token()
+    if not id_token:
+        print("[J-Quants] IDトークン取得失敗のためスキップ")
         return schedule
 
     today = datetime.now(JST).strftime("%Y-%m-%d")
+
     try:
         resp = requests.get(
             f"{JQUANTS_BASE}/fins/announcement",
-            headers={"Authorization": f"Bearer {JQUANTS_API_KEY}"},
+            headers={"Authorization": f"Bearer {id_token}"},
             params={"date": today},
             timeout=30,
         )
@@ -160,7 +184,6 @@ def main():
         "items": items,
         "schedule": schedule,
     }
-
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
