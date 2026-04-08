@@ -1,16 +1,16 @@
 {
-  "updated": "2026/04/08 08:55",
-  "date": "2026-04-08",
+  "updated": "2026/04/09 08:54",
+  "date": "2026-04-09",
   "count": {
-    "up": 7,
-    "down": 1,
+    "up": 3,
+    "down": 3,
     "div": 0,
-    "earn": 10
+    "earn": 12
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (04月07日)4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b15bd61eb52585ff805b035f2cacdb4550e9a27c",
+      "title": "★本日の【サプライズ決算】速報 (04月08日)4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c7855cab7c9b283ab8c7d47a6262cf6c418418d4",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,26 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】トランザク、上期経常を9％上方修正4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/aeba07b861975ab97be5a2587b1aed6e9c66ae8d",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】放電精密、今期経常は4％増で2期連続最高益、2円増配へ4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/828c4d3c0a27cce93a12149b7a5ddc4a8ef3b0fe",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】放電精密加工研、経常61.4%増益。アナリスト予想を上回る4/7アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/d05744c071904299a76e41339915a69c611408e2",
+      "title": "【決算速報】アウン、6-2月期(3Q累計)経常が赤字拡大で着地・12-2月期は赤字転落4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4090e567e3f1a0e346f46832822269f20d94d098",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,44 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】テクミラ、前期経常を3.1倍上方修正4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c77581056e8b58e20030312e876338d1338b9dec",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】メタリアル、前期経常を一転63％増益に上方修正4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b93c4a3ad3a868f4b9ae6fce04c0c48ef54da320",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】フェリシモ、今期経常は30％減益、5円増配へ4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6bcd84be862ccf63cafd3ec6fb891e763e67cfc1",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ダイセキ、今期経常は14％増で3期ぶり最高益、10円増配へ4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/79f291e72eac5a9120cc7982c2f80a47bf56d76d",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スローガン、今期経常は6％増で5期ぶり最高益更新へ4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1f27d03fb6471185e7a6bcfbe55c160ff4482260",
+      "title": "【決算速報】リソー教育Ｇ、今期経常は2％増益へ4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d361337e6c51082cab0ec0110d2d460851faaaf4",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -90,8 +36,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】三協立山、今期経常を一転89％減益に下方修正4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a3e4f073da55c455739f970a985e5e5974c0fa64",
+      "title": "【決算速報】アウンコンサル、3Q累計経常-33百万。4/8アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/f2733552f19bd5d5ebc4759e18e6d6afc0461a7e",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】リソー教育Ｇ、経常7%減益。アナリスト予想を上回る4/8アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7c051e3c828d0e71bf5f96e3fd215415b32bff61",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ジーフット、前期最終は赤字拡大で下振れ着地、今期業績は非開示4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9d2dad88d8c611c064f26d8938d9156b428bffbb",
       "type": "down",
       "code": "",
       "pub": "",
@@ -99,8 +63,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＵＳＭＨ、前期経常が上振れ着地・今期は95％増益へ4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c19bc333cdf09b3c3cb4a6d87594982252ee4277",
+      "title": "【決算速報】ゲームウィズ、6-2月期(3Q累計)経常が黒字浮上で着地・12-2月期も黒字浮上4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a9a9136124d54a58875d3e28a8fb52bb088d1991",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】グリーンエナ、今期配当を1円増額修正4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6f7392f40a94abcc3d2c09cb9439920984a058d3",
       "type": "up",
       "code": "",
       "pub": "",
@@ -108,8 +81,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】パルＨＤ、今期経常は8％増で5期連続最高益更新へ4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4e81aa882f0600beb7d3dc8c2fe589ba2752c595",
+      "title": "【決算速報】イントランス、前期最終を一転赤字に下方修正、対純資産で67％の赤字4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9b03df4553d13b05a9ba748a260a2d0434519809",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】エヌピーシー、上期最終が赤字転落で着地・12-2月期は60％減益4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/794e2ef435a032987b9a0d6acdebc1d3564efb14",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,8 +99,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】中北製、6-2月期(3Q累計)経常が98％増益で着地・12-2月期も70％増益4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/aa2b44ba9aa69b9c035698d1091c4029b0ee1e7b",
+      "title": "【決算速報】コメダ、今期最終は7％増で2期連続最高益、2円増配へ4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bf799a0ec042cf5e37e66db7b6c0f173fb97a021",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ベル２４ＨＤ、今期最終は4％増益へ4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2497da6ad167cac5092c5c898c01c0cbc972e3d1",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -126,8 +117,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サカタタネ、6-2月期(3Q累計)経常が12％増益で着地・12-2月期は27％減益4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a9b8a3f34920511fb896a2d2e7e12c39f6e761ce",
+      "title": "【決算速報】キャンドゥ、前期経常を37％上方修正4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/92d4f9d44c01f3ddb9ac62c7bb559c25a8cb3beb",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミニストップ、今期経常は黒字浮上へ4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/33ab10390c5396f30301b1b33b7c8e24d13c9693",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -135,8 +135,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】三光合成、6-2月期(3Q累計)経常が19％増益で着地・12-2月期も40％増益4/7株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6a7799a2ee0a171783c02b2430a138299728ead3",
+      "title": "【決算速報】イオンＦＳ、今期経常は26％減益へ4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f205d34716d7a5a7813a92a5226bfbec296069ac",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -144,8 +144,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】フェリシモ、経常468百万。事前予想と同水準4/7アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/574c8a61c2ad4f23084858b037ddbde2a98549d0",
+      "title": "【決算速報】メディア５、6-2月期(3Q累計)経常は19％増益・通期計画を超過4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ba81dedddea51ef3adb388aa28f4f9f6d027ef6f",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -153,8 +153,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スローガン、経常279百万。事前予想を上回る4/7アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/2abdb2f4c75f4339c49470668755f813a42e0f01",
+      "title": "【決算速報】わらべ日洋、今期経常は3％増で2期連続最高益更新へ4/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/258a3fafe15e3a0141509800fef0e3a2d6455327",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -162,12 +162,12 @@
       "source": "yahoo"
     },
     {
-      "title": "ナイキ、好業績もまさかの株価大幅下落……　「ルンバ」の苦境との共通点(ITmedia ビジネスオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/2ee7ec4e818669c7d75fb8facb9a0623d0f16d26?source=rss",
-      "type": "earn",
+      "title": "ホンダ、中国新車販売26か月連続前年割れ、“高配当”株「減配」リスクも［新聞ウォッチ］(レスポンス)",
+      "link": "https://news.yahoo.co.jp/articles/f771c548b1e70ec1dfb49fc0a64fa8f52c9cbcaa?source=rss",
+      "type": "down",
       "code": "",
-      "pub": "Tue, 07 Apr 2026 23:10:09 GMT",
-      "desc": "　4月1日、ニューヨーク株式市場でダウ工業株30種平均が堅調に推移する中、スポーツ用品世界最大手の米ナイキが逆行安に転じた。\n\n　前日に発表した2025年12月～2026年2月期（2026年度第3四半",
+      "pub": "Wed, 08 Apr 2026 23:05:03 GMT",
+      "desc": "世界最大の自動車市場の中国では、相変わらず日本車の苦戦が続いているようだ。トヨタ自動車とホンダが発表した3月の中国新車販売台数によると、トヨタは前年同月比8.0％減の14万2700台、ホンダは34.3",
       "source": "yahoo_news"
     }
   ],
