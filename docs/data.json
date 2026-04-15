@@ -1,16 +1,25 @@
 {
-  "updated": "2026/04/14 09:05",
-  "date": "2026-04-14",
+  "updated": "2026/04/15 09:06",
+  "date": "2026-04-15",
   "count": {
-    "up": 3,
-    "down": 4,
+    "up": 2,
+    "down": 2,
     "div": 0,
-    "earn": 13
+    "earn": 17
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (04月13日)4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/79d0002d24a6123fb8da76b6710dd8cb75ad273a",
+      "title": "【決算速報】Ｗディッシュ、上期経常は1400万円で着地4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a8c2c03382efdc959f48364ebded19ec78d5c9d0",
+      "type": "earn",
+      "code": "1400",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ウェルディッシュ、中間経常14百万。4/14アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/bfeece4f686fa2492b279db4b2bca0eb191e69e5",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +27,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サンケイＲＥ、前期経常を一転赤字に下方修正、分配金も無配転落4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/669d373d7bed179124762d934d9c74c47fe8a0d7",
+      "title": "【決算速報】マーキュリー、経常50.6%減益。事前予想と同水準4/14アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/8d626781687d4d4580ff8d170f82f02690492cfa",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＷＨＤＣ、中間経常-473百万。4/14アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/3d344da1f1a0e118302f9253d0e9a4ffc5692678",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】フィットクル、今期経常を一転40％減益に下方修正4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/69e6c4ab4ae2c1beffde5355ffb355a58f6e25de",
       "type": "down",
       "code": "",
       "pub": "",
@@ -27,17 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】マーキュリー、前期経常を32％下方修正4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/dcdba8c10891b99b2e498b9e5cd8dcd70b83c9d9",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】オリンピック、前期経常は赤字拡大で着地、今期業績は非開示4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9f063ec931558d05c5763b5246592a99b381d697",
+      "title": "【決算速報】ＷＨＤＣ、上期最終が赤字拡大で着地・12-2月期も赤字拡大4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8f9a2decfe55203e708c59e41dd6f310d0a63a84",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,8 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本色材、今期経常は82％増益へ4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/76b59b02b170049e08835ef053b12c357396fde2",
+      "title": "【決算速報】マーキュリー、今期経常は57％増益へ4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0798a8ac22fb920fb91b8af2b93dd3609b83e148",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -54,8 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】阿波製紙、前期経常を赤字縮小に上方修正4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2956ca59ff69890a15f72425f8395901768fc7b3",
+      "title": "【決算速報】ＡＢＥＪＡ、今期経常を23％上方修正・最高益予想を上乗せ4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/96c092b069412b5483a4c47dc05d3e2864f4c462",
       "type": "up",
       "code": "",
       "pub": "",
@@ -63,8 +81,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＯｌｙｍｐｉｃＧ、経常赤字幅拡大。事前予想を上回る4/13アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/4284259068f49f4320cbc16222c5032d4720e1d4",
+      "title": "【決算速報】ＡＢＥＪＡ、中間経常389百万。4/14アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/b1c37a6a5c2394668358bee7d36de60955f4fa08",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -72,8 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本色材工業研、経常58.9%減益。事前予想を上回る4/13アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/a2d8eb9d45c68212fc326672399b37690d6a7a2a",
+      "title": "★本日の【サプライズ決算】速報 (04月14日)4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2664b1e312c816952923582fcbb3c02dfc361339",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,8 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＱＰＳＨＤ、今期営業を赤字縮小に上方修正4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/627d88e8fef5f8bfafbc00ecc1c0059c23d63440",
+      "title": "【決算速報】ＳＩ、今期経常は9％増益、前期配当増額も今期減配4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/acb41df699111794eeca3a6810b4a4ebc207f360",
       "type": "up",
       "code": "",
       "pub": "",
@@ -90,53 +108,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＣＶＳベイエリア、経常赤字。事前予想を上回る4/13アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/80f842b2cb10b12dfb58f0196194f6a068238964",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】識学、経常40.2%増益。事前予想を下回る4/13アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/789006af343b21d598643ef007d8a7237b40a05e",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】識学、前期経常は40％増で2期連続最高益、今期業績は非開示4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d6cf909dfcecab3a413c9ee0b85f6149ef1eed77",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＣＶＳベイ、今期最終は黒字浮上へ4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d90e10d787defa84f0ca526be945313dd8e35deb",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＡＲアドバン、今期経常を24％上方修正・最高益予想を上乗せ4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9f70bf75d6e89daf6f8ede1753a51894f229c036",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】フェスタリア、上期経常は一転50％減益で下振れ着地4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7f9e65dc9c71dd8d99bc0f9ce151292096901cd4",
+      "title": "【決算速報】Ｕ＆Ｃ、前期最終が一転赤字で下振れ着地・今期は黒字浮上へ4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c5f639706f4f67ca70935234857899f6d4a1eab5",
       "type": "down",
       "code": "",
       "pub": "",
@@ -144,8 +117,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】エムビーエス、6-2月期(3Q累計)経常が18％増益で着地・12-2月期も9％増益4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/911adb5af2723c2c5c744c9cdff6a6ae75e12616",
+      "title": "【決算速報】ジーイエット、今期最終は黒字浮上へ4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1373ef87c8a9fc5c637c4957c1d2cc369ea085c9",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -153,8 +126,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＵＮＥＸＴ、12-2月期(2Q)経常は6％増益4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9e573face0d794c8a795838b15347abe06df7506",
+      "title": "【決算速報】ユニシアＨＤ、12-2月期(1Q)経常は50％減益で着地4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/992c293c3f2f336dde9eab127252e577a5e0c005",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -162,8 +135,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】フライヤー、今期経常は2.9倍増で3期連続最高益更新へ4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e0941e675721810d05016d8b2b9a676737c2d6e9",
+      "title": "【決算速報】ジーイエット、経常赤字幅拡大。事前予想を下回る4/14アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/bb7af2fb2b6323cf88c9bdf4bbdeef11135fb4a4",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -171,22 +144,58 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】マースＧＨＤ、前期経常を17％下方修正4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9dfe205c9086388e8fed8d1d1af1792a8cbb8fb5",
-      "type": "down",
+      "title": "【決算速報】ユニシアＨ、1Q経常160百万。アナリスト予想を下回る4/14アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/2d5fa0861374df77676b151dcafc1fc72c1fe1c6",
+      "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】シリコンスタ、12-2月期(1Q)最終は赤字転落で着地4/13株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7dab5331ece6c295108d3ddebccab0300e7fb50b",
+      "title": "【決算速報】ＳＩ、経常88.4%増益。事前予想を上回る4/14アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/4c20b35686cb71bee207a46932b2e95cc6f449bb",
       "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｕ＆Ｃ、経常赤字。事前予想を上回る4/14アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/981a82a27943dc03d14410c5e7653aba0d7282f2",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＡＮＡＰＨＤ、上期最終が赤字転落で着地・12-2月期は赤字拡大4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9dfe8080be2e548423b26fa54d39ddc9328b3003",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｏｎｅリート、今期経常は6％減益へ4/14株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/fb385d32d8cd15570989fed3e2ea1caf56c1163f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "ホンダEV戦略修正の影響拡大、旭化成もカナダの電池材新工場を延期［新聞ウォッチ］(レスポンス)",
+      "link": "https://news.yahoo.co.jp/articles/88c8ee03356636c80ab493182e8b4a27bfdaf946?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 14 Apr 2026 23:18:27 GMT",
+      "desc": "巨額の赤字を抱えるホンダなどによる電気自動車（EV）戦略の見直しが、EV関連の素材メーカーなどにも飛び火して影響が拡大しているようだ。\n\nきょうの日経によると、旭化成はカナダに建設中の電池材料の新工場",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
