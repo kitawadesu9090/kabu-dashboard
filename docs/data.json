@@ -1,13 +1,103 @@
 {
-  "updated": "2026/04/16 09:05",
-  "date": "2026-04-16",
+  "updated": "2026/04/17 09:02",
+  "date": "2026-04-17",
   "count": {
-    "up": 5,
-    "down": 0,
-    "div": 1,
-    "earn": 10
+    "up": 6,
+    "down": 2,
+    "div": 0,
+    "earn": 6
   },
   "items": [
+    {
+      "title": "★本日の【サプライズ決算】速報 (04月16日)4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/601d4e7cdf2ea62d9141f3d50cdea31e8eef714c",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ハウスリート、今期経常は8％減益へ4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b52d27f682d551a5a718cd230795e85e9781b735",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】旭ダイヤ、前期経常を一転10％増益に上方修正4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/43d67b8336e34068561b6a6f075dfdaaf595954d",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】菱地所物流Ｒ、前期経常が一転増益で上振れ着地・今期は9％増益へ4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7efe93fb9559a3e14baf3bea97939681b15770c3",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】品川リフラ、前期最終を16％下方修正4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a6bec68ea1e915174a7071e4b7c82e58ba8565b0",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】三井不アコモ、今期経常は5％増で2期連続最高益更新へ4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a627491f000231e2d6ef44fa485a0392b86e6382",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＨＵＬＩＣＲ、今期経常は7％減益へ4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/be82f7a9dbfec44f07131f3c649e696423d88c92",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＷＤＩ、前期経常を61％上方修正4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6a3d8aaa4eafa4f9ae79eb46ecffbaeccd62b781",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タカキタ、前期経常を49％上方修正4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c8c03ab81f8ba5d0ac71faa6ae0bc33dc4291f94",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】データセク、前期経常を16％上方修正・最高益予想を上乗せ4/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ecd4e33bf892e41625f37a0765f9d6b27dbb2b8e",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "★本日の【サプライズ決算】速報 (04月15日)4/15株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/ff6beae3f60bac44db111d29b306f97927ef9ffa",
@@ -18,138 +108,30 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ヨシムラＨＤ、今期経常は微増益へ4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/dafd4e5b3b3118aba9af007c80a6ee4cfc594a2e",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＡＧＳ、前期配当を2円増額修正4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/112c7f00259d46117913b6134255dd5af5a6141e",
+      "title": "【欧州】“世界で唯一”のカワサキ量産型ストロングハイブリッドバイク「Z7 Hybrid」「Ninja 7 Hybrid」が進化！ スポーツモードAT＋モード切り替え速度上限引き上げで実用性向上！ 最新モデルを発表(くるまのニュース)",
+      "link": "https://news.yahoo.co.jp/articles/e6fdcfb6873f75323a4e5431e51e0128fcd64a36?source=rss",
       "type": "up",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Thu, 16 Apr 2026 23:40:00 GMT",
+      "desc": "　カワサキモータース・ヨーロッパは、2026年4月2日に世界で唯一の量産型ストロングハイブリッドモーターサイクルである「Z7 Hybrid」「Ninja 7 Hybrid」の新型2026年モデルを発表",
+      "source": "yahoo_news"
     },
     {
-      "title": "【決算速報】Ｂマインド、前期経常を17％上方修正、配当も5円増額4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e4c645cbaa9080e5066343aee34b03163dfe4e3f",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヨシムラフードＨ、経常60.2%減益。事前予想を下回る4/15アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/8a4cd04052e380f78602dd33dd6522b1ca8e1284",
+      "title": "米ネトフリ純利益83％増　1～3月期、会員増寄与(共同通信)",
+      "link": "https://news.yahoo.co.jp/articles/e59f40a57562910b61a2573f9db025127dddf96b?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Thu, 16 Apr 2026 23:01:44 GMT",
+      "desc": "　【ニューヨーク共同】米動画配信大手ネットフリックスが16日発表した2026年1～3月期決算は、純利益が前年同期比83％増の52億8279万ドル（約8400億円）だった。独占配信のヒットで会員数が増え",
+      "source": "yahoo_news"
     },
     {
-      "title": "【決算速報】ＡＧＳ、26年03月年間1株配当34円。4/15アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/1ed056182c34614f4b9a40ee49bc1a814e02508e",
-      "type": "div",
+      "title": "下方修正なのになぜストップ高？ 「ジンズ」の決算から学ぶ、株価の動きを読むポイント(MONEY PLUS)",
+      "link": "https://news.yahoo.co.jp/articles/5c4a3fecc59bc1360c534bff77dc36815beaf9ec?source=rss",
+      "type": "down",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】フロンテア、12-2月期(1Q)経常は26％減益で着地4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/630d38ba9ea644cc60fd34ba6f9cd34f59bdc7f0",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＨＩＯＫＩ、1-3月期(1Q)経常は39％増益で着地4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9bade432d152d47acb742eb05f3663aaa5c96f60",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】丸三、非開示だった前期経常は46％増益へ4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c2dea6916d416f47619446d82214dec45892b865",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】福岡リート、今期経常は7％減益へ4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d7a56e6bed3cfa8ec0113811a578824fbf5e6b5d",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】マルヨシ、今期経常は57％減益へ4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/04dc717d68466e116706be1d1c0d5b706668b401",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】住石ＨＤ、前期経常を72％上方修正、配当も5円増額4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/301cffd2843a5bee1653a0801f1a549b3008e474",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】テクノフレ、上期経常を一転46％増益に上方修正4/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7c103f2782c412ef465966b1608c121d4395d195",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日置電機、1Q経常2,357百万。アナリスト予想を上回る4/15アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/9c18cef1aa4ea216e561db984e54979947640629",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】マルヨシセンター、経常323百万。事前予想を上回る4/15アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/1a546d8d46efc8c0e3bf1ffcf084610fbdf253d1",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【2026年新卒】9割が給与逆転に不満。人材確保や物価高で「引き上げは必要」の声も(BuzzFeed Japan)",
-      "link": "https://news.yahoo.co.jp/articles/54b645c485fd2da8a3596f0ce8be5276f7a2854e?source=rss",
-      "type": "up",
-      "code": "2026",
-      "pub": "Wed, 15 Apr 2026 23:05:02 GMT",
-      "desc": "転職サービス「doda」などを提供するパーソルキャリア株式会社が運営する調査機関『Job総研』は、20～50代の社会人302人を対象に「2026年新卒の給与に関する意識調査」を実施しました。4月6日の",
+      "pub": "Thu, 16 Apr 2026 22:30:28 GMT",
+      "desc": "2026年4月10日、メガネチェーン大手のジンズホールディングス（3046）が、2026年8月期の上期決算を発表しました。内容は、売上高・営業利益ともに期初予想を下回る「下方修正」。それなのに翌営業日",
       "source": "yahoo_news"
     }
   ],
