@@ -1,16 +1,16 @@
 {
-  "updated": "2026/04/21 09:03",
-  "date": "2026-04-21",
+  "updated": "2026/04/22 08:53",
+  "date": "2026-04-22",
   "count": {
-    "up": 5,
+    "up": 3,
     "down": 0,
-    "div": 0,
-    "earn": 8
+    "div": 3,
+    "earn": 7
   },
   "items": [
     {
-      "title": "【決算速報】ラピーヌ、今期最終は赤字縮小へ4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/08623195304705a8d86286491d4ac2639b8402f2",
+      "title": "★本日の【サプライズ決算】速報 (04月21日)4/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ee9bc35f173acc152a22d6337bea33b4d48876ad",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,44 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ラピーヌ、経常赤字拡大。事前予想を上回る4/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/d4a953793883a12473016ecddeeab62cc1640b9e",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (04月20日)4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/09b81006bb41e32133e581df40570faba8e118be",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヤマザワ、今期経常は35％減益へ4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/88a7215105cffd44060433f54a50c6677d1617b5",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヤマザワ、経常黒字転換。事前予想を上回る4/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/2a81721173abcfc37ed2e754b76dc7372b46d369",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日進工具、前期経常を一転13％増益に上方修正4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7ce68bb1c6cd332c3d650b612e54efc1930e63ca",
+      "title": "【決算速報】エレコム、前期配当を5円増額修正4/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/796ba9e82f1aaa2f0dd513bfb0f67b61e9c36051",
       "type": "up",
       "code": "",
       "pub": "",
@@ -63,17 +27,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】チエル、前期経常を16％上方修正・最高益予想を上乗せ4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2da3fca91c6183c8990c54ba46834d386b2ce668",
-      "type": "up",
+      "title": "【決算速報】エレコム、26年03月年間1株配当57円。4/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/388281a96276f98b68a35c2b445df7e97d7cced5",
+      "type": "div",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ミラースＲ、今期経常は2％減益へ4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d023f83bb8b4d2996d9b59db8cab580b34bcee4f",
+      "title": "【決算速報】セプテニＨＤ、上期配当を無配→9円実施4/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/988fa414ca19f2d14317da4d8ec0c12e4613e935",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】都市ファンド、今期経常は5％減益へ4/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/04e3fa9873964458894a49ab2a91ce4aa5c09c57",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,17 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】宮崎太銀、前期経常を36％上方修正4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7b07e44548033662e6632ccf293aa98228993bec",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東京ボード、前期最終は7.7億円の赤字転落で着地、今期業績は非開示4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/422924d8447c48cc3e88b15d6ae5a1d7d752b42a",
+      "title": "【決算速報】オリックスＦ、今期経常は1％増で3期連続最高益更新へ4/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/da40276070d42afef6d3e022cce23466383885f7",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,17 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アイザワ証Ｇ、非開示だった前期経常は74％減益へ4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0a3e7df95116c96f63e86b851882109053d8bfdd",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】コーテクＨＤ、前期経常を一転11％増益に上方修正・最高益更新へ4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f9ffefb68498582520a21fc8069325c62b9ba0bf",
+      "title": "【決算速報】オービック、今期経常は9％増で15期連続最高益、10円増配へ4/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9400b44ad899aa5aaf4ab81eab90a7debda8dd07",
       "type": "up",
       "code": "",
       "pub": "",
@@ -117,8 +72,53 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アコム、前期経常を13％上方修正、配当も2円増額4/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/81f47d771c0b6f334061dec634d962b51f70dc94",
+      "title": "【決算速報】ブロンコＢ、1-3月期(1Q)経常は88％増益で着地4/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4001708cb8fce9708648ddeed01af390d368d0d4",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】セプテーニＨ、26年12月年間1株配当18円。4/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/9c5b741c02d75be38aae961ba136a375512efd1d",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オービック、経常16.7%増益。アナリスト予想を上回る4/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/ae88abcc1ef09e1d9a59ce891e1c3b8ce5ef7359",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ブロンコビリー、1Q経常1,037百万。アナリスト予想を上回る4/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/d723f4508984c3837f8c410570274f81edb9ec55",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＯＢＣ、経常9.4%増益。アナリスト予想を上回る4/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/2d71df3652749471e1ec1d8e7f56f9cd59db10c8",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＯＢＣ、今期経常は12％増で4期連続最高益、19円増配へ4/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e822af8331b86da93e901ce7c1cb72ba204957b3",
       "type": "up",
       "code": "",
       "pub": "",
