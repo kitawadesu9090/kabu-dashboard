@@ -1,16 +1,16 @@
 {
-  "updated": "2026/04/20 08:55",
-  "date": "2026-04-20",
+  "updated": "2026/04/21 09:03",
+  "date": "2026-04-21",
   "count": {
-    "up": 4,
-    "down": 3,
+    "up": 5,
+    "down": 0,
     "div": 0,
     "earn": 8
   },
   "items": [
     {
-      "title": "今週の決算発表予定 中外薬、ディスコ、キーエンスなど (4月20日～24日)4/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8cc7e2146b2e3725ba287e344a6d65f98772c69a",
+      "title": "【決算速報】ラピーヌ、今期最終は赤字縮小へ4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/08623195304705a8d86286491d4ac2639b8402f2",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スターシーズ、今期経常は5.1倍増で20期ぶり最高益更新へ4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c27d36af1ea1a367b23acfd0ebae5cc19148401e",
+      "title": "【決算速報】ラピーヌ、経常赤字拡大。事前予想を上回る4/20アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/d4a953793883a12473016ecddeeab62cc1640b9e",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,8 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スターシーズ、経常黒字転換。事前予想を下回る4/17アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/bf71c61649879ec9e7e1e6c80fc31cd9f6f4d358",
+      "title": "★本日の【サプライズ決算】速報 (04月20日)4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/09b81006bb41e32133e581df40570faba8e118be",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,17 +36,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アーキテクツ、今期最終は3800万円の黒字浮上4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/243015f826f61e88a321dc346912616d07aaf1d9",
+      "title": "【決算速報】ヤマザワ、今期経常は35％減益へ4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/88a7215105cffd44060433f54a50c6677d1617b5",
       "type": "earn",
-      "code": "3800",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】Ｆインタ、今期経常を16％上方修正、配当も2円増額（訂正）4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4e3d8198ea944882749652460f0f1d4bdca0d65f",
+      "title": "【決算速報】ヤマザワ、経常黒字転換。事前予想を上回る4/20アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/2a81721173abcfc37ed2e754b76dc7372b46d369",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日進工具、前期経常を一転13％増益に上方修正4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7ce68bb1c6cd332c3d650b612e54efc1930e63ca",
       "type": "up",
       "code": "",
       "pub": "",
@@ -54,44 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (04月17日)4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/cf536ebf6ddf6064defe54cd0783c46c200fa439",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ハチバン、前期経常を37％下方修正4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/cb9714f4d5778a1d97be3e19a1790981d4030848",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】岩井コスモ、非開示だった前期経常は48％増で3期連続最高益更新へ4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f97052e9198e370b62febc4514a6206392d78785",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "来週の決算発表予定 中外薬、ディスコ、キーエンスなど (4月20日～24日)4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/86f0a645c8966b2b2ee5e348e17b6ea5f6948f54",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】安永、前期経常を26％上方修正、配当も9円増額4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/be33609d4d98278d7fca10c39e8f3be6e181787b",
+      "title": "【決算速報】チエル、前期経常を16％上方修正・最高益予想を上乗せ4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2da3fca91c6183c8990c54ba46834d386b2ce668",
       "type": "up",
       "code": "",
       "pub": "",
@@ -99,26 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】横田製、前期経常を一転1％増益に上方修正・最高益、配当も5円増額4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2a7c3e24d4e8894b8f2cd5609faac667baa9c182",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】プリマ、前期経常を12％下方修正4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8ca3940069a98f1b20b7a80058655685fcc0b00a",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】今村証券、非開示だった前期経常は44％増益へ4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/263e92c3a521c725fc6d6f3d38d7b9167519b733",
+      "title": "【決算速報】ミラースＲ、今期経常は2％減益へ4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d023f83bb8b4d2996d9b59db8cab580b34bcee4f",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -126,8 +81,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ゲンダイ、今期経常は18％増益、1円増配へ4/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4d19c33b0b7ee4cd379d3a93c28c991b63833197",
+      "title": "【決算速報】宮崎太銀、前期経常を36％上方修正4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7b07e44548033662e6632ccf293aa98228993bec",
       "type": "up",
       "code": "",
       "pub": "",
@@ -135,13 +90,40 @@
       "source": "yahoo"
     },
     {
-      "title": "「1日10時間労働or給料減額」社労士が語る《週休3日》普及のカギ(東洋経済オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/26760c6eae205cbb5d450c4e609b18f9a9e900c5?source=rss",
-      "type": "down",
+      "title": "【決算速報】東京ボード、前期最終は7.7億円の赤字転落で着地、今期業績は非開示4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/422924d8447c48cc3e88b15d6ae5a1d7d752b42a",
+      "type": "earn",
       "code": "",
-      "pub": "Sun, 19 Apr 2026 23:00:43 GMT",
-      "desc": "　近年、ニュースなどで「週休3日制」という言葉を目にする機会が急激に増えました。東京都が2025年度から都職員を対象に導入し、千葉県や大阪府などの自治体でも既に実施されているほか、一般職員の国家公務員",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アイザワ証Ｇ、非開示だった前期経常は74％減益へ4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0a3e7df95116c96f63e86b851882109053d8bfdd",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】コーテクＨＤ、前期経常を一転11％増益に上方修正・最高益更新へ4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f9ffefb68498582520a21fc8069325c62b9ba0bf",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アコム、前期経常を13％上方修正、配当も2円増額4/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/81f47d771c0b6f334061dec634d962b51f70dc94",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     }
   ],
   "schedule": []
