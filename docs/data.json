@@ -1,16 +1,16 @@
 {
-  "updated": "2026/04/22 08:53",
-  "date": "2026-04-22",
+  "updated": "2026/04/23 09:11",
+  "date": "2026-04-23",
   "count": {
-    "up": 3,
-    "down": 0,
-    "div": 3,
-    "earn": 7
+    "up": 7,
+    "down": 4,
+    "div": 0,
+    "earn": 8
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (04月21日)4/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ee9bc35f173acc152a22d6337bea33b4d48876ad",
+      "title": "★本日の【サプライズ決算】速報 (04月22日)4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/93b999728eba1182466dbe8835e7de290bb54eab",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】エレコム、前期配当を5円増額修正4/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/796ba9e82f1aaa2f0dd513bfb0f67b61e9c36051",
+      "title": "【決算速報】エスユーエス、上期経常を一転6％増益に上方修正4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ce2b3bb2d4404d03c311d82db9b05005acd71ec1",
       "type": "up",
       "code": "",
       "pub": "",
@@ -27,44 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】エレコム、26年03月年間1株配当57円。4/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/388281a96276f98b68a35c2b445df7e97d7cced5",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】セプテニＨＤ、上期配当を無配→9円実施4/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/988fa414ca19f2d14317da4d8ec0c12e4613e935",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】都市ファンド、今期経常は5％減益へ4/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/04e3fa9873964458894a49ab2a91ce4aa5c09c57",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】オリックスＦ、今期経常は1％増で3期連続最高益更新へ4/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/da40276070d42afef6d3e022cce23466383885f7",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】オービック、今期経常は9％増で15期連続最高益、10円増配へ4/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9400b44ad899aa5aaf4ab81eab90a7debda8dd07",
+      "title": "【決算速報】ディスコ、前期経常は9％増で上振れ着地・6期連続最高益、今期業績は非開示、前期配当を68円増額4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/91c1ceac5a03bb058b53496d2b1a51cbb948f110",
       "type": "up",
       "code": "",
       "pub": "",
@@ -72,58 +36,148 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ブロンコＢ、1-3月期(1Q)経常は88％増益で着地4/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4001708cb8fce9708648ddeed01af390d368d0d4",
-      "type": "earn",
+      "title": "【決算速報】キムラタン、前期経常を一転赤字に下方修正4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/09d5cea24219525cc623ab64b7345e3c8eba58a3",
+      "type": "down",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】セプテーニＨ、26年12月年間1株配当18円。4/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/9c5b741c02d75be38aae961ba136a375512efd1d",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】オービック、経常16.7%増益。アナリスト予想を上回る4/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/ae88abcc1ef09e1d9a59ce891e1c3b8ce5ef7359",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ブロンコビリー、1Q経常1,037百万。アナリスト予想を上回る4/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/d723f4508984c3837f8c410570274f81edb9ec55",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＯＢＣ、経常9.4%増益。アナリスト予想を上回る4/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/2d71df3652749471e1ec1d8e7f56f9cd59db10c8",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＯＢＣ、今期経常は12％増で4期連続最高益、19円増配へ4/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e822af8331b86da93e901ce7c1cb72ba204957b3",
+      "title": "【決算速報】ＯＢシステム、今期経常は24％増で2期連続最高益、前期配当を5円増額・今期は20円増配へ4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e81cb89cf5956f51ab2a3d38f58943edecdbf318",
       "type": "up",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オービーシステム、経常19.1%増益。事前予想を下回る4/22アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7c4a52f293e06ee8bc05a24a7aabd6094a81c3f3",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ディスコ、経常9.5%増益。アナリスト予想を上回る4/22アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7043ba977cad46add2987083cca85335930a727e",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】阪神燃、前期経常を27％上方修正、配当も16円増額4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/fd7af4c6831b9af2f9e0f22ede1aa7751c08af32",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＧＭＯ－ＦＨ、今期配当を12.68円増額修正4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/351f7f9ce5fc685bb87782757db423ee5c435149",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイドー、前期営業を30倍上方修正4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/be3fa7b2f94a0e7570f57a87da4e0c7c2af24c59",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】森トラストＲ、今期経常は1％減益へ4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0691196814de2a3b7de90519e3d5ad30e93bd06a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】科研薬、前期経常を一転赤字に下方修正4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/16ad165b9a2b6ea01d0b3bed1c3a67e2830aede4",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】神東塗、前期最終を一転赤字に下方修正4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7d240cbbe337d4d17bd79d03412c7a09e98c1824",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＴＯＲＩＣＯ、前期最終を赤字拡大に下方修正4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a31b7842a0fadac565cab39feba8b906b8a70077",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】正興電、1-3月期(1Q)経常は25％増益で着地4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a898f40de6d5362d24b69f315d5fe2d810efd4b2",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本興業、前期経常を21％上方修正4/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/536129840d5af2e2ed9aa5aa1f08974075a9df8f",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "テスラ、第1四半期決算で市場予想を上回る──ロボティクス・AIへの事業転換進む(Forbes JAPAN)",
+      "link": "https://news.yahoo.co.jp/articles/d1fc4128783bb8f3461707c06880108893a4f557?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Wed, 22 Apr 2026 23:00:00 GMT",
+      "desc": "テスラは2026年最初の決算報告でウォール街の予想を上回った。中核の自動車事業が足元で減速する一方、同社は自動運転タクシーやヒューマノイドロボット、AIインフラへと重点を移している。\n\nテスラは第1四",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "トランプ氏のSNS、トップ交代　利用者限定、業績は低迷(共同通信)",
+      "link": "https://news.yahoo.co.jp/articles/d0907b2f353351aca15b7cda29abf6cebde9d658?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Wed, 22 Apr 2026 22:52:49 GMT",
+      "desc": "　【ラスベガス共同】トランプ米大統領が創設した交流サイト（SNS）「トゥルース・ソーシャル」を運営するトランプ・メディア・アンド・テクノロジー・グループ（TMTG）は22日までに、トップ交代を発表した",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "トランプSNSトップ交代、業績低迷(共同通信)",
+      "link": "https://news.yahoo.co.jp/articles/efd457f5213332ed6e16355b1832a697eec9c4c6?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Wed, 22 Apr 2026 22:48:15 GMT",
+      "desc": "　【ラスベガス共同】トランプ米大統領が創設したSNS「トゥルース・ソーシャル」を運営するトランプ・メディア・アンド・テクノロジー・グループは22日までに、トップ交代を発表した。現職退任の理由は明らかに",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
