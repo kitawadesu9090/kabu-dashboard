@@ -1,25 +1,16 @@
 {
-  "updated": "2026/04/23 09:11",
-  "date": "2026-04-23",
+  "updated": "2026/04/24 09:09",
+  "date": "2026-04-24",
   "count": {
-    "up": 7,
-    "down": 4,
+    "up": 11,
+    "down": 0,
     "div": 0,
-    "earn": 8
+    "earn": 7
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (04月22日)4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/93b999728eba1182466dbe8835e7de290bb54eab",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】エスユーエス、上期経常を一転6％増益に上方修正4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ce2b3bb2d4404d03c311d82db9b05005acd71ec1",
+      "title": "【決算速報】くすりの窓口、前期経常を11％上方修正・最高益予想を上乗せ、配当も2円増額9:00株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b3acc603dc0b90eb3c771207fd73932ee504f846",
       "type": "up",
       "code": "",
       "pub": "",
@@ -27,8 +18,35 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ディスコ、前期経常は9％増で上振れ着地・6期連続最高益、今期業績は非開示、前期配当を68円増額4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/91c1ceac5a03bb058b53496d2b1a51cbb948f110",
+      "title": "【決算速報】ルネサス、1-3月期(1Q)最終は2.6倍増益で着地9:00株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a258bf63556b2c144d87d0e339b574152074591e",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ルネサスエレ、1Q税引前84,518百万。アナリスト予想を下回る9:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/bdea2c9264f28bcd142fccc3937a40ab0097a3c2",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【イチオシ決算】 稀元素、東京エネシス、月島ＨＤ (4月23日)4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9f3894a9cec2f053f5f06487fbe4882ff96bb4b0",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】稀元素、前期経常を35％上方修正4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0ad84be5b39e4ccd64488776deca2d75e69046d1",
       "type": "up",
       "code": "",
       "pub": "",
@@ -36,17 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】キムラタン、前期経常を一転赤字に下方修正4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/09d5cea24219525cc623ab64b7345e3c8eba58a3",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＯＢシステム、今期経常は24％増で2期連続最高益、前期配当を5円増額・今期は20円増配へ4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e81cb89cf5956f51ab2a3d38f58943edecdbf318",
+      "title": "【決算速報】ケイアイ不、前期配当を5円増額修正4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0c80f64287ccab1ecb48cd9d34fe715a765b18d5",
       "type": "up",
       "code": "",
       "pub": "",
@@ -54,26 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】オービーシステム、経常19.1%増益。事前予想を下回る4/22アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7c4a52f293e06ee8bc05a24a7aabd6094a81c3f3",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ディスコ、経常9.5%増益。アナリスト予想を上回る4/22アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7043ba977cad46add2987083cca85335930a727e",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】阪神燃、前期経常を27％上方修正、配当も16円増額4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/fd7af4c6831b9af2f9e0f22ede1aa7751c08af32",
+      "title": "【決算速報】月島ＨＤ、前期経常を5％上方修正・最高益予想を上乗せ、配当も3円増額4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4e5194ae2a5added100c1910f96fdd77887a4b90",
       "type": "up",
       "code": "",
       "pub": "",
@@ -81,8 +72,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＧＭＯ－ＦＨ、今期配当を12.68円増額修正4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/351f7f9ce5fc685bb87782757db423ee5c435149",
+      "title": "★本日の【サプライズ決算】速報 (04月23日)4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/66a40ca3affa6408a428026f3cbd78f8ba9b1cb5",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】丸八証券、非開示だった前期経常は68％増益へ4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d9f7d4d654ce89a156df236120e61de252c215dd",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タングス、前期経常を18％上方修正4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3bd60f0a7e5f94507e4c3490a89490dd4e4f511b",
       "type": "up",
       "code": "",
       "pub": "",
@@ -90,8 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ダイドー、前期営業を30倍上方修正4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/be3fa7b2f94a0e7570f57a87da4e0c7c2af24c59",
+      "title": "【決算速報】旭精機、前期経常を一転黒字に上方修正4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d3e44b0bfa405334cafeca6646f5b5dbab2f9585",
       "type": "up",
       "code": "",
       "pub": "",
@@ -99,53 +108,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】森トラストＲ、今期経常は1％減益へ4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0691196814de2a3b7de90519e3d5ad30e93bd06a",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】科研薬、前期経常を一転赤字に下方修正4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/16ad165b9a2b6ea01d0b3bed1c3a67e2830aede4",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】神東塗、前期最終を一転赤字に下方修正4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7d240cbbe337d4d17bd79d03412c7a09e98c1824",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＴＯＲＩＣＯ、前期最終を赤字拡大に下方修正4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a31b7842a0fadac565cab39feba8b906b8a70077",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】正興電、1-3月期(1Q)経常は25％増益で着地4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a898f40de6d5362d24b69f315d5fe2d810efd4b2",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日本興業、前期経常を21％上方修正4/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/536129840d5af2e2ed9aa5aa1f08974075a9df8f",
+      "title": "【決算速報】四電工、前期経常を一転9％増益に上方修正・最高益、配当も5円増額4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8a29eacd69eeeee873dee6f3c2bb13d58ff7f567",
       "type": "up",
       "code": "",
       "pub": "",
@@ -153,30 +117,57 @@
       "source": "yahoo"
     },
     {
-      "title": "テスラ、第1四半期決算で市場予想を上回る──ロボティクス・AIへの事業転換進む(Forbes JAPAN)",
-      "link": "https://news.yahoo.co.jp/articles/d1fc4128783bb8f3461707c06880108893a4f557?source=rss",
-      "type": "earn",
+      "title": "【決算速報】バルテスＨＤ、前期経常を39％上方修正4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3977438c40ca090dfff15ab1e9013a9591ca4d69",
+      "type": "up",
       "code": "",
-      "pub": "Wed, 22 Apr 2026 23:00:00 GMT",
-      "desc": "テスラは2026年最初の決算報告でウォール街の予想を上回った。中核の自動車事業が足元で減速する一方、同社は自動運転タクシーやヒューマノイドロボット、AIインフラへと重点を移している。\n\nテスラは第1四",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     },
     {
-      "title": "トランプ氏のSNS、トップ交代　利用者限定、業績は低迷(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/d0907b2f353351aca15b7cda29abf6cebde9d658?source=rss",
-      "type": "earn",
+      "title": "【決算速報】中部飼、前期経常を27％上方修正・6期ぶり最高益、配当も5円増額4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/219a424db937fa181b20643e4897d6fd043a447f",
+      "type": "up",
       "code": "",
-      "pub": "Wed, 22 Apr 2026 22:52:49 GMT",
-      "desc": "　【ラスベガス共同】トランプ米大統領が創設した交流サイト（SNS）「トゥルース・ソーシャル」を運営するトランプ・メディア・アンド・テクノロジー・グループ（TMTG）は22日までに、トップ交代を発表した",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     },
     {
-      "title": "トランプSNSトップ交代、業績低迷(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/efd457f5213332ed6e16355b1832a697eec9c4c6?source=rss",
+      "title": "【決算速報】東京エネシス、前期経常を34％上方修正、配当も6円増額4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c87f56c703810f42d2418624a0e1f5073c461152",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "明日の決算発表予定　ルネサス、ファナックなど37社 (4月23日)4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/704f08913c456fe0cc59ee83a4aca5d37f7b206a",
       "type": "earn",
       "code": "",
-      "pub": "Wed, 22 Apr 2026 22:48:15 GMT",
-      "desc": "　【ラスベガス共同】トランプ米大統領が創設したSNS「トゥルース・ソーシャル」を運営するトランプ・メディア・アンド・テクノロジー・グループは22日までに、トップ交代を発表した。現職退任の理由は明らかに",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＡＩｉｎｓ、前期経常を一転20％増益に上方修正4/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9a5b119c221e9ebfa3e31e1cde25487f80ca38ab",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "米航空各社の売上高が過去最高を記録、純利益は大幅減　燃料費高騰で(Forbes JAPAN)",
+      "link": "https://news.yahoo.co.jp/articles/d1067c1b42d770ceab110bcbc7aa88a1b31507fa?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Thu, 23 Apr 2026 23:30:00 GMT",
+      "desc": "米航空各社の第1四半期決算報告によると、記録的な売上高を計上した一方で、ジェット燃料価格の高騰により、支出が大幅に膨らんでいる実態が明らかになった。\n\nアメリカン航空、デルタ航空、ユナイテッド航空、サ",
       "source": "yahoo_news"
     }
   ],
