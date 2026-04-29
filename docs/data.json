@@ -1,15 +1,69 @@
 {
-  "updated": "2026/04/28 16:39",
-  "date": "2026-04-28",
+  "updated": "2026/04/29 15:41",
+  "date": "2026-04-29",
   "count": {
-    "up": 8,
-    "down": 0,
-    "div": 0,
-    "earn": 15
+    "up": 7,
+    "down": 1,
+    "div": 1,
+    "earn": 12
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (04月28日)16:37株探ニュース",
+      "title": "★本日の【イチオシ決算】 北陸電工、三菱電、ＴＤＫ (4月28日)4/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ddfe85898f8f2b6388f2999a87c0ca8ff098851f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】続報 (04月28日)4/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d826958a7266bf8c40fb6e61cdd2f116187fe725",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】内外テック、前期経常を78％上方修正、配当も5円増額4/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/453a365e52828aa3816847c9beceecf0f10d0e91",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＳＨＩＮＰＯ、今期経常を一転33％減益に下方修正、今期配当を見送り4/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a1f511ac55ef90b6077400c1c9b081b5c2d01fa6",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】中央製、前期経常を4.7倍上方修正、配当も15円増額4/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/372de9b7b2e1dbf6c6c3dfc53f7313da5131ca7e",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】シンポ、3Q累計経常563百万。4/28アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/49b1c21dbbe6864f67ab61c3de5a4d285c4d63d2",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (04月28日)4/28株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/8449600c39fac177e3f0625d9b38834d3ec8cf82",
       "type": "earn",
       "code": "",
@@ -18,7 +72,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本興業、今期経常は15％減益へ16:32株探ニュース",
+      "title": "【決算速報】日本興業、今期経常は15％減益へ4/28株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/f465deeb04aa69acc83b5ffb21a47becf3762659",
       "type": "earn",
       "code": "",
@@ -27,7 +81,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】南海辰村、今期経常は16％減益、前期配当を2円増額・今期も8円継続へ16:31株探ニュース",
+      "title": "【決算速報】南海辰村、今期経常は16％減益、前期配当を2円増額・今期も8円継続へ4/28株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/fcfe4f4b1b2f4e980cfb82662f1591dbe28dc826",
       "type": "up",
       "code": "",
@@ -36,7 +90,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＦＰＧ、上期経常が25％減益で着地・1-3月期も28％減益16:31株探ニュース",
+      "title": "【決算速報】ＦＰＧ、上期経常が25％減益で着地・1-3月期も28％減益4/28株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/1c421fe734a1f7afb428efbb8ae9258a20499d56",
       "type": "earn",
       "code": "",
@@ -45,7 +99,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日精化、今期経常は8％増で2期連続最高益、前期配当を4円増額・今期は6円増配へ16:31株探ニュース",
+      "title": "【決算速報】日精化、今期経常は8％増で2期連続最高益、前期配当を4円増額・今期は6円増配へ4/28株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/a878259fa06bbccecb1b65658d7e8451d7550ccb",
       "type": "up",
       "code": "",
@@ -54,7 +108,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】相鉄ＨＤ、今期経常は8％減益、前期配当を5円増額・今期も70円継続へ16:31株探ニュース",
+      "title": "【決算速報】相鉄ＨＤ、今期経常は8％減益、前期配当を5円増額・今期も70円継続へ4/28株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/98d5f8c8f0e27fa93a320e7a28c7b704e6fad1e3",
       "type": "up",
       "code": "",
@@ -63,7 +117,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大光銀、前期経常を1％上方修正、配当も19円増額16:31株探ニュース",
+      "title": "【決算速報】大光銀、前期経常を1％上方修正、配当も19円増額4/28株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/d3befc4622f21f4e6c893675eae4bf09bee54b31",
       "type": "up",
       "code": "",
@@ -72,7 +126,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本精化、経常6.9%増益。アナリスト予想とほぼ同水準16:30アイフィス株予報",
+      "title": "【決算速報】日本精化、経常6.9%増益。アナリスト予想とほぼ同水準4/28アイフィス株予報",
       "link": "https://finance.yahoo.co.jp/news/detail/b206ffd286272b73c3a275f8f3d4631cd7808945",
       "type": "earn",
       "code": "",
@@ -81,7 +135,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】相鉄Ｈ、経常2.5%増益。アナリスト予想を下回る16:30アイフィス株予報",
+      "title": "【決算速報】相鉄Ｈ、経常2.5%増益。アナリスト予想を下回る4/28アイフィス株予報",
       "link": "https://finance.yahoo.co.jp/news/detail/a26fdc29630023ddcfaecdf9a3c9b2ee6c0f0b8c",
       "type": "earn",
       "code": "",
@@ -90,7 +144,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】南海辰村建設、経常19.6%増益。事前予想とほぼ同水準16:30アイフィス株予報",
+      "title": "【決算速報】南海辰村建設、経常19.6%増益。事前予想とほぼ同水準4/28アイフィス株予報",
       "link": "https://finance.yahoo.co.jp/news/detail/41b0740ddddc811b9564c465a2f9045baeb32690",
       "type": "earn",
       "code": "",
@@ -99,7 +153,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本興業、経常28.4%増益。事前予想とほぼ同水準16:30アイフィス株予報",
+      "title": "【決算速報】日本興業、経常28.4%増益。事前予想とほぼ同水準4/28アイフィス株予報",
       "link": "https://finance.yahoo.co.jp/news/detail/59f3c3c70c99952fe4910008a0bd1e8d19855f2d",
       "type": "earn",
       "code": "",
@@ -108,7 +162,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＦＰＧ、中間経常11,885百万。16:30アイフィス株予報",
+      "title": "【決算速報】ＦＰＧ、中間経常11,885百万。4/28アイフィス株予報",
       "link": "https://finance.yahoo.co.jp/news/detail/711fc156936326aeb139b0d37473aa05f0ff8d24",
       "type": "earn",
       "code": "",
@@ -117,7 +171,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】神栄、前期経常を1％上方修正16:15株探ニュース",
+      "title": "【決算速報】神栄、前期経常を1％上方修正4/28株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/8a10eb7f1ffba45b77790fe9427daad839605abf",
       "type": "up",
       "code": "",
@@ -126,7 +180,7 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】コクヨ、1-3月期(1Q)経常は11％増益で着地16:01株探ニュース",
+      "title": "【決算速報】コクヨ、1-3月期(1Q)経常は11％増益で着地4/28株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/f3a8920d099deb5de6f99a0abb62d62d5891c5e3",
       "type": "earn",
       "code": "",
@@ -135,84 +189,12 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】グランディ、前期経常を24％上方修正16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0d5d3d43af58e79d9fdd3a0ec3e817fec875016f",
-      "type": "up",
+      "title": "【新NISA】月5万円を「JT・銀行株」など“高配当株”に投資すると、10年後「毎月のお小遣い」は、いくら配当からもらえる？ 利回り「3％・4％・5％」で試算(ファイナンシャルフィールド)",
+      "link": "https://news.yahoo.co.jp/articles/b28efee75b9785ca0cd89157385d4f7752c9ec76?source=rss",
+      "type": "div",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東洋証券、前期経常は3.1倍増益で着地、今期業績は非開示16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2e48ad1759c0677ad56d6540e568c5814084159c",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＯＬＣ、今期経常は1％減益、前期配当を1円増額・今期は1円増配へ16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9ff537283df797093a5081a44a18a8ed19251f49",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】中部電、前期経常は5％増益で着地、今期業績は非開示16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a4c6e426d69b695af8bdd418507aad50583bdfc7",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】西部ガスＨＤ、今期経常は5％減益へ16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/50488566c60ac4ebb50fa3d83e7cde77f1def88f",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｖコマース、1-3月期(1Q)経常は赤字転落で着地16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/755415fc4035729b2d6d33423b1fd66ced210112",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "中部電、中東情勢悪化で業績見通し未定に(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/4d8f064285e81daa929baecda566eadb9a7721de?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Tue, 28 Apr 2026 07:25:41 GMT",
-      "desc": "　中部電力は28日、2027年3月期の業績見通しを「未定」として発表した。中東情勢悪化の影響で、燃料価格などの不確実性が高まっており、合理的な想定が困難となったため。",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "三菱電機の26年3月期の純利益、25％増(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/af81254b494b1f537fa777a66537327e3ef98bc5?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Tue, 28 Apr 2026 07:02:06 GMT",
-      "desc": "　三菱電機が28日に発表した2026年3月期の連結純利益は、前期比25.8％増の4077億円となった。売上高は6.8％増の5兆8947億円で過去最高。",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "日銀総裁「物価上振れリスク大きい」(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/ff5ed86b72090d56dd7b80048ba9ee817a9f435f?source=rss",
-      "type": "up",
-      "code": "",
-      "pub": "Tue, 28 Apr 2026 06:51:37 GMT",
-      "desc": "　日銀の植田総裁は会見で中東情勢の長期化による物価影響について「上振れリスクの方が大きいと考えている」と述べた。",
+      "pub": "Wed, 29 Apr 2026 06:20:02 GMT",
+      "desc": "新NISAを使ってJTや銀行株に投資している同僚を見て、自分も気になり始めた人もいるのではないでしょうか。高配当株投資は、株を保有しているだけで定期的に現金が振り込まれる「インカムゲイン型」の投資スタ",
       "source": "yahoo_news"
     }
   ],
