@@ -1,79 +1,16 @@
 {
-  "updated": "2026/04/30 16:18",
-  "date": "2026-04-30",
+  "updated": "2026/05/01 16:18",
+  "date": "2026-05-01",
   "count": {
-    "up": 14,
+    "up": 7,
     "down": 1,
     "div": 0,
-    "earn": 7
+    "earn": 11
   },
   "items": [
     {
-      "title": "【決算速報】有沢製、今期経常は7％減益、前期配当増額も今期減配16:10株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7c016a1f3bac72cc79f2bb4276689b47f8062055",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｇセキュリ、今期経常は34％増で9期連続最高益、前期配当を1.87円増額・今期は14.51円増配へ16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7a6a6e24137a9009c8a86b40ce15c385ce07960c",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】三井住友トラ、前期最終を7％上方修正・最高益予想を上乗せ、配当も15円増額16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2a208303a43bacb2ca3c87dd5ef2881c56c60b81",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ナブテスコ、上期最終を37％上方修正、通期も増額16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/3263a82186233e9c620ce548fdce26c9316fca1c",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】鶴弥、前期経常を21％下方修正、配当は4円増額16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2f07b81a0c77a82fafbb6ecc7b2acf996e90aa4f",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】洋缶ＨＤ、前期経常を21％上方修正16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f73b654b32a502b288cf76d29bebad3ccfc2f537",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】中山福、前期経常を8％上方修正16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2f0e6962645ec391d7a7694ecc20c0c354d4f953",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＨＳＨＤ、前期経常は17％増益で着地、今期業績は非開示16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/52793087aae05c405c6b3703f6b959eb12f1dd4f",
+      "title": "来週の決算発表予定 ＪＴ、トヨタ、任天堂など (5月7日～8日)16:10株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/47ae6a970a9d9a1a6def17dc99cfa4596f550c16",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,8 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】植木組、前期経常を21％上方修正・最高益予想を上乗せ、配当も20円増額（訂正）16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c740424b2b19cc5046ada19bac52cd8b818f7d4c",
+      "title": "【決算速報】マルサンアイ、今期経常を一転13％増益に上方修正16:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/be89894d8e125f05dcd988f7bdaf96352bfffcda",
       "type": "up",
       "code": "",
       "pub": "",
@@ -90,8 +27,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ウェルネット、今期経常を一転13％減益に下方修正16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/37f2a03942dc00992a790f22701605b1fbe2a5e3",
+      "title": "【決算速報】ガリレイ、今期経常は微増で6期連続最高益、前期配当を1円増額・今期は7円増配へ16:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7ba17250acdae679704c373271046701606b6252",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ハチバン、今期経常は14％増益へ16:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/98a24d727cec55274607ec26c17ea427d588c735",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ゼビオＨＤ、前期最終を一転赤字に下方修正16:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7c5d0922f7ee9c9e4a30b1e04bde98d0aabcdc41",
       "type": "down",
       "code": "",
       "pub": "",
@@ -99,62 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】センチュ２１、今期経常は2％増益、前期配当を3円増額・今期も53円継続へ16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/dcc8ce61c4aeb4d5799d1e2f97f1f94cc818fd2e",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】百五銀、前期経常を28％上方修正・最高益予想を上乗せ16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a1d49679798b9dca95bd6d830bb4062b8128a21a",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東エレク、前期経常は11％減益で着地、今期業績は非開示、前期配当を27円増額16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/90dac9ba44b24b36844833f4fea2f276bd6279b1",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＸＮＥＴ、今期経常は31％減益、22.5円増配へ16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bf4a6365e749abaa4ded9105fa0d806b3972aa59",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】遠藤照明、今期経常は4％増益、前期配当を4円増額・今期も88円継続へ16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c7049f1c7f359d8ed4bc1d7a226be6633c20a0f5",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】キャリアデザ、上期経常は12％増益で着地、今期配当を5円増額修正16:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2d6737ff14590e328c551dcf871d2b48a6109f1d",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】遠藤照明、経常9.7%増益。アナリスト予想を下回る16:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/366f00ff78e503f427334066cb1ccf3f494d0ac1",
+      "title": "【決算速報】ハチバン、経常55.3%減益。事前予想と同水準16:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/56861b4aefec969e6d85de3b2c6b7592d0cede3b",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -162,8 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＨＳＨ、経常17.1%増益。16:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/c911000e5968738fa942b53f8cd0580c02806f52",
+      "title": "【決算速報】マルサンアイ、中間経常591百万。事前予想を上回る16:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/90709463628f7df80c4be087549088e056bbcc79",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -171,8 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナブテスコ、1Q税引前9,613百万。アナリスト予想を上回る16:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/a4a4f8d2c89a3f04ea0a609de867658d4a27f24c",
+      "title": "【決算速報】ガリレイ、経常4.5%増益。アナリスト予想とほぼ同水準16:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/66efa5a2940a2014e6dd9a605d1badec294a91c6",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -180,8 +81,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】有沢製作所、経常16.9%増益。アナリスト予想を上回る16:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/64ca487e5cb016acaaf4204af3cc628e709915fe",
+      "title": "【決算速報】ＪＶＣケンウ、今期最終は11％減益、2円増配へ15:46株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c56059f5a840f2043f1c35a78d66bfdb61f41d12",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＪＶＣケンウッド、税引前7.8%減益。アナリスト予想とほぼ同水準15:45アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/9178c1eeac568571f405394280ab6e45bacd769c",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -189,21 +99,84 @@
       "source": "yahoo"
     },
     {
-      "title": "「クレオズボーテ」がリブランディング　売上高25億円へ(WWDJAPAN.com)",
-      "link": "https://news.yahoo.co.jp/articles/979b586c234295f2d41507a079897f3fdb30e3b1?source=rss",
+      "title": "【決算速報】アイカ、今期経常は6％増で6期連続最高益、2円増配へ15:42株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e0a8e40dc0d28a23c7e6ad31373906ddb59c80cf",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "明日の決算発表予定　味の素、住友林など51社 (5月1日)15:41株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/aedaa8cc934a6e75ae4aab10f19da1cf0f2ee5ab",
       "type": "earn",
       "code": "",
-      "pub": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "desc": "ヘアケアブランド「クレオズボーテ（CLEO’S BEAUTÉ）」がリブランディングした。クレオパトラを着想源とするブランドの世界観を、新たなステートメントやブランドムービーで前面に打ち出し、主力のシャ",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アイカ工業、経常5.1%増益。アナリスト予想を下回る15:40アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/294e2a9e0b9bcfae8118977266802d48bc3363d4",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】クラシル、今期経常は2％増で7期連続最高益更新へ15:37株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/818d88a1d056ba7b1b1e5d331612beb837c777e8",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＡＲＥＨＤ、今期最終は19％増で6期ぶり最高益、10円増配へ15:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/eb3ff175fd28eb6fe0bdd47bda3a7edbbfbb48cf",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】スガイ、前期経常を34％上方修正、配当も20円増額15:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b27739937a196a55804c1be04765a15a21f0e146",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＤＭＧ森精機、今期最終を43％上方修正15:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7081ca312696f040c7c7738368dd2480dbffd22b",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【大化け期待株ランキング】宇宙ベンチャー・Synspective“3期後の売上高成長率”が115％超えでダントツ　「テンバガーを達成してもおかしくない」と投資のプロも熱視線(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/275c781c7b4f67ec271563b43f2831694929abc7?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Fri, 01 May 2026 07:15:00 GMT",
+      "desc": "“日経平均6万円時代のその先”を見据え、値上がりが期待できる株を探すにはどうするか。各銘柄の将来性を判断するうえでカギとなるのは「売上高」だ。3期後の売上高伸び率を予測したランキングを参考に、投資のプ",
       "source": "yahoo_news"
     },
     {
-      "title": "JAL、27年3月期純利益20％減1100億円予想　26年3月期はEBIT最高益(Aviation Wire)",
-      "link": "https://news.yahoo.co.jp/articles/167275f2bc0ba61926e4934dd2f320e77d0840d2?source=rss",
+      "title": "ZOZOの26年3月期決算はGMVが8.4％増の6660億円　習志野に200億円を投じた最新の自動物流倉庫も(WWDJAPAN.com)",
+      "link": "https://news.yahoo.co.jp/articles/36ad32ff4c7d5509775507d4049f779ce9316fcc?source=rss",
       "type": "earn",
-      "code": "1100",
-      "pub": "Thu, 30 Apr 2026 06:34:00 GMT",
-      "desc": "　日本航空（JAL/JL、9201）が4月30日に発表した2026年3月期通期連結決算（IFRS）は、純利益が前期（2025年3月期）比28.6％増の1376億400万円だった。売上収益は9.1％増の",
+      "code": "6660",
+      "pub": "Fri, 01 May 2026 06:55:00 GMT",
+      "desc": "「ゾゾタウン（ZOZOTOWN）」を運営するZOZOの2026年3月期通期決算は、商品取扱高（GMV）が前期比8.4%増の6660億円と過去最高を更新した。そのうちその他商品取扱高を除いたベースでは同",
       "source": "yahoo_news"
     }
   ],
