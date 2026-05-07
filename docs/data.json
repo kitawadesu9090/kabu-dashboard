@@ -1,16 +1,16 @@
 {
-  "updated": "2026/05/07 07:41",
-  "date": "2026-05-07",
+  "updated": "2026/05/08 07:54",
+  "date": "2026-05-08",
   "count": {
-    "up": 4,
-    "down": 2,
+    "up": 6,
+    "down": 3,
     "div": 0,
-    "earn": 12
+    "earn": 11
   },
   "items": [
     {
-      "title": "今週の決算発表予定 ＪＴ、トヨタ、任天堂など (5月7日～8日)5/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2127cfbcdbfd05560c30b114d65abb78461e874f",
+      "title": "★本日の【イチオシ決算】 ダイトロン、ユーザーロカ、スクロール (5月7日)5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/863389c400b20a73520594af776dc10a3145a743",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【イチオシ決算】 ＡＲＥＨＤ、ＤＭＧ森精機、エプソン (5月1日)5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4507323f7d66c065b5c518285a4b37cd07019a09",
+      "title": "【決算速報】セキド、今期最終は黒字浮上へ5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1ba4afe51d0bac1dc9697aed45fd9c9fc72e1092",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,8 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】続報 (05月01日)5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bf308949ad7f6adc23b5c1fe5cb741d34a33f860",
+      "title": "【決算速報】セキド、経常赤字幅拡大。事前予想を下回る5/7アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/6d1d06e7fe56805bd9ae8d742ed120596ae72934",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,8 +36,62 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＩＴメディア、今期最終は16％増益、50円減配へ5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a5a3e1dd60aa1e7cfac2d50838c92533a9e1e4f4",
+      "title": "【決算速報】ＯＢＡＲＡＧ、今期経常を一転16％増益に上方修正・11期ぶり最高益更新へ5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3af721723e0a6aa556f086931297da54777c44f4",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】続報 (05月07日)5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b41d9473a3053a9590a18066a16f1d9bb45a19d1",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】世紀東急、今期経常は5％増益、前期配当を1円増額・今期は4円増配へ5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/fb1cc5f64aa6d0c642aa4a8c6e70907e1f017845",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本通信、前期経常は12％増益で着地、今期業績は非開示5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4d82d2267e8ac9bb41cf42e142d786fe81d44322",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】世紀東急工業、経常8.5%増益。事前予想を下回る5/7アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/3006dcce0e4c7f4365b598e6d88c7e284096312d",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本通信、経常11.7%増益。5/7アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/5a73f4699f786a38262ca253c0e1ba345035b8b0",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】インソース、今期経常を5％下方修正5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b3b74dac75fa096ac070e90be76ad9d33ebeb365",
       "type": "down",
       "code": "",
       "pub": "",
@@ -45,8 +99,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】平和紙業、前期経常を25％上方修正5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1b51f0fbde6ebe30e366465725858d77d30cf494",
+      "title": "【決算速報】インソース、中間経常2,972百万。事前予想を下回る5/7アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/e4e9599e1672083f4d24ddf2df1bd50b4619d80f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (05月07日)5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9f18cbf2bc6cc9a5be320d9f589af134e4ad879a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】水道機、前期経常は81％増で上振れ着地・5期ぶり最高益、今期業績は非開示5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c9f01cb25f7b174da31384cb673a04c9e0008214",
       "type": "up",
       "code": "",
       "pub": "",
@@ -54,8 +126,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＩＴメディア、税引前13.7%減益。アナリスト予想を下回る5/1アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/8bc70824ac1b638c4f7a27607dbc95a486273df8",
+      "title": "【決算速報】水道機工、経常80.8%増益。アナリスト予想を上回る5/7アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/5ba1ece46319edb7694e6ff6cd360341116eabc4",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -63,17 +135,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (05月01日)5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1af1a9d7bd9fb9795b63be7565f3efb61c59e377",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】旭情報、今期経常は7％増で3期連続最高益、前期配当を2円増額・今期も34円継続へ5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/717da219a41923b2ebadf7aacb6e5e994655fa0f",
+      "title": "【決算速報】スパークス、前期経常は15％増益で着地、今期業績は非開示、4円増配へ5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cc60bf4fedd832bc221c8d4cc5d73c8b6460600e",
       "type": "up",
       "code": "",
       "pub": "",
@@ -81,53 +144,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】旭情報サービス、経常5.6%増益。事前予想を下回る5/1アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/77f6973b731d389650e7df6ba255961194fdbdd8",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "来週の決算発表予定 ＪＴ、トヨタ、任天堂など (5月7日～8日)5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/47ae6a970a9d9a1a6def17dc99cfa4596f550c16",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】マルサンアイ、今期経常を一転13％増益に上方修正5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/be89894d8e125f05dcd988f7bdaf96352bfffcda",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ガリレイ、今期経常は微増で6期連続最高益、前期配当を1円増額・今期は7円増配へ5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7ba17250acdae679704c373271046701606b6252",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ハチバン、今期経常は14％増益へ5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/98a24d727cec55274607ec26c17ea427d588c735",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ゼビオＨＤ、前期最終を一転赤字に下方修正5/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7c5d0922f7ee9c9e4a30b1e04bde98d0aabcdc41",
+      "title": "【決算速報】ユーラシア、今期経常を一転28％減益に下方修正5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a50db47db1b50e5fde7346d6930a24b3d11520c8",
       "type": "down",
       "code": "",
       "pub": "",
@@ -135,8 +153,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ハチバン、経常55.3%減益。事前予想と同水準5/1アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/56861b4aefec969e6d85de3b2c6b7592d0cede3b",
+      "title": "【決算速報】ＭＵＴＯＨ、前期経常は44％減益で下振れ着地、今期業績は非開示5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/aabd33e0488662f62dd350e96c8298a203cf04fb",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ランシステム、今期経常は23％増益へ5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/81352f213f260e4e6cfb7bd7f50c157ad9fd1a87",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -144,31 +171,22 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】マルサンアイ、中間経常591百万。事前予想を上回る5/1アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/90709463628f7df80c4be087549088e056bbcc79",
-      "type": "earn",
+      "title": "【決算速報】太平製、前期配当を20円増額修正5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/26c2ef1c89a4b7e198d5197136747668a632d68c",
+      "type": "up",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ガリレイ、経常4.5%増益。アナリスト予想とほぼ同水準5/1アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/66efa5a2940a2014e6dd9a605d1badec294a91c6",
-      "type": "earn",
+      "title": "【決算速報】デジアーツ、今期経常は14％増で7期連続最高益、5円増配へ5/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ccf28e765f354476cb5fd7fc18243b7400453395",
+      "type": "up",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
-    },
-    {
-      "title": "米ディズニー7％増収　1～3月期、動画配信好調(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/471af48330fabb508fd4b30e40a11d8679572872?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Wed, 06 May 2026 21:45:35 GMT",
-      "desc": "　【ニューヨーク共同】米娯楽・メディア大手ウォルト・ディズニーが6日発表した2026年1～3月期決算は、主力の動画配信事業とテーマパーク事業が好調で、売上高が前年同期比7％増の251億6800万ドル（",
-      "source": "yahoo_news"
     }
   ],
   "schedule": []
