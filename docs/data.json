@@ -1,52 +1,16 @@
 {
-  "updated": "2026/05/11 07:38",
-  "date": "2026-05-11",
+  "updated": "2026/05/12 07:47",
+  "date": "2026-05-12",
   "count": {
-    "up": 2,
-    "down": 0,
+    "up": 6,
+    "down": 1,
     "div": 1,
-    "earn": 17
+    "earn": 15
   },
   "items": [
     {
-      "title": "今週の決算発表予定 キオクシア、フジクラ、ソフトバンクＧなど (5月11日～15日)5/10株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b38c1e63e851e33761a4f874d3fb77496244e114",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【イチオシ決算】 ＡＫＩＢＡ、コメ兵ＨＤ、山口ＦＧ (5月8日)5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/149c89708ad2272c359b74846ce4056203baefd2",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】続報 (05月08日)5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/54ef6681f749baac1f1b8c979a58bcabbf95e486",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＩＰＳＨＤ、7-3月期(3Q累計)経常が21％増益で着地・1-3月期も10％増益5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9741e20378fcad2779a29860793b1685b3a8c5d7",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】三菱自、前期経常が上振れ着地・今期は1％増益へ5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/950b62db8692516ee8dc41aae88da71cfe33d5b8",
+      "title": "【決算速報】日新商、前期経常は43％減益も上振れ着地、今期業績は非開示5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/275b0996d05c99a06a67e74cc918785b6af959b6",
       "type": "up",
       "code": "",
       "pub": "",
@@ -54,8 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】三菱自動車工業、経常20%減益。アナリスト予想を下回る5/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/ee87a0a060dec68dad17565124ffe1fd983e41ba",
+      "title": "【決算速報】日新商事、経常43%減益。事前予想を上回る5/11アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/77e83c70ccb202adf3bb5cbd82669a1ebfc3e7e2",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -63,8 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＩＰＳＨ、3Q累計経常306百万。5/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/eb841a624bf85c2890035685ac8bc95e904272e2",
+      "title": "★本日の【イチオシ決算】 扶桑化学、オリックス、ＭＳ＆ＡＤ (5月11日)5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/11fc7c6ab4f0e9594bd75f3d77621ae88d7ddc28",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -72,8 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＯＢＡＲＡＧ、上期経常が41％増益で着地・1-3月期も51％増益5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/722c107977c52ff69a68208ea5609a1f9cb59ce6",
+      "title": "★本日の【サプライズ決算】続報 (05月11日)5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/472b8fb516d2d2d9d6cee5589016db6072cb44c3",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,53 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＯＴＳ、前期最終は赤字拡大で着地、今期業績は非開示5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/dccd98dc20b609ab36f6302b7f5d21b3f568aed7",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＫＯＺＯＨＤ、1-3月期(1Q)経常は赤字拡大で着地5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f2faf1469151fb7c68859432a2cda4eb1e995728",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＯＢＡＲＡＧ、中間経常6,178百万。事前予想とほぼ同水準5/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/0dc45cdae7847a10b914d21474dfc86f3b9a74e0",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＫＯＺＯＨ、1Q経常-47百万。5/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/bfff0134b1396e0991155fed7b85ec458e1264e4",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】オンコセラピー、経常赤字拡大。5/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/836909237c91d1fa65c6862681ef91d678ad5e50",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東洋合成、前期経常が上振れ着地・今期は28％増益、10円増配へ5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c0ce3459d1a8b13e54195db21e97f0d003a539a2",
+      "title": "【決算速報】児玉化、前期経常を38％上方修正・最高益予想を上乗せ5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/50e58e002974587b3985e37a2dd2c3fbb861d407",
       "type": "up",
       "code": "",
       "pub": "",
@@ -135,8 +54,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】東洋合成工業、経常10.1%減益。アナリスト予想を上回る5/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/1ebc4ab8ef2349877fa9fb647d763df8038e1f6d",
+      "title": "【決算速報】コスモス、前期経常は55％減益も上振れ着地、今期業績は非開示5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/dd87819ce55e8f027152b6e0a1495801519cda37",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ジョイフル、7-3月期(3Q累計)経常が28％増益で着地・1-3月期も90％増益5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a35fb255cd862efb9eb538f9a5da26a9773d7d87",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -144,8 +72,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナンシン、今期経常は18％増益へ5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/365f7118545db5f1efa5fe2dfbe711b8a9794a3c",
+      "title": "【決算速報】ミネベア、前期最終を39％上方修正・3期ぶり最高益更新へ5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f8390af80b322b1e8b94f9bbbd88409000cc2dcb",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ベリテ、前期経常を25％下方修正5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6d9e5ee4b2ed5ec54bb9e96bda2b4ad8a9000e42",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ジョイフル、3Q累計経常3,871百万。5/11アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/6e0b1728902b61e0e27e732b42a89576a00d1de7",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -153,8 +99,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】重松製、今期経常は9％増益へ5/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0da5bc3240462154a620771b0ccc6ed9d6cb5755",
+      "title": "【決算速報】ナカボテック、今期経常は3％減益、前期配当増額も今期減配5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/57e674d5705ea7a603038ec17398649bcd605fd9",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＰＡＬＴＡＣ、経常5.9%減益。アナリスト予想を下回る5/11アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/fbbcdd7a590b0756dbbe53f1c64460b5baf346dd",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -162,8 +117,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナンシン、経常20.7%増益。事前予想を下回る5/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/b915c4f975d10bd0dd02f995c85ecb1fe727f138",
+      "title": "【決算速報】ＴＶＥ、中間経常948百万。5/11アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/506841a39e6a51cd050c6b6ac547c812823c4480",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -171,21 +126,93 @@
       "source": "yahoo"
     },
     {
-      "title": "【ゴールドマン・サックスの元トレーダーが教える】なぜ利回りだけで株を買ってはいけないのか？資産が減ってしまう「高配当株のワナ」(ダイヤモンド・オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/292a494a214ce3b61ba04d5dbec500d10697d3ff?source=rss",
+      "title": "【決算速報】ｎｍｓＨ、3Q累計経常392百万。5/11アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/45a806bb04d1425462e96ae98f24caa117f2aaaa",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ケンコーマヨ、経常13.4%減益。アナリスト予想を上回る5/11アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/944c9ca423c9d64d88a3ec16f0de6ef532016913",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】キッセイ薬品工業、経常赤字。アナリスト予想を下回る5/11アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/d0f502801bf998677449ad8372495b0fa6856493",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ナカボーテック、経常7.9%減益。事前予想を上回る5/11アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/6d69ff894f6c773124e2f17d1fe7eb1f3e35d31d",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＰＡＬＴＡＣ、前期経常は6％減益で着地、配当を見送り5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ce9db254b720ac964b626f9b1ecb3a01eeece906",
       "type": "div",
       "code": "",
-      "pub": "Sun, 10 May 2026 22:36:18 GMT",
-      "desc": "　◆損しがちな株の選び方ワースト1は？\nゴールドマン・サックスに入社し、マネージング・ディレクターに就任、アジアのトレーディングチームを率いた。その後、200兆円超の運用残高を誇る世界有数の機関投資家",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (05月11日)5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3594a5f559d4ddb7c777b6f8d9d5c4a979aaaceb",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ｎｍｓ、10-12月期(3Q)経常は黒字浮上5/11株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4a7a994fa3c43885ced764c99ea4e115e78a75c6",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "日産自動車「ホンダとの経営統合」破談でもリストラが着実に進み業績改善　AI戦略強化で、今後発売する全車種の9割に自動運転機能搭載　ウーバーと提携し“ロボタク”試験運行も(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/f3070e034bfe3015ccdf7a6686b6af1deb6eba10?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Mon, 11 May 2026 22:16:00 GMT",
+      "desc": "　2025年2月に経営統合が破談となったホンダと日産。だが、中国のBYDの台頭や自動運転の開発競争など、激変する外部環境が両社に再び決断を迫っている。米テスラや中国ファーウェイが技術革新を主導し、さら",
       "source": "yahoo_news"
     },
     {
-      "title": "伊藤忠、純利益9000億円超え。三菱商事はV字回復で1兆円へ。商社決算に見る「強さ」の違い(BUSINESS INSIDER JAPAN)",
-      "link": "https://news.yahoo.co.jp/articles/0dddd0174838dfb768f654faf8cdce2aff6e4d78?source=rss",
+      "title": "6月15日から年金増額！国民年金は月1300円プラスも…消えない“年金不信”。「将来もらえる？」不安を財政検証で解説(LIMO)",
+      "link": "https://news.yahoo.co.jp/articles/1d89eae88851bf462d7671abafbfc10aaa3a2317?source=rss",
+      "type": "up",
+      "code": "1300",
+      "pub": "Mon, 11 May 2026 22:05:54 GMT",
+      "desc": "五月晴れの空が眩しく、衣替えの準備も始まる季節となりました。いよいよ来月、2026年6月の支給日から、今年度の新しい年金額での支払いがスタートします。\n\n物価高が家計を圧迫する中、「4年連続の増額」と",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "2月期決算の専門量販店の中で光る\"勝ち組\"5銘柄に注目(会社四季報オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/db775443c073bc6e8ccb806f2ddb38b0007e2b0b?source=rss",
       "type": "earn",
-      "code": "9000",
-      "pub": "Sun, 10 May 2026 22:00:02 GMT",
-      "desc": "2020年以降、米投資家のウォーレン・バフェット氏から注目され、株価も右肩上がりで成長してきた日本の総合商社。ゴールデンウィーク最中の5月1日には、三井物産、三菱商事、伊藤忠商事（以下、伊藤忠）、住友",
+      "code": "",
+      "pub": "Mon, 11 May 2026 22:00:59 GMT",
+      "desc": "円安や原油価格上昇などを背景に幅広い分野での物価上昇が顕在化し、消費者の購買意欲後退が懸念される。ただ、こうした逆風下でも堅実な成長が期待できる企業は存在する。専門量販店の勝ち組5銘柄を紹介する。 ま",
       "source": "yahoo_news"
     }
   ],
