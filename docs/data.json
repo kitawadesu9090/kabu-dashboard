@@ -1,25 +1,16 @@
 {
-  "updated": "2026/05/12 07:47",
-  "date": "2026-05-12",
+  "updated": "2026/05/13 07:53",
+  "date": "2026-05-13",
   "count": {
-    "up": 6,
-    "down": 1,
+    "up": 5,
+    "down": 3,
     "div": 1,
-    "earn": 15
+    "earn": 12
   },
   "items": [
     {
-      "title": "【決算速報】日新商、前期経常は43％減益も上振れ着地、今期業績は非開示5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/275b0996d05c99a06a67e74cc918785b6af959b6",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日新商事、経常43%減益。事前予想を上回る5/11アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/77e83c70ccb202adf3bb5cbd82669a1ebfc3e7e2",
+      "title": "【決算速報】あんしん保証、前期経常は2.4倍増益で着地、今期業績は非開示5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ee6d50d07a76a0021de75beaf6e6be623cebd607",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,8 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【イチオシ決算】 扶桑化学、オリックス、ＭＳ＆ＡＤ (5月11日)5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/11fc7c6ab4f0e9594bd75f3d77621ae88d7ddc28",
+      "title": "【決算速報】あんしん保証、経常415百万。事前予想を下回る5/12アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/1a8f2a4001e89d2a6c74d9d994fce5e1b3a7764c",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,8 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】続報 (05月11日)5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/472b8fb516d2d2d9d6cee5589016db6072cb44c3",
+      "title": "★本日の【イチオシ決算】 メック、資生堂、フィナＨＤ (5月12日)5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d4bd4dd469221d0a002c54c3d720788b7da7b866",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,26 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】児玉化、前期経常を38％上方修正・最高益予想を上乗せ5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/50e58e002974587b3985e37a2dd2c3fbb861d407",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】コスモス、前期経常は55％減益も上振れ着地、今期業績は非開示5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/dd87819ce55e8f027152b6e0a1495801519cda37",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ジョイフル、7-3月期(3Q累計)経常が28％増益で着地・1-3月期も90％増益5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a35fb255cd862efb9eb538f9a5da26a9773d7d87",
+      "title": "【決算速報】電源開発、経常13.2%増益。アナリスト予想を上回る5/12アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/8b85225a1dfee420f5408fb3bd945405dd685a59",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -72,17 +45,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ミネベア、前期最終を39％上方修正・3期ぶり最高益更新へ5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f8390af80b322b1e8b94f9bbbd88409000cc2dcb",
-      "type": "up",
+      "title": "【決算速報】伯東、経常23.8%減益。事前予想を下回る5/12アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/d1ffad78d7ae89694a15c71ceeb3b0408d42c075",
+      "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ベリテ、前期経常を25％下方修正5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6d9e5ee4b2ed5ec54bb9e96bda2b4ad8a9000e42",
+      "title": "【決算速報】ユニプレス、経常8.1%増益。アナリスト予想を上回る5/12アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/f7b04e74a2a10e0241227d8283b6a1417f9749c0",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】マイクロ波、今期最終を赤字拡大に下方修正、対純資産で93％の赤字5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/436dbb5d3f1fb8d63e562edc4054c9d5038bb36b",
       "type": "down",
       "code": "",
       "pub": "",
@@ -90,8 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ジョイフル、3Q累計経常3,871百万。5/11アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/6e0b1728902b61e0e27e732b42a89576a00d1de7",
+      "title": "【決算速報】光ビジネス、1Q経常198百万。5/12アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/ae90a0eaef0bb504ad61a34adb6a0d1a0dcee78e",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,71 +81,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナカボテック、今期経常は3％減益、前期配当増額も今期減配5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/57e674d5705ea7a603038ec17398649bcd605fd9",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＰＡＬＴＡＣ、経常5.9%減益。アナリスト予想を下回る5/11アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/fbbcdd7a590b0756dbbe53f1c64460b5baf346dd",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＴＶＥ、中間経常948百万。5/11アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/506841a39e6a51cd050c6b6ac547c812823c4480",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ｎｍｓＨ、3Q累計経常392百万。5/11アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/45a806bb04d1425462e96ae98f24caa117f2aaaa",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ケンコーマヨ、経常13.4%減益。アナリスト予想を上回る5/11アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/944c9ca423c9d64d88a3ec16f0de6ef532016913",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】キッセイ薬品工業、経常赤字。アナリスト予想を下回る5/11アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/d0f502801bf998677449ad8372495b0fa6856493",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ナカボーテック、経常7.9%減益。事前予想を上回る5/11アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/6d69ff894f6c773124e2f17d1fe7eb1f3e35d31d",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＰＡＬＴＡＣ、前期経常は6％減益で着地、配当を見送り5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ce9db254b720ac964b626f9b1ecb3a01eeece906",
+      "title": "【決算速報】カカクコム、今期配当を見送り5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f51dd0403abbc18853c697b900ad435505b96e09",
       "type": "div",
       "code": "",
       "pub": "",
@@ -171,8 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (05月11日)5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/3594a5f559d4ddb7c777b6f8d9d5c4a979aaaceb",
+      "title": "★本日の【サプライズ決算】続報 (05月12日)5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0556f63f690f1dca82bc35000d8a154beec89e18",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -180,39 +99,102 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ｎｍｓ、10-12月期(3Q)経常は黒字浮上5/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4a7a994fa3c43885ced764c99ea4e115e78a75c6",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "日産自動車「ホンダとの経営統合」破談でもリストラが着実に進み業績改善　AI戦略強化で、今後発売する全車種の9割に自動運転機能搭載　ウーバーと提携し“ロボタク”試験運行も(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/f3070e034bfe3015ccdf7a6686b6af1deb6eba10?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Mon, 11 May 2026 22:16:00 GMT",
-      "desc": "　2025年2月に経営統合が破談となったホンダと日産。だが、中国のBYDの台頭や自動運転の開発競争など、激変する外部環境が両社に再び決断を迫っている。米テスラや中国ファーウェイが技術革新を主導し、さら",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "6月15日から年金増額！国民年金は月1300円プラスも…消えない“年金不信”。「将来もらえる？」不安を財政検証で解説(LIMO)",
-      "link": "https://news.yahoo.co.jp/articles/1d89eae88851bf462d7671abafbfc10aaa3a2317?source=rss",
+      "title": "【決算速報】伯東、今期経常は34％増益、20円増配へ5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8256cfdf7e12ac0393754cf80f25e90d52184b34",
       "type": "up",
-      "code": "1300",
-      "pub": "Mon, 11 May 2026 22:05:54 GMT",
-      "desc": "五月晴れの空が眩しく、衣替えの準備も始まる季節となりました。いよいよ来月、2026年6月の支給日から、今年度の新しい年金額での支払いがスタートします。\n\n物価高が家計を圧迫する中、「4年連続の増額」と",
-      "source": "yahoo_news"
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     },
     {
-      "title": "2月期決算の専門量販店の中で光る\"勝ち組\"5銘柄に注目(会社四季報オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/db775443c073bc6e8ccb806f2ddb38b0007e2b0b?source=rss",
+      "title": "【決算速報】ユニプレス、今期経常は22％減益、10円増配へ5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/38047d98991af4e87864c20d3322b1bc5103b6ee",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｊパワー、今期経常は21％減益、5円増配へ5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d2e6fff430ed7e0d235b3d25af8eb96a0e5b3e91",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】光ビジネス、1-3月期(1Q)経常は40倍増益で着地5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/65ace192ba5f7114cb6ec4af2205854ebeb2591a",
       "type": "earn",
       "code": "",
-      "pub": "Mon, 11 May 2026 22:00:59 GMT",
-      "desc": "円安や原油価格上昇などを背景に幅広い分野での物価上昇が顕在化し、消費者の購買意欲後退が懸念される。ただ、こうした逆風下でも堅実な成長が期待できる企業は存在する。専門量販店の勝ち組5銘柄を紹介する。 ま",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＴＥＩＫＯＫ、今期経常は4％減益、前期配当増額も今期減配5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/52efbf14e67bbdde42bd89b6638cf1291c5fe486",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ナガオカ、今期経常を一転56％減益に下方修正5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3116915f581e894e2bcef624638283740677d9dd",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本アビオ、今期経常は10％増で6期連続最高益、5円増配へ5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b6dff7ef60e6959eb17ff48f390647a4dd1fd38b",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】スポーツＦ、1-3月期(1Q)経常は14％増益で着地5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/326b2fcbb366b597791055af53f052abb27a0061",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】パイオラック、前期最終が一転赤字で下振れ着地・今期は黒字浮上へ5/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a1e2c5288240c791a15abf0c9bdd5cb8c1ba4573",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本アビオニクス、経常97.6%増益。アナリスト予想を上回る5/12アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/94896a927b5b38f5270b5a6adae3f48beaba2198",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "《業績急降下のホンダの苦境》EV戦略の加速が仇になり巨額損失、“三部社長の続投”に社内で渦巻く不満　「優良企業だっただけに危機に対する耐性が弱い」の指摘も(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/e9534ae248f34738728b2a125a4a495b7ce78ead?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 12 May 2026 22:02:00 GMT",
+      "desc": "　昨年2月に経営統合が破談となったホンダと日産。だが、中国のBYDの台頭や自動運転の開発競争など、激変する外部環境が両社に再び決断を迫っている。日産自動車は4月27日、2026年3月期の営業利益が50",
       "source": "yahoo_news"
     }
   ],
