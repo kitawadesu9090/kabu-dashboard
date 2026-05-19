@@ -1,16 +1,16 @@
 {
-  "updated": "2026/05/19 07:52",
-  "date": "2026-05-19",
+  "updated": "2026/05/20 07:57",
+  "date": "2026-05-20",
   "count": {
-    "up": 6,
+    "up": 4,
     "down": 1,
-    "div": 0,
+    "div": 3,
     "earn": 6
   },
   "items": [
     {
-      "title": "【決算速報】日邦産業、経常7.8%増益。事前予想を上回る5/18アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/6b48d89fb5ee573701b24f4626e30423393cf919",
+      "title": "★本日の【サプライズ決算】速報 (05月19日)5/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c97eba4e6c0d8c1744d74a52e232493a0253d9a3",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日邦産業、今期経常は12％減益へ5/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2891ce2c95f75f40cfea44f494c79ba48036c0e6",
+      "title": "【決算速報】相模ゴ、今期経常は57％減益へ5/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/43767996e5fe6c50bc25d8e1aeece05a57f0254a",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,8 +27,17 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (05月18日)5/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c13183de49131195273838a8ec8d30715a7b5aea",
+      "title": "【決算速報】Ｓａｎｓａｎ、今期配当を2.5円に修正5/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c6a642e1982bda90b538c7a56eccf2441171a3c1",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】相模ゴム工業、経常12.5%増益。事前予想を上回る5/19アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/757136358f05fd1df386783ac5764c013bb3a50a",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,8 +45,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ダイコー通産、今期経常を2％上方修正・最高益予想を上乗せ、配当も4円増額5/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f89fb0aabc2ad0a84289951a2270b05271646753",
+      "title": "【決算速報】Ｓａｎｓａｎ、26年05月年間1株配当2.50円。5/19アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/fd4033a886153a00e99d62997a35d038b648f527",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】３ＤＭ、前期経常を2.4倍上方修正・最高益予想を上乗せ5/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d0462da4ccc78b80eca767ab1cb0bd193ff80c28",
       "type": "up",
       "code": "",
       "pub": "",
@@ -45,8 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スマイルＨＤ、前期経常は15％減益で下振れ着地、今期業績は非開示5/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/43c5323b5a71ee08016f2fe491b26244ce457f58",
+      "title": "【決算速報】城南進研、前期最終を96％下方修正5/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8d8025dbc12d7d47f80caf548dcd77347ff3ff57",
       "type": "down",
       "code": "",
       "pub": "",
@@ -54,8 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＷＮＩウェザ、今期配当を5円増額修正5/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/367206537562241eb01068a911776cf2243bac70",
+      "title": "【決算速報】光陽社、前期経常が一転増益で上振れ着地・今期は1％増益、前期配当を2.8円増額・今期は1円増配へ5/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/68034c1006cad9f0f8d250a7f868ef5b5afc2408",
       "type": "up",
       "code": "",
       "pub": "",
@@ -63,8 +81,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＧＭＢ、今期経常は24％減益、7円増配へ5/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d65c917ba88b64e148bd0ee86d71fee54259b40e",
+      "title": "【決算速報】ＴＹＫ、今期経常は2％減益、前期配当を5.4円増額・今期は5.3円増配へ5/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3eb122d1b9f2765e62237317b5231df9d2dad721",
       "type": "up",
       "code": "",
       "pub": "",
@@ -72,8 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スマイルＨ、経常15.3%減益。事前予想を下回る5/18アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/f7e41e0c9214a493675b60b84b3ed1c9da5f7228",
+      "title": "【決算速報】東京窯業、経常15.2%減益。事前予想とほぼ同水準5/19アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/1fa37689855f886c3f2cdbc7cea29fbe8a121a9b",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,8 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＧＭＢ、経常66.8%増益。事前予想を上回る5/18アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/c3065d47c6ccc4939b53602efbdb9d64450d7c6a",
+      "title": "【決算速報】うかい、今期経常は赤字転落へ5/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8b9aeaab159ffaf303c13e3fd3d5b7ceadebb27f",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -90,40 +108,31 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】イチケン、今期経常は6％減益、実質増配へ5/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c91c5e189480363d024020ea6c177e71af5add60",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】成友興業、今期配当を実質増額修正5/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/346feb09e19a55f57e7f71b9ac60f4e771b65e3f",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アストロＨＤ、前期最終を69億円の赤字に上方修正5/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9e78c45e8401f233dfa96c7e6ac30a3f2771f28b",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "トヨタは減益、日産もホンダも軒並み赤字なのに、なぜスズキだけ「過去最高」だらけなのか(BUSINESS INSIDER JAPAN)",
-      "link": "https://news.yahoo.co.jp/articles/dff8cbb5bbd3565bbf596ba145f423f2a34e769e?source=rss",
+      "title": "【決算速報】うかい、経常21%増益。事前予想を上回る5/19アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/f589b1485aafff89075da83dda936366ed94c5bb",
       "type": "earn",
       "code": "",
-      "pub": "Mon, 18 May 2026 22:00:02 GMT",
-      "desc": "国内自動車メーカーの決算が出揃った。\n\nホンダ、日産の赤字決算や、米国の関税影響などもあり減益となったトヨタなど、日本の大手自動車メーカーが軒並み調子を落とす中、1社だけ異なる挙動を示している企業があ",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本ＣＭＫ、今期配当を8円増額修正5/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a503edc60789df67037e1fbb5352f416b5e967d0",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本ＣＭＫ、27年03月年間1株配当28円。5/19アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/b93148f4aa81a5bbbc39ad8bee8e4c8c8dfb5815",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     }
   ],
   "schedule": []
