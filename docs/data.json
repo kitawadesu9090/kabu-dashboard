@@ -1,13 +1,94 @@
 {
-  "updated": "2026/05/21 08:06",
-  "date": "2026-05-21",
+  "updated": "2026/05/22 07:58",
+  "date": "2026-05-22",
   "count": {
-    "up": 3,
+    "up": 2,
     "down": 2,
     "div": 2,
-    "earn": 14
+    "earn": 9
   },
   "items": [
+    {
+      "title": "【決算速報】ニチリョク、経常赤字幅拡大。事前予想を下回る5/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/97871265dbdf4b1eac2b8138fafecdb0d7ea9ff7",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ニチリョク、前期経常が一転赤字で下振れ着地・今期は黒字浮上へ5/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3828c65df6112c90663e9ca5de40aeda61bf89bd",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (05月21日)5/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f3551c3992801f7d21b328e17168f09fb4069d6a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日金銭、今期配当を6円増額修正5/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/530ceef2035a2a1ad224212eaca8c005cf50c558",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本金銭機械、27年03月年間1株配当46円。5/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/28b6073191f132c1959ccffb8b500f29b427a130",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】大和証券リビ、今期経常は14％減益へ5/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/79fd6f9297907f546a795fae3d8f9b9c9a68ec0b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】グロバワン、今期経常は11％減益へ5/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cd31ac2cd9957d3bb3394813912959814a86cfc1",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】テリロジＨＤ、今期配当を0.4円増額修正（訂正）5/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a988236653004784f61b9f65995e9f2e609ebbac",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】テリロジーＨ、27年03月年間1株配当5.40円。5/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/efd8439c390ab59b37d59f2e3b859dcfaf4b8888",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】夢みつけ隊、前期経常は71％増益も下振れ着地、今期業績は非開示5/20株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/f7bd9d4584db304938ed27aa2f92d15e8f9b8903",
@@ -54,147 +135,12 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】技研Ｈ、経常15.8%増益。事前予想を下回る5/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/138f2b6fc38c95504a718d9244729a2f030190db",
+      "title": "AI特需で「純利益48倍」予想のキオクシア、急成長の背景に\"赤字決算\"の意外な過去(AERA DIGITAL)",
+      "link": "https://news.yahoo.co.jp/articles/667f7767b581c657b2e771f90b8ace3a93880e91?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (05月20日)5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8eaebabbe63c90ece9b6114108cc4f4c15effaa7",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】グローバルＩ、今期配当を見送り5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c4714b35b1e575b45c25f4267cf597d79bcda9d2",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＧＩＩ、26年12月年間1株配当0円。5/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/68c42e33069a69296eb8c10d729455996ab14656",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＳＯＭＰＯ、今期最終は23％減益、50円増配へ5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e307b343a1ca242d6ec4b43362b10c94178ddc1a",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＳＯＭＰＯＨ、税引前843,226百万。アナリスト予想を上回る5/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/c5d71e0ddbe1e4fef8156fe165b109c162538d93",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】城南進研、今期経常は66％増益へ5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/41388c2204199b4c1fcd1cb2acc658b1860e7b62",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東京海上、今期最終は8300億円、前期配当を7円増額・今期は27円増配へ5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/27cb52199b9f5ae1bc874fd6361b2de5e0e5cf96",
-      "type": "up",
-      "code": "8300",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大同信、今期経常は19％減益、前期配当を10円増額・今期は1円増配へ5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4428fdfa4ba2e5b4a8c1c6cef670dd4c51afaba3",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ユビＡＩ、今期最終は赤字縮小へ5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a71b504d8c6d0912f326428f8e659b3ba4c97c8c",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】信金中央、今期経常は9％増益へ5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b9bc3c17bf045745a08abdc2d92a82a57f4cb9bc",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大同信号、経常86%増益。事前予想を上回る5/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/97503c208f2078e62350c5128556e203176fc5f1",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東京海上Ｈ、経常7.6%減益。アナリスト予想を下回る5/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/4c521f586c0da618c3d8dc09f02427de474de8eb",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ユビキタスＡＩ、経常赤字。事前予想を上回る5/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/19c8b91bd35dee07c3ab15f9a5c09d8fe3003984",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】城南進学研究社、経常黒字転換。事前予想と同水準5/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/fc59161e47cfd10a7e16617d91298feaf6420e38",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "日経平均が過去最高の中、高配当株の4割減配で10万円の大損…それでも慌てないお金のプロがもつ\"鉄ルール\"(プレジデントオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/8f4ddcdeb6705898d9da2b982eae8fb04b3680de?source=rss",
-      "type": "down",
-      "code": "",
-      "pub": "Wed, 20 May 2026 22:15:36 GMT",
-      "desc": "投資した株式の株価が下がったらどうするか。ファイナンシャルプランナーの藤原久敏さんは「多くの人は、保有株の状況が変化したとき『売るべきか』『保有を続けるべきか』迷ってオロオロしてしまう。私はあることを",
+      "pub": "Thu, 21 May 2026 22:30:37 GMT",
+      "desc": "　株価は上場から1年半で約30倍、時価総額はトヨタ、三菱UFJ、ソフトバンクに次ぐ4位――いま話題沸騰中の企業が、半導体メモリ大手のキオクシアだ。\n\n　同社は今年4月、日経平均株価の構成銘柄に採用され",
       "source": "yahoo_news"
     }
   ],
