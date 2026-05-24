@@ -1,13 +1,94 @@
 {
-  "updated": "2026/05/22 07:58",
-  "date": "2026-05-22",
+  "updated": "2026/05/25 07:51",
+  "date": "2026-05-25",
   "count": {
-    "up": 2,
-    "down": 2,
-    "div": 2,
-    "earn": 9
+    "up": 6,
+    "down": 3,
+    "div": 1,
+    "earn": 6
   },
   "items": [
+    {
+      "title": "【今週読まれた記事】大注目のエヌビディア決算を通過、目線は次なる“テンバガー”へ5/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c95ed11ffa9170e5fcf33b0fac6cd8f213c0f2c3",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (05月22日)5/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ca5afb6b368f77da48ee005a78528ba922f2a1b8",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】イリソ電子、前期配当を50円減額修正5/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/eca63dcde657adfb3031c652d2b1ea77ca77d497",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】シーイーシー、上期経常を8％上方修正・最高益予想を上乗せ、配当も5円増額5/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/299c2a2d55a18c8e51db04b916ad9ef0f90248a1",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】リンカーズ、今期最終を赤字拡大に下方修正、対純資産で62％の赤字5/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e663c9737be53bc2d64d337e5b107d780a2da670",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】クオルテック、今期経常を16％上方修正・最高益予想を上乗せ、配当も10円増額5/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b6bbcf1a43d5430a37f082f92e86eae5a1a90497",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイセル、未定だった今期配当は10円増配5/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ee250a4aa83197b5cc528f0a6f8277a54a7029a9",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイセル、27年03月年間1株配当70円。5/22アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/74d83be569c5a400cd92db704efa25e01a243dd6",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】片倉、今期最終を一転26％増益に上方修正・最高益更新へ5/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c091bcf87eea0fc518dd45a760e5df1f0fa52cbe",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】ニチリョク、経常赤字幅拡大。事前予想を下回る5/21アイフィス株予報",
       "link": "https://finance.yahoo.co.jp/news/detail/97871265dbdf4b1eac2b8138fafecdb0d7ea9ff7",
@@ -36,111 +117,39 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日金銭、今期配当を6円増額修正5/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/530ceef2035a2a1ad224212eaca8c005cf50c558",
+      "title": "日本初の「購買景況指数」が示すもの、ボンクラ枠から企業業績に直結へ　(週プレNEWS)",
+      "link": "https://news.yahoo.co.jp/articles/ac8b0a9727ab13dc9672b9bb8cddb7eb32b2b804?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Sun, 24 May 2026 22:33:20 GMT",
+      "desc": "あらゆるメディアから日々、洪水のように流れてくる経済関連ニュース。その背景にはどんな狙い、どんな事情があるのか？　『週刊プレイボーイ』で連載中の「経済ニュースのバックヤード」では、調達・購買コンサルタ",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "《コーマン事務総長も税率引き上げを主張》国民会議の「食料品消費税ゼロ」議論が遅れるなかで「消費税18％」を提言したOECD、財務省・国税庁からの出向組が多い現実(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/967bf9879082cce03d33310b338a9f65a0448d47?source=rss",
       "type": "up",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Sun, 24 May 2026 22:16:00 GMT",
+      "desc": "　高市早苗・首相が悲願と称す「食品の消費税ゼロ」の実現に暗雲が垂れ込めている。抵抗勢力とされる財務省は海外の機関を使って外堀を埋め、消費減税どころか、むしろ増税に舵を切る方向に持っていこうとしているの",
+      "source": "yahoo_news"
     },
     {
-      "title": "【決算速報】日本金銭機械、27年03月年間1株配当46円。5/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/28b6073191f132c1959ccffb8b500f29b427a130",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大和証券リビ、今期経常は14％減益へ5/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/79fd6f9297907f546a795fae3d8f9b9c9a68ec0b",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】グロバワン、今期経常は11％減益へ5/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/cd31ac2cd9957d3bb3394813912959814a86cfc1",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】テリロジＨＤ、今期配当を0.4円増額修正（訂正）5/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a988236653004784f61b9f65995e9f2e609ebbac",
+      "title": "繰下げしないでよかった…〈年金月14万円・1,500万円〉73歳男性、繰下げ受給で“6万円増額”を捨てても「65歳から年金もらって正解だった」と安堵するワケ(THE GOLD ONLINE（ゴールドオンライン）)",
+      "link": "https://news.yahoo.co.jp/articles/89d21280df9dfd9f1c5e26087fe088e6f9a96dcc?source=rss",
       "type": "up",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Sun, 24 May 2026 22:00:36 GMT",
+      "desc": "内閣府の「高齢社会白書」によると、男性が健康上の問題なく日常生活を送れる「健康寿命」は72.57年となっています。年金の受給開始を遅らせて増額を狙う「繰下げ受給」が話題となるなか、まさにこの“健康寿命",
+      "source": "yahoo_news"
     },
     {
-      "title": "【決算速報】テリロジーＨ、27年03月年間1株配当5.40円。5/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/efd8439c390ab59b37d59f2e3b859dcfaf4b8888",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】夢みつけ隊、前期経常は71％増益も下振れ着地、今期業績は非開示5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f7bd9d4584db304938ed27aa2f92d15e8f9b8903",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】夢みつけ隊、経常71.4%増益。事前予想を下回る5/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/4406917c385cb279b179cb01053196cdbb81d42a",
+      "title": "【比較】ファナック・安川・日立ら5社決算、AI時代に「次の金脈」で大勝ちするのは…(ビジネス＋IT)",
+      "link": "https://news.yahoo.co.jp/articles/0dc25f5813208f578f1a8fb3e291e4fa77f1a722?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】フリージア、今期経常は19％減益へ5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/fbe15c9f6f3871b05fadb768b3c794f255029854",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】フリージアＭ、経常12.2%増益。事前予想を上回る5/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/a349207ce49cdd356800b5ebab6a938a392bce24",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】技研ＨＤ、今期経常は5％増益へ5/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7053fc1f57e700ff92cdeb087e9ad68749372e0f",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "AI特需で「純利益48倍」予想のキオクシア、急成長の背景に\"赤字決算\"の意外な過去(AERA DIGITAL)",
-      "link": "https://news.yahoo.co.jp/articles/667f7767b581c657b2e771f90b8ace3a93880e91?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Thu, 21 May 2026 22:30:37 GMT",
-      "desc": "　株価は上場から1年半で約30倍、時価総額はトヨタ、三菱UFJ、ソフトバンクに次ぐ4位――いま話題沸騰中の企業が、半導体メモリ大手のキオクシアだ。\n\n　同社は今年4月、日経平均株価の構成銘柄に採用され",
+      "pub": "Sun, 24 May 2026 22:00:06 GMT",
+      "desc": "　生成AIの次に巨額のマネーが向かう先は、チャット画面の中ではない。工場や物流拠点の“現場”だ。人工知能とロボティクスを融合した「フィジカルAI」の領域で、日本の製造業は再び主役になれるかもしれない。",
       "source": "yahoo_news"
     }
   ],
