@@ -1,13 +1,103 @@
 {
-  "updated": "2026/05/26 07:53",
-  "date": "2026-05-26",
+  "updated": "2026/05/27 08:02",
+  "date": "2026-05-27",
   "count": {
-    "up": 3,
-    "down": 1,
-    "div": 6,
-    "earn": 4
+    "up": 4,
+    "down": 2,
+    "div": 4,
+    "earn": 7
   },
   "items": [
+    {
+      "title": "★本日の【サプライズ決算】速報 (05月26日)5/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/15e51d85e6b8a64de2046cd4e2936263c1a7822a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＷＨＤＣ、非開示だった前期営業は4.7億円の赤字へ5/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/eb9017513b46701fb82a124df602fed3e0ad22a7",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＭＲＴ、今期最終を18％上方修正5/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/419d2129883f7ee7104d20b866bddc1a3d33e484",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】インテＧ、今期経常を一転76％減益に下方修正、配当は65円を未定に変更5/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0c9745e310345da158f93bad2229311b5f8d169a",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タカショー、2-4月期(1Q)経常は黒字浮上で着地5/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/34e2aaca11d7c5e51aae9c7f6c6cc4666a170c1f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＤｙＤｏ、2-4月期(1Q)経常は黒字浮上で着地5/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0c2da08dd00e01134889a9b2b82e23f1a42d7298",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイドーＧＨ、1Q経常459百万。5/26アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/d8d798384c29b48a3baa8f3aecf56c6cf1acca6a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タカショー、1Q経常161百万。5/26アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/89c2567dfd20fbc4dd516013d4cd188e65d64836",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】三機サービス、今期配当を2円増額修正5/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d07bf5a7420d20c02ad3db932ed4dfc5f20a1648",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】三機サービス、26年05月年間1株配当30円。5/26アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/46663da3213eab7b4d150d2eb9cbccf06fd3df14",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】弘電社、今期配当を見送り5/25株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/5b109284d4f39a53060d2c46f2bb425cd0916e9f",
@@ -45,93 +135,30 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ティラド、27年03月年間1株配当80円。5/25アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/fb0e06879341db02884313b4ee25f227e29f0104",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】メディア５、今期配当を5円増額修正5/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/46afc263890514fb9bb9c01ab3d9dffa90936d08",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日東紡、株式分割に伴い配当予想を修正5/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f3711f39115596a9dc705afd4f15df20bdee3db1",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】芝浦機、今期経常は38％減益へ5/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/5a0b19a7e96efa8d0ebe071ad028f657bd1d1b96",
+      "title": "売上高112％増、EV粗利率4年ぶり高水準——NIOの「稼ぐ力」が変わり始めた(36Kr Japan)",
+      "link": "https://news.yahoo.co.jp/articles/2a232ceb8f7162aae860e471f4f2f479fc18d6e0?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】芝浦機械、経常64.5%減益。アナリスト予想を上回る5/25アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/04366467a94cda82a3df1a35eceb50d9762ceb98",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日東紡績、27年03月年間1株配当28円。5/25アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/193cd33b300e42f92a7a89edc6e17f575826d4e1",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】チャームケア、今期経常を15％上方修正、配当も6円増額5/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/438aab2fc5fce5ef400c278802d9dc685ad69365",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【今週読まれた記事】大注目のエヌビディア決算を通過、目線は次なる“テンバガー”へ5/23株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c95ed11ffa9170e5fcf33b0fac6cd8f213c0f2c3",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "キオクシア社長「記録的な増収増益」　3カ月の売上収益1兆円、純利益は2990％増　好決算の背景は(ITmedia ビジネスオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/0105aaced0e93e8a7b6dc97a691773aa75f69222?source=rss",
-      "type": "earn",
-      "code": "2990",
-      "pub": "Mon, 25 May 2026 22:05:09 GMT",
-      "desc": "　半導体メモリメーカーのキオクシアホールディングス（以下、キオクシアHD）は5月15日、2026年1～3月の売上収益が1兆29億円だったと発表した。同期間のNon-GAAP（調整後）純利益は4099億",
+      "pub": "Tue, 26 May 2026 23:00:13 GMT",
+      "desc": "中国の電気自動車（EV）メーカー「蔚来汽車（NIO）」が5月21日、2026年1～3月期決算を発表した。売上高は前年同期比112.2％増の255億3000万元（約5900億円）、調整後の営業利益は66",
       "source": "yahoo_news"
     },
     {
-      "title": "話が違うぞ…元小学校教員（62）、「退職金で住宅ローン完済」のはずが〈残債1,200万円〉の現実。「退職金減額」と「金利上昇」で崩れ去った老後計画【CFPが解説】(THE GOLD ONLINE（ゴールドオンライン）)",
-      "link": "https://news.yahoo.co.jp/articles/19c4b8413baeea98c19279918d44394d8019c81f?source=rss",
+      "title": "年金事務所の「一生減りますよ？」にも迷わず60歳で〈繰上げ受給〉を選択。65歳男性が〈年金月10.5万円〉に減額でも後悔ゼロなワケ(THE GOLD ONLINE（ゴールドオンライン）)",
+      "link": "https://news.yahoo.co.jp/articles/7859f623002a739f82c92aae377df31e2a63e639?source=rss",
       "type": "down",
       "code": "",
-      "pub": "Mon, 25 May 2026 22:00:37 GMT",
-      "desc": "定年退職を迎え、退職金で住宅ローンを一括返済し、夫婦でのんびりセカンドライフを過ごす。そんな日本人の多くが描く「老後の理想図」が今、度重なる制度変更と金利上昇によって崩れ去ろうとしています。とくに、学",
+      "pub": "Tue, 26 May 2026 22:30:35 GMT",
+      "desc": "厚生労働省のデータによると、年金の「繰上げ受給」を選択する人はわずか0.7％にとどまります。多くの人が「減額される損」を避けるなか、定年退職と同時に完全リタイアしたトシゾウさん（仮名・65歳）は、60",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "OECDが日本に「消費税18％」引き上げ提言、背後にちらつく財務省の影　「財務省が国際機関を使った腹話術で日本に増税させようとしている」の指摘も(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/e2d30653f09d479141641ad340fd45020fec17c7?source=rss",
+      "type": "up",
+      "code": "",
+      "pub": "Tue, 26 May 2026 22:02:00 GMT",
+      "desc": "　高市早苗・首相が悲願と称す「食品の消費税ゼロ」の実現に暗雲が垂れ込めている。抵抗勢力とされる財務省は海外の機関を使って外堀を埋め、消費減税どころか、むしろ増税に舵を切る方向に持っていこうとしているの",
       "source": "yahoo_news"
     }
   ],
