@@ -1,13 +1,94 @@
 {
-  "updated": "2026/05/28 08:11",
-  "date": "2026-05-28",
+  "updated": "2026/05/29 08:08",
+  "date": "2026-05-29",
   "count": {
     "up": 3,
     "down": 1,
-    "div": 0,
-    "earn": 7
+    "div": 5,
+    "earn": 4
   },
   "items": [
+    {
+      "title": "【決算速報】オリコン、今期配当を見送り5/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ac815d30a9818421685716bb418786ce29d9adfa",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オリコン、27年03月年間1株配当0円。5/28アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/acd059797597243f29ea6e96816ba5ca3e9e0f59",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (05月28日)5/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d7e3ea11b6f5097356f4bc2608e1dca8f5402a17",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ブルーミーム、前期経常を13％下方修正5/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/46b441772961fa2c63f4803762353153699ec68c",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】伊藤園、前期経常を一転1％増益に上方修正5/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ec2e99023d72fdadcae8209eea6a34a1ebd18ac4",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｊグループ、今期配当を1円増額修正5/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/45cccca2640ad26fe07c1bac661947acb472f019",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ジェイグループＨ、27年02月年間1株配当5円。5/28アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/f9cdf469163098c9378b267dba3dfbc88796a278",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】初穂商事、株式分割に伴い配当予想を修正5/28株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d8ac30943baf0b16c998ef4ba17b5431358260c1",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】初穂商事、26年12月年間1株配当40円。5/28アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/94433e71446270688d428a469e0343152906fdb9",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "★本日の【サプライズ決算】速報 (05月27日)5/27株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/88d76347698734d0297e2d99b7f1c5c605f30430",
@@ -27,85 +108,22 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】プラネット、8-4月期(3Q累計)経常が微増益で着地・2-4月期は22％減益5/27株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c80ba7e6689c9ad137f70af74b03be40170fef2e",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】プラネット、3Q累計経常449百万。5/27アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/3f8e290d98536bd96698b5b9144feb2490163a50",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日本ロジ、今期経常を一転2％増益に上方修正、分配金も215円増額5/27株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8c781a1ed4073ef28ef89d380e0a608012d9c60b",
+      "title": "年金が減るのが不安で、働く時間を調整し月収「10万円」に抑えていました。「支給停止ライン」が引き上げられると、これからはいくらまで稼げるのでしょうか？(ファイナンシャルフィールド)",
+      "link": "https://news.yahoo.co.jp/articles/0eb6c9e27c13c8118470c4c40d154c0b5252d758?source=rss",
       "type": "up",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Thu, 28 May 2026 22:50:01 GMT",
+      "desc": "厚生年金に加入しながら受け取る老齢年金を「在職老齢年金」と呼びます。この制度では、給料の額や年金の月額しだいで、年金の一部または全部が止められてしまう場合があります。そのため、止められる基準額（支給停",
+      "source": "yahoo_news"
     },
     {
-      "title": "【決算速報】ブシロード、今期最終を41％上方修正・最高益予想を上乗せ5/27株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/91b701c02651ef4287fc1043d8166453fb802a9e",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (05月26日)5/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/15e51d85e6b8a64de2046cd4e2936263c1a7822a",
+      "title": "「正解」 に縛られた人生は、バグっている—新刊『バグった人生をAI執事に修正されています。』が問いかけるもの(FINDERS)",
+      "link": "https://news.yahoo.co.jp/articles/8389f51eddf53e6904fbee54a6bef27dde046cd0?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＷＨＤＣ、非開示だった前期営業は4.7億円の赤字へ5/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/eb9017513b46701fb82a124df602fed3e0ad22a7",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＭＲＴ、今期最終を18％上方修正5/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/419d2129883f7ee7104d20b866bddc1a3d33e484",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】タカショー、2-4月期(1Q)経常は黒字浮上で着地5/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/34e2aaca11d7c5e51aae9c7f6c6cc4666a170c1f",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】インテＧ、今期経常を一転76％減益に下方修正、配当は65円を未定に変更5/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0c9745e310345da158f93bad2229311b5f8d169a",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Thu, 28 May 2026 22:03:45 GMT",
+      "desc": "SNSを開くたび、誰かの「成功」が目に飛び込んでくる。「産後マイナス15kg」「週2回のジム通い」「完璧な高タンパク飯」—そんなキラキラした正解の数々。\n\nスクロールするたびにため息が漏れる。自分はな",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
