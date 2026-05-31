@@ -1,34 +1,16 @@
 {
-  "updated": "2026/05/29 08:08",
-  "date": "2026-05-29",
+  "updated": "2026/06/01 07:53",
+  "date": "2026-06-01",
   "count": {
-    "up": 3,
-    "down": 1,
-    "div": 5,
-    "earn": 4
+    "up": 4,
+    "down": 0,
+    "div": 0,
+    "earn": 12
   },
   "items": [
     {
-      "title": "【決算速報】オリコン、今期配当を見送り5/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ac815d30a9818421685716bb418786ce29d9adfa",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】オリコン、27年03月年間1株配当0円。5/28アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/acd059797597243f29ea6e96816ba5ca3e9e0f59",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (05月28日)5/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d7e3ea11b6f5097356f4bc2608e1dca8f5402a17",
+      "title": "【決算速報】バリュークリエ、経常赤字。事前予想を下回る5/29アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/79de066ef8a09420ce5b1fee986e192cd6ba2f86",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,62 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ブルーミーム、前期経常を13％下方修正5/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/46b441772961fa2c63f4803762353153699ec68c",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】伊藤園、前期経常を一転1％増益に上方修正5/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ec2e99023d72fdadcae8209eea6a34a1ebd18ac4",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｊグループ、今期配当を1円増額修正5/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/45cccca2640ad26fe07c1bac661947acb472f019",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ジェイグループＨ、27年02月年間1株配当5円。5/28アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/f9cdf469163098c9378b267dba3dfbc88796a278",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】初穂商事、株式分割に伴い配当予想を修正5/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d8ac30943baf0b16c998ef4ba17b5431358260c1",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】初穂商事、26年12月年間1株配当40円。5/28アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/94433e71446270688d428a469e0343152906fdb9",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (05月27日)5/27株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/88d76347698734d0297e2d99b7f1c5c605f30430",
+      "title": "【決算速報】バリューＣ、今期最終は赤字縮小へ5/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/10badc0e8bf3127b2ad360edca2b4131a637921e",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,8 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】あかつき本社、非開示だった今期経常は19％減益へ5/27株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ce27d4f47f7790aec430ea69812bc165613b61e4",
+      "title": "★本日の【サプライズ決算】速報 (05月29日)5/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6a43cdfebbca1f0540d553bbfd5eeb08d5ba6a99",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -108,21 +36,120 @@
       "source": "yahoo"
     },
     {
-      "title": "年金が減るのが不安で、働く時間を調整し月収「10万円」に抑えていました。「支給停止ライン」が引き上げられると、これからはいくらまで稼げるのでしょうか？(ファイナンシャルフィールド)",
-      "link": "https://news.yahoo.co.jp/articles/0eb6c9e27c13c8118470c4c40d154c0b5252d758?source=rss",
+      "title": "【決算速報】キタック、上期経常が13％増益で着地・2-4月期も43％増益5/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/62d18cfc5b5bd1edec7dbca529f0d06ae82aa614",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ナトコ、上期経常は90％増益で上振れ着地5/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4ee91dea1d2ef480b7fe75367de33a713dde8b8c",
       "type": "up",
       "code": "",
-      "pub": "Thu, 28 May 2026 22:50:01 GMT",
-      "desc": "厚生年金に加入しながら受け取る老齢年金を「在職老齢年金」と呼びます。この制度では、給料の額や年金の月額しだいで、年金の一部または全部が止められてしまう場合があります。そのため、止められる基準額（支給停",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】トリケミカル、2-4月期(1Q)経常は52％増益で着地5/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f1f6d7f572df938c2eb8201f7fc65bf80d4e5ac8",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ナトコ、中間経常1,024百万。事前予想を上回る5/29アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/34392aaffb05cd0c9b91596214477e6d1804e2bf",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】キタック、中間経常233百万。5/29アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/0e2891e9cd3aa3a32ec99994599abd0f261573e9",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】トリケミカル研、1Q経常2,485百万。アナリスト予想を上回る5/29アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/2e31caef7ee3f046a27196af00706acc9776b92c",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ヤガミ、今期経常は3％減益、前期配当増額も今期減配5/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/42edd804426dc1eb27f24f9d249c0b13d2232026",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミクニ、今期経常は5％増益、1円増配へ5/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d8ee2b7b75762a60c114b72edba356e9a0f0c6b5",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミクニ、経常17.4%増益。事前予想を上回る5/29アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/3123f487e82c78ac705595ab6e1df4c718dc2053",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ヤガミ、経常15.4%増益。事前予想を上回る5/29アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/031496901f3dec2fd97f6c4e7d0f7a9c3d7829f1",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】東和フード、経常3.1%増益。事前予想を上回る5/29アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/0da5d44781ce573f4196c630c2b674d80c666356",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "「業績がいいのに削減」　なぜ大企業で黒字リストラが増えているのか　“人手不足でも減らす”人員整理の背景(AERA DIGITAL)",
+      "link": "https://news.yahoo.co.jp/articles/ab1dceed826e07331e1dea7a195441b6916e44e5?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Sun, 31 May 2026 22:30:38 GMT",
+      "desc": "　パナソニックHDは約1万2000人、三菱電機は4700人、三菱ケミカルグループは1273人――。近年、大手企業による人員削減や希望退職募集が相次いで報じられている。\n\n　しかも、その多くは業績悪化に",
       "source": "yahoo_news"
     },
     {
-      "title": "「正解」 に縛られた人生は、バグっている—新刊『バグった人生をAI執事に修正されています。』が問いかけるもの(FINDERS)",
-      "link": "https://news.yahoo.co.jp/articles/8389f51eddf53e6904fbee54a6bef27dde046cd0?source=rss",
-      "type": "earn",
+      "title": "【企業型DC】ルール改正で「マッチング拠出」が増額可能に。iDeCoと迷ったときの判断基準(MONEY PLUS)",
+      "link": "https://news.yahoo.co.jp/articles/d3974ece2f48507cba0bc19ea7cf4b587c85c714?source=rss",
+      "type": "up",
       "code": "",
-      "pub": "Thu, 28 May 2026 22:03:45 GMT",
-      "desc": "SNSを開くたび、誰かの「成功」が目に飛び込んでくる。「産後マイナス15kg」「週2回のジム通い」「完璧な高タンパク飯」—そんなキラキラした正解の数々。\n\nスクロールするたびにため息が漏れる。自分はな",
+      "pub": "Sun, 31 May 2026 22:30:02 GMT",
+      "desc": "2026年4月、企業型DC（確定拠出年金）の「マッチング拠出」における「事業主掛金を超えてはならない」という制限が撤廃されました。\n\n企業型DC加入者が私的年金で老後資金を上乗せする主な手段は、マッチ",
       "source": "yahoo_news"
     }
   ],
