@@ -1,13 +1,85 @@
 {
-  "updated": "2026/06/01 07:53",
-  "date": "2026-06-01",
+  "updated": "2026/06/02 08:21",
+  "date": "2026-06-02",
   "count": {
-    "up": 4,
+    "up": 5,
     "down": 0,
-    "div": 0,
-    "earn": 12
+    "div": 1,
+    "earn": 6
   },
   "items": [
+    {
+      "title": "★本日の【サプライズ決算】速報 (06月01日)6/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/69d6e2a1ff8a47c55538fb7cd313b6e30d6e36a9",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＱＤレーザ、今期最終を一転黒字に上方修正6/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2f898346bddc9bcff56b36da4449434a87578e53",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ピープル、非開示だった上期経常は赤字縮小、未定だった上期配当は無配継続6/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/def1726423df5199d2d7b220988d81334ddb73e6",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ピープル、1Q経常-57百万。6/1アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/175d5564b6a6e960a709025c93423ef2ea63afd6",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アインＨＤ、前期経常を6％上方修正・最高益予想を上乗せ、配当も20円増額（訂正）6/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3833ab015a3755e9c3968dbd8bb5d98b52d1847c",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】カナモト、上期経常を20％上方修正、通期も増額6/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/258660eb9bfc3fb999fd5ceaf1ad90d5d3e02858",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】伊藤園、今期経常は12％減益、4円増配へ6/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/13b0602f68e4b455b8fde854cb3a3eb2294b8f66",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】伊藤園、経常1.3%増益。アナリスト予想を上回る6/1アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/27bf20ad8509cb34238ec074037dce48c12b63fc",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】バリュークリエ、経常赤字。事前予想を下回る5/29アイフィス株予報",
       "link": "https://finance.yahoo.co.jp/news/detail/79de066ef8a09420ce5b1fee986e192cd6ba2f86",
@@ -36,120 +108,12 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】キタック、上期経常が13％増益で着地・2-4月期も43％増益5/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/62d18cfc5b5bd1edec7dbca529f0d06ae82aa614",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ナトコ、上期経常は90％増益で上振れ着地5/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4ee91dea1d2ef480b7fe75367de33a713dde8b8c",
+      "title": "防衛費増額でも防衛省・自衛隊にはムダ金になってしまう理由、装甲車など装備調達でなぜ失敗と隠蔽を繰り返すのか(東洋経済オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/2140c3697278887497a050af04e48a2185bc94ab?source=rss",
       "type": "up",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】トリケミカル、2-4月期(1Q)経常は52％増益で着地5/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f1f6d7f572df938c2eb8201f7fc65bf80d4e5ac8",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ナトコ、中間経常1,024百万。事前予想を上回る5/29アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/34392aaffb05cd0c9b91596214477e6d1804e2bf",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】キタック、中間経常233百万。5/29アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/0e2891e9cd3aa3a32ec99994599abd0f261573e9",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】トリケミカル研、1Q経常2,485百万。アナリスト予想を上回る5/29アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/2e31caef7ee3f046a27196af00706acc9776b92c",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヤガミ、今期経常は3％減益、前期配当増額も今期減配5/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/42edd804426dc1eb27f24f9d249c0b13d2232026",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ミクニ、今期経常は5％増益、1円増配へ5/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d8ee2b7b75762a60c114b72edba356e9a0f0c6b5",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ミクニ、経常17.4%増益。事前予想を上回る5/29アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/3123f487e82c78ac705595ab6e1df4c718dc2053",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヤガミ、経常15.4%増益。事前予想を上回る5/29アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/031496901f3dec2fd97f6c4e7d0f7a9c3d7829f1",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東和フード、経常3.1%増益。事前予想を上回る5/29アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/0da5d44781ce573f4196c630c2b674d80c666356",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "「業績がいいのに削減」　なぜ大企業で黒字リストラが増えているのか　“人手不足でも減らす”人員整理の背景(AERA DIGITAL)",
-      "link": "https://news.yahoo.co.jp/articles/ab1dceed826e07331e1dea7a195441b6916e44e5?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Sun, 31 May 2026 22:30:38 GMT",
-      "desc": "　パナソニックHDは約1万2000人、三菱電機は4700人、三菱ケミカルグループは1273人――。近年、大手企業による人員削減や希望退職募集が相次いで報じられている。\n\n　しかも、その多くは業績悪化に",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "【企業型DC】ルール改正で「マッチング拠出」が増額可能に。iDeCoと迷ったときの判断基準(MONEY PLUS)",
-      "link": "https://news.yahoo.co.jp/articles/d3974ece2f48507cba0bc19ea7cf4b587c85c714?source=rss",
-      "type": "up",
-      "code": "",
-      "pub": "Sun, 31 May 2026 22:30:02 GMT",
-      "desc": "2026年4月、企業型DC（確定拠出年金）の「マッチング拠出」における「事業主掛金を超えてはならない」という制限が撤廃されました。\n\n企業型DC加入者が私的年金で老後資金を上乗せする主な手段は、マッチ",
+      "pub": "Mon, 01 Jun 2026 22:30:39 GMT",
+      "desc": "　陸上自衛隊幕僚監部と防衛装備庁は、陸自の現用の軽装甲機動車の更新として小型装甲車を導入する予定だ。これには紆余曲折があったが、最近ではトヨタのランドクルーザーなどをベースに開発中だ。民生車両をベース",
       "source": "yahoo_news"
     }
   ],
