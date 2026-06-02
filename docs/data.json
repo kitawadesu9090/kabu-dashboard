@@ -1,13 +1,31 @@
 {
-  "updated": "2026/06/02 08:21",
-  "date": "2026-06-02",
+  "updated": "2026/06/03 08:29",
+  "date": "2026-06-03",
   "count": {
-    "up": 5,
-    "down": 0,
+    "up": 4,
+    "down": 1,
     "div": 1,
-    "earn": 6
+    "earn": 5
   },
   "items": [
+    {
+      "title": "【決算速報】ダイサン、前期経常が一転減益で下振れ着地・今期は24％減益へ6/2株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4b4630a36848f33ba22bdf918c2b86b94b2c2cda",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイサン、経常16.2%減益。事前予想を下回る6/2アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/69b0f6dae492004a820a2aecc6e15aef50ae3f0f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "★本日の【サプライズ決算】速報 (06月01日)6/1株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/69d6e2a1ff8a47c55538fb7cd313b6e30d6e36a9",
@@ -81,39 +99,12 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】バリュークリエ、経常赤字。事前予想を下回る5/29アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/79de066ef8a09420ce5b1fee986e192cd6ba2f86",
+      "title": "メモリ高騰と補助金縮小が直撃　中国シャオミ、1〜3月期は純利益半減(36Kr Japan)",
+      "link": "https://news.yahoo.co.jp/articles/cc6c404ffd3d829d0cfcd430eca425a51a750a1a?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】バリューＣ、今期最終は赤字縮小へ5/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/10badc0e8bf3127b2ad360edca2b4131a637921e",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (05月29日)5/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6a43cdfebbca1f0540d553bbfd5eeb08d5ba6a99",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "防衛費増額でも防衛省・自衛隊にはムダ金になってしまう理由、装甲車など装備調達でなぜ失敗と隠蔽を繰り返すのか(東洋経済オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/2140c3697278887497a050af04e48a2185bc94ab?source=rss",
-      "type": "up",
-      "code": "",
-      "pub": "Mon, 01 Jun 2026 22:30:39 GMT",
-      "desc": "　陸上自衛隊幕僚監部と防衛装備庁は、陸自の現用の軽装甲機動車の更新として小型装甲車を導入する予定だ。これには紆余曲折があったが、最近ではトヨタのランドクルーザーなどをベースに開発中だ。民生車両をベース",
+      "pub": "Tue, 02 Jun 2026 23:09:38 GMT",
+      "desc": "中国スマートフォン大手の小米集団（シャオミ）が5月26日に発表した2026年1～3月期決算では、売上高と利益がともに減少した。売上高は前年同期比10.9％減の991億元（約2兆3800億円）となり、5",
       "source": "yahoo_news"
     }
   ],
