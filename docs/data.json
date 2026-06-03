@@ -1,13 +1,67 @@
 {
-  "updated": "2026/06/03 08:29",
-  "date": "2026-06-03",
+  "updated": "2026/06/04 08:27",
+  "date": "2026-06-04",
   "count": {
     "up": 4,
-    "down": 1,
-    "div": 1,
-    "earn": 5
+    "down": 2,
+    "div": 0,
+    "earn": 3
   },
   "items": [
+    {
+      "title": "★本日の【サプライズ決算】速報 (06月03日)6/3株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c6b658568c325213f6687b130b84daca72463b24",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】内田洋、今期最終を6％上方修正・最高益予想を上乗せ、配当も6円増額6/3株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ab9324635b3343d60b595b73856d05f4c9c040c6",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】メディア工房、今期最終を赤字拡大に下方修正、対純資産で83％の赤字6/3株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/974fca698eebfcd80c33eab4b178c39cf2cc9172",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】神島化、前期経常を11％上方修正・最高益予想を上乗せ6/3株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ed563dad1dcbea033d82569d2c51b677765ba4c2",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＣＩＪ、今期経常を13％上方修正・最高益予想を上乗せ、配当も2円増額6/3株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ee3d901229e249e90189c7d316a33c168b3154c7",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】スターシーズ、上期経常を15％上方修正・最高益予想を上乗せ6/3株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e25e44d2b7f068837922d0d8abfcc2f7fe19336e",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】ダイサン、前期経常が一転減益で下振れ着地・今期は24％減益へ6/2株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/4b4630a36848f33ba22bdf918c2b86b94b2c2cda",
@@ -27,84 +81,12 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (06月01日)6/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/69d6e2a1ff8a47c55538fb7cd313b6e30d6e36a9",
+      "title": "なぜスシローはアジアへ、くら寿司は米国へ向かったのか　業績比較で見えた「異なる勝ち筋」(ITmedia ビジネスオンライン)",
+      "link": "https://news.yahoo.co.jp/articles/5a7a645cc4d8a7ec1e55774c40e11092ce32904d?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＱＤレーザ、今期最終を一転黒字に上方修正6/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2f898346bddc9bcff56b36da4449434a87578e53",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ピープル、非開示だった上期経常は赤字縮小、未定だった上期配当は無配継続6/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/def1726423df5199d2d7b220988d81334ddb73e6",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ピープル、1Q経常-57百万。6/1アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/175d5564b6a6e960a709025c93423ef2ea63afd6",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アインＨＤ、前期経常を6％上方修正・最高益予想を上乗せ、配当も20円増額（訂正）6/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/3833ab015a3755e9c3968dbd8bb5d98b52d1847c",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】カナモト、上期経常を20％上方修正、通期も増額6/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/258660eb9bfc3fb999fd5ceaf1ad90d5d3e02858",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】伊藤園、今期経常は12％減益、4円増配へ6/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/13b0602f68e4b455b8fde854cb3a3eb2294b8f66",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】伊藤園、経常1.3%増益。アナリスト予想を上回る6/1アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/27bf20ad8509cb34238ec074037dce48c12b63fc",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "メモリ高騰と補助金縮小が直撃　中国シャオミ、1〜3月期は純利益半減(36Kr Japan)",
-      "link": "https://news.yahoo.co.jp/articles/cc6c404ffd3d829d0cfcd430eca425a51a750a1a?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Tue, 02 Jun 2026 23:09:38 GMT",
-      "desc": "中国スマートフォン大手の小米集団（シャオミ）が5月26日に発表した2026年1～3月期決算では、売上高と利益がともに減少した。売上高は前年同期比10.9％減の991億元（約2兆3800億円）となり、5",
+      "pub": "Wed, 03 Jun 2026 22:40:08 GMT",
+      "desc": "　国内の回転ずし市場が成熟する中、大手各社にとって海外事業の重要性は年々高まっています。\n\n　その中でも、スシローとくら寿司は積極的な海外展開によって存在感を強めています。直近5年で両社とも海外売上高",
       "source": "yahoo_news"
     }
   ],
