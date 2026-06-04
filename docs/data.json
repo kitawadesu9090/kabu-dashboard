@@ -1,13 +1,112 @@
 {
-  "updated": "2026/06/04 08:27",
-  "date": "2026-06-04",
+  "updated": "2026/06/05 08:02",
+  "date": "2026-06-05",
   "count": {
-    "up": 4,
-    "down": 2,
+    "up": 2,
+    "down": 1,
     "div": 0,
-    "earn": 3
+    "earn": 12
   },
   "items": [
+    {
+      "title": "【決算速報】３ＤＭ、前期経常を18％上方修正・最高益予想を上乗せ8:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/065b67a565e35c3cb571e5d67929625ab9367d5f",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】不二電機、2-4月期(1Q)経常は41％減益で着地6/4株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f313e732c4baa28c4d120b6cba3b393c8b8e46c1",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】不二電機工業、1Q経常32百万。6/4アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/96b913bc9083b1d2f5a06f935f545af0a79d944d",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ティーライフ、今期経常を一転40％減益に下方修正6/4株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/64095df6e1675baa8260dadd496712d08a874a01",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ティーライフ、3Q累計経常208百万。6/4アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/07048c68a5f88e41cbd71cb7cd70c0e850090425",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】泉州電、今期経常を6％上方修正・最高益予想を上乗せ、配当も10円増額6/4株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9d021ed2ae6b19306fdc6386d4818f5764782981",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】泉州電業、中間経常5,845百万。事前予想を上回る6/4アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7551f0e57b7fe0a67d3e1c16e08bd0a3017402d3",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】トラースＯＰ、2-4月期(1Q)経常は赤字転落で着地6/4株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b490b6b653b9c9d02716b541f3d39d45ca72c71e",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】積水ハウス、2-4月期(1Q)経常は55％増益で着地6/4株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/baac225a064427583e36119fb7d15d3c16394012",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】積水ハウス、1Q経常72,495百万。アナリスト予想を上回る6/4アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/1d92f2d1b43e005099056eea48c0216d93976c72",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＴＯＰ、1Q経常-39百万。6/4アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7d1b84e0c9fe089e12c7f961228fb99328cbe739",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "★本日の【サプライズ決算】速報 (06月03日)6/3株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/c6b658568c325213f6687b130b84daca72463b24",
@@ -18,75 +117,30 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】内田洋、今期最終を6％上方修正・最高益予想を上乗せ、配当も6円増額6/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ab9324635b3343d60b595b73856d05f4c9c040c6",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】メディア工房、今期最終を赤字拡大に下方修正、対純資産で83％の赤字6/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/974fca698eebfcd80c33eab4b178c39cf2cc9172",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】神島化、前期経常を11％上方修正・最高益予想を上乗せ6/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ed563dad1dcbea033d82569d2c51b677765ba4c2",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＣＩＪ、今期経常を13％上方修正・最高益予想を上乗せ、配当も2円増額6/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ee3d901229e249e90189c7d316a33c168b3154c7",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スターシーズ、上期経常を15％上方修正・最高益予想を上乗せ6/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e25e44d2b7f068837922d0d8abfcc2f7fe19336e",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ダイサン、前期経常が一転減益で下振れ着地・今期は24％減益へ6/2株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4b4630a36848f33ba22bdf918c2b86b94b2c2cda",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ダイサン、経常16.2%減益。事前予想を下回る6/2アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/69b0f6dae492004a820a2aecc6e15aef50ae3f0f",
+      "title": "【イオン】PER約200倍から50倍へ、決算は過去最高なのに株価は半値になった理由(MONEY PLUS)",
+      "link": "https://news.yahoo.co.jp/articles/8589f20864b199c45ecb1d38bd3cafe05343c952?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Thu, 04 Jun 2026 22:31:01 GMT",
+      "desc": "半年前、わたしはこの連載で上場来高値を更新中のイオン（8267）について書きました。当時のPERは約200倍。それでも「単元未満株で少しずつ、分散して買っていく手はある」とお伝えしました。\n\nところが",
+      "source": "yahoo_news"
     },
     {
-      "title": "なぜスシローはアジアへ、くら寿司は米国へ向かったのか　業績比較で見えた「異なる勝ち筋」(ITmedia ビジネスオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/5a7a645cc4d8a7ec1e55774c40e11092ce32904d?source=rss",
+      "title": "yutori、売上高71.4%増の142億円 アパレル・韓国・コスメの成長がけん引(日本ネット経済新聞)",
+      "link": "https://news.yahoo.co.jp/articles/5a973a1a13ff0e4282f706eed2ad8e060d8484a5?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Wed, 03 Jun 2026 22:40:08 GMT",
-      "desc": "　国内の回転ずし市場が成熟する中、大手各社にとって海外事業の重要性は年々高まっています。\n\n　その中でも、スシローとくら寿司は積極的な海外展開によって存在感を強めています。直近5年で両社とも海外売上高",
+      "pub": "Thu, 04 Jun 2026 22:30:00 GMT",
+      "desc": "yutori(ユトリ)の2026年3月期における連結売上高は、前期比71.4%増の142億3400万円だった。ヤングカルチャー事業、コスメ事業、韓国事業、heart relation(ハートリレーショ",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "【3か月半で株価4倍！】AI相場の主役に躍り出た村田製作所　来期業績予想の“ROIC大幅改善”が市場に与える強烈なインパクト　次なる上昇余地を占うカギとは《億り人・古賀真人氏が解説》(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/2735ce56c7302b3c0ee95be7e571091a8a450c85?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Thu, 04 Jun 2026 22:15:00 GMT",
+      "desc": "　スマホ向け部品メーカーの印象が強かった村田製作所の株価が急伸している。背景にあるのは、AIサーバー向け需要の拡大と、主力の積層セラミックコンデンサの受注急増だ。直近決算と来期見通しから、同社の成長シ",
       "source": "yahoo_news"
     }
   ],
