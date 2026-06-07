@@ -1,16 +1,25 @@
 {
-  "updated": "2026/06/05 08:02",
-  "date": "2026-06-05",
+  "updated": "2026/06/08 07:56",
+  "date": "2026-06-08",
   "count": {
     "up": 2,
     "down": 1,
-    "div": 0,
-    "earn": 12
+    "div": 3,
+    "earn": 10
   },
   "items": [
     {
-      "title": "【決算速報】３ＤＭ、前期経常を18％上方修正・最高益予想を上乗せ8:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/065b67a565e35c3cb571e5d67929625ab9367d5f",
+      "title": "★本日の【サプライズ決算】速報 (06月05日)6/5株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/36c0546bbf0d08240c2538b423b24897e486c77c",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】サイバＳＯＬ、今期最終は11％増で4期連続最高益、6円増配へ6/5株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5ff79dc1a3b871ffa26cbcfb7425001419471a60",
       "type": "up",
       "code": "",
       "pub": "",
@@ -18,8 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】不二電機、2-4月期(1Q)経常は41％減益で着地6/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f313e732c4baa28c4d120b6cba3b393c8b8e46c1",
+      "title": "【決算速報】大和コン、8-4月期(3Q累計)経常が52％減益で着地・2-4月期も6％減益6/5株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/da4b5fe861bfa1dcaebd331e31edf8caf1cd4690",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,8 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】不二電機工業、1Q経常32百万。6/4アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/96b913bc9083b1d2f5a06f935f545af0a79d944d",
+      "title": "【決算速報】ファースト住、上期経常が14％増益で着地・2-4月期も11％増益6/5株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0ef59f257bc0aa210394c3cc4c462cd08beb8eae",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,8 +45,44 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ティーライフ、今期経常を一転40％減益に下方修正6/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/64095df6e1675baa8260dadd496712d08a874a01",
+      "title": "【決算速報】巴工業、今期経常を4％上方修正・最高益予想を上乗せ、配当も4円増額6/5株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5a44a8346d7fdba4fd7cd086028c05e6fa159428",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ファースト住建、中間経常1,224百万。事前予想を上回る6/5アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/2e1063cae4c6c671a9874fdcb75c70b924c66728",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】巴工業、26年10月年間1株配当76円。6/5アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/08610d7ffb5a036fb881d0bd2cb93cf08ed2d7d3",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】大和コン、3Q累計経常213百万。6/5アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/8d43f914faedb06c1f82a38dc0425684301cfc0b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ソフトウェア、上期経常は一転2％減益で下振れ着地6/5株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/401d911d468ef7130b2f06f6afda00cf961dc073",
       "type": "down",
       "code": "",
       "pub": "",
@@ -45,8 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ティーライフ、3Q累計経常208百万。6/4アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/07048c68a5f88e41cbd71cb7cd70c0e850090425",
+      "title": "【決算速報】ソフトウェアＳ、中間経常4,223百万。アナリスト予想を下回る6/5アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/fa18906a99e595ce31a00180e35ec865683cae0f",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -54,17 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】泉州電、今期経常を6％上方修正・最高益予想を上乗せ、配当も10円増額6/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9d021ed2ae6b19306fdc6386d4818f5764782981",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】泉州電業、中間経常5,845百万。事前予想を上回る6/4アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7551f0e57b7fe0a67d3e1c16e08bd0a3017402d3",
+      "title": "【決算速報】アイル、8-4月期(3Q累計)経常が25％増益で着地・2-4月期も20％増益6/5株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1f3b8235fe630ec234599186219090cc96f956f1",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -72,8 +108,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】トラースＯＰ、2-4月期(1Q)経常は赤字転落で着地6/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b490b6b653b9c9d02716b541f3d39d45ca72c71e",
+      "title": "【決算速報】アイル、3Q累計経常4,268百万。6/5アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/9ff34c17e5c1d7603d648f52e0868defe46e022e",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,8 +117,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】積水ハウス、2-4月期(1Q)経常は55％増益で着地6/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/baac225a064427583e36119fb7d15d3c16394012",
+      "title": "【決算速報】エイチーム、8-4月期(3Q累計)経常が68％減益で着地・2-4月期も63％減益6/5株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ffde157a161a07baf3b6c30bc45e313e38372ac0",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -90,8 +126,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】積水ハウス、1Q経常72,495百万。アナリスト予想を上回る6/4アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/1d92f2d1b43e005099056eea48c0216d93976c72",
+      "title": "【決算速報】日本スキー、8-4月期(3Q累計)経常は4％減益・通期計画を超過6/5株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/23108263028394a491fd5eaa8fde0a9d488a4fe4",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,48 +135,21 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＴＯＰ、1Q経常-39百万。6/4アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7d1b84e0c9fe089e12c7f961228fb99328cbe739",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (06月03日)6/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c6b658568c325213f6687b130b84daca72463b24",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【イオン】PER約200倍から50倍へ、決算は過去最高なのに株価は半値になった理由(MONEY PLUS)",
-      "link": "https://news.yahoo.co.jp/articles/8589f20864b199c45ecb1d38bd3cafe05343c952?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Thu, 04 Jun 2026 22:31:01 GMT",
-      "desc": "半年前、わたしはこの連載で上場来高値を更新中のイオン（8267）について書きました。当時のPERは約200倍。それでも「単元未満株で少しずつ、分散して買っていく手はある」とお伝えしました。\n\nところが",
+      "title": "【NISAで一生モノ】株主優待と配当金も！ ひと粒で2度おいしい2026年6月の欲張り銘柄3選(MONEY PLUS)",
+      "link": "https://news.yahoo.co.jp/articles/b37457871c270e8bdbc88e3662d8c036d4800d07?source=rss",
+      "type": "div",
+      "code": "2026",
+      "pub": "Sun, 07 Jun 2026 22:30:03 GMT",
+      "desc": "いよいよ今年も折り返し地点となる6月を迎えました。夏のボーナス支給も近づき、手元の資金をどのように活かそうかと思案されている方も多いのではないでしょうか。また、年初からスタートした投資の状況を振り返り",
       "source": "yahoo_news"
     },
     {
-      "title": "yutori、売上高71.4%増の142億円 アパレル・韓国・コスメの成長がけん引(日本ネット経済新聞)",
-      "link": "https://news.yahoo.co.jp/articles/5a973a1a13ff0e4282f706eed2ad8e060d8484a5?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Thu, 04 Jun 2026 22:30:00 GMT",
-      "desc": "yutori(ユトリ)の2026年3月期における連結売上高は、前期比71.4%増の142億3400万円だった。ヤングカルチャー事業、コスメ事業、韓国事業、heart relation(ハートリレーショ",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "【3か月半で株価4倍！】AI相場の主役に躍り出た村田製作所　来期業績予想の“ROIC大幅改善”が市場に与える強烈なインパクト　次なる上昇余地を占うカギとは《億り人・古賀真人氏が解説》(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/2735ce56c7302b3c0ee95be7e571091a8a450c85?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Thu, 04 Jun 2026 22:15:00 GMT",
-      "desc": "　スマホ向け部品メーカーの印象が強かった村田製作所の株価が急伸している。背景にあるのは、AIサーバー向け需要の拡大と、主力の積層セラミックコンデンサの受注急増だ。直近決算と来期見通しから、同社の成長シ",
+      "title": "【100株でディズニーパス】オリエンタルランド（4661）特別株主優待を実施！なぜ短期保有でも貰える？27年3月期は16円配当予想(LIMO)",
+      "link": "https://news.yahoo.co.jp/articles/a6309ddd3821695b12ca8ea5aabdb866682b2a05?source=rss",
+      "type": "div",
+      "code": "4661",
+      "pub": "Sun, 07 Jun 2026 22:25:55 GMT",
+      "desc": "東京ディズニーリゾートを運営するオリエンタルランドは、個人投資家からの関心が高い銘柄のひとつです。パークの集客力やブランド力に加え、株主優待の内容に注目している人も多いでしょう。\n\n同社は、上場30周",
       "source": "yahoo_news"
     }
   ],
