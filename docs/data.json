@@ -1,16 +1,16 @@
 {
-  "updated": "2026/06/08 07:56",
-  "date": "2026-06-08",
+  "updated": "2026/06/09 08:08",
+  "date": "2026-06-09",
   "count": {
-    "up": 2,
-    "down": 1,
-    "div": 3,
-    "earn": 10
+    "up": 3,
+    "down": 2,
+    "div": 1,
+    "earn": 11
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (06月05日)6/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/36c0546bbf0d08240c2538b423b24897e486c77c",
+      "title": "★本日の【サプライズ決算】速報 (06月08日)6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2d2357f8fce5ced6d88890c0344ecabd0b298bd3",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +18,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サイバＳＯＬ、今期最終は11％増で4期連続最高益、6円増配へ6/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/5ff79dc1a3b871ffa26cbcfb7425001419471a60",
+      "title": "【決算速報】ジャストプラ、2-4月期(1Q)経常は3％増益で着地6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8baf3185f2dce3db255e7fcc783e447a989fe701",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ジャストプラン、1Q経常153百万。6/8アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7d91b819337ac45ae7966bee29a4202b0c2ade37",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】スマレジ、前期配当を4円増額修正6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bfbefa541c0fa3f8f9ae2fcaae402fb1d124018e",
       "type": "up",
       "code": "",
       "pub": "",
@@ -27,62 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大和コン、8-4月期(3Q累計)経常が52％減益で着地・2-4月期も6％減益6/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/da4b5fe861bfa1dcaebd331e31edf8caf1cd4690",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ファースト住、上期経常が14％増益で着地・2-4月期も11％増益6/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0ef59f257bc0aa210394c3cc4c462cd08beb8eae",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】巴工業、今期経常を4％上方修正・最高益予想を上乗せ、配当も4円増額6/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/5a44a8346d7fdba4fd7cd086028c05e6fa159428",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ファースト住建、中間経常1,224百万。事前予想を上回る6/5アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/2e1063cae4c6c671a9874fdcb75c70b924c66728",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】巴工業、26年10月年間1株配当76円。6/5アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/08610d7ffb5a036fb881d0bd2cb93cf08ed2d7d3",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大和コン、3Q累計経常213百万。6/5アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/8d43f914faedb06c1f82a38dc0425684301cfc0b",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ソフトウェア、上期経常は一転2％減益で下振れ着地6/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/401d911d468ef7130b2f06f6afda00cf961dc073",
+      "title": "【決算速報】ＨＥＲＯＺ、前期経常を3％下方修正6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d14565a7f8d6f00c3db2ec3fb15605887a4096f3",
       "type": "down",
       "code": "",
       "pub": "",
@@ -90,8 +54,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ソフトウェアＳ、中間経常4,223百万。アナリスト予想を下回る6/5アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/fa18906a99e595ce31a00180e35ec865683cae0f",
+      "title": "【決算速報】ｃｏｔｔａ、今期経常を21％上方修正・3期ぶり最高益更新へ6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e0576ed073849cc34ad9732d586603a365ef684c",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】学情、今期経常を19％下方修正6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1b939720535ecac255efddcebb63317884deb5db",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】萩原工業、上期経常が17％増益で着地・2-4月期も51％増益6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cb1143c7f5bae8641a0f7c68ac0a7da423d71645",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,8 +81,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アイル、8-4月期(3Q累計)経常が25％増益で着地・2-4月期も20％増益6/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1f3b8235fe630ec234599186219090cc96f956f1",
+      "title": "【決算速報】コーセーＲＥ、2-4月期(1Q)経常は黒字浮上で着地6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/dcc56c2640b4c6b328cd17f9685de8d2c90be111",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -108,8 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アイル、3Q累計経常4,268百万。6/5アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/9ff34c17e5c1d7603d648f52e0868defe46e022e",
+      "title": "【決算速報】萩原工業、中間経常1,143百万。事前予想を上回る6/8アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/34c72594b3ac41076a4be2a751eb90c1c88e6434",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,8 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】エイチーム、8-4月期(3Q累計)経常が68％減益で着地・2-4月期も63％減益6/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ffde157a161a07baf3b6c30bc45e313e38372ac0",
+      "title": "【決算速報】コーセーＲＥ、1Q経常8百万。6/8アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/fc981ac565bbee6c1777e083b9ef781fc233ab3a",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -126,8 +108,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本スキー、8-4月期(3Q累計)経常は4％減益・通期計画を超過6/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/23108263028394a491fd5eaa8fde0a9d488a4fe4",
+      "title": "【決算速報】学情、中間経常458百万。事前予想を下回る6/8アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/f3528e7e6e2ceb2746ced4034dce6005a78754e3",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -135,21 +117,48 @@
       "source": "yahoo"
     },
     {
-      "title": "【NISAで一生モノ】株主優待と配当金も！ ひと粒で2度おいしい2026年6月の欲張り銘柄3選(MONEY PLUS)",
-      "link": "https://news.yahoo.co.jp/articles/b37457871c270e8bdbc88e3662d8c036d4800d07?source=rss",
+      "title": "【決算速報】ストリーム、2-4月期(1Q)経常は3倍増益で着地6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6c72674f8f3298674bdb00e216136ec580202f1a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ストリーム、1Q経常95百万。6/8アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/5ad5dedf05153fec00853abd71f9522317dc6e54",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミライアル、非開示だった上期経常は38％増益、未定だった上期配当は20円増配6/8株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/77861eecc9761c556bea01d031b6fd33ebbbb906",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミライアル、1Q経常258百万。6/8アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/5ebf418d9a75f5e17e4a735c6045fa50c552cccb",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "6月期決算の\"期末一括・高配当利回り\"5銘柄に注目！(会社四季報オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/cdfcb90170a4f85f5085c815a1d86a674eb20f44?source=rss",
       "type": "div",
-      "code": "2026",
-      "pub": "Sun, 07 Jun 2026 22:30:03 GMT",
-      "desc": "いよいよ今年も折り返し地点となる6月を迎えました。夏のボーナス支給も近づき、手元の資金をどのように活かそうかと思案されている方も多いのではないでしょうか。また、年初からスタートした投資の状況を振り返り",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "【100株でディズニーパス】オリエンタルランド（4661）特別株主優待を実施！なぜ短期保有でも貰える？27年3月期は16円配当予想(LIMO)",
-      "link": "https://news.yahoo.co.jp/articles/a6309ddd3821695b12ca8ea5aabdb866682b2a05?source=rss",
-      "type": "div",
-      "code": "4661",
-      "pub": "Sun, 07 Jun 2026 22:25:55 GMT",
-      "desc": "東京ディズニーリゾートを運営するオリエンタルランドは、個人投資家からの関心が高い銘柄のひとつです。パークの集客力やブランド力に加え、株主優待の内容に注目している人も多いでしょう。\n\n同社は、上場30周",
+      "code": "",
+      "pub": "Mon, 08 Jun 2026 22:00:58 GMT",
+      "desc": "3月期本決算企業の発表が済んで間もないが、足元は6月期企業の期末が迫っている。そこで、6月期末一括配当の高利回り5銘柄をピックアップする。\n\nトップは旋盤用コレットチャックが高シェアのエーワン精密（6",
       "source": "yahoo_news"
     }
   ],
