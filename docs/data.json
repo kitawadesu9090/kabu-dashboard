@@ -1,16 +1,97 @@
 {
-  "updated": "2026/06/09 08:08",
-  "date": "2026-06-09",
+  "updated": "2026/06/10 08:13",
+  "date": "2026-06-10",
   "count": {
-    "up": 3,
-    "down": 2,
+    "up": 2,
+    "down": 0,
     "div": 1,
-    "earn": 11
+    "earn": 15
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (06月08日)6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2d2357f8fce5ced6d88890c0344ecabd0b298bd3",
+      "title": "【決算速報】大盛工<1844>---26年7月期3Qは減益、経常利益は11.8％減6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4e6243f440bc7edcf2b91fed51d62b78b1a61994",
+      "type": "earn",
+      "code": "1844",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミロク<7983>---26年10月期2Qは減益、経常利益は25.4％減6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/eeb429bce33c82a396a7e1eabc98034208258dee",
+      "type": "earn",
+      "code": "7983",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ビーアンドピー<7804>---26年10月期2Qは減益、経常利益は6.3％減6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/42c439c68799555bf49306317852f46d009c97de",
+      "type": "earn",
+      "code": "7804",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｂガレジ<3180>---26年4月期は減益、経常利益は4.9％減6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ef9925d4a432458d4bb1c9f9d10dc0b2f2ad26f9",
+      "type": "earn",
+      "code": "3180",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アールプランナー<2983>---27年1月期1Qは増益、経常利益は56.4％増6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/fe157a4a2ab15b0b92020622b339cfdccfba2d60",
+      "type": "earn",
+      "code": "2983",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】グリーンエナ<1436>---26年4月期は増益、経常利益は152.3％増6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/e9a214c911e1e1c21ec6677031d68b3cc7953565",
+      "type": "earn",
+      "code": "1436",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アスカネット<2438>---26年4月期は増益、経常利益は139.7％増6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/aa8aca30449b6fc5bd9c9d8bbf33c34ea9ccd6ef",
+      "type": "earn",
+      "code": "2438",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】モロゾフ<2217>---27年1月期1Qは減益、経常利益は35％減6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a7dac7ea9c81bc1ffab64af1cefa737d1749ce14",
+      "type": "earn",
+      "code": "2217",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ベステラ<1433>---27年1月期1Qは増益、経常利益は204.2％増6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/0b361d44acf4d9826874d115a7236b2bfe3c24ab",
+      "type": "earn",
+      "code": "1433",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (06月09日)6/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/23644ead9b212eb3a4bc7767d9ad3b723144521d",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ジャストプラ、2-4月期(1Q)経常は3％増益で着地6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8baf3185f2dce3db255e7fcc783e447a989fe701",
+      "title": "【決算速報】大盛工業、8-4月期(3Q累計)経常が12％減益で着地・2-4月期も31％減益6/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/770490d29ad3b261f68634bcec696f535a904fb6",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,8 +108,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ジャストプラン、1Q経常153百万。6/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7d91b819337ac45ae7966bee29a4202b0c2ade37",
+      "title": "＜決算速報＞大盛工、２６年７月期第３四半期決算は純利益４．８％減6/9ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/a139613fccf69c46aa564b0a5ecc3f3a847b51b0",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,8 +117,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スマレジ、前期配当を4円増額修正6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bfbefa541c0fa3f8f9ae2fcaae402fb1d124018e",
+      "title": "【決算速報】大盛工業、3Q累計経常614百万。6/9アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/4006b0f7235c546b9103b385c649cfd51c248456",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ノバック、前期経常を30％上方修正6/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/58c17de72c5e86f5079c1ccd600786b3f01bb044",
       "type": "up",
       "code": "",
       "pub": "",
@@ -45,120 +135,39 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＨＥＲＯＺ、前期経常を3％下方修正6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d14565a7f8d6f00c3db2ec3fb15605887a4096f3",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ｃｏｔｔａ、今期経常を21％上方修正・3期ぶり最高益更新へ6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e0576ed073849cc34ad9732d586603a365ef684c",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】学情、今期経常を19％下方修正6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1b939720535ecac255efddcebb63317884deb5db",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】萩原工業、上期経常が17％増益で着地・2-4月期も51％増益6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/cb1143c7f5bae8641a0f7c68ac0a7da423d71645",
+      "title": "【決算速報】石井表記<6336>---27年1月期1Qは増益、経常利益は93.8％増6/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/81c464d63b209088e7f0ff870b7fda75f254ac78",
       "type": "earn",
-      "code": "",
+      "code": "6336",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】コーセーＲＥ、2-4月期(1Q)経常は黒字浮上で着地6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/dcc56c2640b4c6b328cd17f9685de8d2c90be111",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】萩原工業、中間経常1,143百万。事前予想を上回る6/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/34c72594b3ac41076a4be2a751eb90c1c88e6434",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】コーセーＲＥ、1Q経常8百万。6/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/fc981ac565bbee6c1777e083b9ef781fc233ab3a",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】学情、中間経常458百万。事前予想を下回る6/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/f3528e7e6e2ceb2746ced4034dce6005a78754e3",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ストリーム、2-4月期(1Q)経常は3倍増益で着地6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6c72674f8f3298674bdb00e216136ec580202f1a",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ストリーム、1Q経常95百万。6/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/5ad5dedf05153fec00853abd71f9522317dc6e54",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ミライアル、非開示だった上期経常は38％増益、未定だった上期配当は20円増配6/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/77861eecc9761c556bea01d031b6fd33ebbbb906",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ミライアル、1Q経常258百万。6/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/5ebf418d9a75f5e17e4a735c6045fa50c552cccb",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "6月期決算の\"期末一括・高配当利回り\"5銘柄に注目！(会社四季報オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/cdfcb90170a4f85f5085c815a1d86a674eb20f44?source=rss",
+      "title": "【決算速報】ＤＭソリュ、株式分割に伴い配当予想を修正6/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a3ac87db0b0f3f64f0216429faaf32b3fa13e15b",
       "type": "div",
       "code": "",
-      "pub": "Mon, 08 Jun 2026 22:00:58 GMT",
-      "desc": "3月期本決算企業の発表が済んで間もないが、足元は6月期企業の期末が迫っている。そこで、6月期末一括配当の高利回り5銘柄をピックアップする。\n\nトップは旋盤用コレットチャックが高シェアのエーワン精密（6",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】グリーンエナ、今期経常は26％増で12期ぶり最高益、実質増配へ6/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c5f90f7f050238b2a91a5fd6b76b755af06a29d3",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【消滅の噂を覆す】マツダが決算資料で「次期CX-3」を明記。2027年にタイ発売、日本への輸出も視野に(carview！)",
+      "link": "https://news.yahoo.co.jp/articles/782d4d11e3858e66a021c164eb380dd54545688c?source=rss",
+      "type": "earn",
+      "code": "2027",
+      "pub": "Tue, 09 Jun 2026 23:05:33 GMT",
+      "desc": "マツダが決算説明資料において、今後の製品展開に向けた新たな一手を明らかにしました。\n\nフォードとの合弁工場であり、1995年設立、1998年から量産を開始して累計400万台規模の生産実績を誇るオートア",
       "source": "yahoo_news"
     }
   ],
