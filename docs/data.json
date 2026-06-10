@@ -1,97 +1,133 @@
 {
-  "updated": "2026/06/10 08:13",
-  "date": "2026-06-10",
+  "updated": "2026/06/11 08:19",
+  "date": "2026-06-11",
   "count": {
-    "up": 2,
+    "up": 1,
     "down": 0,
-    "div": 1,
-    "earn": 15
+    "div": 0,
+    "earn": 20
   },
   "items": [
     {
-      "title": "【決算速報】大盛工<1844>---26年7月期3Qは減益、経常利益は11.8％減6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4e6243f440bc7edcf2b91fed51d62b78b1a61994",
+      "title": "【決算速報】テンポスHD<2751>---26年4月期は増益、経常利益は8.3％増6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f1aa0e585674806594f54a98bea259d11976d020",
       "type": "earn",
-      "code": "1844",
+      "code": "2751",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ミロク<7983>---26年10月期2Qは減益、経常利益は25.4％減6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/eeb429bce33c82a396a7e1eabc98034208258dee",
+      "title": "【決算速報】ＧＥＮＤＡ<9166>---27年1月期1Qは赤字転落、経常損益は▲3億700万円6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d88e223fc546cf361f1017cab46f801ba15862a6",
       "type": "earn",
-      "code": "7983",
+      "code": "9166",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ビーアンドピー<7804>---26年10月期2Qは減益、経常利益は6.3％減6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/42c439c68799555bf49306317852f46d009c97de",
+      "title": "【決算速報】浜木綿<7682>---26年7月期3Qは増益、経常利益は11.4％増6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9105e42bcfe365082c60ed9c08ac4fdae2ec955e",
       "type": "earn",
-      "code": "7804",
+      "code": "7682",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】Ｂガレジ<3180>---26年4月期は減益、経常利益は4.9％減6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ef9925d4a432458d4bb1c9f9d10dc0b2f2ad26f9",
+      "title": "【決算速報】ハウテレビジョン<7064>---27年1月期1Qは増益、経常利益は374.6％増6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/91e96ec5abb2f27f568b3b6fcae194d32b744bad",
       "type": "earn",
-      "code": "3180",
+      "code": "7064",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アールプランナー<2983>---27年1月期1Qは増益、経常利益は56.4％増6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/fe157a4a2ab15b0b92020622b339cfdccfba2d60",
+      "title": "【決算速報】あさくま<7678>---27年1月期1Qは減益、経常利益は11.5％減6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6079ec7a282033fb3ac025a50004776a650ed453",
       "type": "earn",
-      "code": "2983",
+      "code": "7678",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】グリーンエナ<1436>---26年4月期は増益、経常利益は152.3％増6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/e9a214c911e1e1c21ec6677031d68b3cc7953565",
+      "title": "【決算速報】ｐｌｕｓｚｅｒｏ<5132>---26年10月期2Qは黒字続く、経常利益は前期と同じ6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d7b1687cb2b46a6fd52e5e02684fce9cab1a58ab",
       "type": "earn",
-      "code": "1436",
+      "code": "5132",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アスカネット<2438>---26年4月期は増益、経常利益は139.7％増6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/aa8aca30449b6fc5bd9c9d8bbf33c34ea9ccd6ef",
+      "title": "【決算速報】ＡＮＹＣＯＬＯＲ<5032>---26年4月期は増益、経常利益は24.6％増6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/463988ed45bc0f7820befaee8219db869cdf18d5",
       "type": "earn",
-      "code": "2438",
+      "code": "5032",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】モロゾフ<2217>---27年1月期1Qは減益、経常利益は35％減6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a7dac7ea9c81bc1ffab64af1cefa737d1749ce14",
+      "title": "【決算速報】セルソース<4880>---26年10月期2Qは増益、経常利益は0％増6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/68d3364ecbfd7a0abcdfb992f0e6588370fb6234",
       "type": "earn",
-      "code": "2217",
+      "code": "4880",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ベステラ<1433>---27年1月期1Qは増益、経常利益は204.2％増6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0b361d44acf4d9826874d115a7236b2bfe3c24ab",
+      "title": "【決算速報】モイ<5031>---27年1月期1Qは増益、経常利益は47.8％増6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bd1a06623670c20df7b9631dec663066c73470f7",
       "type": "earn",
-      "code": "1433",
+      "code": "5031",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (06月09日)6/9株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/23644ead9b212eb3a4bc7767d9ad3b723144521d",
+      "title": "【決算速報】ロックフィルド<2910>---26年4月期は減益、経常利益は38.5％減6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/95bf2b30b5c980b0fc4f9eda3cd0cc8420f72ce3",
+      "type": "earn",
+      "code": "2910",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】カラダノート<4014>---26年7月期3Qは黒字転換、経常利益は1億4700万円6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/8693dbf367ce276e61df788be9c15283a1783b2e",
+      "type": "earn",
+      "code": "4014",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】神島化学工業<4026>---26年4月期は増益、経常利益は49.2％増6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/065de0bab58bbe970f1ac8a6e6f1cd463c46e728",
+      "type": "earn",
+      "code": "4026",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】柿安本店<2294>---26年4月期は減益、経常利益は4.2％減6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/76769bda095ccf8b0fd109aa745b4e5570a1fa61",
+      "type": "earn",
+      "code": "2294",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (06月10日)6/10株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0283565fb211944f0dd48ae1e37e4c89d75e8309",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,8 +135,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大盛工業、8-4月期(3Q累計)経常が12％減益で着地・2-4月期も31％減益6/9株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/770490d29ad3b261f68634bcec696f535a904fb6",
+      "title": "【決算速報】スバル興<9632>---27年1月期1Q6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/15993435ef3ec9d628ffbdefc0646dcf658d0df8",
+      "type": "earn",
+      "code": "9632",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ユークス<4334>---27年1月期1Q6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/33f532c07fb992270b1ace73b0e647b17c18a7c0",
+      "type": "earn",
+      "code": "4334",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】テンポスＨＤ、今期経常は40％増で2期連続最高益更新へ6/10株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3305b7a33e5ce20401e2b676b32e67547bc39587",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -108,8 +162,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞大盛工、２６年７月期第３四半期決算は純利益４．８％減6/9ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/a139613fccf69c46aa564b0a5ecc3f3a847b51b0",
+      "title": "＜決算速報＞テンポスＨＤ、２６年４月期決算は純利益８．３％減6/10ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/fce1718f51664c2ac559aa64132f9b37c9bf62a9",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,8 +171,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大盛工業、3Q累計経常614百万。6/9アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/4006b0f7235c546b9103b385c649cfd51c248456",
+      "title": "【決算速報】テンポスＨ、経常8.3%増益。事前予想を下回る6/10アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/1257a7ea51707049c3aeca30bbdec32892388f24",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -126,48 +180,21 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ノバック、前期経常を30％上方修正6/9株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/58c17de72c5e86f5079c1ccd600786b3f01bb044",
+      "title": "【決算速報】ベストワンドット<6577>---26年7月期3Qは赤字縮小、経常損益は▲3900万円6/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ba3b58f7d496c029201ead1ab670ae0d77b29279",
+      "type": "earn",
+      "code": "6577",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "三菱モルガン関社長　営業人員強化で預かり資産10兆円引き上げへ(産経新聞)",
+      "link": "https://news.yahoo.co.jp/articles/b72ff747119043be273dbe91ab88bbb6ee1ab6e3?source=rss",
       "type": "up",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】石井表記<6336>---27年1月期1Qは増益、経常利益は93.8％増6/9フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/81c464d63b209088e7f0ff870b7fda75f254ac78",
-      "type": "earn",
-      "code": "6336",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＤＭソリュ、株式分割に伴い配当予想を修正6/9株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a3ac87db0b0f3f64f0216429faaf32b3fa13e15b",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】グリーンエナ、今期経常は26％増で12期ぶり最高益、実質増配へ6/9株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c5f90f7f050238b2a91a5fd6b76b755af06a29d3",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【消滅の噂を覆す】マツダが決算資料で「次期CX-3」を明記。2027年にタイ発売、日本への輸出も視野に(carview！)",
-      "link": "https://news.yahoo.co.jp/articles/782d4d11e3858e66a021c164eb380dd54545688c?source=rss",
-      "type": "earn",
-      "code": "2027",
-      "pub": "Tue, 09 Jun 2026 23:05:33 GMT",
-      "desc": "マツダが決算説明資料において、今後の製品展開に向けた新たな一手を明らかにしました。\n\nフォードとの合弁工場であり、1995年設立、1998年から量産を開始して累計400万台規模の生産実績を誇るオートア",
+      "pub": "Wed, 10 Jun 2026 22:55:25 GMT",
+      "desc": "三菱UFJモルガン・スタンレー証券の関浩之社長が10日までに産経新聞のインタビューに応じ、資産運用業務を強化し、顧客からの預かり資産を現在より10兆円多い約66兆円に引き上げる方針を明らかにした。営業",
       "source": "yahoo_news"
     }
   ],
