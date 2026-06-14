@@ -1,16 +1,61 @@
 {
-  "updated": "2026/06/12 08:15",
-  "date": "2026-06-12",
+  "updated": "2026/06/15 08:00",
+  "date": "2026-06-15",
   "count": {
-    "up": 2,
+    "up": 0,
     "down": 0,
     "div": 2,
-    "earn": 18
+    "earn": 17
   },
   "items": [
     {
-      "title": "【決算速報】ロココ、上期配当を20円実施8:03株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/35f6c1cacee9f08d83d2e72046a97586d87f6c85",
+      "title": "【決算速報】ジェイ・エス・ビー<3480>---26年10月期2Qは増益、経常利益は10.4％増6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/7d92bc09c21a06e2614770f28e5ef120a884f1c0",
+      "type": "earn",
+      "code": "3480",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】さくらさく<7097>---26年7月期3Qは増益、経常利益は9.4％増6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4913d988a534e5733bf8d514905566c32648abb3",
+      "type": "earn",
+      "code": "7097",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】エコム<6225>---26年7月期3Qは増益、経常利益は14.4％増6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/cb98f3eb9a9a4817f0186a2cce2827ca30ffa8a5",
+      "type": "earn",
+      "code": "6225",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アゼアス<3161>---26年4月期は減益、経常利益は1.5％減6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/3b5a6cfa57b9675376c01069276b5a3ff11e9527",
+      "type": "earn",
+      "code": "3161",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】テクノロジーズ<5248>---27年1月期1Qは赤字転落、経常損益は▲1億9400万円6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f6b4131f46ac9566f1d479efe40bd6f3fa46b54f",
+      "type": "earn",
+      "code": "5248",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＪＳＢ、上期経常は10％増益で着地、今期配当を見送り6/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/76f3c0773ea5b47902db4f07ff556d8b571bc984",
       "type": "div",
       "code": "",
       "pub": "",
@@ -18,26 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ロココ、26年12月年間1株配当40円。8:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/725a0cde8ab0bdcca75de5b9da8ff4bfb1fcc704",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ナ・デックス<7435>---26年4月期は増益、経常利益は42％増6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/58ca8e893b6b7fcabfe0cbfb64492d05b56480ee",
-      "type": "earn",
-      "code": "7435",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ナ・デックス、経常42.1%増益。事前予想を下回る6/11アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/2552b9d0bf4bea4efbec47d6e3d12d56e98a5c0c",
+      "title": "＜決算速報＞ＪＳＢ、２６年１０月期第２四半期決算は純利益２８．８％増の大幅増益6/12ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/4c937af7439e6ad23ec494738414842156ca3da7",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,17 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナ・デックス、今期経常は73％増益、9円増配へ6/11株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e37a4cafadf8a05dd26623536ce6e434968c07b0",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞ナデックス、２６年４月期決算は純利益２．６倍6/11ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/aca789bf9251c691f5b05ca5bc8747a882efc163",
+      "title": "【決算速報】ジェイエスビー、中間経常8,507百万。事前予想を上回る6/12アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/e5885082e4139d347bd90cdcf966a0c5a47f6616",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -63,147 +81,102 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アインＨＤ<9627>---26年4月期は増益、経常利益は57.2％増6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/205460750a089dc36d2a78131af9228bf6e7c689",
+      "title": "【決算速報】丹青社<9743>---27年1月期1Qは減益、経常利益は48.3％減6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4c1ac379d6ed74de946129978197eed83bb0a634",
       "type": "earn",
-      "code": "9627",
+      "code": "9743",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】シーイーシー<9692>---27年1月期1Qは増益、経常利益は27.9％増6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/50e8778b1aafc8ce0b38748736faf0984d4554dc",
+      "title": "【決算速報】Ｈ．Ｉ．Ｓ．<9603>---26年10月期2Qは黒字続く、経常利益は前期と同じ6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bc3608227f71cccf90866d4bb60f19ae3086951b",
       "type": "earn",
-      "code": "9692",
+      "code": "9603",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】きんえい<9636>---27年1月期1Qは減益、経常利益は35.8％減6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d8200af30dc0f64992c443b2f11b7f16a6060726",
+      "title": "【決算速報】ReYuu<9425>---26年10月期2Qは赤字続く、経常損益は▲2億1100万円6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/5c6eaddfb1ee7e3019eccedafc44cfbbfb33ed1c",
       "type": "earn",
-      "code": "9636",
+      "code": "9425",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ジャパンＭ＆Ａ<9236>---26年10月期2Qは黒字転換、経常利益は1億5900万円6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1c7936d0337a393d6d9c805a4740e3a823322818",
+      "title": "【決算速報】ナレルグループ<9163>---26年10月期2Qは減益、経常利益は12.2％減6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/de2f5ac14310db31446ad16fc78776c7d2d67bf5",
       "type": "earn",
-      "code": "9236",
+      "code": "9163",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】明豊エンター<8927>---26年7月期3Qは増益、経常利益は39.3％増6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/61352031aadcf8749351815e65a5f31c7e156b8b",
+      "title": "【決算速報】ＡＢ＆Ｃ<9251>---26年10月期2Qは増益、経常利益は53.5％増6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/1c96cd5f5a145cc7f0b1c18fa8d00b65936e8195",
       "type": "earn",
-      "code": "8927",
+      "code": "9251",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】トルク<8077>---26年10月期2Qは減益、経常利益は33.5％減6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d0f920ead17a48eef243cde2d1a0b6c846c54703",
+      "title": "【決算速報】正栄食<8079>---26年10月期2Qは減益、経常利益は0％減6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f376dbf6f906f95ad8fec64ebd7381cdcbdcdd52",
       "type": "earn",
-      "code": "8077",
+      "code": "8079",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】トーホー<8142>---27年1月期1Qは増益、経常利益は14.8％増6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f1519f7fe3619f7a5ba655e166cf523b33c77ccf",
+      "title": "【決算速報】光・彩<7878>---27年1月期1Qは増益、経常利益は477％増6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/5a6f93049dc0ca329abf597522012cdc4b6fb434",
       "type": "earn",
-      "code": "8142",
+      "code": "7878",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】Casa<7196>---27年1月期1Qは赤字拡大、経常損益は▲1億3100万円6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ee0a22b7d3bec575fc37395557e224332f0d5b98",
+      "title": "【決算速報】ナイガイ<8013>---27年1月期1Qは赤字縮小、経常損益は▲1億2900万円6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/27a0b96d77c17f84d06ae085868ad898cbabba3c",
       "type": "earn",
-      "code": "7196",
+      "code": "8013",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】のむら産業<7131>---26年10月期2Qは黒字続く、経常利益は前期と同じ6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/94a386d4209d2df9fd235bb2372ef44da813ff46",
+      "title": "【決算速報】ウイルコＨＤ<7831>---26年10月期2Qは赤字縮小、経常損益は▲1億8100万円6/12フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/67f57de16a805406dd65f25d02886ffcbbc854dd",
       "type": "earn",
-      "code": "7131",
+      "code": "7831",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】トップカルチャ<7640>---26年10月期2Qは黒字転換、経常利益は1億1300万円6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0737a0fddb237359c9e2a0d3a21d6fba02562c09",
+      "title": "【一生使える】本当に業績が伸びる株を見抜く「一次情報」の読み方(ダイヤモンド・オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/cf75ba4611b60d07983ed8b6c59bef5fb3183b6e?source=rss",
       "type": "earn",
-      "code": "7640",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】MacbeeP<7095>---26年4月期は減益、経常利益は31.5％減6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1361dc0c7e8e299bc6ab543d36ea34b7b2eda3fe",
-      "type": "earn",
-      "code": "7095",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＷＳＣＯＰＥ<6619>---27年1月期1Qは赤字縮小、経常損益は▲20億2800万円6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c4adb830646b1c00b7f8127a58f5dee950b111f2",
-      "type": "earn",
-      "code": "6619",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】巴工業<6309>---26年10月期2Qは増益、経常利益は1.8％増6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/71ff304cc49eb75bd3bc700b9d44cbbbd72fd106",
-      "type": "earn",
-      "code": "6309",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】鎌倉新書<6184>---27年1月期1Qは増益、経常利益は35.5％増6/11フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b0d1713242fd6b6eab30d32ca2a7bad066005bf3",
-      "type": "earn",
-      "code": "6184",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【ヤフコメで話題】「ボーナス増額は人材流出防止策？」「転職を意識する声も」 - 賃上げと転職意識の関係に注目(Yahoo!ニュース オリジナル THE PAGE)",
-      "link": "https://news.yahoo.co.jp/articles/f5f327bbf776047d6f2e7f94fd1ff60bed71afc1?source=rss",
-      "type": "up",
       "code": "",
-      "pub": "Thu, 11 Jun 2026 22:34:35 GMT",
-      "desc": "転職とボーナス増額の関係について、Yahoo!ニュースのコメント欄で話題になっています。\nコメントでは、企業がボーナスを増やす背景に人手不足や人材流出防止の意図があるのではないかという意見がありました",
+      "pub": "Sun, 14 Jun 2026 22:51:18 GMT",
+      "desc": "　◆株で損する人と「儲かる株」をつかむ人の決定的な違い…たった1つのアナログな習慣\nゴールドマン・サックスでアジアのトレーディングチームを率いた後、200兆円超の運用残高を誇る世界有数の機関投資家・ゆ",
       "source": "yahoo_news"
     },
     {
-      "title": "経産省はシャープ救済を断った…「世界の亀山モデル」で過去最高の売上高3兆円企業があっさり崩壊した経緯(プレジデントオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/1dc871dd1691a54e5e55a18e85a7acad663862b3?source=rss",
-      "type": "earn",
+      "title": "《年間配当800万円超》“億り人”はどのようにして割安株を見つけ出しているのか　Rickyさんが解説「PERとPBRは割安銘柄選定の“神指標”」(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/d043a29a5defc30e090d4185d97962d15471cee2?source=rss",
+      "type": "div",
       "code": "",
-      "pub": "Thu, 11 Jun 2026 22:15:40 GMT",
-      "desc": "2016年、大手総合電機メーカーのシャープは、経営危機により台湾の鴻海(ホンハイ)精密工業の傘下に入った。2008年3月期決算の売上高は過去最高の3兆円だった企業に何が起きたのか。ジャーナリスト大鹿靖",
+      "pub": "Sun, 14 Jun 2026 22:15:00 GMT",
+      "desc": "　株を割安で買うために重要な指標の代表格とされるのがPER（株価収益率）とPBR（株価純資産倍率）。購入した株を売らずに持ち続けることで年間800万円超の配当収入を手にしている“億り人”の個人投資家・",
       "source": "yahoo_news"
     }
   ],
