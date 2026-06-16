@@ -1,13 +1,85 @@
 {
-  "updated": "2026/06/16 08:29",
-  "date": "2026-06-16",
+  "updated": "2026/06/17 08:18",
+  "date": "2026-06-17",
   "count": {
-    "up": 3,
+    "up": 6,
     "down": 0,
-    "div": 0,
-    "earn": 19
+    "div": 4,
+    "earn": 7
   },
   "items": [
+    {
+      "title": "★本日の【サプライズ決算】速報 (06月16日)6/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6029d9288c07920eeb65efc9a26a570d25802622",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】キャリアデザ、今期配当を30円増額修正6/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/22aef919401a76ed9fdf8b78b63a07e8fe12a9e6",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ｉ３、今期配当を2円増額修正6/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8c7156f246c19c221c65a4a4a33e7bb72c634879",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アイキューブドＳ、26年06月年間1株配当38円。6/16アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/4dc353c10841478e983a15e5f2d4bdcac181f240",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】キャリアデザイン、26年09月年間1株配当160円。6/16アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/6318705a76d155679dd695c75abe2e1405632138",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タムロン、今期配当を14円増額修正6/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1bd6c735e4cc2de9082e5b83cc4024275f304f0e",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タムロン、26年12月年間1株配当51円。6/16アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/5d346a05418b99c6db05595d10f67119c1f54b63",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アルトナー、株式分割に伴い配当予想を修正6/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e1e5c7127d96931f4a04d57f6aef921cbcd1ec52",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】レボリュー<8894>---26年10月期2Qは黒字転換、経常利益は9億2300万円6/15フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/4ebdcb543e0b22e96f67bd53740686c5be3dd660",
@@ -63,147 +135,30 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】マツモト<7901>---26年4月期は赤字縮小、経常損益は▲8400万円6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ebe924fe15d831f25d5cfcc637b523b8929e3f7b",
-      "type": "earn",
-      "code": "7901",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】プロレド<7034>---26年10月期2Qは黒字続く、経常利益は前期と同じ6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/35ba8cef155257e0dc44faadd16a0d999b8dc243",
-      "type": "earn",
-      "code": "7034",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】クラシコム<7110>---26年7月期3Qは増益、経常利益は54.1％増6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/95316456bd35390141b60780d6e6c8ba7250f3c7",
-      "type": "earn",
-      "code": "7110",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】共和工業<5971>---26年4月期は増益、経常利益は34.9％増6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a30a4262c5adbda3bd43bd88703b36cbfae94892",
-      "type": "earn",
-      "code": "5971",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】多摩川ＨＤ<6838>---26年10月期2Q6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/53b8af7c97a556c87db9559857b986dc962a598a",
-      "type": "earn",
-      "code": "6838",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】パーク２４<4666>---26年10月期2Qは黒字続く、経常利益は前期と同じ6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/af5562e27a08e49e786b0ffd6e55d1d838a7432d",
-      "type": "earn",
-      "code": "4666",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】クラシコ<442A>---26年10月期2Q6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/16e219498118fc688c6d6d28444eb410afa92046",
+      "title": "伊勢丹は「顧客」、阪急は「店舗」　決算で見えた、百貨店2強の戦い方(ITmedia ビジネスオンライン)",
+      "link": "https://news.yahoo.co.jp/articles/f272b015b3903f336cce6c788e08fbaa2698eb65?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】システム　ディ<3804>---26年10月期2Qは黒字続く、経常利益は前期と同じ6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d70e0aefb958d65ec1c82072683a0a73e86d81d0",
-      "type": "earn",
-      "code": "3804",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アセンテック<3565>---27年1月期1Qは減益、経常利益は68.2％減6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b94f300d83d2e7cd9bdb09e2aed63c2c2151ce65",
-      "type": "earn",
-      "code": "3565",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東京ベース<3415>---27年1月期1Qは増益、経常利益は89.1％増6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6d0473c3d2152ffe6533977bc9819ea271f6de73",
-      "type": "earn",
-      "code": "3415",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｈａｍｅｅ<3134>---26年4月期は減益、経常利益は67.6％減6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d14739a287a31d07ff74620de91329d4c6d2ab26",
-      "type": "earn",
-      "code": "3134",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ジェネパ<3195>---26年10月期2Qは黒字続く、経常利益は前期と同じ6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4365e91eab231f7d8c8a5351bc6fbe509c06564c",
-      "type": "earn",
-      "code": "3195",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ブラス<2424>---26年7月期3Qは減益、経常利益は33.7％減6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3de107ee5dd7153dafb761875c8b45c7a14397b4",
-      "type": "earn",
-      "code": "2424",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】テラドローン<278A>---27年1月期1Qは赤字拡大、経常損益は▲3億2500万円6/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/5ef61654e7c7140bb53703aba1f2571b33e83c19",
-      "type": "earn",
-      "code": "2500",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【株式投資の落とし穴】「優待・増配・自社株買い」のニュースで飛びついてはいけない理由(ダイヤモンド・オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/d47c7f769f6da495a4b8187d7b5213f1ca7f0b7e?source=rss",
-      "type": "up",
-      "code": "",
-      "pub": "Mon, 15 Jun 2026 22:27:17 GMT",
-      "desc": "◆ニュースの裏側の見抜き方大学時代からアニメや声優が好きな“典型的なモテないオタクの理系男子”が、入社した会社でボーナスを貯めた300万円を元手に株式投資をスタート。2年で10倍の3000万円に増やし",
+      "pub": "Tue, 16 Jun 2026 22:40:08 GMT",
+      "desc": "　国内の百貨店業界を代表する店舗が、三越伊勢丹ホールディングスが運営する「伊勢丹新宿本店」と、エイチ・ツー・オー リテイリング傘下の阪急阪神百貨店が運営する「阪急うめだ本店」です。\n\n　2026年3月",
       "source": "yahoo_news"
     },
     {
-      "title": "【食料品消費税1％議論の内幕】実務者会議の資料から透けて見える「首相に公約を諦めさせて税率1％に誘導」する財務省の狙い　「1％でも税率を残して将来引き上げやすくする」目論見か(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/c5f7d04ae4425c661c7dea7a444168fcc64b7e55?source=rss",
+      "title": "50代から掛金を増額できる「キャッチアップ拠出」とは？ iDeCo拡充に潜む落とし穴(MONEY PLUS)",
+      "link": "https://news.yahoo.co.jp/articles/1674180163a6f16bc3dadd0cbcf87c91dd85825e?source=rss",
       "type": "up",
       "code": "",
-      "pub": "Mon, 15 Jun 2026 22:16:00 GMT",
-      "desc": "　疑惑渦中の高市早苗・首相が前のめりになるのが、消費税減税の実現だ。支持率維持のために減税を実施したい首相を前に、財政規律を重視する財務省が一見、折れたかに見える。しかし、財務省はすでに周到に策を張り",
+      "pub": "Tue, 16 Jun 2026 22:30:17 GMT",
+      "desc": "岸田文雄氏が会長を務める資産運用立国議員連盟が50歳以上を対象に追加拠出枠を設ける「キャッチアップ拠出」の提言案を提出したことが話題になっています。これは、50歳以降の資産形成をさらに拡大させようとい",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "年間800万円超の億り人・Rickyさんが自身を「株トレーダー」ではなく「株コレクター」と称するワケ　「買いだけに集中できる」「増配の恩恵を最大限享受」など数々のメリットと驚くべき資産形成のスピード(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/9ae6e38e2d74e06985da3548377addc6aeffa768?source=rss",
+      "type": "up",
+      "code": "",
+      "pub": "Tue, 16 Jun 2026 22:15:00 GMT",
+      "desc": "「今後増配が期待できる銘柄を一切売らないで増配の恩恵を享受する投資スタイル」で年間800万円超の配当収入を得ている億り人、個人投資家・Rickyさん（50）は、自身のことを「株コレクター」と称する。",
       "source": "yahoo_news"
     }
   ],
