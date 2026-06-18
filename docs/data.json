@@ -1,13 +1,67 @@
 {
-  "updated": "2026/06/18 08:17",
-  "date": "2026-06-18",
+  "updated": "2026/06/19 08:29",
+  "date": "2026-06-19",
   "count": {
     "up": 4,
-    "down": 1,
-    "div": 2,
-    "earn": 7
+    "down": 3,
+    "div": 1,
+    "earn": 6
   },
   "items": [
+    {
+      "title": "★本日の【サプライズ決算】速報 (06月18日)6/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9ef501c589189f9ea0fefa16617c97fff0f0f154",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】フリービット、前期営業を9％上方修正・最高益予想を上乗せ6/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bdf37ba303acc82530a989c73aad1839f6dbd425",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】フジクラ、今期経常を45％上方修正・最高益予想を上乗せ6/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/dd0e871902f74afaa72e8c9523c7af9c2db0b4f9",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】メイホーＨＤ、今期最終を一転赤字に下方修正6/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/61bde7f63dcc21a78669db119e1e7f0e60d328f6",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】リミックス、未定だった今期配当は2円減配6/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c82e58b4e9474838089a54df1886e7bdc6002dd4",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】リミックスＰ、27年03月年間1株配当3円。6/18アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/253930d89fda1f1d32c03c3f29e2ccbf08d752d8",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】エスネット、今期経常を52％上方修正・8期ぶり最高益更新へ6/17株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/84a28a81133c527dd89e56670bbf834d81aa4528",
@@ -72,67 +126,13 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】いちごオフィ、今期経常は2.4倍増で7期ぶり最高益更新へ6/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8ed8f47cabed712773ded908173d5a7780b95b23",
+      "title": "「JINS」「Zoff」「JEH」メガネ3社がそろって好決算！ 市場が注目する「4つの追い風」とそれぞれの強み(MONEY PLUS)",
+      "link": "https://news.yahoo.co.jp/articles/a35fdd4f0c7c76a3e59b0abd427e0eebedd78267?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＮＴＴ都市Ｒ、今期経常は13％減益へ6/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8aa26543afb45fea3292a24ef5699a51f86f0424",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (06月16日)6/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6029d9288c07920eeb65efc9a26a570d25802622",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】キャリアデザ、今期配当を30円増額修正6/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/22aef919401a76ed9fdf8b78b63a07e8fe12a9e6",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ｉ３、今期配当を2円増額修正6/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8c7156f246c19c221c65a4a4a33e7bb72c634879",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アイキューブドＳ、26年06月年間1株配当38円。6/16アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/4dc353c10841478e983a15e5f2d4bdcac181f240",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】キャリアデザイン、26年09月年間1株配当160円。6/16アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/6318705a76d155679dd695c75abe2e1405632138",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Thu, 18 Jun 2026 22:30:02 GMT",
+      "desc": "AI・半導体業界が熱狂する中、メガネ業界が静かに沸いています。最大手のジンズホールディングス（3046）、「Zoff」を運営するインターメスティック（262A）、高級眼鏡「金子眼鏡」「999.9（フォ",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
