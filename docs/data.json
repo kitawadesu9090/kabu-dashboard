@@ -1,13 +1,76 @@
 {
-  "updated": "2026/06/22 08:03",
-  "date": "2026-06-22",
+  "updated": "2026/06/23 08:13",
+  "date": "2026-06-23",
   "count": {
-    "up": 3,
+    "up": 2,
     "down": 0,
-    "div": 0,
+    "div": 1,
     "earn": 10
   },
   "items": [
+    {
+      "title": "★本日の【サプライズ決算】速報 (06月22日)6/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/16eebb13f58f02ab2df644c1376f8d5bf0debe00",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】あさひ<3333>---27年2月期1Qは減益、経常利益は7.8％減6/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a9984d2bea2fa3769ddd0f2d8f75697111f189f1",
+      "type": "earn",
+      "code": "3333",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オーケストラ、今期配当を17円増額修正6/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a07fcb1421eacd7ac952363891620de6bfa4dd66",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オーケストラＨ、26年12月年間1株配当30円。6/22アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/6c773f9209c995f7bd76ec4116324501526f76f3",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】あさひ、3-5月期(1Q)経常は8％減益で着地6/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cc0e541893f8fb008add8de751b3d6e25902714c",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞あさひ、２７年２月期第１四半期決算は純利益８．４％減6/22ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/28e95012ceb7851f1f9a9a4accd01c9ca901ef09",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】あさひ、1Q経常3,138百万。アナリスト予想を上回る6/22アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/a576a2425772214e69a9dc262c8b7eb94455c611",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】サツドラホールディングス<3544>---26年5月期は減益、経常利益は18％減6/19フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/72a5aca7846d283b3b1ce82465e04086c6fcf6da",
@@ -45,85 +108,22 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サツドラＨ、経常18%減益。事前予想を上回る6/19アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7fa48f7cb9ea3be6a2f91ca784bb675fade70701",
+      "title": "スマホも衛星通信もあるのに、なぜ「業務用無線機」はなくならないのか　売上高過去最高の無線機メーカーに聞く(ITmedia ビジネスオンライン)",
+      "link": "https://news.yahoo.co.jp/articles/949c33bf95d8ebe38e3f40c4d98f77220725e2c3?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Mon, 22 Jun 2026 22:40:09 GMT",
+      "desc": "　スマートフォンやチャットツールが普及した今、トランシーバーや業務用無線機は過去の技術と思われがちだ。しかし建設現場や空港、ホテル、自治体、防災の現場では、今なお欠かせない通信手段として使われている。",
+      "source": "yahoo_news"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (06月19日)6/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/913da970b2abba5b4c2c36c1137490b35f9d3a26",
+      "title": "株価774.6％高のマイクロン、好業績を握る「たった1つの数字」(Forbes JAPAN)",
+      "link": "https://news.yahoo.co.jp/articles/bd780e138e8a40c015815bf8e6973ec8c9d3d22c?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】丸井Ｇ<8252>---26年3月期6/19フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ed126bd6db31d15e7287e512e0d61a7a41208928",
-      "type": "earn",
-      "code": "8252",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】北川精機、今期経常を5％上方修正・最高益予想を上乗せ、配当も6円増額6/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f8d1b84b5fa8329ff76845c240847271f3f9314f",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】トライアイズ、今期最終を49％上方修正6/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/612797174706d849b828f3c9bd61819a94c1a880",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞アイサンテク、２６年３月期決算は純利益８２．４％増の大幅増益6/19ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/4be7bd36c28956b42f76f72d08120a9db563cc92",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アイサンテク、今期経常は9％増で2期連続最高益更新へ6/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bacaf15997b4f7c6392bb94ea883b092f6fc05bf",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アイサンテク、経常71%増益。事前予想を上回る6/19アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/b20c17463d9b7f670b209d2e2120c65643e9adc4",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】コーセル<6905>---26年5月期は減益、経常利益は64％減6/19フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/042efb0fe465e949df554cb8b7389b5100bc9382",
-      "type": "earn",
-      "code": "6905",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Mon, 22 Jun 2026 22:30:00 GMT",
+      "desc": "マイクロン・テクノロジー（Micron Technology。ティッカーシンボル：MU）の記録的な業績の中心には、市場内部のひずみを浮き彫りにする極端な数字が存在し、投資家がなぜ慎重に進むべきかを物語",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
