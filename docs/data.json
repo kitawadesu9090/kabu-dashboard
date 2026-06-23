@@ -1,13 +1,76 @@
 {
-  "updated": "2026/06/23 08:13",
-  "date": "2026-06-23",
+  "updated": "2026/06/24 08:01",
+  "date": "2026-06-24",
   "count": {
-    "up": 2,
+    "up": 3,
     "down": 0,
-    "div": 1,
-    "earn": 10
+    "div": 3,
+    "earn": 8
   },
   "items": [
+    {
+      "title": "【決算速報】サンリオ<8136>---26年3月期は増益、経常利益は48.4％増6/23フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/397f83a49205d53b04f059f99ae515c90d60691c",
+      "type": "earn",
+      "code": "8136",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (06月23日)6/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/112a160c649cc47f8b81a0fcff4296a339a735e5",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＪＣＲファーマ<4552>---26年3月期は黒字転換、経常利益は11億6500万円6/23フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/92f0b8605c19b5038d2c52cd389d994d3270a260",
+      "type": "earn",
+      "code": "4552",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本調理機、株式分割に伴い配当予想を修正6/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4fb0330a7a46e55db5ab35de4f45c3eec6ed4925",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本調理機、26年09月年間1株配当45円。6/23アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/626518111e3f037ec3061c3d9a9ba5b2584cd953",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞サンリオ、２６年３月期決算は純利益３０．９％増の大幅増益6/23ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/695b474c6e91d18489b8bcebeb96255c591eeb2f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】サンリオ、今期経常は14％増で3期連続最高益、前期配当を3円増額・今期は実質増配6/23株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/82bf49c91edd93235073243e3d469cd98a0138de",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "★本日の【サプライズ決算】速報 (06月22日)6/22株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/16eebb13f58f02ab2df644c1376f8d5bf0debe00",
@@ -45,84 +108,30 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】あさひ、3-5月期(1Q)経常は8％減益で着地6/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/cc0e541893f8fb008add8de751b3d6e25902714c",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞あさひ、２７年２月期第１四半期決算は純利益８．４％減6/22ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/28e95012ceb7851f1f9a9a4accd01c9ca901ef09",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】あさひ、1Q経常3,138百万。アナリスト予想を上回る6/22アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/a576a2425772214e69a9dc262c8b7eb94455c611",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】サツドラホールディングス<3544>---26年5月期は減益、経常利益は18％減6/19フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/72a5aca7846d283b3b1ce82465e04086c6fcf6da",
-      "type": "earn",
-      "code": "3544",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アイサンテクノ<4667>---26年3月期は増益、経常利益は71％増6/19フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/618200d6062ce2702c338b485e1b4b669b227eb5",
-      "type": "earn",
-      "code": "4667",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】サツドラＨＤ、前期経常は18％減益も上振れ着地、前期配当を見送り6/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0835ef93f7127b903578fdda30bab183e65a6a03",
+      "title": "厚生年金と国民年金あわせて「月額30万円以上」受給する人どれくらいいる？2026年度の夫婦のモデル年金額は月額23万7279円。前年度から4495円の増額に(LIMO)",
+      "link": "https://news.yahoo.co.jp/articles/c40d2bc98354bf080541afb9aab2e7544f13eb45?source=rss",
       "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞サツドラＨＤ、２６年５月期決算は純利益４３．４％減の大幅減益6/19ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/128928aaac321cdd7cabba0d7ec451260a321161",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "スマホも衛星通信もあるのに、なぜ「業務用無線機」はなくならないのか　売上高過去最高の無線機メーカーに聞く(ITmedia ビジネスオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/949c33bf95d8ebe38e3f40c4d98f77220725e2c3?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Mon, 22 Jun 2026 22:40:09 GMT",
-      "desc": "　スマートフォンやチャットツールが普及した今、トランシーバーや業務用無線機は過去の技術と思われがちだ。しかし建設現場や空港、ホテル、自治体、防災の現場では、今なお欠かせない通信手段として使われている。",
+      "code": "2026",
+      "pub": "Tue, 23 Jun 2026 22:55:49 GMT",
+      "desc": "日を追うごとに日差しが強まり、爽やかな夏空が広がる季節となりました。\n\n将来の年金制度に対して、制度自体がなくなるのではないか、あるいは保険料が上がり続けるのではないかといった不安の声も少なくありませ",
       "source": "yahoo_news"
     },
     {
-      "title": "株価774.6％高のマイクロン、好業績を握る「たった1つの数字」(Forbes JAPAN)",
-      "link": "https://news.yahoo.co.jp/articles/bd780e138e8a40c015815bf8e6973ec8c9d3d22c?source=rss",
+      "title": "毎月280件の改善案、ラインごとの損益公開　売上高過去最高の「無線機メーカー」を支える工場の仕組み(ITmedia ビジネスオンライン)",
+      "link": "https://news.yahoo.co.jp/articles/6185b6b49e60943d64b357d239793e888b6a46b7?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Mon, 22 Jun 2026 22:30:00 GMT",
-      "desc": "マイクロン・テクノロジー（Micron Technology。ティッカーシンボル：MU）の記録的な業績の中心には、市場内部のひずみを浮き彫りにする極端な数字が存在し、投資家がなぜ慎重に進むべきかを物語",
+      "pub": "Tue, 23 Jun 2026 22:40:13 GMT",
+      "desc": "　スマートフォンや衛星通信が広がる中でも、業務用無線機の需要は底堅い。世界約180の国・地域で製品を展開する無線機メーカーのアイコム（大阪市）は2025年3月期に売上高374億円と過去最高を更新した。",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "フジクラの「保守的見通し」とは何だったのか　業績予想という制度の盲点(ITmedia ビジネスオンライン)",
+      "link": "https://news.yahoo.co.jp/articles/47a70f7d40907593a3a0640b145c27bc8cbfdfc5?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 23 Jun 2026 22:10:09 GMT",
+      "desc": "　フジクラの株価が乱高下している。\n\n　データセンターや通信インフラを支える電線などを製造するフジクラの株価は1カ月で半値に沈み、そして連日のストップ高で大半を取り戻した。\n\n　発端は5月14日。フジ",
       "source": "yahoo_news"
     }
   ],
