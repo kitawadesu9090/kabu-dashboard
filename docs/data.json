@@ -1,61 +1,52 @@
 {
-  "updated": "2026/06/24 08:01",
-  "date": "2026-06-24",
+  "updated": "2026/06/25 07:59",
+  "date": "2026-06-25",
   "count": {
     "up": 3,
     "down": 0,
-    "div": 3,
-    "earn": 8
+    "div": 1,
+    "earn": 15
   },
   "items": [
     {
-      "title": "【決算速報】サンリオ<8136>---26年3月期は増益、経常利益は48.4％増6/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/397f83a49205d53b04f059f99ae515c90d60691c",
+      "title": "【決算速報】セキチュー<9976>---27年2月期1Qは増益、経常利益は22.6％増6/24フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/cdc4594ce111a8bbd89fdff304060c36de859524",
       "type": "earn",
-      "code": "8136",
+      "code": "9976",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (06月23日)6/23株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/112a160c649cc47f8b81a0fcff4296a339a735e5",
+      "title": "【決算速報】アスカ<7227>---26年11月期2Qは増益、経常利益は32.2％増6/24フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/b04ded0c929244f3d1b3a8e10cf41a7029ab6509",
       "type": "earn",
-      "code": "",
+      "code": "7227",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＪＣＲファーマ<4552>---26年3月期は黒字転換、経常利益は11億6500万円6/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/92f0b8605c19b5038d2c52cd389d994d3270a260",
+      "title": "【決算速報】ハローズ<2742>---27年2月期1Qは減益、経常利益は10.2％減6/24フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c98e64e818246546a3788995f9b43c5c4bc1d39f",
       "type": "earn",
-      "code": "4552",
+      "code": "2742",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本調理機、株式分割に伴い配当予想を修正6/23株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4fb0330a7a46e55db5ab35de4f45c3eec6ed4925",
-      "type": "div",
-      "code": "",
+      "title": "【決算速報】オプティマス<9268>---26年3月期は増益、経常利益は301.2％増6/24フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9d776630d4c3d2d0f930216772cb5d6bd3d0ae04",
+      "type": "earn",
+      "code": "9268",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本調理機、26年09月年間1株配当45円。6/23アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/626518111e3f037ec3061c3d9a9ba5b2584cd953",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞サンリオ、２６年３月期決算は純利益３０．９％増の大幅増益6/23ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/695b474c6e91d18489b8bcebeb96255c591eeb2f",
+      "title": "★本日の【サプライズ決算】速報 (06月24日)6/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7a0f6863d339cb42932480e9d05f5c2b160ed284",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -63,8 +54,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サンリオ、今期経常は14％増で3期連続最高益、前期配当を3円増額・今期は実質増配6/23株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/82bf49c91edd93235073243e3d469cd98a0138de",
+      "title": "【決算速報】セキチュー、3-5月期(1Q)経常は23％増益で着地6/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1d822b92076b86c31a1a6b7640ff9de509cd55a7",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ポラリスＨＤ、今期配当を5円増額修正6/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c9cbd9039c9ec2b1ba7c0d7fdea7ba6093c0c15b",
       "type": "up",
       "code": "",
       "pub": "",
@@ -72,8 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (06月22日)6/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/16eebb13f58f02ab2df644c1376f8d5bf0debe00",
+      "title": "＜決算速報＞セキチュー、２７年２月期第１四半期決算は純利益２０．７％増の大幅増益6/24ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/d43ea0ffcc8b4a9dc37df920e43e6d8f8c65f381",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,26 +81,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】あさひ<3333>---27年2月期1Qは減益、経常利益は7.8％減6/22フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a9984d2bea2fa3769ddd0f2d8f75697111f189f1",
+      "title": "【決算速報】セキチュー、1Q経常363百万。6/24アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/fcd0294c15696f0d62ef4ae8dced12f91012aa66",
       "type": "earn",
-      "code": "3333",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】オーケストラ、今期配当を17円増額修正6/22株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a07fcb1421eacd7ac952363891620de6bfa4dd66",
-      "type": "up",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】オーケストラＨ、26年12月年間1株配当30円。6/22アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/6c773f9209c995f7bd76ec4116324501526f76f3",
+      "title": "【決算速報】ポラリスＨ、27年03月年間1株配当10円。6/24アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/b306b08e18c44d8db3bebb48d52856e245f8464f",
       "type": "div",
       "code": "",
       "pub": "",
@@ -108,30 +99,84 @@
       "source": "yahoo"
     },
     {
-      "title": "厚生年金と国民年金あわせて「月額30万円以上」受給する人どれくらいいる？2026年度の夫婦のモデル年金額は月額23万7279円。前年度から4495円の増額に(LIMO)",
-      "link": "https://news.yahoo.co.jp/articles/c40d2bc98354bf080541afb9aab2e7544f13eb45?source=rss",
+      "title": "＜決算速報＞アスカ、２６年１１月期第２四半期決算は純利益４１．０％増の大幅増益6/24ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/a5dfa2c24a809309e9f12a306e0aa81686e4695f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ハローズ、２７年２月期第１四半期決算は純利益７．２％減6/24ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/98919a1e741954e2faf4317af00bc650189a40e3",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アスカ、上期経常は32％増益で上振れ着地6/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/465b12a82c7f0902efd38cd082ec8c49a74a050a",
       "type": "up",
-      "code": "2026",
-      "pub": "Tue, 23 Jun 2026 22:55:49 GMT",
-      "desc": "日を追うごとに日差しが強まり、爽やかな夏空が広がる季節となりました。\n\n将来の年金制度に対して、制度自体がなくなるのではないか、あるいは保険料が上がり続けるのではないかといった不安の声も少なくありませ",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ハローズ、3-5月期(1Q)経常は10％減益で着地6/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3faa9298b7dc2cd3ecf6b6673daea019fdf0ae9c",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ソフトテック、今期配当を5円増額修正6/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8d4b026c758fabe9d9b22921fdc2bff0b965b0f6",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アスカ、中間経常1,315百万。事前予想を上回る6/24アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/a2c92b021307c7b74ac49f3ce12baf4a89ff0d86",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ハローズ、1Q経常2,747百万。6/24アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/9a6be96d8cedde76b05ff86a73278346c37f19dc",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "マイクロン株価、時間外取引で一時15％急騰──過去最高の売上高と好調な業績見通しを発表(Forbes JAPAN)",
+      "link": "https://news.yahoo.co.jp/articles/3beabd8a60b493b93a39d4f3c7054c5d94af5856?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Wed, 24 Jun 2026 22:30:00 GMT",
+      "desc": "米国時間6月24日、マイクロン・テクノロジーの株価が時間外取引で一時15％以上急騰した。通常取引では小幅安で終えていた。\n\nマイクロンが米証券取引委員会（SEC）に提出した提出書類（決算発表資料）によ",
       "source": "yahoo_news"
     },
     {
-      "title": "毎月280件の改善案、ラインごとの損益公開　売上高過去最高の「無線機メーカー」を支える工場の仕組み(ITmedia ビジネスオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/6185b6b49e60943d64b357d239793e888b6a46b7?source=rss",
+      "title": "キオクシアvs東京エレクトロン「急騰AI関連株」でなぜ差が生じたか　決算から見える収益構造の違い(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/38199fa502bde97fdbd75cc563a6305825c484af?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Tue, 23 Jun 2026 22:40:13 GMT",
-      "desc": "　スマートフォンや衛星通信が広がる中でも、業務用無線機の需要は底堅い。世界約180の国・地域で製品を展開する無線機メーカーのアイコム（大阪市）は2025年3月期に売上高374億円と過去最高を更新した。",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "フジクラの「保守的見通し」とは何だったのか　業績予想という制度の盲点(ITmedia ビジネスオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/47a70f7d40907593a3a0640b145c27bc8cbfdfc5?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Tue, 23 Jun 2026 22:10:09 GMT",
-      "desc": "　フジクラの株価が乱高下している。\n\n　データセンターや通信インフラを支える電線などを製造するフジクラの株価は1カ月で半値に沈み、そして連日のストップ高で大半を取り戻した。\n\n　発端は5月14日。フジ",
+      "pub": "Wed, 24 Jun 2026 22:15:00 GMT",
+      "desc": "　半導体メモリー大手・キオクシアホールディングスの株価急騰が、株式市場の注目を一身に集めている。2024年12月の上場から約1年半で株価は70倍超の水準となり、時価総額も60兆円規模にまで膨れ上がった",
       "source": "yahoo_news"
     }
   ],
