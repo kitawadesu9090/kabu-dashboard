@@ -1,79 +1,79 @@
 {
-  "updated": "2026/06/26 08:09",
-  "date": "2026-06-26",
+  "updated": "2026/06/29 07:56",
+  "date": "2026-06-29",
   "count": {
-    "up": 1,
-    "down": 4,
-    "div": 3,
-    "earn": 12
+    "up": 0,
+    "down": 1,
+    "div": 0,
+    "earn": 14
   },
   "items": [
     {
-      "title": "【決算速報】ＰｏｗｅｒＸ、今期売上を5％上方修正・最高予想を上乗せ6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7d17b9c58b226d2e4aa45245a3aa28441de4847f",
-      "type": "up",
+      "title": "【決算速報】西松屋チェ<7545>---27年2月期1Q6/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/58041ef33bc61646cdd1ac8adb4081f2cdb9198a",
+      "type": "earn",
+      "code": "7545",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オークワ<8217>---27年2月期1Qは赤字転落、経常損益は▲2億7800万円6/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/3fcde9fb18a6587d4af2b4214640863bd0d917ac",
+      "type": "earn",
+      "code": "8217",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】壱番屋<7630>---27年2月期1Qは減益、経常利益は15.8％減6/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6d32ba91fcf3705dd18ada6f8c77845b3a9415ce",
+      "type": "earn",
+      "code": "7630",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＮａＩＴＯ<7624>---27年2月期1Qは増益、経常利益は342.3％増6/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/08c350a0d8d7a60b19464d9f5639c67a15b54cd6",
+      "type": "earn",
+      "code": "7624",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＤＣＭ<3050>---27年2月期1Qは増益、経常利益は19.4％増6/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/61173bc1756a788bcc93c9ce7d5a8b30edf1b33e",
+      "type": "earn",
+      "code": "3050",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】パレモ・HD<2778>---27年2月期1Qは黒字転換、経常利益は2400万円6/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/816b62c747c015e03eec0fdfc25da0093ced14fe",
+      "type": "earn",
+      "code": "2778",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (06月26日)6/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/dc68e780dcea191099ae559e6019faeabbfee4bd",
+      "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】平和堂<8276>---27年2月期1Qは減益、経常利益は16.8％減6/25フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/26094c4c642889d0bd229492c563df5b605aea6e",
-      "type": "earn",
-      "code": "8276",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】瑞光<6279>---27年2月期1Qは赤字拡大、経常損益は▲1億9100万円6/25フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/338f118e0e0a039f9bd07a2cfbf710b724cea1d7",
-      "type": "earn",
-      "code": "6279",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】FフォースG<7068>---26年5月期は増益、経常利益は28.1％増6/25フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/504e262996d455ebf484a8819b106276e5113666",
-      "type": "earn",
-      "code": "7068",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日本オラクル<4716>---26年5月期は増益、経常利益は4.5％増6/25フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2133a603395b1097d45681b615c43d6ca870704e",
-      "type": "earn",
-      "code": "4716",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ファーマライズ<2796>---26年5月期は増益、経常利益は425.7％増6/25フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/dc7235e98e5efcf0aca7bc734bd74a7b9c5d6146",
-      "type": "earn",
-      "code": "2796",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】YEデジタル<2354>---27年2月期1Qは減益、経常利益は11.2％減6/25フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d7a7e0ffa87459a05a9e374d8e1e3fff6e2e5a2a",
-      "type": "earn",
-      "code": "2354",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ビューテＨＤ、今期経常を一転赤字に下方修正、配当も無配転落6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/01ddddb215012c8188061f25abcb26057ac116e2",
+      "title": "【決算速報】三協立山、前期最終を一転赤字に下方修正6/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2889b4dfaf11df938b14c993932f175b66b25a82",
       "type": "down",
       "code": "",
       "pub": "",
@@ -81,8 +81,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (06月25日)6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/76a939d5a7d90e2a25065c1323a8a5363934f411",
+      "title": "【決算速報】西松屋チェ、3-5月期(1Q)経常は6％増益で着地6/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b21a384f043d328222d871419903425b5c465045",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -90,35 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ニレコ、株式分割に伴い配当予想を修正6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c570ad97fcad761a4098a01afbf2328ed87aef05",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ニレコ、27年03月年間1株配当35円。6/25アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/cbc8acdc5c98daed509434c0e351111a3b995640",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ワキタ、上期配当を50円実施6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/db27f0a278f7dba9c38bffb73e3696cb4e38c35f",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞瑞光、２７年２月期第１四半期決算は純損益１．８億円の赤字6/25ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/4fe543982411bbb04309aaf307d61f0fc99a9c48",
+      "title": "＜決算速報＞西松屋チェ、２７年２月期第１四半期決算は純損益３７．６億円の黒字6/26ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/f21534e7c3ba00a11e70f485fab9ea40f60b423d",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -126,8 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ファマライズ、２６年５月期決算は純損益１．１億円の黒字6/25ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/e975922d8a1e702cb083813ef39fedc0b61ae811",
+      "title": "【決算速報】西松屋チェーン、1Q経常5,471百万。6/26アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/fa90b05b3ebf435069c218e93017f880bfaeac5c",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -135,8 +108,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ＹＥＤＩＧＩ、２７年２月期第１四半期決算は純利益２５．１％減の大幅減益6/25ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/e62f4f5bc8c9a241a2b81fc6d3d469a612b6870d",
+      "title": "【決算速報】エムアップ、非開示だった今期経常は10％増で8期連続最高益更新へ6/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8a302d1fa5c745f206fbae7c948e7f0e7b4b7c12",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -144,35 +117,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】パソナＧ、前期経常を92％下方修正6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/80e50fc4697eedfdab308bfec76b45ec1770c885",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】クロスＥ、今期経常を30％下方修正6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b800c0aa7674a7254a60e440343a30cc3ed6254b",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ファマライズ、前期最終が下振れ着地・今期は90％減益へ6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/382cbd5e368a8c70a2cca6de44dcaa35385c7e63",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＹＥデジタル、3-5月期(1Q)経常は11％減益で着地6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/79916d7d4fbd2d688d100fb82913c729dc25913f",
+      "title": "＜決算速報＞ＮａＩＴＯ、２７年２月期第１四半期決算は純利益４．４倍6/26ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/ea41b3bcc994a8fafd9df1f258972e2e43e7bd72",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -180,8 +126,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】瑞光、3-5月期(1Q)経常は赤字拡大で着地6/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a0323acfb678aee080ddae6f4d1e480f58b3a8e1",
+      "title": "【決算速報】ＮａＩＴＯ、3-5月期(1Q)経常は4.4倍増益で着地6/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f47c0c226d93208c677aa2b47aa4cdffe339f764",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＮａＩＴＯ、1Q経常345百万。6/26アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/ffebf514967372674ddfea53873276fba4a09a3e",
       "type": "earn",
       "code": "",
       "pub": "",
