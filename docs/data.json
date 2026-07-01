@@ -1,151 +1,25 @@
 {
-  "updated": "2026/07/01 08:03",
-  "date": "2026-07-01",
+  "updated": "2026/07/02 08:04",
+  "date": "2026-07-02",
   "count": {
-    "up": 2,
+    "up": 6,
     "down": 0,
-    "div": 0,
-    "earn": 18
+    "div": 3,
+    "earn": 10
   },
   "items": [
     {
-      "title": "【決算速報】岡谷鋼機<7485>---27年2月期1Qは増益、経常利益は19.8％増6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0d7858a2e78daae83bd247f296c2e3230322f27a",
+      "title": "【決算速報】良品計画<7453>---26年8月期2Qは増益、経常利益は35.5％増7/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/0b5b8d02780534074e623bd3beea726629e1bd52",
       "type": "earn",
-      "code": "7485",
+      "code": "7453",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ベビーカレンダー、経常204百万。事前予想を上回る6/30アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/b54f4ccd949c4f2f379cddbeb3fc50a07a4634a1",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ベビカレ、今期経常は50％減益へ（訂正）6/30株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/622a2c8e380cf70f8cbeaedb4302e7a204d634b0",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スローガン<9253>---27年2月期1Qは増益、経常利益は3.8％増6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/195cde3aa6980200e98bfa5c5a8ee426f15955f3",
-      "type": "earn",
-      "code": "9253",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】高島屋<8233>---27年2月期1Qは増益、経常利益は43.3％増6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7a145edc5820a4d9c6cb978ca628eb4882677414",
-      "type": "earn",
-      "code": "8233",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】クラウディア<3607>---26年8月期3Qは増益、経常利益は60％増6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/57c5d79318a30e7b87ba6cc9708a5b42c5ba16b2",
-      "type": "earn",
-      "code": "3607",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｊフロント<3086>---27年2月期1Qは減益、経常利益は12.3％減6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/60ac44b2ab81f6836b0dbfe1edc6bcc1e1adc9b5",
-      "type": "earn",
-      "code": "3086",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】テクノアルファ<3089>---26年11月期2Qは減益、経常利益は16％減6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6ac230168760e98499e1774ce31a3803e199c977",
-      "type": "earn",
-      "code": "3089",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スター・マイカ・ホールディングス<2975>---26年11月期2Qは増益、経常利益は79.2％増6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f648a644165576fc3fb89acedffe69e100b03f39",
-      "type": "earn",
-      "code": "2975",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ピックルスＨＤ<2935>---27年2月期1Qは増益、経常利益は12.1％増6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/bb1b8ee818cbf842532fa5dae5154cd3a5ba2527",
-      "type": "earn",
-      "code": "2935",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アンドST<2685>---27年2月期1Qは増益、経常利益は48.4％増6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/5975581a85d262f56234e361aa4342a536f10695",
-      "type": "earn",
-      "code": "2685",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】インテグループ<192A>---26年5月期は減益、経常利益は73.8％減6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/bfead282e89fd56ff16014070f4fc8ca4bd267cf",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＮＰＣ<6255>---26年8月期2Qは減益、経常利益は97.7％減6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/41f798b4bd0b47ad58f74d569a17dbe217674622",
-      "type": "earn",
-      "code": "6255",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】マルマエ<6264>---26年8月期2Q6/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/dcb1b7f1d0af86dbb4cae9a08b2d318bf9002244",
-      "type": "earn",
-      "code": "6264",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (06月30日)6/30株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d8b7b2d6df7c6815ef83575945972a36349f47b6",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】小津産業、前期経常を21％上方修正6/30株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/298812848057132651b9110336a7e5c21ced4f4f",
+      "title": "【決算速報】平山、前期経常を32％上方修正・最高益予想を上乗せ7/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b9ca737ab13bebcee5efb583be0f7d30dcb394cc",
       "type": "up",
       "code": "",
       "pub": "",
@@ -153,8 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＣＡＮＢＡＳ、非開示だった今期最終は赤字拡大へ6/30株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/daae5ceb3a331e1325bf1397707e6182d493fc72",
+      "title": "★本日の【サプライズ決算】速報 (07月01日)7/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bbfb20688c74f33139481001a4b6661d84d6e550",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -162,31 +36,148 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞岡谷鋼機、２７年２月期第１四半期決算は純利益３３．１％増の大幅増益6/30ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/f9817086e4219e8bed2c2b3b3702e69cdcfdd469",
+      "title": "【決算速報】アイドマＨＤ<7373>---26年8月期2Qは増益、経常利益は1.4％増7/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/fa03745706187f32471858137a5d1cc846981a2d",
       "type": "earn",
-      "code": "",
+      "code": "7373",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】岡谷鋼機、3-5月期(1Q)経常は20％増益で着地6/30株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/684ab04b4fcb733539742f512467759eee1a7dfa",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】バローＨＤ、今期配当を実質増額修正6/30株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/912bb10f4cf0e4215467f7f4e023e319453664c1",
+      "title": "【決算速報】テンポスＨＤ、今期経常を2％上方修正・最高益予想を上乗せ7/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/edbbb2e49679139e38f33fa96c392f3cc2731a87",
       "type": "up",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＨＫＳ<7219>---26年8月期2Qは増益、経常利益は33.3％増7/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4f4838b843ccf8696e0733b041137a815aee1070",
+      "type": "earn",
+      "code": "7219",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日フイルコン<5942>---26年11月期2Qは増益、経常利益は189.1％増7/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a548b0a40582e6d5e848b1226aa2f47dda220705",
+      "type": "earn",
+      "code": "5942",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＫＴＫ<3035>---26年8月期3Qは増益、経常利益は24.9％増7/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f53b9e8cd5ce12d326e007d8675290f09462fca1",
+      "type": "earn",
+      "code": "3035",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＱＰＳＨＤ、前期経常を83％上方修正7/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5660ba252cd6c3810604b3b213b8abb4378fccbe",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アイビー、今期経常を65％上方修正7/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2e5c74a35ac8e56f30758b75a19e2aaf7e425194",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "地域新聞社：決算速報から今期の利益実力値は1～2億円に見える、株価は2～4倍も7/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/433acf686297894d8d595009efe640e0e677c7cd",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】酉島、今期最終を一転19％増益に上方修正・3期ぶり最高益、配当も4円増額7/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/78a8e70e3a90f6c915829018bffba23792726547",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】酉島製作所、27年03月年間1株配当68円。7/1アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/8a91db4f881363fee29515cf764da4e228579c88",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＣＲＧＨＤ、未定だった今期配当は9円実施7/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/33e30c70f5514fbb9c7a07df89f2e7b1b97b5f95",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＣＲＧＨ、26年09月年間1株配当9円。7/1アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/00e80462f458f99ac7c81a3723be28333c9b512c",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】プラズマ<6668>---26年8月期2Qは減益、経常利益は22.6％減7/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/268631cb1f1442fca83852d8570e1678d5baa9b1",
+      "type": "earn",
+      "code": "6668",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞フイルコン、２６年１１月期第２四半期決算は純利益８８．１％増の大幅増益7/1ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/229056769619c333a6dbcb3d92bed2a3cadd32ea",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "鈴木彩艶も輩出…W杯日本代表7人を生んだベルギーの無名クラブ、日本企業が選手の価値と「移籍金」を引き上げたワケ(東洋経済オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/789a0976b7f2bbf898dacf31831953ff035bb8f5?source=rss",
+      "type": "up",
+      "code": "",
+      "pub": "Wed, 01 Jul 2026 23:00:55 GMT",
+      "desc": "　今夏のワールドカップで躍進した日本代表。その代表選手26名のうち7名が、ベルギーの小都市に本拠を置く「シント=トロイデンVV(STVV)」というクラブの所属もしくは出身だ。そして、驚くべきことに、こ",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "【第2のキオクシアを探せ】売上高1兆円超えの半導体検査装置メーカー・アドバンテスト　成長鈍化に見えかねない業績予想を“高成長の終焉”と判断するのは早計(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/1fe972c315efb787a4d592d31d103d2bba1817d3?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Wed, 01 Jul 2026 22:15:00 GMT",
+      "desc": "　最高値圏にある日経平均株価だが、激しい値動きも目立つ。その主因となっているのが、急騰で注目を集めたキオクシアホールディングスなどのAI・半導体関連銘柄の動きだ。半導体テスタ（検査装置）で高い世界シェ",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
