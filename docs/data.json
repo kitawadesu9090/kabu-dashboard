@@ -1,115 +1,115 @@
 {
-  "updated": "2026/07/07 07:59",
-  "date": "2026-07-07",
+  "updated": "2026/07/08 07:53",
+  "date": "2026-07-08",
   "count": {
-    "up": 0,
+    "up": 1,
     "down": 0,
     "div": 0,
-    "earn": 19
+    "earn": 20
   },
   "items": [
     {
-      "title": "【決算速報】アルテック<9972>---26年11月期2Qは黒字転換、経常利益は2億9900万円7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/57bfce5217aa4462a54265ab69d1a43a769a37ce",
+      "title": "【決算速報】京進<4735>---27年2月期1Q7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a01ceee7cee3f7980405cdad63f8347a0b320e1d",
       "type": "earn",
-      "code": "9972",
+      "code": "4735",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ジャパニアス<9558>---26年11月期2Qは減益、経常利益は29.1％減7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ec92bc7460ba72ee18534ecf23c1ec28051a4a34",
+      "title": "【決算速報】ココルポート<9346>---26年6月期3Qは増益、経常利益は18.5％増7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/30b79b97acfb8703ce39b6a0174cb4f5c5119dae",
       "type": "earn",
-      "code": "9558",
+      "code": "9346",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】薬王堂ＨＤ<7679>---27年2月期1Qは減益、経常利益は8.5％減7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8056571fd5e98b9bcf8e0aa97d8e4ef99437e001",
+      "title": "【決算速報】ＣＳＰ<9740>---27年2月期1Qは増益、経常利益は6％増7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/3812503a3f0b0aef248cfafe36e92f69d798b910",
       "type": "earn",
-      "code": "7679",
+      "code": "9740",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ミトラグループ<6093>---27年2月期1Qは増益、経常利益は175.2％増7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3c3955e2cf06c05d971f8ed5b741f7ca3ecad9b4",
+      "title": "【決算速報】ｎｏｔｅ<5243>---26年11月期2Qは黒字続く、経常利益は前期と同じ7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9ff91952cf35964f2569cb8466c59c86e9b335bc",
       "type": "earn",
-      "code": "6093",
+      "code": "5243",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ミタチ<3321>---26年5月期は増益、経常利益は28.5％増7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/23f1e2b6eaf3a94f7a44e8f71030a21e73afe490",
+      "title": "【決算速報】放電精密<6469>---27年2月期1Qは増益、経常利益は50.8％増7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/51fbab980922e44347d885173917b9e244e8ab64",
       "type": "earn",
-      "code": "3321",
+      "code": "6469",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ネクステージ<3186>---26年11月期2Qは黒字続く、経常利益は前期と同じ7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/858df6c8d258fe575112ad1587b7afe691a0f474",
+      "title": "【決算速報】わらべ日洋<2918>---27年2月期1Qは減益、経常利益は22.1％減7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4f1a9cf152b261202b4ffd5a41a5fbdcc5ebd3ea",
       "type": "earn",
-      "code": "3186",
+      "code": "2918",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＵＳＭＨ<3222>---27年2月期1Qは赤字転落、経常損益は▲8億2300万円7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/18b44cf632cb65ffdc41be0b633292daf9119515",
+      "title": "【決算速報】フェリシモ<3396>---27年2月期1Qは黒字転換、経常利益は1500万円7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6ad8351574a94093306f3fade67fdf47073f114f",
       "type": "earn",
-      "code": "3222",
+      "code": "3396",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】カルラ<2789>---27年2月期1Qは増益、経常利益は10.3％増7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/56c8d022dbb01a398fd5fcde19e6c77082edd76d",
+      "title": "【決算速報】サーラ<2734>---26年11月期2Qは増益、経常利益は48.7％増7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/e321be2ea61743242778a95854844f4ec96cbec6",
       "type": "earn",
-      "code": "2789",
+      "code": "2734",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】きょくと<2300>---27年2月期1Qは減益、経常利益は13.3％減7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/160159e0dd07c9fa530d615b5282ece23c53444a",
+      "title": "【決算速報】ハニーズHD<2792>---26年5月期は減益、経常利益は18.9％減7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/80d554d79f7bfbf6a54530020a192b26ee5d6882",
       "type": "earn",
-      "code": "2300",
+      "code": "2792",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＷＴＯＫＹＯ<9159>---26年6月期3Qは増益、経常利益は111.7％増7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3b29123e7a1a3668651b32dbc70c69e48dbdaa44",
+      "title": "【決算速報】サンエー<2659>---27年2月期1Qは増益、経常利益は12.8％増7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bb58ca57469632979ac3d6f061796fdba3c65a83",
       "type": "earn",
-      "code": "9159",
+      "code": "2659",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ブリーチ<9162>---26年6月期3Q7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8f4200fedf6005ec8fa9ed59491b945012d15493",
+      "title": "【決算速報】アソインターナショナル<9340>---26年6月期3Qは増益、経常利益は20.4％増7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/cc03123964268f6473e23b9d1130aa7fbad1f4bf",
       "type": "earn",
-      "code": "9162",
+      "code": "9340",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (07月06日)7/6株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b7ba5f3250dea6b5b23a896c854f67e667a20cc9",
+      "title": "★本日の【サプライズ決算】速報 (07月07日)7/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3f2fb25b86b2cd360ec3544177d4dbb1763b6fdd",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,17 +117,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ゼロ<9028>---26年6月期3Qは減益、経常利益は2.6％減7/6フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f96efa48e12c7c63ab15b307c295dcbc03a4258f",
+      "title": "【決算速報】パルＨＤ<2726>---27年2月期1Qは増益、経常利益は1.1％増7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/97b16f3390f0b91a800f224710810b9d22cb884e",
       "type": "earn",
-      "code": "9028",
+      "code": "2726",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アルテック、上期経常が黒字浮上で着地・3-5月期も黒字浮上7/6株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9d333ed8abaecbc5c64a03ef5e56b5f8f4e929d7",
+      "title": "【決算速報】京進、3-5月期(1Q)経常は3.6億円の赤字で着地7/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3570505d6c9175cff0abf0d7351f518d211d7e86",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -135,8 +135,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞アルテック、２６年１１月期第２四半期決算は純利益５．７倍7/6ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/495f95a22d57557686386c18eac3e5d41df1cc68",
+      "title": "＜決算速報＞京進、２７年２月期第１四半期決算は純損益１．７億円の赤字7/7ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/5346e496f2fcb11e4c9790bd4d4a528f0e0563f7",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -144,8 +144,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アルテック、中間経常299百万。7/6アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7822fddd778b23856a6f6b4c43cfad21900d3b2b",
+      "title": "【決算速報】京進、1Q経常-363百万。アナリスト予想を下回る7/7アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/09bca9f47e79947ff1d9d16a014dd24e46543926",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -153,8 +153,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】きょくとう、3-5月期(1Q)経常は13％減益・上期計画を超過7/6株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7cbd3c6075f0ff86a471b02b1fae3c3c563e7e32",
+      "title": "【決算速報】日本プロセス、経常19%増益。事前予想を上回る7/7アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/86adb47fb1fa2f37124065b3c1c72ab097b37e50",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -162,8 +162,17 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞きょくと、２７年２月期第１四半期決算は純利益１０．７％減の２ケタ減益7/6ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/41cce06b4c25491dd74eeaf1003b5c630b0cff4d",
+      "title": "【決算速報】日本プロセス、今期経常は10％増で3期連続最高益、16円増配へ7/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e147d6b09837b6e518ae1cc811cccc792837b5ff",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞日プロ、２６年５月期決算は純利益２３．０％減の大幅減益7/7ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/8a5064095e6683b832a52702e2ce13b34d2acb9a",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -171,13 +180,22 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】きょくとう、1Q経常383百万。7/6アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/92c028a7ff6d1317a669add5499fa805efae3edc",
+      "title": "【決算速報】コーア商事HD<9273>---26年6月期3Qは増益、経常利益は3％増7/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/3337584f986e9d76140c510923687cd2f5becfa8",
       "type": "earn",
-      "code": "",
+      "code": "9273",
       "pub": "",
       "desc": "",
       "source": "yahoo"
+    },
+    {
+      "title": "丸亀製麺、「すみっコぐらし」とのコラボで“夏商戦”へ。好業績を背景に顧客層拡大を狙う。限定グッズも話題(ハフポスト日本版)",
+      "link": "https://news.yahoo.co.jp/articles/6bd4d4db5801673dd996dc41b98ec0bdf3ea4ea8?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 07 Jul 2026 22:40:22 GMT",
+      "desc": "トリドールHDは7月6日、傘下のうどん専門店「丸亀製麺」において、人気キャラクター「すみっコぐらし」との期間限定コラボレーションキャンペーンを7月14日から実施すると発表した。\n\nキャンペーンでは、「",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
