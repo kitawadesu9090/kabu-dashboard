@@ -1,210 +1,192 @@
 {
-  "updated": "2026/07/14 07:48",
-  "date": "2026-07-14",
+  "updated": "2026/07/15 07:49",
+  "date": "2026-07-15",
   "count": {
-    "up": 1,
-    "down": 1,
+    "up": 0,
+    "down": 0,
     "div": 0,
     "earn": 20
   },
   "items": [
     {
-      "title": "【決算速報】津田駒工<6217>---26年11月期2Qは赤字縮小、経常損益は▲8700万円7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/fd2f9f9e7735bea22eebe3f13e1a7dff0b216e49",
+      "title": "【決算速報】ラピーヌ<8143>---27年2月期1Qは赤字縮小、経常損益は▲6400万円7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/08e56b863c937dc1899a5cdf6d0aa128e31bef5e",
       "type": "earn",
-      "code": "6217",
+      "code": "8143",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】歌舞伎<9661>---27年2月期1Qは増益、経常利益は18.8％増7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c1c0d1818527defff74f4b632cd9e9a172901af3",
+      "title": "【決算速報】日本色材<4920>---27年2月期1Qは増益、経常利益は3.8％増7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/163b584956a5ea371a9a7d6086a6bf383682fe0c",
       "type": "earn",
-      "code": "9661",
+      "code": "4920",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】UNEXT<9418>---26年8月期3Qは減益、経常利益は0.9％減7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8df7b6b6418dbeee6786e659470d12a4b9ab5d17",
+      "title": "【決算速報】メディアドゥ<3678>---27年2月期1Qは減益、経常利益は69.7％減7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6e9b17a25a043ff2a2be90dc4967e9817913a1cc",
       "type": "earn",
-      "code": "9418",
+      "code": "3678",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大和<8247>---27年2月期1Qは減益、経常利益は7％減7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/9be57ecec1402bca3a8f97c5f06c59d1f8b6461b",
+      "title": "【決算速報】クリレスＨＤ<3387>---27年2月期1Qは増益、経常利益は7.7％増7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6b46316471a2ef1e79477eba8a6e6d60fac7e413",
       "type": "earn",
-      "code": "8247",
+      "code": "3387",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】東天紅<8181>---27年2月期1Qは減益、経常利益は7.2％減7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/43f8f330e8c6e75251c4edde55274ab33ab7e220",
+      "title": "【決算速報】フライヤー<323A>---27年2月期1Q7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/1e9570e9f960142c2e7bc913c3a0474726c1ee8c",
       "type": "earn",
-      "code": "8181",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アステナHD<8095>---26年11月期2Qは黒字続く、経常利益は前期と同じ7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/e3f6b52cb0550bd03fdd66955d1db3be315873b5",
-      "type": "earn",
-      "code": "8095",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】コジマ<7513>---26年8月期3Qは増益、経常利益は30.7％増7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7445ca06f5ff5df4ac88479cbb4cfaee34b15da3",
-      "type": "earn",
-      "code": "7513",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ツインバード<6897>---27年2月期1Qは黒字転換、経常利益は9000万円7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/cdaea7c5a16888f83edcaf586c1c3add0c2af1d0",
-      "type": "earn",
-      "code": "6897",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】カーブスHD<7085>---26年8月期3Qは増益、経常利益は18.4％増7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/faee5a80802342b2bb30627f4454a1a86f7b6bc4",
-      "type": "earn",
-      "code": "7085",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】GMOプラ<5250>---26年12月期2Q7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/169c967e50cca2d3a50471347cb935944a628e2c",
-      "type": "earn",
-      "code": "5250",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ミクロン精密<6159>---26年8月期3Qは増益、経常利益は28.5％増7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d80e742f4021833c5275311cdd9815285559de8c",
-      "type": "earn",
-      "code": "6159",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ニイタカ<4465>---26年5月期は増益、経常利益は13.5％増7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/142f563239b4883dadd4b5503890cba691d7e451",
-      "type": "earn",
-      "code": "4465",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ワンプラ<4199>---26年8月期3Qは赤字縮小、経常損益は▲1億8300万円7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a46e35e728d00d6a865f4a273b00cc28817b7d5f",
-      "type": "earn",
-      "code": "4199",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Sansan<4443>---26年5月期は増益、経常利益は197.8％増7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/fbc66c08a60e48b45d6a5c4d3b3bcb150f35c7db",
-      "type": "earn",
-      "code": "4443",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】マネーフォワード<3994>---26年11月期2Qは赤字縮小、経常損益は▲18億9700万円7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/53403d1a5ca5898abf508b3c8a5f4a3e578a03e9",
-      "type": "earn",
-      "code": "3994",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】エコモット<3987>---26年8月期3Qは赤字転落、経常損益は▲1億1000万円7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8ba240f601d2a4573f3dae0405948d7959ff4a5b",
-      "type": "earn",
-      "code": "3987",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】シイエヌエス<4076>---26年5月期は増益、経常利益は24％増7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a649cecdc985b25f91e92dc1fe709f9dc6c66755",
-      "type": "earn",
-      "code": "4076",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】コスモス薬品<3349>---26年5月期は増益、経常利益は3.4％増7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/e8fd942ab8a9b7bb9d4393adab6f7638257d88c6",
-      "type": "earn",
-      "code": "3349",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】シリコンスタ<3907>---26年11月期2Qは赤字転落、経常損益は▲1億8500万円7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/275ef8a97c45bfd968dceaaee39861c60dbc2c1c",
-      "type": "earn",
-      "code": "3907",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】クリエイトＳＤ<3148>---26年5月期は増益、経常利益は7.8％増7/13フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/90285fe9a1a2b2b4a1da9d894e1a9b30fea65b44",
-      "type": "earn",
-      "code": "3148",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【H&#038;M超えで世界2位へ】ユニクロ運営のファーストリテイリングが上方修正で売上4兆円へ　事業構造を分析して見えてきた“世界首位・ZARAとの距離”(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/9c843f688c1e99f00ba4adaa36a0ec3289a1e568?source=rss",
-      "type": "up",
       "code": "",
-      "pub": "Mon, 13 Jul 2026 22:15:00 GMT",
-      "desc": "　ユニクロを展開するファーストリテイリングが7月9日、2026年8月期の業績見通しの上方修正を発表した。売上収益は3兆9700億円の見通しとなり、スウェーデンのH&#038;Mを抜いて衣料品の製造小売",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     },
     {
-      "title": "維新の掲げる“医療費削減で社会保険料引き下げ” の背後に見える財務省の存在　「OTC類似薬の保険適用除外」や「後期高齢者の窓口負担3割」など国民の医療費負担増を画策か(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/2cd5bd03baf4ee84392d0113699c76dde52cf82d?source=rss",
-      "type": "down",
+      "title": "【決算速報】ラピーヌ、1Q経常-64百万。7/14アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/96efea4bcdd23d1f2e17ef6477a7989a6003ee15",
+      "type": "earn",
       "code": "",
-      "pub": "Mon, 13 Jul 2026 22:02:00 GMT",
-      "desc": "　高市政権が実現を目指す消費税減税議論が混迷を極め、来年4月実施に間に合わない可能性が出てきている。その代わりとばかりに出てきたのが「社会保険料引き下げ」の議論だ。国民負担が軽減されるものと思うかもし",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ヤマザワ<9993>---27年2月期1Qは増益、経常利益は3.8％増7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/b862cbc21c85aef745c345a1d99285f1c0e2f30f",
+      "type": "earn",
+      "code": "9993",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ポエック<9264>---26年8月期3Qは減益、経常利益は4.4％減7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/729962661a9b890ec05e5f2a38ac978eb5dc9894",
+      "type": "earn",
+      "code": "9264",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】関通ホールディングス<9326>---27年2月期1Qは黒字転換、経常利益は7600万円7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/2362ec85e1f98c570c2dcf522d5ae6ceb33efe6e",
+      "type": "earn",
+      "code": "9326",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】キャスター<9331>---26年8月期3Qは黒字転換、経常利益は2800万円7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bfe85ad4a91110c6712350ddc3a0903cb508ad12",
+      "type": "earn",
+      "code": "9331",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ライズ<9168>---27年2月期1Qは減益、経常利益は52％減7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/788f2ac903819a98c2708a9539a524f2118fd6c1",
+      "type": "earn",
+      "code": "9168",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アバンティア<8904>---26年8月期3Qは黒字転換、経常利益は1億5300万円7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/986bd8e3a2ae887369f914c634f2d4d2c284c6b5",
+      "type": "earn",
+      "code": "8904",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】イズミ<8273>---27年2月期1Qは増益、経常利益は12.9％増7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/fd0b045d1b2cdea5085650686179dc5d0612e0e0",
+      "type": "earn",
+      "code": "8273",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】松屋<8237>---27年2月期1Qは増益、経常利益は26.5％増7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d30f1c56f1e476b1acd290804effc0be88227bb1",
+      "type": "earn",
+      "code": "8237",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】グラファイトＤ<7847>---27年2月期1Qは黒字転換、経常利益は2億1400万円7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ccbb37396659d7abfde7b9b26843330b0e5ad1c8",
+      "type": "earn",
+      "code": "7847",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】三光合成<7888>---26年5月期は増益、経常利益は22.3％増7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/65cde9f7f71af9149fd6e8e2bbec0fb8625beb4f",
+      "type": "earn",
+      "code": "7888",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】丸東産<7894>---27年2月期1Qは増益、経常利益は137.7％増7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/514aa9cb7ab9e55b0fc680a8153877f384e43590",
+      "type": "earn",
+      "code": "7894",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＩＤＯＭ<7599>---27年2月期1Qは増益、経常利益は9.1％増7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ecdc83b64c2be4ab3bd823954bdca883fc4db810",
+      "type": "earn",
+      "code": "7599",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】エコス<7520>---27年2月期1Qは減益、経常利益は1.5％減7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c31ebe84c54528bc99fef7b87a0f786284c77568",
+      "type": "earn",
+      "code": "7520",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】コパ<7689>---27年2月期1Qは赤字縮小、経常損益は▲2100万円7/14フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a1af077cea4d5ca515db83a5e6baa6d035171f40",
+      "type": "earn",
+      "code": "7689",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     }
   ],
   "schedule": []
