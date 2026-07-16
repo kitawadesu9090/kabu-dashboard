@@ -1,79 +1,34 @@
 {
-  "updated": "2026/07/16 07:51",
-  "date": "2026-07-16",
+  "updated": "2026/07/17 07:50",
+  "date": "2026-07-17",
   "count": {
     "up": 1,
     "down": 0,
     "div": 0,
-    "earn": 17
+    "earn": 15
   },
   "items": [
     {
-      "title": "【決算速報】ＦＬＮ<9241>---26年8月期3Qは赤字拡大、経常損益は▲6700万円7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b92a55a75345a594cff09f18f19498fc1d1c7f04",
+      "title": "【決算速報】CSランバー<7808>---26年5月期は減益、経常利益は40.4％減7/16フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/b8eeddfd227b715d34edf655d90e5ed7b978ce14",
       "type": "earn",
-      "code": "9241",
+      "code": "7808",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】シンメンテ<6086>---27年2月期1Qは増益、経常利益は5.3％増7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/9a77b5b82c57f5c5db97ae4135cb8ec9f56d19ff",
+      "title": "【決算速報】スーパーツール<5990>---27年3月期1Qは減益、経常利益は16.9％減7/16フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/1c6997d955e6ba86f28104ff83c390fb0e27065d",
       "type": "earn",
-      "code": "6086",
+      "code": "5990",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】三機サービス<6044>---26年5月期は増益、経常利益は15％増7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2474930831585adb8cf0d42f050255405816753a",
-      "type": "earn",
-      "code": "6044",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ユニシアHD<3547>---26年11月期2Qは増益、経常利益は6.4％増7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b73d81f7fbce141ce24045f4b96423b15e4d4ba9",
-      "type": "earn",
-      "code": "3547",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｕ＆Ｃ<3557>---27年2月期1Qは赤字転落、経常損益は▲1200万円7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4ad1c8e691838cbed657e1b47f863c8b6bd1344e",
-      "type": "earn",
-      "code": "3557",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ANAPHD<3189>---26年8月期3Q7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/cadcaa6c2144f5678243ad774fb01bf06d8c6df6",
-      "type": "earn",
-      "code": "3189",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アキテクツＳＪ<6085>---27年3月期1Q7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/19130a94430ce158ba33f234ef2428b92920ac8a",
-      "type": "earn",
-      "code": "6085",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】オーバーラップ<414A>---26年8月期3Q7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/102169f08d7656b2839def7cbe2cb763ccbc713a",
+      "title": "★本日の【サプライズ決算】速報 (07月16日)7/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/dcf0f0690349d683362868603720e945e6dcbff3",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,93 +36,120 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大庄<9979>---26年8月期3Qは減益、経常利益は16.6％減7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b60b9176ee97e186e54a961dfc1152c760cc6f86",
+      "title": "【決算速報】ＡＰＩ、今期経常は2％増益へ7/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2b2785508991354d5aa6ed0f543e4be8924bdcea",
       "type": "earn",
-      "code": "9979",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】文教堂ＨＤ<9978>---26年8月期3Qは増益、経常利益は15.4％増7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a86e4b9265fe8719914effb2e703975723d06d24",
+      "title": "【決算速報】スーパツール、4-6月期(1Q)最終は赤字転落で着地7/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f3411de05fe1fec09bf05aeba696884721dd4568",
       "type": "earn",
-      "code": "9978",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】昴<9778>---27年2月期1Qは赤字拡大、経常損益は▲1億400万円7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/181b70a0869f282a1474eda2b3932eb093eae01a",
+      "title": "【決算速報】平和不リート、今期経常は39％減益へ7/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bd41307bee2c0fda62b4211c58d04e81782b6f22",
       "type": "earn",
-      "code": "9778",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＧＲＣＳ<9250>---26年11月期2Qは赤字続く、経常損益は▲1億900万円7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/26b56d9bd47d8bee7de4986e6f47941e85edf186",
+      "title": "＜決算速報＞スパツール、２７年３月期第１四半期決算は純損益６７００万円の赤字7/16ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/8e7b3f8dab491f7c589c0c0f01e426fe00b3be8d",
       "type": "earn",
-      "code": "9250",
+      "code": "６７００",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】パパネッツ<9388>---27年2月期1Qは増益、経常利益は11.7％増7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ca94e3fd0bd6910cb204ea62187e01e55652e079",
+      "title": "【決算速報】スーパーツール、1Q経常77百万。7/16アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/c17a55c2649727da37bc57bf8a9b94a52b43c275",
       "type": "earn",
-      "code": "9388",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】シーラHD<8887>---26年5月期7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c8f360eccf14b904661c741eace11620f8faf6be",
+      "title": "【決算速報】ＣＳランバー、今期経常は27％増益へ7/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/85ae2d46e590f700e304f360d6a49de59e1d8473",
       "type": "earn",
-      "code": "8887",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】さいか屋<8254>---26年8月期3Qは減益、経常利益は36.6％減7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1bb8dd44bd26a853c077cbc9c6e3b70a16ae7178",
+      "title": "【決算速報】阪急阪神Ｒ、今期経常は1％減益へ7/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9904fe56b35885c50792d9a2547d3bd641729ee6",
       "type": "earn",
-      "code": "8254",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】リテールＰ<8167>---27年2月期1Qは減益、経常利益は21.9％減7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/aef3a97af7af2f55b6f6e86eb05dca354463f7d5",
+      "title": "【決算速報】プロロジスＲ、今期経常は1％増益へ7/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/000926b5b24d630f78aead55ae58d95b0bdd35e3",
       "type": "earn",
-      "code": "8167",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】トランザク<7818>---26年8月期3Qは増益、経常利益は10.9％増7/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f25d4d956b79c37257f2a70ae9b2dbcb6e8343e4",
+      "title": "＜決算速報＞ＣＳランバー、２６年５月期決算は純利益４０．１％減の大幅減益7/16ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/431d05fa6537e632a3c09fd351603cf27f89941d",
       "type": "earn",
-      "code": "7818",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "「日本の土木技術の勝利」まで進捗率90％超え「早く開通見込みを」 事業費は増額「三遠南信道」最新状況があきらかに(乗りものニュース)",
-      "link": "https://news.yahoo.co.jp/articles/ad2c84937a116dff9735b502edac66fef0aaa678?source=rss",
+      "title": "【決算速報】シーエスランバー、経常40.4%減益。事前予想を下回る7/16アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/68f1401e84b0e4106147e8157e37c0ef331f4d58",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ホリイフード<3077>---26年11月期2Q7/16フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/16abcd591704a2ef5d6107a88535ea9ed9bfb648",
+      "type": "earn",
+      "code": "3077",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】パラカ、今期経常を一転6％減益に下方修正、配当は2円増額7/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6c0ed32f203353e054c16840d9a9d8423091bd81",
       "type": "up",
       "code": "",
-      "pub": "Wed, 15 Jul 2026 22:42:00 GMT",
-      "desc": "　中央道と新東名高速を南北に結ぶ高規格道路「三遠南信自動車道」。長野県飯田市と静岡県浜松市のあいだ約100kmのうち、2026年3月に愛知県内で新規区間が開通し、新東名側は約28kmが1本につながるな",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【吉野家】営業利益2.4倍の好決算！ 長年のレンジ相場を今度こそ上抜けられるか？(MONEY PLUS)",
+      "link": "https://news.yahoo.co.jp/articles/4dbb2390984daca70e5f948c57f8befc740c33f5?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Thu, 16 Jul 2026 22:30:23 GMT",
+      "desc": "牛丼でおなじみの吉野家ホールディングス（9861）の株価が、いよいよ大きな節目に差しかかっています。7月8日に発表した第1四半期決算が市場の予想を上回る好内容となり、翌日には年初来高値を更新。数年にわ",
       "source": "yahoo_news"
     }
   ],
