@@ -1,43 +1,34 @@
 {
-  "updated": "2026/07/17 07:50",
-  "date": "2026-07-17",
+  "updated": "2026/07/20 07:42",
+  "date": "2026-07-20",
   "count": {
     "up": 1,
     "down": 0,
-    "div": 0,
-    "earn": 15
+    "div": 3,
+    "earn": 12
   },
   "items": [
     {
-      "title": "【決算速報】CSランバー<7808>---26年5月期は減益、経常利益は40.4％減7/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b8eeddfd227b715d34edf655d90e5ed7b978ce14",
+      "title": "【決算速報】アルインコ<5933>---27年3月期1Qは増益、経常利益は25.5％増7/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/89c9086875962eb0e5c4152bd5e5321326057268",
       "type": "earn",
-      "code": "7808",
+      "code": "5933",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スーパーツール<5990>---27年3月期1Qは減益、経常利益は16.9％減7/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1c6997d955e6ba86f28104ff83c390fb0e27065d",
+      "title": "【決算速報】アジュバン<4929>---27年3月期1Qは黒字転換、経常利益は5100万円7/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/114952f099152fbf754b933f68f5fb8e258054b3",
       "type": "earn",
-      "code": "5990",
+      "code": "4929",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (07月16日)7/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/dcf0f0690349d683362868603720e945e6dcbff3",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＡＰＩ、今期経常は2％増益へ7/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2b2785508991354d5aa6ed0f543e4be8924bdcea",
+      "title": "★本日の【サプライズ決算】速報 (07月17日)7/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9da82a736c025aa25cc691e1a9f7999fad21d7d3",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,98 +36,44 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スーパツール、4-6月期(1Q)最終は赤字転落で着地7/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f3411de05fe1fec09bf05aeba696884721dd4568",
+      "title": "【決算速報】ゲンダイＡＧ<2411>---27年3月期1Qは減益、経常利益は34.8％減7/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/e41033dccfaea0040ad4f6ab8aaf645727e88a1a",
       "type": "earn",
+      "code": "2411",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】東製鉄<5423>---27年3月期1Qは赤字転落、経常損益は▲17億4300万円7/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/1fc7998a141ce95f8e262ba16e0844738b068810",
+      "type": "earn",
+      "code": "5423",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】精工技研、株式分割に伴い配当予想を修正7/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/401a45ff0c81600c178ea7296d8a2efb08b1516a",
+      "type": "div",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】平和不リート、今期経常は39％減益へ7/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bd41307bee2c0fda62b4211c58d04e81782b6f22",
-      "type": "earn",
+      "title": "【決算速報】精工技研、27年03月年間1株配当24円。7/17アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/e98d969c80b69a7085a2280f9d2d5c87a3a4a1ca",
+      "type": "div",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞スパツール、２７年３月期第１四半期決算は純損益６７００万円の赤字7/16ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/8e7b3f8dab491f7c589c0c0f01e426fe00b3be8d",
-      "type": "earn",
-      "code": "６７００",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スーパーツール、1Q経常77百万。7/16アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/c17a55c2649727da37bc57bf8a9b94a52b43c275",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＣＳランバー、今期経常は27％増益へ7/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/85ae2d46e590f700e304f360d6a49de59e1d8473",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】阪急阪神Ｒ、今期経常は1％減益へ7/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9904fe56b35885c50792d9a2547d3bd641729ee6",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】プロロジスＲ、今期経常は1％増益へ7/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/000926b5b24d630f78aead55ae58d95b0bdd35e3",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞ＣＳランバー、２６年５月期決算は純利益４０．１％減の大幅減益7/16ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/431d05fa6537e632a3c09fd351603cf27f89941d",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】シーエスランバー、経常40.4%減益。事前予想を下回る7/16アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/68f1401e84b0e4106147e8157e37c0ef331f4d58",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ホリイフード<3077>---26年11月期2Q7/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/16abcd591704a2ef5d6107a88535ea9ed9bfb648",
-      "type": "earn",
-      "code": "3077",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】パラカ、今期経常を一転6％減益に下方修正、配当は2円増額7/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6c0ed32f203353e054c16840d9a9d8423091bd81",
+      "title": "【決算速報】ホテルリート、今期経常を86％上方修正・最高益予想を上乗せ、分配金も403円増額7/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/36c1f87809099b3f13e526896e96fa14c84dc295",
       "type": "up",
       "code": "",
       "pub": "",
@@ -144,12 +81,75 @@
       "source": "yahoo"
     },
     {
-      "title": "【吉野家】営業利益2.4倍の好決算！ 長年のレンジ相場を今度こそ上抜けられるか？(MONEY PLUS)",
-      "link": "https://news.yahoo.co.jp/articles/4dbb2390984daca70e5f948c57f8befc740c33f5?source=rss",
+      "title": "【決算速報】アルインコ、4-6月期(1Q)経常は25％増益で着地7/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/416702cb5a97e0947016c8f18fff5e85aa869ea7",
       "type": "earn",
       "code": "",
-      "pub": "Thu, 16 Jul 2026 22:30:23 GMT",
-      "desc": "牛丼でおなじみの吉野家ホールディングス（9861）の株価が、いよいよ大きな節目に差しかかっています。7月8日に発表した第1四半期決算が市場の予想を上回る好内容となり、翌日には年初来高値を更新。数年にわ",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ソシラ物流、今期経常は1％減益へ7/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/618be5b6df75289e4a89c9b3e341ff7ce6092c89",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アジュバン、4-6月期(1Q)経常は黒字浮上で着地7/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8b8953d2ff5da118f603c21613a93be0c2b06f8f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ゲンダイ、4-6月期(1Q)経常は35％減益で着地7/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f5e5e4e925cc25b8f710e7a20c318d481ab853a1",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】大和オフィス、今期経常は18％減益へ7/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5af3e326d653d2a6d18cbc11f374ce2b1ed3f115",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ゲンダイＡＧ、２７年３月期第１四半期決算は純利益３５．７％減の大幅減益7/17ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/ce9accf858b370a0cc683579215caf76f9c488bf",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【50億円稼いだ父の教え】本当に買うべき「株」の見極め方…決算短信のチェックポイント・ベスト1(ダイヤモンド・オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/cfb0160f7cc037e94679928d5f6a4587b5372924?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Sun, 19 Jul 2026 22:21:18 GMT",
+      "desc": "　余命宣告を受けた医師 兼 個人投資家の父が愛娘に捧げる著書『50万円を50億円に増やした 投資家の父から娘への教え』（ダイヤモンド社）。4度の手術を経て、49歳で肺と肝臓へのがん転移が判明。主治医か",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "「配当金で年金を補うはずが…」新NISAで〈米国高配当株〉を買い続けた50代サラリーマン。「取得価格0円」で“強制退場”させられたワケ【CFPが解説】(THE GOLD ONLINE（ゴールドオンライン）)",
+      "link": "https://news.yahoo.co.jp/articles/2e3bedb145add2f3fb0159483197611580d92dc2?source=rss",
+      "type": "div",
+      "code": "",
+      "pub": "Sun, 19 Jul 2026 22:00:38 GMT",
+      "desc": "「老後の公的年金だけでは足りないから、米国高配当株からの配当金で不足分を補おう」と、堅実な発想で資産形成に取り組んでいたサラリーマンのTさん（50代・男性）。しかし、ある日突然、NISAの非課税メリッ",
       "source": "yahoo_news"
     }
   ],
