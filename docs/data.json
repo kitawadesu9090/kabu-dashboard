@@ -1,34 +1,34 @@
 {
-  "updated": "2026/07/21 07:50",
-  "date": "2026-07-21",
+  "updated": "2026/07/22 07:46",
+  "date": "2026-07-22",
   "count": {
-    "up": 1,
+    "up": 3,
     "down": 0,
-    "div": 2,
-    "earn": 12
+    "div": 0,
+    "earn": 9
   },
   "items": [
     {
-      "title": "【決算速報】アルインコ<5933>---27年3月期1Qは増益、経常利益は25.5％増7/17フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/89c9086875962eb0e5c4152bd5e5321326057268",
+      "title": "【決算速報】インソース<6200>---26年9月期3Qは増益、経常利益は4.6％増7/21フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/377422c9f26947cf5617c9ca174ee7eef2577db7",
       "type": "earn",
-      "code": "5933",
+      "code": "6200",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アジュバン<4929>---27年3月期1Qは黒字転換、経常利益は5100万円7/17フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/114952f099152fbf754b933f68f5fb8e258054b3",
+      "title": "【決算速報】ピーシーエー<9629>---27年3月期1Qは減益、経常利益は31％減7/21フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c59f1962b346be97b53aec85cf0c40520bfb18b2",
       "type": "earn",
-      "code": "4929",
+      "code": "9629",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (07月17日)7/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9da82a736c025aa25cc691e1a9f7999fad21d7d3",
+      "title": "★本日の【サプライズ決算】速報 (07月21日)7/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/749e5e50f4ff1c2edb6e205ab39437aa8f5ce0ac",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,44 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ゲンダイＡＧ<2411>---27年3月期1Qは減益、経常利益は34.8％減7/17フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/e41033dccfaea0040ad4f6ab8aaf645727e88a1a",
-      "type": "earn",
-      "code": "2411",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東製鉄<5423>---27年3月期1Qは赤字転落、経常損益は▲17億4300万円7/17フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1fc7998a141ce95f8e262ba16e0844738b068810",
-      "type": "earn",
-      "code": "5423",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】精工技研、株式分割に伴い配当予想を修正7/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/401a45ff0c81600c178ea7296d8a2efb08b1516a",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】精工技研、27年03月年間1株配当24円。7/17アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/e98d969c80b69a7085a2280f9d2d5c87a3a4a1ca",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ホテルリート、今期経常を86％上方修正・最高益予想を上乗せ、分配金も403円増額7/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/36c1f87809099b3f13e526896e96fa14c84dc295",
+      "title": "【決算速報】インソース、4-6月期(3Q)経常は13％増益、今期配当を5.5円増額修正7/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7b9cfe1c1a5d0a5dd8564c7f77c5aeb7da52bc3a",
       "type": "up",
       "code": "",
       "pub": "",
@@ -81,8 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アルインコ、4-6月期(1Q)経常は25％増益で着地7/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/416702cb5a97e0947016c8f18fff5e85aa869ea7",
+      "title": "＜決算速報＞インソース、２６年９月期第３四半期決算は純利益６．２％増7/21ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/a67a031d83aefc996b303cfeef8dc4db03530eb5",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -90,8 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ソシラ物流、今期経常は1％減益へ7/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/618be5b6df75289e4a89c9b3e341ff7ce6092c89",
+      "title": "【決算速報】インソース、3Q累計経常4,502百万。7/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/5ec3a73a6e7e305b36a12f5fc9afd9d0b2d62bb6",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,8 +63,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アジュバン、4-6月期(1Q)経常は黒字浮上で着地7/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8b8953d2ff5da118f603c21613a93be0c2b06f8f",
+      "title": "【決算速報】ＥＭシステム、上期経常を62％上方修正7/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bf618660784ec6352a1e8c53e3fb6ef29f87449b",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ザイン、上期最終を赤字縮小に上方修正、通期も増額7/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e38d2b2e93c77e08f1f768a509d75feb53ec94cf",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＰＣＡ、4-6月期(1Q)経常は31％減益で着地7/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ddbcea1d40ade6a6f14795cef97509335515434d",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -108,8 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ゲンダイ、4-6月期(1Q)経常は35％減益で着地7/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f5e5e4e925cc25b8f710e7a20c318d481ab853a1",
+      "title": "＜決算速報＞ピーシーエー、２７年３月期第１四半期決算は純利益４０．６％減の大幅減益7/21ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/db44589e85462e41012c88898ecdbaf7e0050385",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,8 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大和オフィス、今期経常は18％減益へ7/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/5af3e326d653d2a6d18cbc11f374ce2b1ed3f115",
+      "title": "【決算速報】ピー・シー・エー、1Q経常414百万。7/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/76878f998a2ea2bf6ecd1ed0cd278cfc7878785e",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -126,21 +108,12 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ゲンダイＡＧ、２７年３月期第１四半期決算は純利益３５．７％減の大幅減益7/17ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/ce9accf858b370a0cc683579215caf76f9c488bf",
+      "title": "【売上・営業利益は過去最高】AIサーバー専門商社ジーデップ・アドバンス　市場が注目する「エヌビディア特需」一服後に向かう先(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/e38fcf4d94a6b26ff3597780f111492071ccc842?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【フィジカルAIをどう事業化するか】国産AI連合「Noetra」に参画で注目の“産業用ロボット国内2強”の直近決算の明暗　ファナックは増収増益、安川電機は最終利益38％減の背景(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/bb717d2a887ae26e587030834baae17ef190eb5b?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Mon, 20 Jul 2026 22:15:00 GMT",
-      "desc": "　7月16日、国産のマルチモーダル基盤モデルを開発する「Noetra」が、国内企業44社から出資を受けて研究開発を本格始動したと発表した。マルチモーダル基盤モデルとは、文章だけでなく画像や動画、音声な",
+      "pub": "Tue, 21 Jul 2026 22:15:00 GMT",
+      "desc": "　ジーデップ・アドバンス（5885）は米半導体大手・エヌビディアの「エリートパートナー」として、同社製GPUを組み込んだAIサーバーを国内企業・大学に販売する専門商社だ。7月14日発表された2026年",
       "source": "yahoo_news"
     }
   ],
