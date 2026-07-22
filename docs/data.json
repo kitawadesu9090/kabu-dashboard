@@ -1,43 +1,16 @@
 {
-  "updated": "2026/07/22 07:46",
-  "date": "2026-07-22",
+  "updated": "2026/07/23 07:54",
+  "date": "2026-07-23",
   "count": {
-    "up": 3,
-    "down": 0,
+    "up": 4,
+    "down": 1,
     "div": 0,
-    "earn": 9
+    "earn": 14
   },
   "items": [
     {
-      "title": "【決算速報】インソース<6200>---26年9月期3Qは増益、経常利益は4.6％増7/21フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/377422c9f26947cf5617c9ca174ee7eef2577db7",
-      "type": "earn",
-      "code": "6200",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ピーシーエー<9629>---27年3月期1Qは減益、経常利益は31％減7/21フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c59f1962b346be97b53aec85cf0c40520bfb18b2",
-      "type": "earn",
-      "code": "9629",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (07月21日)7/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/749e5e50f4ff1c2edb6e205ab39437aa8f5ce0ac",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】インソース、4-6月期(3Q)経常は13％増益、今期配当を5.5円増額修正7/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7b9cfe1c1a5d0a5dd8564c7f77c5aeb7da52bc3a",
+      "title": "【決算速報】フェローテク、今期経常を61％上方修正7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/faab4fa15f23d78f15d6ac5199efcdc593694661",
       "type": "up",
       "code": "",
       "pub": "",
@@ -45,8 +18,35 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞インソース、２６年９月期第３四半期決算は純利益６．２％増7/21ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/a67a031d83aefc996b303cfeef8dc4db03530eb5",
+      "title": "【決算速報】オービーシステム<5576>---27年3月期1Qは増益、経常利益は120.8％増7/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/54139d8b1bf662844c79283b5e0b66805fab8ba8",
+      "type": "earn",
+      "code": "5576",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オービック<4684>---27年3月期1Qは増益、経常利益は17.7％増7/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/23d657ed5488ad019b165904e18043949bd30f48",
+      "type": "earn",
+      "code": "4684",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ブロンコＢ<3091>---26年12月期2Qは増益、経常利益は54.3％増7/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/e2cdd885626180955403972b8b37dfffc1359b87",
+      "type": "earn",
+      "code": "3091",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "22日午後の記事一覧：キャセイ・パシフィック、26年6月中間決算は増益の見通しなど7/22トレーダーズ・ウェブ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9bbf3793fe7c2179ee0c997d3afa9dbd07798600",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -54,8 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】インソース、3Q累計経常4,502百万。7/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/5ec3a73a6e7e305b36a12f5fc9afd9d0b2d62bb6",
+      "title": "★本日の【サプライズ決算】速報 (07月22日)7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ec578c572b72f274bb06c18fd0ec0af7de3de461",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -63,8 +63,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＥＭシステム、上期経常を62％上方修正7/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bf618660784ec6352a1e8c53e3fb6ef29f87449b",
+      "title": "【決算速報】ＯＢＣ<4733>---27年3月期1Qは増益、経常利益は20.8％増7/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/35d1c5fff98ae8f6e460e67ab91ff8d0049d52e9",
+      "type": "earn",
+      "code": "4733",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＯＢシステム、4-6月期(1Q)経常は2.2倍増益で着地7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/dc778e52bd101d311c00594c9272d6159dfc7815",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】三井松島ＨＤ、今期経常を4％上方修正、配当も56円増額7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3e1f137df4907f958c506e3d4959efa61af9a3ad",
       "type": "up",
       "code": "",
       "pub": "",
@@ -72,8 +90,35 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ザイン、上期最終を赤字縮小に上方修正、通期も増額7/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e38d2b2e93c77e08f1f768a509d75feb53ec94cf",
+      "title": "【決算速報】ホテルレジＲ、今期経常は4％減益へ7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7a9d68426930005fd8ace6bf95c9aecc607c120f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞オービーシス、２７年３月期第１四半期決算は純利益６４．９％増の大幅増益7/22ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/a4eb9ee3e03cf38cd31e1fd7c3fc16f5b49495b0",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オービーシステム、1Q経常113百万。7/22アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/d040ed71997d3fabcb4d4149130b4756875a1437",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｏｎｅリート、今期経常を一転24％増益に上方修正、分配金も270円増額7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f89db2d4b8ddc0259cc50737cc3591fcd5d3c552",
       "type": "up",
       "code": "",
       "pub": "",
@@ -81,8 +126,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＰＣＡ、4-6月期(1Q)経常は31％減益で着地7/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ddbcea1d40ade6a6f14795cef97509335515434d",
+      "title": "【決算速報】ブロンコＢ、今期経常を32％上方修正・最高益予想を上乗せ7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d324d971c52ee3f18ba23f6d4d7d425a5ec67e31",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＯＢＣ、4-6月期(1Q)経常は21％増益で着地7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1203b1b6bce4844a2a6e5faa401274cf596e6205",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -90,8 +144,17 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ピーシーエー、２７年３月期第１四半期決算は純利益４０．６％減の大幅減益7/21ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/db44589e85462e41012c88898ecdbaf7e0050385",
+      "title": "【決算速報】東邦レマック、上期経常を一転赤字に下方修正7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1d7e7741ccfe0a7e7f0031c25c1fbaa53ca5dacf",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オービック、4-6月期(1Q)経常は18％増益で着地7/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e81cc65335009770b4ff2753165595aeac13d38d",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,21 +162,21 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ピー・シー・エー、1Q経常414百万。7/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/76878f998a2ea2bf6ecd1ed0cd278cfc7878785e",
+      "title": "なぜ役員報酬1億円超が過去最多？　日本人トップは3位のソニー、上位は外国人　業績連動型じわり(AERA DIGITAL)",
+      "link": "https://news.yahoo.co.jp/articles/8f66d55491cef22a22461810bd1c3ed6612bcb9e?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Wed, 22 Jul 2026 22:30:36 GMT",
+      "desc": "　上場企業の「1億円プレーヤー」が過去最多となった。背景にあるのは、企業業績の改善や株価上昇、そして株式報酬を含む「業績連動型報酬」の拡大。かつては「いくらもらっているのか」が注目されたが、いま問われ",
+      "source": "yahoo_news"
     },
     {
-      "title": "【売上・営業利益は過去最高】AIサーバー専門商社ジーデップ・アドバンス　市場が注目する「エヌビディア特需」一服後に向かう先(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/e38fcf4d94a6b26ff3597780f111492071ccc842?source=rss",
+      "title": "米グーグル、純利益4倍の18兆円(共同通信)",
+      "link": "https://news.yahoo.co.jp/articles/7835f9e9c14a1a0c6fb4e78163fbb0c0482e8b68?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Tue, 21 Jul 2026 22:15:00 GMT",
-      "desc": "　ジーデップ・アドバンス（5885）は米半導体大手・エヌビディアの「エリートパートナー」として、同社製GPUを組み込んだAIサーバーを国内企業・大学に販売する専門商社だ。7月14日発表された2026年",
+      "pub": "Wed, 22 Jul 2026 22:26:06 GMT",
+      "desc": "　【ニューヨーク共同】米IT大手グーグルの持ち株会社アルファベットが22日発表した2026年4～6月期決算は、純利益が前年同期と比べて4倍の1121億700万ドル（約18兆3千億円）だった。保有株式の",
       "source": "yahoo_news"
     }
   ],
