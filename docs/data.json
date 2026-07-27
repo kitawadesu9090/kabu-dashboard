@@ -1,16 +1,16 @@
 {
-  "updated": "2026/07/27 07:52",
-  "date": "2026-07-27",
+  "updated": "2026/07/28 07:53",
+  "date": "2026-07-28",
   "count": {
-    "up": 0,
+    "up": 1,
     "down": 0,
     "div": 0,
-    "earn": 16
+    "earn": 19
   },
   "items": [
     {
-      "title": "今週の決算発表予定 キオクシア、アドテスト、東エレクなど (7月27日～31日)7/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ac50ec2a1abc490489153a0ce045c3575fc18719",
+      "title": "★本日の【イチオシ決算】 円谷フィＨＤ、コーテクＨＤ、フジオーゼ (7月27日)7/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b884619661b7384708a571d29c7df49c2ba5a33a",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +18,125 @@
       "source": "yahoo"
     },
     {
-      "title": "【今週読まれた記事】決算発表シーズン到来、業績相場への転換なるか7/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9dbb40eceec9e0bee58459daa5af1e9f762f239a",
+      "title": "【決算速報】神奈中交<9081>---27年3月期1Qは増益、経常利益は10.5％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/1bc0cbd913ce645e2cc37efe77bc9df2f547a494",
+      "type": "earn",
+      "code": "9081",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】フジオーゼ<7299>---27年3月期1Qは増益、経常利益は75.5％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ce7efe5d8393fe414726d77c1b84d476303475d6",
+      "type": "earn",
+      "code": "7299",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】小松ウオール<7949>---27年3月期1Qは増益、経常利益は36.8％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/5fe1e07f91c0d6abcb7086dca3268c83e13fb3a2",
+      "type": "earn",
+      "code": "7949",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】横河ブＨＤ<5911>---27年3月期1Qは増益、経常利益は0.7％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/090fe8fa14e1a380dd20005c13347833b242d28b",
+      "type": "earn",
+      "code": "5911",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】コニシ<4956>---27年3月期1Qは増益、経常利益は54.2％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/7c6a45e2b06a967bfdefb81f38cc251f1dc0f552",
+      "type": "earn",
+      "code": "4956",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】イマジニア<4644>---27年3月期1Qは増益、経常利益は265.1％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/5af757fad4c036b0a56efab495a84d1533244203",
+      "type": "earn",
+      "code": "4644",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】SBIGAM<4765>---27年3月期1Qは増益、経常利益は240.2％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d8c45f69457a657ba04fcc03f0849e46d25ae585",
+      "type": "earn",
+      "code": "4765",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】コーエーテクモ<3635>---27年3月期1Qは増益、経常利益は79.3％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d3c3639da4fe4c6c213700706b9f0c9e6b7de35d",
+      "type": "earn",
+      "code": "3635",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】シンプレクスＨＤ<4373>---27年3月期1Qは増益、経常利益は5.8％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4c05050405fa52ae06dcf06d639d208be6697ca3",
+      "type": "earn",
+      "code": "4373",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイトケミクス<4366>---27年3月期1Qは増益、経常利益は36.7％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f6d62cde808924f76026a955b4c805db2efc2a7c",
+      "type": "earn",
+      "code": "4366",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】円谷フィHD<2767>---27年3月期1Qは減益、経常利益は11.6％減7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ad798b8d603e6cabdc44015d79e930397a1587ec",
+      "type": "earn",
+      "code": "2767",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】マクニカHD<3132>---27年3月期1Qは増益、経常利益は219.7％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/1ffcfaa72cc380cfe6918560c9c892a092542efe",
+      "type": "earn",
+      "code": "3132",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】美樹工業<1718>---26年12月期2Qは減益、経常利益は12.1％減7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/101cd1608ea17260291de6067014c4248ee8bea9",
+      "type": "earn",
+      "code": "1718",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】続報 (07月27日)7/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e5892246738aba20c2f5b028ff0fac7d59b7e2a8",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,35 +144,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】正興電<6653>---26年12月期2Qは増益、経常利益は32.6％増7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b3776b411ba1e394b60d192b8bce2a63edb123af",
-      "type": "earn",
-      "code": "6653",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ブルソース<2804>---27年3月期1Qは増益、経常利益は112.9％増7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/9ed10ace4e149a014b36707b99162b61214f1b8e",
-      "type": "earn",
-      "code": "2804",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】中外炉<1964>---27年3月期1Qは赤字縮小、経常損益は▲1億800万円7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6e513ea70c1ffdb8ba02dabdff58e3430f401dea",
-      "type": "earn",
-      "code": "1964",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【イチオシ決算】 川崎汽、ブルドック、Ｔホライゾン (7月24日)7/24株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4fa6498329ae68ff6a5281b54383d9a3791c3252",
+      "title": "★本日の【サプライズ決算】速報 (07月27日)7/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/957f79b622116b67874ef2ca1e5dc2ae0f485283",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -63,62 +153,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】桜島埠頭<9353>---27年3月期1Qは減益、経常利益は2.6％減7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a15e358f378e16e22cb3a7422ff15e1ea79f53ca",
+      "title": "【決算速報】ナガワ<9663>---27年3月期1Qは増益、経常利益は25.6％増7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/78c3a75b35e388bb4183c41dea6e0b93d40f40e4",
       "type": "earn",
-      "code": "9353",
+      "code": "9663",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】東邦レマック<7422>---26年12月期2Qは赤字拡大、経常損益は▲5300万円7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/62030dddac95fce70d7059e1203392ef25ebc4a3",
+      "title": "【決算速報】ヤマナカ<8190>---27年3月期1Qは赤字転落、経常損益は▲5400万円7/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9608b830f8ef0dd0275cb089a445ba446d3d131c",
       "type": "earn",
-      "code": "7422",
+      "code": "8190",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日精線<5659>---27年3月期1Qは増益、経常利益は81.8％増7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d44071734a2bb8b3b21669b6a085ed5c1f1c3aee",
-      "type": "earn",
-      "code": "5659",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Tホライゾン<6629>---27年3月期1Qは黒字転換、経常利益は6億1300万円7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b0b8d7ee711e340a9de06b06f4121df3b6a675b3",
-      "type": "earn",
-      "code": "6629",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】信越化<4063>---27年3月期1Qは増益、経常利益は5.8％増7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/cf7c43af0a2c9ffd40ac65bef126691a2e860e71",
-      "type": "earn",
-      "code": "4063",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】中外薬<4519>---26年12月期2Qは増益、経常利益は21.1％増7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/70c279c68486aba4f8793630d3d29ef0dea3dee8",
-      "type": "earn",
-      "code": "4519",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】続報 (07月24日)7/24株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/3ac3b8256ebccb2daa4fb9610c3bbd75bd32ef1f",
+      "title": "【決算速報】コーテクＨＤ、4-6月期(1Q)経常は79％増益・上期計画を超過7/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cfdb4fec594cba83a67552e0c633049bd9ce3a0d",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -126,31 +180,13 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ヒガシHD<9029>---27年3月期1Qは増益、経常利益は28.5％増7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8cc976af3389bb6cd0ccb6d5685cbc99d47eaab9",
-      "type": "earn",
-      "code": "9029",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】キヤノンＭＪ<8060>---26年12月期2Qは増益、経常利益は18.4％増7/24フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/310fae55ccedea3f9af0bfb8dfd02c3b55446e5b",
-      "type": "earn",
-      "code": "8060",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "サイゼリヤ、6年ぶり「価格改定」検討で株価急伸、純利益12%増の好決算も追い風に(ハフポスト日本版)",
-      "link": "https://news.yahoo.co.jp/articles/9eeac9c7c0e2403adf00042ac519c081f667e570?source=rss",
-      "type": "earn",
+      "title": "【決算速報】フジオーゼ、上期経常を12％上方修正7/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7db6590363185ae6b7ed5eb7948c4e5b9a03116a",
+      "type": "up",
       "code": "",
-      "pub": "Sun, 26 Jul 2026 21:40:52 GMT",
-      "desc": "外食チェーン大手のサイゼリヤは7月15日、2025年9月1日から2026年5月31日までの第3四半期累計の連結決算を発表した。売上高は2213億円（前年同期比18%増）、営業利益は133億円（同26%",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     }
   ],
   "schedule": []
