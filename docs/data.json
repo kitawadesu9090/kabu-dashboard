@@ -1,43 +1,34 @@
 {
-  "updated": "2026/08/04 07:53",
-  "date": "2026-08-04",
+  "updated": "2026/08/05 07:54",
+  "date": "2026-08-05",
   "count": {
-    "up": 1,
-    "down": 0,
+    "up": 0,
+    "down": 1,
     "div": 0,
-    "earn": 21
+    "earn": 23
   },
   "items": [
     {
-      "title": "【決算速報】日産自<7201>---27年3月期1Qは黒字転換、経常利益は490億9400万円8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2982e46b1a90853d9a56c87c0cab07a74d1ccb2e",
+      "title": "【決算速報】ウシオ電<6925>---27年3月期1Qは増益、経常利益は230.5％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/0f00cb70a222355c110af63612640d794e596228",
       "type": "earn",
-      "code": "7201",
+      "code": "6925",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナカボーテック<1787>---27年3月期1Qは赤字縮小、経常損益は▲3億3300万円8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b0786d84b24d118fbc33c31d7e6702c4bdeba8af",
+      "title": "【決算速報】ＤＩ<4310>---27年3月期1Qは減益、経常利益は79.1％減8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/928fcec43de7dc236b9472049242f2265de98b8d",
       "type": "earn",
-      "code": "1787",
+      "code": "4310",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】プリマハム<2281>---27年3月期1Qは減益、経常利益は2.2％減8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0e88e4e52e5ab8434df1d07363e551c813ae4813",
-      "type": "earn",
-      "code": "2281",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【イチオシ決算】 ＦＵＪＩ、塩野義、商船三井 (8月3日)8/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/27a653bcf43f1364ee6892f7450b9182e3ca72f9",
+      "title": "★本日の【イチオシ決算】 イビデン、日本製鉄、ウシオ電 (8月4日)8/4株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7cde9e66b23b1aaf1948d8779ceaf0e5efb7fb44",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,165 +36,192 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日産自動車、1Q経常49,094百万。アナリスト予想を上回る8/3アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/9d67e89a36d16edea39fd415b5181c1cad75ca24",
+      "title": "【決算速報】サックスバＨＤ<9990>---27年3月期1Qは増益、経常利益は10.8％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/87e139d9a8e83b85defa4eb16afa5c1e36d255cd",
+      "type": "earn",
+      "code": "9990",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】セキド<9878>---27年3月期1Qは赤字拡大、経常損益は▲2億500万円8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9402ad9ed39ae11ae9c8e2ff0ad6c035fcdc8520",
+      "type": "earn",
+      "code": "9878",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】共同紙<9849>---27年3月期1Qは増益、経常利益は82.5％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/8632a5b522cc959841b74c4f15198230f80d21e5",
+      "type": "earn",
+      "code": "9849",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】三井倉庫ＨＤ<9302>---27年3月期1Qは減益、経常利益は7.8％減8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ebe3d2361733c56b3a170346f524ae8313da9cfa",
+      "type": "earn",
+      "code": "9302",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】川崎船<9107>---27年3月期1Qは増益、経常利益は10.9％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c6e3ffeacfc7a3576333cf25e9ecb25e045744bc",
+      "type": "earn",
+      "code": "9107",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】安田倉<9324>---27年3月期1Qは増益、経常利益は6.6％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/fb19240c909a3ffdb4088a93a16c842bc5db3eff",
+      "type": "earn",
+      "code": "9324",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】テーオーシー<8841>---27年3月期1Qは増益、経常利益は113.9％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/7051cd2c5808e6b50965d9ab96db73cf2e759b3d",
+      "type": "earn",
+      "code": "8841",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】長瀬産<8012>---27年3月期1Qは増益、経常利益は69.3％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/40e7a23e241851e0bf062d5b27662826129d833d",
+      "type": "earn",
+      "code": "8012",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タカラトミー<7867>---27年3月期1Qは増益、経常利益は13.4％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/aaa61493ed61da2e880854d20dc8e28158121e05",
+      "type": "earn",
+      "code": "7867",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】丸紅<8002>---27年3月期1Qは増益、経常利益は26.1％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f8c2cab945b878d746683c4466d911758fc4bd54",
+      "type": "earn",
+      "code": "8002",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ヤマハ<7951>---27年3月期1Qは増益、経常利益は290.2％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bc1796c7e90014a59d7f87817ddfbd01f0f7ecc0",
+      "type": "earn",
+      "code": "7951",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】MTG<7806>---26年9月期3Qは増益、経常利益は34％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/5afca58ef947b57dee8cbe395536992d7f3167e3",
+      "type": "earn",
+      "code": "7806",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】東精密<7729>---27年3月期1Qは増益、経常利益は44.1％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/98d8d0d4c23494d6c5d405a1878ac2570a15fc09",
+      "type": "earn",
+      "code": "7729",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アルメディオ<7859>---27年3月期1Qは赤字縮小、経常損益は▲1億1900万円8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/0e3c90e5b010a49c8fc2b2a63f39388e8f81beee",
+      "type": "earn",
+      "code": "7859",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ムサシ<7521>---27年3月期1Qは減益、経常利益は93.6％減8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/45516cd8ed4cedff215b27e69df06b577ff4c7ef",
+      "type": "earn",
+      "code": "7521",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】萬世電機<7565>---27年3月期1Qは増益、経常利益は15.1％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/026765522763644f683317435aeb615ca86a7a2f",
+      "type": "earn",
+      "code": "7565",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】横河電<6841>---27年3月期1Qは増益、経常利益は8.1％増8/4フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d697f0536d6361c76eb4186194e1ad2f5dee55aa",
+      "type": "earn",
+      "code": "6841",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "スペースX、赤字850億円　上場後初決算、AIが重荷(共同通信)",
+      "link": "https://news.yahoo.co.jp/articles/2e71a77059cf287a44a1a696a578687f070b0174?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＪＰＭＣ、上期経常を一転5％増益に上方修正・4期ぶり最高益、今期配当を見送り8/3株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f5214a99d76a871ec111a725d37632e3cd8e3af2",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】いであ<9768>---26年12月期2Qは黒字続く、経常利益は前期と同じ8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/89b36092f1b20e92979c49b793257348340a06f8",
-      "type": "earn",
-      "code": "9768",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】パーカー<9845>---27年3月期1Qは減益、経常利益は5.1％減8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/451af61d1bf7a250fd965c081ec755d3eb9252e6",
-      "type": "earn",
-      "code": "9845",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】NSW<9739>---27年3月期1Qは減益、経常利益は3％減8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0cd88c772ef4a321b2f4097ffed5abaff47f490c",
-      "type": "earn",
-      "code": "9739",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヤマトＨＤ<9064>---27年3月期1Qは赤字縮小、経常損益は▲49億3800万円8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/5e2f731151d6fdf9e04f816652e942513c00ecaa",
-      "type": "earn",
-      "code": "9064",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】文渓堂<9471>---27年3月期1Qは減益、経常利益は7.8％減8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/10946c0606f4a7580da1a5e1fbd598a29219ef61",
-      "type": "earn",
-      "code": "9471",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東祥<8920>---27年3月期1Qは減益、経常利益は8.9％減8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7afa96eca66d23713c781443fa6f86dde8a628c8",
-      "type": "earn",
-      "code": "8920",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東京センチュ<8439>---27年3月期1Qは増益、経常利益は36.9％増8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c97766c9eae7d41ae009aec510f7d11a49f8157a",
-      "type": "earn",
-      "code": "8439",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ダイトロン<7609>---26年12月期2Qは増益、経常利益は42.3％増8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/9c48a9a0895606eb2d9d54f6d18e794d8c247e1b",
-      "type": "earn",
-      "code": "7609",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＰＡＬＴＡＣ<8283>---27年3月期1Qは減益、経常利益は16％減8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d6faedbbb40e7bcc19bc01d9c9f2389fd12dc993",
-      "type": "earn",
-      "code": "8283",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ワークマン<7564>---27年3月期1Qは増益、経常利益は34.6％増8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/11a6bf3ce1551fe09bdccf497728bae1e3908c2b",
-      "type": "earn",
-      "code": "7564",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヤギ<7460>---27年3月期1Qは減益、経常利益は25.4％減8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8a548033cd18c478a85a1040cee212c8280e4508",
-      "type": "earn",
-      "code": "7460",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＬＩＴＡＬＩＣＯ<7366>---27年3月期1Qは増益、経常利益は53.6％増8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a22ba9661941f84fcdc535a53932be6c3da7b340",
-      "type": "earn",
-      "code": "7366",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ティラド<7236>---27年3月期1Qは増益、経常利益は0.4％増8/3フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a0531e89e94b295d1f9959b58ff083be5c2ef53c",
-      "type": "earn",
-      "code": "7236",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "7月は超円安が追い風　伊勢丹新宿本店と三越日本橋本店の免税売上高は約1.5倍に(WWDJAPAN.com)",
-      "link": "https://news.yahoo.co.jp/articles/c7adbb92ba05eb1779840295ea3c6ae541e5a505?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Mon, 03 Aug 2026 22:45:00 GMT",
-      "desc": "三越伊勢丹、高島屋、大丸松坂屋百貨店、阪急阪神百貨店の大手百貨店4社は8月3日、2026年7月度の売上高速報を発表した。インバウンド売上高が各社2〜3割増と大きく伸ばし、業績を押し上げた。背景にあるの",
+      "pub": "Tue, 04 Aug 2026 22:31:29 GMT",
+      "desc": "　【ニューヨーク共同】米宇宙開発企業スペースXが4日発表した2026年4～6月期決算は、純損益が5億4100万ドル（約850億円）の赤字（前年同期は10億800万ドルの赤字）だった。衛星通信サービス「",
       "source": "yahoo_news"
     },
     {
-      "title": "億トレーダーが予測する「AI・半導体関連からの循環物色」の流れ　弐億貯男さんは「業績好調でもPERが7倍台」の割安株に注目、DAIBOUCHOUさんは“リターン・リバーサル”に期待(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/1792ad7ab650fea3b6ac1569e6bfdff34ec3cc91?source=rss",
-      "type": "earn",
+      "title": "賢い社長はあえて60歳開始を選ぶ…年金が“24%減額”でも「繰上げ受給」が合理的といえるワケ【税理士が解説】(THE GOLD ONLINE（ゴールドオンライン）)",
+      "link": "https://news.yahoo.co.jp/articles/94cc35937e220804008f5f223b140ba8a00a1f7d?source=rss",
+      "type": "down",
       "code": "",
-      "pub": "Mon, 03 Aug 2026 22:15:00 GMT",
-      "desc": "　史上初の日経平均株価7万円超えの牽引役はキオクシアホールディングス（HD）をはじめAI・半導体関連銘柄だったが、7月に入ると「キオクシア・ショック」で日経平均は急落した。歴戦の億り人たちはAI・半導",
+      "pub": "Tue, 04 Aug 2026 22:00:54 GMT",
+      "desc": "年金の受給開始時期は原則65歳ですが、60歳〜75歳のあいだで前倒しや後ろ倒しを選択することで受給額が変動します。一般的に「繰り下げて受給額を増やすほうが有利」と考えられがちですが、税金や社会保険料の",
       "source": "yahoo_news"
     },
     {
-      "title": "「赤字に慣れていた」ユーグレナ、9期ぶりの純利益黒字化へ組織改革の2年間。元祖東大ベンチャーは“大人の企業”になったのか(BUSINESS INSIDER JAPAN)",
-      "link": "https://news.yahoo.co.jp/articles/d2490506bd1669d195d65351a1a4104ec6174f0d?source=rss",
+      "title": "AI需要で急成長、「太陽誘電」営業益5割増は本物か？ 決算で見るべき「4つの数字」(ビジネス＋IT)",
+      "link": "https://news.yahoo.co.jp/articles/194b7d77d1b39e20371a43da730c37ca108dedee?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Mon, 03 Aug 2026 22:00:02 GMT",
-      "desc": "ユーグレナが変わろうとしている。\n\n元祖「東大発ベンチャー」として、微細藻類の「ミドリムシ」（学名：ユーグレナ）を原料にした健康食品や化粧品の販売、バイオ燃料の研究開発を進めているユーグレナ。\n\n実は",
+      "pub": "Tue, 04 Aug 2026 22:00:07 GMT",
+      "desc": "　AIサーバ需要を追い風に、太陽誘電は2027年3月期の営業利益を前期比5割増という強気の計画を示した。本当にこの数字を実現できるかどうか。8月5日に発表する第1四半期決算では、AIサーバ向け需要が業",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "トヨタ好調決算の事情と理由【2026年度1Q決算発表】HEV年500万台へ＆ノア/ヴォクシーが海外生産に(ベストカーWeb)",
+      "link": "https://news.yahoo.co.jp/articles/1740dd9da65eab352629f144dbbeb54805d76d95?source=rss",
+      "type": "earn",
+      "code": "2026",
+      "pub": "Tue, 04 Aug 2026 21:31:06 GMT",
+      "desc": "2026年8月4日、トヨタ自動車が2026年度(2027年3月期)第1四半期(2026年4〜6月)の決算を発表した。決算資料には「ノア/ヴォクシーが一部台湾製になる」などの衝撃発表もあったが、それは後",
       "source": "yahoo_news"
     }
   ],
