@@ -1,70 +1,25 @@
 {
-  "updated": "2026/08/06 07:50",
-  "date": "2026-08-06",
+  "updated": "2026/08/07 10:27",
+  "date": "2026-08-07",
   "count": {
-    "up": 0,
+    "up": 3,
     "down": 0,
-    "div": 1,
-    "earn": 21
+    "div": 0,
+    "earn": 19
   },
   "items": [
     {
-      "title": "【決算速報】ＣＥＨＤ<4320>---26年9月期3Qは増益、経常利益は14.9％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/fbaab292fa5dfcc8d766c1c12fa1c9595e00eb1f",
-      "type": "earn",
-      "code": "4320",
+      "title": "【決算速報】インフロニア、今期最終を一転12％増益に上方修正・最高益、配当も32円増額10:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7311eab4561b099c1986dbb4a61c1412cb2aae46",
+      "type": "up",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ロイヤルホテル<9713>---27年3月期1Qは減益、経常利益は31.4％減8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/eb8326b3bd0bacdbc3236049792380cc10f861ed",
-      "type": "earn",
-      "code": "9713",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＯＢＡＲＡ－Ｇ<6877>---26年9月期3Qは増益、経常利益は30％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/692796535796b1277a9822f37696d035550fe0d7",
-      "type": "earn",
-      "code": "6877",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ニチコン<6996>---27年3月期1Qは増益、経常利益は233％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8954ce2e87573d2fb5bb27e772948420f221e9bc",
-      "type": "earn",
-      "code": "6996",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ファルコＨＤ<4671>---27年3月期1Qは増益、経常利益は18.8％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8bcff15be625f7c0da33b759a144c4d7ad34dc13",
-      "type": "earn",
-      "code": "4671",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】三洋化成<4471>---27年3月期1Qは増益、経常利益は187％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/9cd0edc3ae165e531551944d5168710a438d8964",
-      "type": "earn",
-      "code": "4471",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【イチオシ決算】 太陽誘電、日東紡、オムロン (8月5日)8/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c331638ffa7a05d4274656d8e38f8eb43c70c269",
+      "title": "【決算速報】アリアケ、4-6月期(1Q)経常は9％減益で着地10:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e15940254f0776b195c82faf8eb0ad6a0f536107",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -72,17 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＣＥＨＤ、10-6月期(3Q累計)経常は15％増益で着地、今期配当を見送り8/5株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/88b6aa9a8cf1ec6f72ede4238de6f48c0dee99cd",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞ＣＥＨＤ、２６年９月期第３四半期決算は純利益４．６％増8/5ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/d210dff72d0803c48a20e13f79a953a21f8f83c1",
+      "title": "【決算速報】レシップＨＤ、4-6月期(1Q)経常は黒字浮上で着地10:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4d16ffaae948177222d5b3f93d0fc52773ef45fd",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -90,8 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＣＥＨ、3Q累計経常1,384百万。8/5アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/02861276f2a13aed7dc2f0706c3aaddf721766ac",
+      "title": "＜決算速報＞インフロＨＤ、２７年３月期第１四半期決算は純利益９．４倍10:00ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/83b72cb939a0512b52ae3f9e85c337594861f16c",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,111 +45,165 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日邦産業<9913>---27年3月期1Qは増益、経常利益は14.9％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3ad1693ef905faf30dac9c392bb0462004f5a782",
-      "type": "earn",
-      "code": "9913",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】静岡ガス<9543>---26年12月期2Qは増益、経常利益は6.2％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/56fd3c7eed46fbae8e61716890875634036b8e2d",
-      "type": "earn",
-      "code": "9543",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】イチネンＨＤ<9619>---27年3月期1Qは増益、経常利益は30％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d5d00eb93d9ea42d9f47ac9f72a29d9fb2345dc3",
-      "type": "earn",
-      "code": "9619",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】玉井商船<9127>---27年3月期1Qは黒字転換、経常利益は3億6800万円8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1cafcf050be8d89a20539e869330b9ebbb14f877",
-      "type": "earn",
-      "code": "9127",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】AZ丸和HD<9090>---27年3月期1Qは減益、経常利益は37.9％減8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2edb943d595a86366d1183c25fb8e043c8cb9a9d",
-      "type": "earn",
-      "code": "9090",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】朝日放送HD<9405>---27年3月期1Qは赤字転落、経常損益は▲1億9500万円8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/23db3a6c8364343529ebd4cd67e961af23c0fc90",
-      "type": "earn",
-      "code": "9405",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】立花エレ<8159>---27年3月期1Qは増益、経常利益は145.6％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f9b95d823a5fb2857ada0c06a05f9fa70bfb5313",
-      "type": "earn",
-      "code": "8159",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】コスモスイニ<8844>---27年3月期1Qは減益、経常利益は76.7％減8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6e657e1c0389628b8cba54d8f1df8171a7b71e9b",
-      "type": "earn",
-      "code": "8844",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】三京化成<8138>---27年3月期1Qは増益、経常利益は15.4％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1befc5d37acaf0669f770e4d733fa4b5adfd0640",
-      "type": "earn",
-      "code": "8138",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東陽テクニカ<8151>---26年9月期3Qは増益、経常利益は162.6％増8/5フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/07154c763a043d24b6ad77a987e3e5e3b126b1ca",
-      "type": "earn",
-      "code": "8151",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "SHIRORU、売上高は35億円規模に マーケ調査で洗顔国内1位を獲得(日本ネット経済新聞)",
-      "link": "https://news.yahoo.co.jp/articles/ff272c2445c4fcfaa75d86af2408a45b3f9600a4?source=rss",
+      "title": "＜決算速報＞アリアケ、２７年３月期第１四半期決算は純利益１１．３％減の２ケタ減益10:00ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/680aa2118d88ec45f8e59ca002cd1271aae842bf",
       "type": "earn",
       "code": "",
-      "pub": "Wed, 05 Aug 2026 22:30:00 GMT",
-      "desc": "化粧品ブランド「SHIRORU(シロル)」を展開するSHIRORUが急成長を遂げている。2021年のブランド立ち上げから、数年で年商35億円規模に拡大しているという。調査会社のTPCマーケティングリサ",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞レシップＨＤ、２７年３月期第１四半期決算は純損益６億円の黒字10:00ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/be1ed5c163c9ae642250895a5ba66ee0dcbc3be4",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】インフロニアＨ、1Q税引前111,195百万。アナリスト予想を上回る10:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/9bb79be86ae72464d78991fd7fa814b9f53b5548",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アリアケジャパン、1Q経常2,978百万。アナリスト予想を下回る10:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7bc0bb4231cd5cd422cc50855f8d6f19f1cbd445",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】レシップＨ、1Q経常612百万。10:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/531bd82af68f4c6d80ae1f4e8ab4e2e8d976c07d",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ロブテックス、4-6月期(1Q)経常は黒字浮上で着地9:30株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/91ae672167bc53e6f719e55e0be0495b498b7999",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ロブテックス、２７年３月期第１四半期決算は純損益５７００万円の黒字9:30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/11ab5300fd606722045be3edefe4df63a8b922ca",
+      "type": "earn",
+      "code": "５７００",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ロブテックス、1Q経常88百万。9:30アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/c6ea4514aa4ec6cedfb841fa680926707bda5935",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】西松建、4-6月期(1Q)経常は2.8倍増益で着地9:00株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/500ee32e700e2ee14c6f07d743e2385915a6061c",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞西松建、２７年３月期第１四半期決算は純利益２．８倍9:00ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/7bcf52983ea6292399295e45cd0f62bd907c17cc",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】西松建設、1Q経常7,012百万。アナリスト予想を上回る9:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/fab7ef81c5fe878156747a096704fbb0c0e00170",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ゼロ<9028>---26年6月期は増益、経常利益は0.9％増8/6フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bc18d8c50ba6ab99e414f7ad2c911a498dea5040",
+      "type": "earn",
+      "code": "9028",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】TBSHD<9401>---27年3月期1Qは減益、経常利益は19％減8/6フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/09cc36145445a6718a80152c276c38cf9b79efdb",
+      "type": "earn",
+      "code": "9401",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】リーダ電子<6867>---27年3月期1Qは赤字転落、経常損益は▲1億1700万円8/6フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ee74a274b9c4889efd4cb15ae4a09c61374f7b32",
+      "type": "earn",
+      "code": "6867",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】前沢給装<6485>---27年3月期1Qは増益、経常利益は32.5％増8/6フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/87ff5ea64853145a71f51104d3e77ec0e00c65ba",
+      "type": "earn",
+      "code": "6485",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】TEIKOK<6333>---27年3月期1Qは減益、経常利益は22.3％減8/6フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/7314c417cc64d817998bce820da8b90cc9a03e75",
+      "type": "earn",
+      "code": "6333",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "スズキが「稼ぐ力」向上に手応え…通期上方修正・売上高9.6％増(ニュースイッチ)",
+      "link": "https://news.yahoo.co.jp/articles/2ecb7a1e42aedd29d804fb4d2329aa9345a7cfa5?source=rss",
+      "type": "up",
+      "code": "",
+      "pub": "Fri, 07 Aug 2026 01:10:09 GMT",
+      "desc": "スズキは5日、2027年3月期連結業績予想（国際会計基準）で売上高を5月公表比1000億円増の6兆9000億円（前期比9・6％増）に上方修正した。為替前提を円安に見直し、世界販売が引き続き堅調に推移す",
       "source": "yahoo_news"
     },
     {
-      "title": "「パチンコホール」総売上高は微増も、法人数は10年間で半減　黒字企業割合は5年ぶりに7割超え(帝国データバンク)",
-      "link": "https://news.yahoo.co.jp/articles/84745220b18e6265a90ecb5a2c86d2168dd508da?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Wed, 05 Aug 2026 22:03:09 GMT",
-      "desc": "　2025年において、パチンコホール経営法人は、前年から5.9％減少の1130社となった。M&Aや廃業で法人数の減少が続いている。総売上高は12兆433億円と、前年から2.8％増加し、2年連続で前年を",
+      "title": "営業黒字6500億円…ホンダの通期見通し、上方修正の理由(ニュースイッチ)",
+      "link": "https://news.yahoo.co.jp/articles/2f9f4c1080b9ea746a551afe769de4f9b96ce5ad?source=rss",
+      "type": "up",
+      "code": "6500",
+      "pub": "Fri, 07 Aug 2026 00:40:02 GMT",
+      "desc": "ホンダは5日、2027年3月期連結業績予想（国際会計基準）の営業損益について期初に予想した5000億円の黒字から6500億円の黒字（前期は4143億円の赤字）に引き上げた。円安ドル高で推移することを受",
       "source": "yahoo_news"
     }
   ],
