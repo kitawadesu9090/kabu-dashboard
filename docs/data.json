@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/11 07:28",
-  "date": "2026-08-11",
+  "updated": "2026/08/12 07:33",
+  "date": "2026-08-12",
   "count": {
     "up": 0,
     "down": 0,
     "div": 0,
-    "earn": 20
+    "earn": 22
   },
   "items": [
     {
@@ -36,15 +36,6 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スポーツフィール<7080>---26年12月期2Qは増益、経常利益は13.1％増8/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/37a0c5188ea12c5006f679c86a00ab662ad3e76a",
-      "type": "earn",
-      "code": "7080",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
       "title": "【決算速報】小池酸工<6137>---27年3月期1Qは増益、経常利益は5.3％増8/10フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/6c743c495d8c964d18dd159a778b41f9e1b36544",
       "type": "earn",
@@ -58,6 +49,15 @@
       "link": "https://finance.yahoo.co.jp/news/detail/24562837117c561183493d99404178965a661484",
       "type": "earn",
       "code": "6495",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】スポーツフィール<7080>---26年12月期2Qは増益、経常利益は13.1％増8/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/37a0c5188ea12c5006f679c86a00ab662ad3e76a",
+      "type": "earn",
+      "code": "7080",
       "pub": "",
       "desc": "",
       "source": "yahoo"
@@ -81,6 +81,15 @@
       "source": "yahoo"
     },
     {
+      "title": "【決算速報】GMO-PP<3695>---26年12月期2Qは増益、経常利益は488.8％増8/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/28d534bc0dd0d60e3081fa08008581f32f2e7384",
+      "type": "earn",
+      "code": "3695",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
       "title": "【決算速報】カナミックＮ<3939>---26年9月期3Qは増益、経常利益は30.7％増8/10フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/c8a7eec5187acd8c88f0443c0d7694fdf7a8a45d",
       "type": "earn",
@@ -99,10 +108,10 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】GMO-PP<3695>---26年12月期2Qは増益、経常利益は488.8％増8/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/28d534bc0dd0d60e3081fa08008581f32f2e7384",
+      "title": "【決算速報】ウェルネット<2428>---26年6月期は減益、経常利益は9.6％減8/10フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/32906e247c3470f6a14bc152e7ccfd67cb922fc3",
       "type": "earn",
-      "code": "3695",
+      "code": "2428",
       "pub": "",
       "desc": "",
       "source": "yahoo"
@@ -112,15 +121,6 @@
       "link": "https://finance.yahoo.co.jp/news/detail/c4b12fbd5ed5de75e11bb61e5f82a1b25416044b",
       "type": "earn",
       "code": "3173",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ウェルネット<2428>---26年6月期は減益、経常利益は9.6％減8/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/32906e247c3470f6a14bc152e7ccfd67cb922fc3",
-      "type": "earn",
-      "code": "2428",
       "pub": "",
       "desc": "",
       "source": "yahoo"
@@ -187,6 +187,24 @@
       "pub": "",
       "desc": "",
       "source": "yahoo"
+    },
+    {
+      "title": "株で儲ける人はやっている…他の投資家を出し抜く「決算モメンタム投資」の極意(ダイヤモンド・オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/ecfe086ac83efe3e7bad43278d14d108c9589ba2?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 11 Aug 2026 22:21:19 GMT",
+      "desc": "　「好決算なのに株価が下落…」そんな悔しい思いをしていませんか？ 実は、決算発表で生じる株価の“ある習性”を突けば、それは大きな利益を狙う絶好のチャンスに変わります。カギとなるのは「時間差」と「待ち伏",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "中国電池メーカーが自動車部品売上高で世界第３位に－－中国のBEV電池セル支配は完結した/続・21世紀電池戦争７（最終回）(MotorFan)",
+      "link": "https://news.yahoo.co.jp/articles/d0f37c974ffdaca37db5219a27c55742e399cbc1?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 11 Aug 2026 22:10:00 GMT",
+      "desc": "自動車部品の世界トップ陣といえば、かつては独・ボッシュ/ZF/コンチネンタル、日本のデンソー/アイシン、カナダのマグナインターナショナル、仏・フォルヴィア、韓国・現代モビス……だった。しかし、現在はこ",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
