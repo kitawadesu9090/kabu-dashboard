@@ -1,43 +1,34 @@
 {
-  "updated": "2026/08/17 07:12",
-  "date": "2026-08-17",
+  "updated": "2026/08/18 07:15",
+  "date": "2026-08-18",
   "count": {
-    "up": 1,
+    "up": 2,
     "down": 0,
-    "div": 0,
-    "earn": 19
+    "div": 2,
+    "earn": 14
   },
   "items": [
     {
-      "title": "【決算速報】アドバンクリエ<8798>---26年9月期2Qは赤字縮小、経常損益は▲1600万円0:14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/18c1ce9b5d1c8c1c4801e35d0fb180bdf75ea6a3",
+      "title": "【決算速報】ＭＨグループ<9439>---26年6月期は赤字拡大、経常損益は▲9800万円8/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9e6e84d75592e8c5105201445fcb6cf2dafb53ac",
       "type": "earn",
-      "code": "8798",
+      "code": "9439",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ヘッドウォーター<4011>---26年12月期2Qは黒字転換、経常利益は1億2900万円0:14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4eed675c11584c8f32610b64447b08dc78662126",
+      "title": "【決算速報】サニックスH<4651>---27年3月期1Qは黒字転換、経常利益は2億8000万円8/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/2025abf056b5167d1c5725993d47b887e78945e9",
       "type": "earn",
-      "code": "4011",
+      "code": "4651",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ヘッドウォ、上期経常は黒字浮上で着地8/14株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1aaf40314b663ae2ece1ae6f0b4e0ac0a509b563",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヘッドウォーター、中間経常129百万。8/14アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/c3b2d5da11bb4a34720d8dd30bdcca2eb342a64b",
+      "title": "★本日の【サプライズ決算】速報 (08月17日)8/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bf6c2dc4be2d48d86e2f90753ebc080d8a51d0cb",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,26 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ニチリョク<7578>---27年3月期1Q8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4e7d8d2e1b7c6688aeb97cf132559c4fdd5b9eda",
-      "type": "earn",
-      "code": "7578",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】データセク<3905>---27年3月期1Qは黒字転換、経常利益は50億1100万円8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a777e8ca786d69bfc749468a5a3dbd7d96c74591",
-      "type": "earn",
-      "code": "3905",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ａクリエイト、上期営業が黒字浮上で着地・1-3月期は赤字転落8/14株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/62d7464728bf0e5d773378be19a0ad26b9ac1d1f",
+      "title": "【決算速報】Ｍ・Ｈ・Ｇ、経常赤字幅拡大。事前予想を上回る8/17アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/0c3fef84f4334e3aa4f1572e3d49a482b13dc5ff",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -72,8 +45,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アドバンスクリ、中間経常-16百万。8/14アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/8347ef7254b13785fcbddc412a63c0b713201b31",
+      "title": "【決算速報】ＭＨグループ、今期経常は黒字浮上、2期ぶり0.5円で復配へ8/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cdea86ec3f115f553b76b8ee3b1320cc24596a0e",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ＭＨグループ、２６年６月期決算は純損益１億円の赤字8/17ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/af750e80125dde75cd643ad9dfda6f3237b15fe4",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,111 +63,111 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ライドオンE<6082>---27年3月期1Qは赤字転落、経常損益は▲300万円8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a9293b8298bb1789a79f062ef4f4891e1b130256",
+      "title": "【決算速報】三井不商業、今期経常は1％減益へ8/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4a223457b43b1d7b07f4b79d51d88b2a70de69a6",
       "type": "earn",
-      "code": "6082",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サンドラッグ<9989>---27年3月期1Qは減益、経常利益は2.2％減8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8de50aaba3ac51576cacc6dcd53da5e407cefedd",
-      "type": "earn",
-      "code": "9989",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ａｔｌａｓ<9563>---26年12月期2Qは黒字転換、経常利益は9400万円8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/57fd5a882c2769232b1a24429688037cdce38d06",
-      "type": "earn",
-      "code": "9563",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ギックス<9219>---26年6月期は黒字転換、経常利益は200万円8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/e7881a2c32c9d8d980edabd2d2d93d911df2eb40",
-      "type": "earn",
-      "code": "9219",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】進学会HD<9760>---27年3月期1Qは赤字拡大、経常損益は▲10億2900万円8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/08761af310a80f56e2c469f5cf707979a30f415b",
-      "type": "earn",
-      "code": "9760",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】イメージマジック<7793>---26年12月期2Qは増益、経常利益は17.2％増8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/071b9ca1a328e3ebf84508646c9e25ffd22533f9",
-      "type": "earn",
-      "code": "7793",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】バルコス<7790>---26年12月期2Qは赤字転落、経常損益は▲1億900万円8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c16ab2a73315dea1f1e6f754ba86c637404cfd24",
-      "type": "earn",
-      "code": "7790",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】バードマン<7063>---26年6月期は赤字拡大、経常損益は▲15億5200万円8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2405354f8176ffbf9b20731eb39a21f4ace9fc02",
-      "type": "earn",
-      "code": "7063",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】エヌ・シー・エヌ<7057>---27年3月期1Qは赤字縮小、経常損益は▲4600万円8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f7b3412fdb5019414299c2a93844803fc31f980a",
-      "type": "earn",
-      "code": "7057",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アルバック<6728>---26年6月期は減益、経常利益は30.4％減8/14フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/805c1612df2e4c5c1f36815c594eadea88258d9a",
-      "type": "earn",
-      "code": "6728",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "三菱マテリアル（5711）、通期純利益予想を大幅上方修正 1Qは黒字転換(LIMO)",
-      "link": "https://news.yahoo.co.jp/articles/c6858829256c7b9216b2007593722da1dd0aeddf?source=rss",
+      "title": "【決算速報】ＭＥＲＦ、今期配当を10円増額修正8/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2fba564266345f16d67d1248b2d66db3932a8bc7",
       "type": "up",
-      "code": "5711",
-      "pub": "Sun, 16 Aug 2026 21:01:04 GMT",
-      "desc": "株価が急に動き出すとき、材料は一つとは限らない。\n\n三菱マテリアル <5711> は8月上旬の四半期決算を境に、直近1カ月で株価が大きく水準を切り上げた。通期の利益予想が大幅に引き上げられたことが、直",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】サニックスＨ、4-6月期(1Q)経常は黒字浮上で着地8/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cf12eb93608d4db3ff3136adac34717910a5b3e2",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｊプライム、今期経常は17％減益へ8/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/616383cdf81a8e7ae14254a1ed0bc89b301f84ec",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ビルファンド、今期経常は18％減益へ8/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8fe3ceeef940ac10cc833e932422796e2db9d686",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞サニックスＨ、２７年３月期第１四半期決算は純損益１．２億円の黒字8/17ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/0fce0be6dbbc079c33857a22b89023aa76515eb6",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】サニックスＨ、1Q経常280百万。8/17アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/fc8e4e5fe97155130b072fe9335cf5ea8eba86cc",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＡＦＣ－ＨＤ、今期配当を4円増額修正8/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2c1ede08d4ad84932049b483f64b930b7cae05ef",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＡＦＣＨＤアムス、26年08月年間1株配当40円。8/17アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/016c14d48cb318a5f916f785718b1b1b1f7344ce",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "赤字から過去最高の営業利益へ…大戸屋を復活させた「ファミレス代わり」「ちょい飲み」と「ゆる健康志向」の追い風(集英社オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/647d8fcdc2922351b3f9e97bbf63a471b7f9139e?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Mon, 17 Aug 2026 22:00:38 GMT",
+      "desc": "近年、和食定食チェーン「大戸屋ごはん処」（以下、大戸屋）の業績が好調だ。2010年代後半に既存店売上の低迷や赤字転落を経験した同社は、なぜ復活できたのか。そこには「ゆる健康志向」というトレンドや、ユー",
       "source": "yahoo_news"
     },
     {
-      "title": "コイルセンター、業績小幅改善。収益水準は依然不十分。設備更新・労務費高などの転嫁道半ば(鉄鋼新聞)",
-      "link": "https://news.yahoo.co.jp/articles/19948b3f41b765d9cfc1d2268bf302caa4a3504e?source=rss",
+      "title": "サンリオ、2027年3月期1Qは営業利益224億円。増収でも利益の伸びは鈍化(LIMO)",
+      "link": "https://news.yahoo.co.jp/articles/09416d3dd7b6186b5a92a8e1f7592459af0d3ebd?source=rss",
+      "type": "earn",
+      "code": "2027",
+      "pub": "Mon, 17 Aug 2026 21:31:08 GMT",
+      "desc": "好調な会社の株価が、好調な決算で下げることがある。売られたのは業績ではなく、業績の伸び方のほうだ、という局面である。\n\nサンリオ <8136> の直近1カ月には、まさにその形が出た。増収率は20％を超",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "デクセリアルズが増収増益、為替影響が追い風に(MONOist)",
+      "link": "https://news.yahoo.co.jp/articles/8209a2287d2e4fdbc380b148aa404c12c132242c?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Sun, 16 Aug 2026 21:00:57 GMT",
-      "desc": "　全国各地のコイルセンター（CC）各社の業績が総じて上向いている。メーカー系、商社系、独立系を問わず、鋼板加工賃の引き上げや自社販売（自販）におけるスプレッド拡大が寄与し、極端な収益悪化に陥っていた以",
+      "pub": "Mon, 17 Aug 2026 21:30:11 GMT",
+      "desc": "　デクセリアルズは2026年8月5日、東京都内とオンラインで記者会見を開き、2027年3月期第1四半期の連結業績（2026年4月1日～6月30日）について発表した。",
       "source": "yahoo_news"
     }
   ],
