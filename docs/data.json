@@ -1,13 +1,103 @@
 {
-  "updated": "2026/08/19 07:13",
-  "date": "2026-08-19",
+  "updated": "2026/08/20 07:15",
+  "date": "2026-08-20",
   "count": {
-    "up": 4,
-    "down": 1,
-    "div": 0,
-    "earn": 13
+    "up": 2,
+    "down": 0,
+    "div": 2,
+    "earn": 11
   },
   "items": [
+    {
+      "title": "【決算速報】あいＨＤ<3076>---26年6月期は増益、経常利益は39.2％増8/19フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/73d86a44e0bc900a1d7840b9af8f43af354daf40",
+      "type": "earn",
+      "code": "3076",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】マリモリート、今期経常は3％減益へ8/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a4eb3c32f95db858e6bf91f455f2cabbc92e46f1",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】あいＨＤ、今期経常は7％減益、15円増配へ8/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d9c3f6ec0933b412a53c6ba266f9001fdb8456c4",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞あいＨＤ、２６年６月期決算は純利益４３．７％減の大幅減益8/19ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/d3b392a8fc3394fea202886015f1c4eb4dcb0c49",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】あいＨ、経常39.2%増益。アナリスト予想を下回る8/19アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/5a513ec4fe2715b1c0d0751afa75ee2dbeee7aab",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】エーバランス<3856>---26年3月期8/19フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4a931a579ba6d49cfc1cd0ce51b6c157850b5c89",
+      "type": "earn",
+      "code": "3856",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ａバランス、前期経常は124億円で着地、今期業績は非開示8/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/906a8294ddc3250f4cb65589aeec1bca716574f1",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ａｂａｌａｎｃｅ、経常12,497百万。8/19アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7d183e2acbd334f7a8ff79ed0de06d7cea474640",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ボードルア、今期配当を見送り8/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/050d914461fb56adeadc33b0ca05a94827d82816",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ボードルア、27年02月年間1株配当0円。8/19アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/58fb879c03e3dff5465470c28cd44e9ad939f775",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】パンパシHD<7532>---26年6月期は増益、経常利益は12％増8/18フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/d05818d9e966f4896a93258b9867799d54848350",
@@ -45,129 +135,12 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ハピネス＆Ｄ、今期最終を赤字拡大に下方修正8/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/52415a181b6f7e01dfbe97402bb0052f073df03e",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】北川精機、今期経常は14％増で2期連続最高益、前期配当を3円増額・今期は2円増配へ8/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/58cd751395bfd5e96a343c8e26bf96edd7cd7cbb",
+      "title": "iDeCo加入者400万人突破！12月から「拠出限度額の引き上げ」企業年金ありの会社員「最大4万2000円の増額」(LIMO)",
+      "link": "https://news.yahoo.co.jp/articles/14633b048df7cbe766a46d18432a8339db766434?source=rss",
       "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞北川精機、２６年６月期決算は純利益９０．１％増の大幅増益8/18ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/79bfe3205d01e793e8729bdb526b177325da957d",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】北川精機、経常72.1%増益。アナリスト予想を上回る8/18アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/5e0cd5a6009395e5553bcd40c8ab9300660044e9",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】パンパシＨＤ、今期経常は1％減益、前期配当を1円増額・今期は0.5円増配へ8/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8e0b471829f00adcd42e1bbbf9916ca90de68002",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＣＲＥロジ、今期経常は8％減益へ8/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/db5c918fc388afa7c8cfa7d2ec93835101cc4139",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ワッツ、今期最終を11％上方修正、配当も3円増額8/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f0662a24e84940195be7dfaf0855f424f2dd2052",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】サイタＨＤ、今期経常は40％減益へ8/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a41becb5ac870297fafb0ed0b9992cc6023f7523",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞パンパシＩ、２６年６月期決算は純利益２１．６％増の大幅増益8/18ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/63149da229c8107394500b12d4e8463732ef1fbd",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞サイタＨＤ、２６年６月期決算は純利益０．７％増8/18ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/52b893f3831cc8692b2439b228d5a163c7d8a48d",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】サイタＨ、経常22.7%減益。事前予想を上回る8/18アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/55199d7898ea9b5321d08e5cbd17346a27a9b5c9",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "配当総額は過去最高23兆円規模へ！ 日本企業が「増配ラッシュ」に沸く背景と注目の4銘柄(MONEY PLUS)",
-      "link": "https://news.yahoo.co.jp/articles/d80cade5ac530ad9d7ccef6d4bb732f25fa91ef8?source=rss",
-      "type": "up",
-      "code": "",
-      "pub": "Tue, 18 Aug 2026 22:02:48 GMT",
-      "desc": "【記事の要点】\n・企業の好調な決算を背景に増配予想が増加し配当総額は過去最高水準の23兆円規模へ\n・GPIFの累積収益は221兆円超でインカムゲイン（利子・配当収入）の比率が上昇\n・ネクソンやGMOペ",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "ドンキの「ファン付き帽子」、夏の“自宅ガーデニング”など熱中症対策に大活躍！PPIH、純利益初の1000億円台に(ハフポスト日本版)",
-      "link": "https://news.yahoo.co.jp/articles/b60acb8d32eb109c741743e177d7691eba0edf02?source=rss",
-      "type": "earn",
-      "code": "1000",
-      "pub": "Tue, 18 Aug 2026 21:50:08 GMT",
-      "desc": "猛暑対策として帽子にファンを組み込んだドン・キホーテの「ファン付き帽子」が自宅ガーデニングや夏フェスなど屋外で大活躍だと話題を集めている。\n\n運営元のPPIHは8月18日、2026年6月期の本決算を発",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "【アシックス】今から秋まで活躍する“新作サンダル”が素敵！通期売上高予想は初の1兆円超・スポーツスタイルは売上高83%増(ハフポスト日本版)",
-      "link": "https://news.yahoo.co.jp/articles/e3d7d7ef346de22171fda769b2064ced7a5ff978?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Tue, 18 Aug 2026 21:40:22 GMT",
-      "desc": "アシックスが今夏投入したサンダル「GT-2160 BREEZE」（税込15400円）が注目を集めている。ベースになっているのは、ランニングシューズとして根強いファンを持つ「GT-2160」。それをサン",
+      "code": "2000",
+      "pub": "Wed, 19 Aug 2026 21:35:50 GMT",
+      "desc": "2026年（令和8年）8月、国民年金基金連合会は最新の「iDeCo（個人型確定拠出年金）の加入等の概況（2026年6月）」を公表しました。加入者数は2026年6月末時点で400万人を超え、着実に利用者",
       "source": "yahoo_news"
     }
   ],
