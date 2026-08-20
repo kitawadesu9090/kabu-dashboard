@@ -1,13 +1,58 @@
 {
-  "updated": "2026/08/20 07:15",
-  "date": "2026-08-20",
+  "updated": "2026/08/21 07:17",
+  "date": "2026-08-21",
   "count": {
-    "up": 2,
-    "down": 0,
-    "div": 2,
-    "earn": 11
+    "up": 3,
+    "down": 1,
+    "div": 1,
+    "earn": 10
   },
   "items": [
+    {
+      "title": "★本日の【サプライズ決算】速報 (08月20日)8/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5053b6f26389c2529bd228a974398ac47955694b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本リート、今期経常は19％減益へ8/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/29a26bff0d0ba30165bf10f766a3c84dc9b158fa",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞リンテック、２７年３月期第１四半期決算は純利益４１．４％増の大幅増益8/20ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/a8697c837bdc645f874462bc5556946318f60026",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ジーイエット、今期最終を一転赤字に下方修正（訂正）8/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7df1aac46b28dcd0d388126faa19ecff60069552",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日宣、上期経常を一転17％増益に上方修正・5期ぶり最高益更新へ8/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/20dde411260adfd8e8959c8ffc51386a9e8f3a96",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】あいＨＤ<3076>---26年6月期は増益、経常利益は39.2％増8/19フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/73d86a44e0bc900a1d7840b9af8f43af354daf40",
@@ -63,84 +108,39 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】Ａバランス、前期経常は124億円で着地、今期業績は非開示8/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/906a8294ddc3250f4cb65589aeec1bca716574f1",
+      "title": "528店から\"ほぼ半減\"…決算を見ればわかる､｢遊べる本屋｣ヴィレヴァンの\"宝の山\"が重荷に変わった本当の理由(プレジデントオンライン)",
+      "link": "https://news.yahoo.co.jp/articles/902e60e00be64b3b5aa3b131ae993d00e34dbd5d?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Thu, 20 Aug 2026 22:15:44 GMT",
+      "desc": "「遊べる本屋」として一世を風靡したヴィレッジヴァンガードが苦境に立たされている。最盛期には528店まで拡大した店舗数は、2025年5月期には293店まで減少。さらに、財務コンサルタントの村上茂久さんは",
+      "source": "yahoo_news"
     },
     {
-      "title": "【決算速報】Ａｂａｌａｎｃｅ、経常12,497百万。8/19アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7d183e2acbd334f7a8ff79ed0de06d7cea474640",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ボードルア、今期配当を見送り8/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/050d914461fb56adeadc33b0ca05a94827d82816",
+      "title": "【キオクシア疲れ→ディフェンシブ銘柄の物色へ】資産10億円超の兼業投資家が注目する“逆襲”8銘柄を公開！上昇狙える配当利回り約5％のガラス製造会社、上り調子の割安な製粉会社や製糖メーカーなど(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/7cba2ee9861d4d148c5380a2fc7b794a8bb554a0?source=rss",
       "type": "div",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Thu, 20 Aug 2026 22:15:00 GMT",
+      "desc": "　半導体メモリ大手のキオクシアホールディングス（HD）をはじめ、AI・半導体関連銘柄の爆騰は7月に鳴りを潜めた。「バブルと化していたAI・半導体関連への投資で個人投資家も機関投資家も相当の損失を出して",
+      "source": "yahoo_news"
     },
     {
-      "title": "【決算速報】ボードルア、27年02月年間1株配当0円。8/19アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/58fb879c03e3dff5465470c28cd44e9ad939f775",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】パンパシHD<7532>---26年6月期は増益、経常利益は12％増8/18フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d05818d9e966f4896a93258b9867799d54848350",
-      "type": "earn",
-      "code": "7532",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】北川精機<6327>---26年6月期は増益、経常利益は72％増8/18フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6d39dca4324fa02e241cea49a459d44fc505fe96",
-      "type": "earn",
-      "code": "6327",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】サイタＨＤ<1999>---26年6月期は減益、経常利益は22.7％減8/18フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1d742d122070c079c8bf9dea3103bf2448c2ba33",
-      "type": "earn",
-      "code": "1999",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (08月18日)8/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b5d35a8a56701ee35a4c887e0d9e66f0f9043a30",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "iDeCo加入者400万人突破！12月から「拠出限度額の引き上げ」企業年金ありの会社員「最大4万2000円の増額」(LIMO)",
-      "link": "https://news.yahoo.co.jp/articles/14633b048df7cbe766a46d18432a8339db766434?source=rss",
+      "title": "M＆Aキャピタルパートナーズによる通期予想の上方修正　成約件数予想は引き下げなのになぜ？　競合・ストライクグループとの差を生んだ「大型案件」の存在(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/7996df3ef7d0c3e529009f8db558dd9e84a68534?source=rss",
       "type": "up",
-      "code": "2000",
-      "pub": "Wed, 19 Aug 2026 21:35:50 GMT",
-      "desc": "2026年（令和8年）8月、国民年金基金連合会は最新の「iDeCo（個人型確定拠出年金）の加入等の概況（2026年6月）」を公表しました。加入者数は2026年6月末時点で400万人を超え、着実に利用者",
+      "code": "",
+      "pub": "Thu, 20 Aug 2026 22:15:00 GMT",
+      "desc": "　7月30日、M＆A大手のM＆Aキャピタルパートナーズ（MACP）とストライクグループが揃って2026年9月期の第3四半期決算を発表した。MACPは今期最終利益を6％上方修正し増配も発表、一方のストラ",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "しまむら株価が直近1カ月で最も低い水準、2027年2月期1Qは営業利益+17%(LIMO)",
+      "link": "https://news.yahoo.co.jp/articles/e1abb33caaf8cd9cb156956290d69dc6c2e2c992?source=rss",
+      "type": "earn",
+      "code": "2027",
+      "pub": "Thu, 20 Aug 2026 21:31:08 GMT",
+      "desc": "借入にほとんど頼らず自己資本比率の高い会社は、それだけで安心できる。そう受け取られることが多い。だが資本を厚く抱えることと、その資本を効率よく回すことは別の問題だ。しまむら <8227> の数字は、そ",
       "source": "yahoo_news"
     }
   ],
