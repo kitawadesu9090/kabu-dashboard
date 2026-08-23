@@ -1,16 +1,25 @@
 {
-  "updated": "2026/08/21 07:17",
-  "date": "2026-08-21",
+  "updated": "2026/08/24 07:13",
+  "date": "2026-08-24",
   "count": {
-    "up": 3,
+    "up": 4,
     "down": 1,
-    "div": 1,
-    "earn": 10
+    "div": 3,
+    "earn": 5
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (08月20日)8/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/5053b6f26389c2529bd228a974398ac47955694b",
+      "title": "【決算速報】ヤガミ<7488>---27年4月期1Qは減益、経常利益は6.6％減8/21フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d68a08f662dca04fc2b9f6ace5bfd6694e79e15f",
+      "type": "earn",
+      "code": "7488",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (08月21日)8/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ca90c7c823dcd00d8c2cc9312ce92ab945a1eca6",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,26 +27,62 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本リート、今期経常は19％減益へ8/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/29a26bff0d0ba30165bf10f766a3c84dc9b158fa",
-      "type": "earn",
+      "title": "【決算速報】エクセレント、前期経常が一転増益で上振れ着地・今期は26％増益へ8/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2dc01fda98b8b523c62b074e0f365625fc7b0c33",
+      "type": "up",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞リンテック、２７年３月期第１四半期決算は純利益４１．４％増の大幅増益8/20ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/a8697c837bdc645f874462bc5556946318f60026",
-      "type": "earn",
+      "title": "【決算速報】ＸＮＥＴ、株式分割に伴い配当予想を修正8/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d86f69fa36f139e5334ccd4ed11eff08bf1f5620",
+      "type": "div",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ジーイエット、今期最終を一転赤字に下方修正（訂正）8/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7df1aac46b28dcd0d388126faa19ecff60069552",
+      "title": "【決算速報】ムラキ、非開示だった上期経常は26％減益、未定だった上期配当は15円実施8/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d6fe4b52aae2892a3c8ce8cc19be8b24bc77328b",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オリコンＨＤ、今期経常を一転微増益に上方修正・最高益、配当も5円増額8/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a5b303013fd7622b4490f1e18e1ffedfe90d5702",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】シーイーシー、今期経常を8％上方修正・最高益予想を上乗せ8/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a63c0b27ebe291b8527b4abb9e9843db3642aa7a",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】甜菜糖、今期配当を実質増額修正8/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c569c2ecdb2ccd5c8cb08b646b3fd4e2678100a3",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】北雄ラッキー、今期経常を一転41％減益に下方修正8/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4c64d3c2aba3c05dbfa477dbe1396376ce6ea5d5",
       "type": "down",
       "code": "",
       "pub": "",
@@ -45,26 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日宣、上期経常を一転17％増益に上方修正・5期ぶり最高益更新へ8/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/20dde411260adfd8e8959c8ffc51386a9e8f3a96",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】あいＨＤ<3076>---26年6月期は増益、経常利益は39.2％増8/19フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/73d86a44e0bc900a1d7840b9af8f43af354daf40",
-      "type": "earn",
-      "code": "3076",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】マリモリート、今期経常は3％減益へ8/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a4eb3c32f95db858e6bf91f455f2cabbc92e46f1",
+      "title": "【決算速報】ヤガミ、5-7月期(1Q)経常は6％減益で着地8/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/51623216e12e10dc5db7d16b2706f0b7f88e37bd",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -72,17 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】あいＨＤ、今期経常は7％減益、15円増配へ8/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d9c3f6ec0933b412a53c6ba266f9001fdb8456c4",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞あいＨＤ、２６年６月期決算は純利益４３．７％減の大幅減益8/19ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/d3b392a8fc3394fea202886015f1c4eb4dcb0c49",
+      "title": "＜決算速報＞ヤガミ、２７年４月期第１四半期決算は純利益４．２％減8/21ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/d9e685a20a7bbf3270bdfde66052371ff2b5a9a1",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -90,58 +108,22 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】あいＨ、経常39.2%増益。アナリスト予想を下回る8/19アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/5a513ec4fe2715b1c0d0751afa75ee2dbeee7aab",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】エーバランス<3856>---26年3月期8/19フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4a931a579ba6d49cfc1cd0ce51b6c157850b5c89",
-      "type": "earn",
-      "code": "3856",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "528店から\"ほぼ半減\"…決算を見ればわかる､｢遊べる本屋｣ヴィレヴァンの\"宝の山\"が重荷に変わった本当の理由(プレジデントオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/902e60e00be64b3b5aa3b131ae993d00e34dbd5d?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Thu, 20 Aug 2026 22:15:44 GMT",
-      "desc": "「遊べる本屋」として一世を風靡したヴィレッジヴァンガードが苦境に立たされている。最盛期には528店まで拡大した店舗数は、2025年5月期には293店まで減少。さらに、財務コンサルタントの村上茂久さんは",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "【キオクシア疲れ→ディフェンシブ銘柄の物色へ】資産10億円超の兼業投資家が注目する“逆襲”8銘柄を公開！上昇狙える配当利回り約5％のガラス製造会社、上り調子の割安な製粉会社や製糖メーカーなど(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/7cba2ee9861d4d148c5380a2fc7b794a8bb554a0?source=rss",
+      "title": "【決算速報】日本甜菜製糖、27年03月年間1株配当90円。8/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/11aa26d6058eae84c7d7d4ddc2445ad6c7ba6e73",
       "type": "div",
       "code": "",
-      "pub": "Thu, 20 Aug 2026 22:15:00 GMT",
-      "desc": "　半導体メモリ大手のキオクシアホールディングス（HD）をはじめ、AI・半導体関連銘柄の爆騰は7月に鳴りを潜めた。「バブルと化していたAI・半導体関連への投資で個人投資家も機関投資家も相当の損失を出して",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     },
     {
-      "title": "M＆Aキャピタルパートナーズによる通期予想の上方修正　成約件数予想は引き下げなのになぜ？　競合・ストライクグループとの差を生んだ「大型案件」の存在(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/7996df3ef7d0c3e529009f8db558dd9e84a68534?source=rss",
-      "type": "up",
-      "code": "",
-      "pub": "Thu, 20 Aug 2026 22:15:00 GMT",
-      "desc": "　7月30日、M＆A大手のM＆Aキャピタルパートナーズ（MACP）とストライクグループが揃って2026年9月期の第3四半期決算を発表した。MACPは今期最終利益を6％上方修正し増配も発表、一方のストラ",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "しまむら株価が直近1カ月で最も低い水準、2027年2月期1Qは営業利益+17%(LIMO)",
-      "link": "https://news.yahoo.co.jp/articles/e1abb33caaf8cd9cb156956290d69dc6c2e2c992?source=rss",
+      "title": "【決算速報】ヤガミ、1Q経常446百万。8/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/0e49f95b733b1aa07d1eeca9840f3e87d8551153",
       "type": "earn",
-      "code": "2027",
-      "pub": "Thu, 20 Aug 2026 21:31:08 GMT",
-      "desc": "借入にほとんど頼らず自己資本比率の高い会社は、それだけで安心できる。そう受け取られることが多い。だが資本を厚く抱えることと、その資本を効率よく回すことは別の問題だ。しまむら <8227> の数字は、そ",
-      "source": "yahoo_news"
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     }
   ],
   "schedule": []
