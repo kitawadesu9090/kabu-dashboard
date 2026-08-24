@@ -1,13 +1,67 @@
 {
-  "updated": "2026/08/24 07:13",
-  "date": "2026-08-24",
+  "updated": "2026/08/25 07:16",
+  "date": "2026-08-25",
   "count": {
-    "up": 4,
-    "down": 1,
-    "div": 3,
+    "up": 2,
+    "down": 0,
+    "div": 5,
     "earn": 5
   },
   "items": [
+    {
+      "title": "★本日の【サプライズ決算】速報 (08月24日)8/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/91cfbadfa31c5f93d2c73a7e6bd261f4650ce125",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＩＮＧＳ、今期配当は無配を未定に変更8/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8ebcd0d03038539c74f2baa6d8682349be9c6a11",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞日空ビル、２７年３月期第１四半期決算は純利益３４．４％増の大幅増益8/24ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/728fe5aa6bab54c0a05d91651489f470133bfef2",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】カネソウ、株式分割に伴い配当予想を修正8/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ecd91085bb6ab4e0f095d2a6de2852f159acd9ac",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】秋田銀、株式分割に伴い配当予想を修正8/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/acb6b365fb53fab7d48234d378df0e49cab77d4a",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ギフトＨＤ、今期経常を4％上方修正・最高益予想を上乗せ8/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e884eb73a891f48547608cef9e35f8b7986ec743",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】ヤガミ<7488>---27年4月期1Qは減益、経常利益は6.6％減8/21フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/d68a08f662dca04fc2b9f6ace5bfd6694e79e15f",
@@ -54,76 +108,13 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】オリコンＨＤ、今期経常を一転微増益に上方修正・最高益、配当も5円増額8/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a5b303013fd7622b4490f1e18e1ffedfe90d5702",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】シーイーシー、今期経常を8％上方修正・最高益予想を上乗せ8/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a63c0b27ebe291b8527b4abb9e9843db3642aa7a",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】甜菜糖、今期配当を実質増額修正8/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c569c2ecdb2ccd5c8cb08b646b3fd4e2678100a3",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】北雄ラッキー、今期経常を一転41％減益に下方修正8/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4c64d3c2aba3c05dbfa477dbe1396376ce6ea5d5",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヤガミ、5-7月期(1Q)経常は6％減益で着地8/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/51623216e12e10dc5db7d16b2706f0b7f88e37bd",
+      "title": "ユナイテッドアローズ、2027年3月期1Qの営業利益は+27.5%の大幅増益(LIMO)",
+      "link": "https://news.yahoo.co.jp/articles/d7a2bfbdcc57f4f0a0462415099f9cc75ab840a0?source=rss",
       "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞ヤガミ、２７年４月期第１四半期決算は純利益４．２％減8/21ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/d9e685a20a7bbf3270bdfde66052371ff2b5a9a1",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日本甜菜製糖、27年03月年間1株配当90円。8/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/11aa26d6058eae84c7d7d4ddc2445ad6c7ba6e73",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヤガミ、1Q経常446百万。8/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/0e49f95b733b1aa07d1eeca9840f3e87d8551153",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "code": "2027",
+      "pub": "Mon, 24 Aug 2026 21:31:11 GMT",
+      "desc": "セレクトショップという業態は、値引きを抑えて高い粗利を確保する商売だ。そう理解している人は多いだろう。\n\nところがユナイテッドアローズ <7606> の直近決算は、粗利率が下がりながら営業利益が大きく",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
