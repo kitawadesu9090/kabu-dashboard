@@ -1,16 +1,25 @@
 {
-  "updated": "2026/08/25 07:16",
-  "date": "2026-08-25",
+  "updated": "2026/08/26 07:17",
+  "date": "2026-08-26",
   "count": {
-    "up": 2,
-    "down": 0,
-    "div": 5,
-    "earn": 5
+    "up": 4,
+    "down": 1,
+    "div": 3,
+    "earn": 9
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (08月24日)8/24株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/91cfbadfa31c5f93d2c73a7e6bd261f4650ce125",
+      "title": "【決算速報】タカショー<7590>---27年1月期2Qは増益、経常利益は32.8％増8/25フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/084e556d02a4c8d96140c1bca6b0f35b8d714a7e",
+      "type": "earn",
+      "code": "7590",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (08月25日)8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cde451d95980bcf1bbab6d8368496f8a81122bfb",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,17 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＩＮＧＳ、今期配当は無配を未定に変更8/24株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8ebcd0d03038539c74f2baa6d8682349be9c6a11",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞日空ビル、２７年３月期第１四半期決算は純利益３４．４％増の大幅増益8/24ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/728fe5aa6bab54c0a05d91651489f470133bfef2",
+      "title": "＜決算速報＞大阪チタ、２７年３月期第１四半期決算は純利益４．０倍8/25ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/9c994f1b885abcef0c81a991e6db2c8e3dc2265a",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,26 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】カネソウ、株式分割に伴い配当予想を修正8/24株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ecd91085bb6ab4e0f095d2a6de2852f159acd9ac",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】秋田銀、株式分割に伴い配当予想を修正8/24株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/acb6b365fb53fab7d48234d378df0e49cab77d4a",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ギフトＨＤ、今期経常を4％上方修正・最高益予想を上乗せ8/24株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e884eb73a891f48547608cef9e35f8b7986ec743",
+      "title": "【決算速報】東京海上、今期配当を実質増額修正8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7960033641c85432adc22cdeadcfa1bc2a8b6f12",
       "type": "up",
       "code": "",
       "pub": "",
@@ -63,17 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ヤガミ<7488>---27年4月期1Qは減益、経常利益は6.6％減8/21フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d68a08f662dca04fc2b9f6ace5bfd6694e79e15f",
-      "type": "earn",
-      "code": "7488",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (08月21日)8/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ca90c7c823dcd00d8c2cc9312ce92ab945a1eca6",
+      "title": "【決算速報】ＩＮＶ、今期経常は2％増益へ8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b17e5e8d89cb42d8d6f831804d8d725a7665e193",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,8 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】エクセレント、前期経常が一転増益で上振れ着地・今期は26％増益へ8/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2dc01fda98b8b523c62b074e0f365625fc7b0c33",
+      "title": "【決算速報】Ａｍａｚｉａ、今期最終を一転して損益トントンに上方修正8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8ee57e2f0600f5941971ed2d070db78c739c188e",
       "type": "up",
       "code": "",
       "pub": "",
@@ -90,30 +63,102 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＸＮＥＴ、株式分割に伴い配当予想を修正8/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d86f69fa36f139e5334ccd4ed11eff08bf1f5620",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ムラキ、非開示だった上期経常は26％減益、未定だった上期配当は15円実施8/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d6fe4b52aae2892a3c8ce8cc19be8b24bc77328b",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "ユナイテッドアローズ、2027年3月期1Qの営業利益は+27.5%の大幅増益(LIMO)",
-      "link": "https://news.yahoo.co.jp/articles/d7a2bfbdcc57f4f0a0462415099f9cc75ab840a0?source=rss",
+      "title": "【決算速報】タカショー、上期経常は33％増益で着地8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/89ba2654521178e4559d3e952f4638ad08e87d5e",
       "type": "earn",
-      "code": "2027",
-      "pub": "Mon, 24 Aug 2026 21:31:11 GMT",
-      "desc": "セレクトショップという業態は、値引きを抑えて高い粗利を確保する商売だ。そう理解している人は多いだろう。\n\nところがユナイテッドアローズ <7606> の直近決算は、粗利率が下がりながら営業利益が大きく",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミロク、今期最終を4.7倍上方修正・21期ぶり最高益更新へ8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/969f52b11ab710270caeafaa90561bc81f42e1b4",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】トーヨアサノ、今期経常を一転赤字に下方修正8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b7ab668b99a392b78f006f80443e43062c7dabd2",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＶＮＸ、非開示だった前期経常は黒字浮上で8期ぶり最高益更新へ8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1a2097c94d001bf602b40be4d487082cb9533d62",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞タカショー、２７年１月期第２四半期決算は純利益５０．７％増の大幅増益8/25ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/5722eafe4f7f21822ce255eadac2a4a79b2ce631",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タカショー、中間経常463百万。8/25アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/522229799d67c628dfda4e33d24d951375c9d053",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】阿波銀、株式分割に伴い配当予想を修正8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1956586edeb2b6385b01fd7bfa83e90c35f21f74",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ヒトトヒトＨ、上期配当を10.71円実施8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f36bebe63a338f155912f4db38f3bef70e827478",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＫＳＫ、今期配当を実質増額修正8/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/136b47832ce67d87ae747cef98948685d01444b7",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＫＳＫ、27年03月年間1株配当64円。8/25アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/693fd013525e6ac2f9a8c0f50d06a07978e4520c",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "エヌビディア決算とジャクソンホール、この2つのイベントが「今週の市場」を左右する（海外）(BUSINESS INSIDER JAPAN)",
+      "link": "https://news.yahoo.co.jp/articles/5c8a38d2a63282f32b027376caea912ff6b35222?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 25 Aug 2026 22:10:01 GMT",
+      "desc": "エヌビディア（Nvidia）の決算とジャクソンホール経済シンポジウムが、今週の市場を動かす。\nエヌビディアは、AI取引の方向性について投資家にさらなる手がかりを示す。\nジャクソンホールでは、投資家はこ",
       "source": "yahoo_news"
     }
   ],
