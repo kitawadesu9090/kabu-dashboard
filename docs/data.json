@@ -1,25 +1,16 @@
 {
-  "updated": "2026/08/27 11:28",
-  "date": "2026-08-27",
+  "updated": "2026/08/28 14:53",
+  "date": "2026-08-28",
   "count": {
-    "up": 6,
-    "down": 0,
-    "div": 1,
-    "earn": 6
+    "up": 4,
+    "down": 5,
+    "div": 3,
+    "earn": 4
   },
   "items": [
     {
-      "title": "【決算速報】イージェイＨＤ<2153>---26年5月期は増益、経常利益は4.1％増8/26フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/22786bf1ed20f9946acded0d0cf683e774dba33f",
-      "type": "earn",
-      "code": "2153",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】シード、今期配当を見送り8/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d2ce8d9a7cec05d455e1a09ce859631a26ccadad",
+      "title": "【決算速報】日石輸、株式分割に伴い配当予想を修正14:02株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3007d2325c5c0de11f368d7d423f714abf2cc459",
       "type": "div",
       "code": "",
       "pub": "",
@@ -27,8 +18,44 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (08月26日)8/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/cfd7fb750307e8b6ab0385390958456df218be92",
+      "title": "【決算速報】ヤマックス、上期最終を38％下方修正、通期も減額14:00株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d8a5fd14ecd428ac6517449021131cba081f1c7a",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】三陽商、上期経常を一転赤字に下方修正13:00株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a626ddb1359398d49dd795c97308fc6c0977a97d",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】リミックス、今期経常を51億～124億円に下方修正11:13株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/14fbe255e5494715b4deb18002a6e67aa85021cc",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】DyDo<2590>---27年1月期2Qは増益、経常利益は6176.8％増8/27フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/00269ffe589c6fb2ca4bd51280ad32852afbc325",
+      "type": "earn",
+      "code": "2590",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (08月27日)8/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/38f1a38281d920a7ed5fce4bd5393ad656e0382d",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,8 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】松井、未定だった上期配当は3円増配8/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e7027459d807d4a41e749e3483606e739413cf06",
+      "title": "【決算速報】オートバクス、今期最終を24％上方修正・30期ぶり最高益更新へ8/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9a4f2b68f5eb09cba5dfb76f4331ebb3cf755fd2",
       "type": "up",
       "code": "",
       "pub": "",
@@ -45,8 +72,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ハウスリート、今期経常を6％上方修正、分配金も150円増額8/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/14424a2f6ac3fdb8c14d978cedbc0879c78a171e",
+      "title": "【決算速報】ＴＯＰＰＡＮ、株式分割に伴い配当予想を修正8/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2d73f59116f645f8b53dc8482262bdaed64454ce",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＤｙＤｏ、今期経常を12％上方修正・最高益予想を上乗せ8/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5462cb161b23dbdd19825df20f7165445fe8122b",
       "type": "up",
       "code": "",
       "pub": "",
@@ -54,26 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＧＬＰ、今期経常を一転3％増益に上方修正、分配金も315円増額8/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8d3aa7999e594612a1bee34ed64b4b26f55175f2",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ホテルリート、今期経常を0.4％上方修正・最高益予想を上乗せ、分配金も231円増額8/26株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c7f5208bcbeba91af226808fc76d347cfd77f930",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞グロービング、２６年５月期決算は純利益８１．７％増の大幅増益8/26ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/38f5f03fd40fee8cbccecfcd4db8f835fa9378df",
+      "title": "＜決算速報＞ＤｙＤｏ、２７年１月期第２四半期決算は純損益２８億円の黒字8/27ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/7b97510d8a8e983389f0d45f82dd7c3a3d467e4c",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,17 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】タカショー<7590>---27年1月期2Qは増益、経常利益は32.8％増8/25フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/084e556d02a4c8d96140c1bca6b0f35b8d714a7e",
-      "type": "earn",
-      "code": "7590",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (08月25日)8/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/cde451d95980bcf1bbab6d8368496f8a81122bfb",
+      "title": "【決算速報】ダイドーＧＨ、中間経常4,331百万。8/27アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/83378b326f9805a448916eebe1847fceb92db0bd",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,30 +108,48 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞大阪チタ、２７年３月期第１四半期決算は純利益４．０倍8/25ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/9c994f1b885abcef0c81a991e6db2c8e3dc2265a",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "「引き続き金利引き上げ」　日銀副総裁、物価上昇懸念(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/668587e9f073eec7a1a5478df47167232f2bce4f?source=rss",
+      "title": "【決算速報】大丸エナ、今期配当を1円増額修正8/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d4f79e14cbbbd746425457a12092be5e1c0c89f0",
       "type": "up",
       "code": "",
-      "pub": "Thu, 27 Aug 2026 02:15:17 GMT",
-      "desc": "　日銀の氷見野良三副総裁は27日、さいたま市で講演し、現在の金融環境は緩和的であるとして「引き続き政策金利を引き上げ、金融緩和の度合いを調整する」と述べた。物価が想定以上に上昇するリスクを、これまで以",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】大丸エナウィン、27年03月年間1株配当30円。8/27アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/4cd4a3287386875a8fa0ca1a2582aed126da41e3",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タムラ、今期経常を18％上方修正8/27株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8a6cc0f7e8bff1c7855d97f4e6e3fb280c817715",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "三陽商会3〜8月期、営業赤字4億円へ下方修正　6月の天候不順で春夏物売れず(WWDJAPAN.com)",
+      "link": "https://news.yahoo.co.jp/articles/063a62ed938f608cb035fbaf54edb22774608234?source=rss",
+      "type": "down",
+      "code": "",
+      "pub": "Fri, 28 Aug 2026 05:08:13 GMT",
+      "desc": "三陽商会は8月28日、2027年2月期第2四半期（3〜8月期）連結業績予想の下方修正を発表した。売上高は前回予想を6.9％下回る257億円（前回予想は276億円）、営業損益は1億円の黒字予想から4億円",
       "source": "yahoo_news"
     },
     {
-      "title": "「引き続き政策金利引き上げ」と日銀副総裁(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/86cb02886f89164afe7fc3a495645aa6e25b8022?source=rss",
-      "type": "up",
+      "title": "年金を「いつ死ぬか分からない」と“60歳”から「月15万→12万円」で受け取り後悔…80代で「減額は一生続く」恐ろしさを実感「目先の現金欲しさ」で安易な決断をしないためのポイント(ファイナンシャルフィールド)",
+      "link": "https://news.yahoo.co.jp/articles/c9bb02a3654692eb40e60ad3cd584da3576d80db?source=rss",
+      "type": "down",
       "code": "",
-      "pub": "Thu, 27 Aug 2026 01:55:19 GMT",
-      "desc": "　日銀の氷見野良三副総裁は27日、さいたま市で講演し、現在の金融環境は緩和的であるとし「引き続き政策金利を引き上げ、金融緩和の度合いを調整する」と述べた。",
+      "pub": "Fri, 28 Aug 2026 04:40:04 GMT",
+      "desc": "毎月の給与明細を見るたび、天引きされる厚生年金保険料にため息をつくことはありませんか。\n \n「これだけ納めても、将来十分な年金を受け取れるのだろうか」「長生きできるとは限らないため、受け取れるうちに受",
       "source": "yahoo_news"
     }
   ],
