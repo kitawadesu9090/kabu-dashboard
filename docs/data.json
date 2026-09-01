@@ -1,25 +1,25 @@
 {
-  "updated": "2026/09/01 09:55",
-  "date": "2026-09-01",
+  "updated": "2026/09/02 08:42",
+  "date": "2026-09-02",
   "count": {
-    "up": 2,
-    "down": 0,
-    "div": 4,
-    "earn": 13
+    "up": 1,
+    "down": 2,
+    "div": 1,
+    "earn": 14
   },
   "items": [
     {
-      "title": "【決算速報】サイバーＳＯＬ<436A>---27年4月期1Q9:30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c9dac623d04863162d53d24da8886a72d660d204",
-      "type": "earn",
+      "title": "【決算速報】イーソル、今期経常を10％下方修正、今期末配当を見送り9/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e46279e565ab5212f4eeea371d61d33b28ef41a6",
+      "type": "down",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ｅＢＡＳＥ、上期配当を7.6円実施9:03株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a405e6bd2c5e1053c1d19a137a1f863290a21dc6",
+      "title": "【決算速報】イーソル、26年12月年間1株配当1.50円。9/1アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/cef61ca1ef0c1ce41e425de733eeaa0324c4de21",
       "type": "div",
       "code": "",
       "pub": "",
@@ -27,53 +27,44 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ｅＢＡＳＥ、27年03月年間1株配当15.20円。8:45アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/4868231f0f5020c1c4f2b75b98e282c4ed604e65",
-      "type": "div",
+      "title": "【決算速報】ピープル<7865>---27年1月期2Qは赤字縮小、経常損益は▲1億1300万円9/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/124cf0075130beac1fe2dc0cefecbfb782595fd7",
+      "type": "earn",
+      "code": "7865",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイサン<4750>---27年4月期1Qは赤字転落、経常損益は▲9400万円9/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/cfc362911c15799fd709323d2ba536311618ab7d",
+      "type": "earn",
+      "code": "4750",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】伊藤園<2593>---27年4月期1Qは増益、経常利益は13.4％増9/1フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c982f3d9bb7f5a0e2dc53f0b84a912b4c9b7cd37",
+      "type": "earn",
+      "code": "2593",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＦＩＸＥＲ、前期最終を赤字拡大に下方修正、対純資産で65％の赤字9/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f9baea467585d9c611466d16caad958817ff04e4",
+      "type": "down",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】トリケミカル<4369>---27年1月期2Qは増益、経常利益は19.1％増8/31フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/9c06c63da09315e7f48ac21b42fb332193249769",
-      "type": "earn",
-      "code": "4369",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】パーク２４<4666>---26年10月期3Qは増益、経常利益は20％増8/31フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2e5e6d4185b1dc6ea043cfd0de9fb1b823194df2",
-      "type": "earn",
-      "code": "4666",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ラクーンHD<3031>---27年4月期1Qは増益、経常利益は12.1％増8/31フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3fdb3ff87cf34cdb6c2a39a0d744181e9cf058f3",
-      "type": "earn",
-      "code": "3031",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (08月31日)8/31株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8e18fd9e812c9d535c84f0c01963f25288075b80",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】サイバＳＯＬ、5-7月期(1Q)最終は7％増益で着地8/31株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9593b736fd52d4dfabd63709971976526740d147",
+      "title": "★本日の【サプライズ決算】速報 (09月01日)9/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bdce46f76445eb71e97b6fe9377ab61d0634acc0",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,17 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】東和フード<3329>---27年4月期1Qは増益、経常利益は20.7％増8/31フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2278102ddedc5a6fc5e3fa884637bfbe49d14b0b",
-      "type": "earn",
-      "code": "3329",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】パーク２４、11-7月期(3Q累計)経常が20％増益で着地・5-7月期も32％増益8/31株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/3deb9e54a0d55527000cc07ab12a1d8936ec1f86",
+      "title": "【決算速報】ピープル、上期経常が赤字縮小で着地・5-7月期も赤字縮小9/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a484182feeed77453eb765a5d0f340021adf7ecb",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,8 +81,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】レボリュー、26年10月期業績を未定に変更8/31株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d823f79336f39fa4ab29d75c313f12ebff399092",
+      "title": "＜決算速報＞ピープル、２７年１月期第２四半期決算は純損益１．５億円の赤字9/1ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/5fffa4732f3e3355f6b87e383cb495cb4a640206",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -108,8 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞パーク２４、２６年１０月期第３四半期決算は純利益３．７倍8/31ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/f922b5503f1be49a8df9c3d169a5f569da51401d",
+      "title": "【決算速報】ピープル、中間経常-114百万。事前予想を上回る9/1アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/d40351e6a913185b1bd7a201d5a5f15be56937fc",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,35 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】パーク２４、3Q累計経常26,726百万。8/31アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/3644c7d72d1d98188d369d8c2241cc4eb07609d4",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】美樹工業、株式分割に伴い配当予想を修正8/31株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/647d8f3a71e47d636a44ca43072a6576934d6fba",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＳＷＣＣ、株式分割に伴い配当予想を修正8/31株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/45b72bc27fabf02c2368bd7c504e370236028c39",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】トリケミカル、今期経常を一転23％増益に上方修正・最高益更新へ8/31株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/65b7cc3c64cc2b4f1700e660b39f5068a8f1c4f3",
+      "title": "【決算速報】マクアケ、今期経常を8.6億円に上方修正9/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3ceb0767280bff31fc0a677cc89bba16dfc470c5",
       "type": "up",
       "code": "",
       "pub": "",
@@ -153,30 +108,66 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】六甲バタ、今期配当を10.5円増額修正8/31株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4175f4a4a5a4e47a66e2513e96f665b0d3a875ba",
-      "type": "up",
+      "title": "【決算速報】伊藤園、5-7月期(1Q)経常は13％増益で着地9/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/439fdb2d9b4fa3d3cc6e3f81f84f13e111f9d441",
+      "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "4～6月全産業24％増益　7期連続プラス、機械好調(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/04367d68b1b4123bf2372bd9a62e5155237d11d9?source=rss",
+      "title": "【決算速報】ダイサン、5-7月期(1Q)経常は赤字転落で着地9/1株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/fd1a2e5a155987f46f677b96f22d601a9a8420dd",
       "type": "earn",
       "code": "",
-      "pub": "Tue, 01 Sep 2026 00:01:43 GMT",
-      "desc": "　財務省が1日発表した4～6月期の法人企業統計は、金融・保険業を除く全産業の経常利益が前年同期比24.6％増の44兆6668億円となった。プラスは7四半期連続。情報通信機械や電気機械が好調だった。\n\n",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     },
     {
-      "title": "4～6月期の経常利益24.6％増(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/17a8096c38da6e527aed834db65e04ac98d1f18a?source=rss",
+      "title": "＜決算速報＞伊藤園、２７年４月期第１四半期決算は純利益１４．８％増の２ケタ増益9/1ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/1afd81c724379aba5d24506a62d63268fff6cb75",
       "type": "earn",
       "code": "",
-      "pub": "Mon, 31 Aug 2026 23:57:49 GMT",
-      "desc": "　財務省が1日発表した4～6月期の法人企業統計は、金融・保険業を除く全産業の経常利益が前年同期比24.6％増の44兆6668億円となった。プラスは7四半期連続。",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ダイサン、２７年４月期第１四半期決算は純損益９４００万円の赤字9/1ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/f39f8c718de9b626055199f3b9e9000b7376dc0e",
+      "type": "earn",
+      "code": "９４００",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイサン、1Q経常-94百万。9/1アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/59f130b08dfb10b3a2854473455fea03ebe1e54c",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】伊藤園、1Q経常10,122百万。アナリスト予想を上回る9/1アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/38cff2c089738dec99593b94f29ecfd492a9a329",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "BYD、上半期は減収減益　海外売上が初めて中国国内を上回る(36Kr Japan)",
+      "link": "https://news.yahoo.co.jp/articles/a60af8e1232230b518716488c565f5f3e92e0b76?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 01 Sep 2026 23:30:38 GMT",
+      "desc": "中国自動車大手の比亜迪（BYD） は8月28日、2026年1～6月の決算を発表した。売上高は前年同期比7％減の3448億元（約8兆2800億円）、親会社の株主に帰属する純利益は20.5％減の123億元",
       "source": "yahoo_news"
     }
   ],
