@@ -1,13 +1,58 @@
 {
-  "updated": "2026/09/03 08:43",
-  "date": "2026-09-03",
+  "updated": "2026/09/04 08:43",
+  "date": "2026-09-04",
   "count": {
     "up": 2,
-    "down": 3,
-    "div": 3,
-    "earn": 12
+    "down": 1,
+    "div": 1,
+    "earn": 10
   },
   "items": [
+    {
+      "title": "【決算速報】不二電機<6654>---27年1月期2Qは減益、経常利益は22％減9/3フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/3a86e4cf259ff75912b537f87d4b4fe726a82962",
+      "type": "earn",
+      "code": "6654",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＪＭＨＤ、前期経常を一転10％減益に下方修正9/3株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/749799137d1a70f1bd1fc1cd93b01d497d8ded77",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】不二電機、上期経常が23％減益で着地・5-7月期も13％減益9/3株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/879639375fc62a399e3e5448164d5912c4f314d2",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞不二電機、２７年１月期第２四半期決算は純利益１９．０％減の２ケタ減益9/3ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/104d42944e59fff0ee87f8220c9839c687c63e1a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】不二電機工業、中間経常124百万。事前予想を上回る9/3アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7c8a80cad8280cc9b71d56438bce2d571664c218",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】内田洋行<8057>---26年7月期は増益、経常利益は27.8％増9/2フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/205032aa82740dbacd119e78261f521a9c128aa9",
@@ -63,129 +108,30 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】イーソル、今期経常を10％下方修正、下期配当を見送り（訂正）9/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e46279e565ab5212f4eeea371d61d33b28ef41a6",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】イーソル、26年12月年間1株配当1.50円。9/1アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/cef61ca1ef0c1ce41e425de733eeaa0324c4de21",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ピープル<7865>---27年1月期2Qは赤字縮小、経常損益は▲1億1300万円9/1フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/124cf0075130beac1fe2dc0cefecbfb782595fd7",
+      "title": "【ワークマン】4900円“カメラリュック”が本気すぎる！撮影&普段使いを両立した大容量。決算は第1四半期34%増益(ハフポスト日本版)",
+      "link": "https://news.yahoo.co.jp/articles/1dac6ee98ffc47eb1b0d39dfe0cb56cbf53c3763?source=rss",
       "type": "earn",
-      "code": "7865",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ダイサン<4750>---27年4月期1Qは赤字転落、経常損益は▲9400万円9/1フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/cfc362911c15799fd709323d2ba536311618ab7d",
-      "type": "earn",
-      "code": "4750",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】伊藤園<2593>---27年4月期1Qは増益、経常利益は13.4％増9/1フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c982f3d9bb7f5a0e2dc53f0b84a912b4c9b7cd37",
-      "type": "earn",
-      "code": "2593",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＦＩＸＥＲ、前期最終を赤字拡大に下方修正、対純資産で65％の赤字9/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f9baea467585d9c611466d16caad958817ff04e4",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (09月01日)9/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bdce46f76445eb71e97b6fe9377ab61d0634acc0",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ピープル、上期経常が赤字縮小で着地・5-7月期も赤字縮小9/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a484182feeed77453eb765a5d0f340021adf7ecb",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "ミラタップ、第3四半期売上高が118億円に拡大 過去最高売上に(日本ネット経済新聞)",
-      "link": "https://news.yahoo.co.jp/articles/2a424a795e314e0bffd2d20c7614ea8650bcf027?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Wed, 02 Sep 2026 23:30:00 GMT",
-      "desc": "ミラタップの2025年10月ｰ2026年6月期(第3四半期)の売上高は前年同期比3.4%増の118億8800万円だった。営業利益は2億6700万円(同1億3900万円の損失)。\n　\n注文の回数や単価が",
+      "code": "4900",
+      "pub": "Thu, 03 Sep 2026 23:05:56 GMT",
+      "desc": "作業服・アウトドア大手のワークマンが、カメラを趣味とする女性向けに新商品「ガバッと出せるインナーケース付きカメラバッグ」を投入する。\n\n生活情報全網羅メディア・ヨムーノとの初コラボ商品で、撮影機材の収",
       "source": "yahoo_news"
     },
     {
-      "title": "【3分で読める決算図解】“兆”万長者イーロン・マスクの「スペースX」IPOでBSはどう変わった？ CFへのインパクトは？(ダイヤモンド・オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/0a6c4d0c7fb498bb52374ada8fc53010751a7aa1?source=rss",
+      "title": "なぜ決算書は何度勉強しても読めるようにならないのか＜会計がわかる記事＞(ダイヤモンド・オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/8f03f23e1226f1f018c91aa97b9fcc8155e5ba67?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Wed, 02 Sep 2026 23:21:18 GMT",
-      "desc": "　イーロン・マスク氏が率いるスペースXは、2026年6月にIPO（新規株式公開）を実施しました。では、このIPO前後で会社の財務状況はどれほど変わったのでしょうか？ この記事では書籍『サンキー図で「お",
+      "pub": "Thu, 03 Sep 2026 22:57:16 GMT",
+      "desc": "　ああ「何度勉強しても、会計がわからない」。そう思ったことはありませんか。ビジネスや投資のために決算書を読もうとしても、数字ばかりで読み解けないし、簿記を勉強するのは大変……。そんな時は、まず「お金の",
       "source": "yahoo_news"
     },
     {
-      "title": "店長年収「最大2000万円」の効果は？　丸亀製麺・トリドールが増収も大幅減益となった背景(ITmedia ビジネスオンライン)",
-      "link": "https://news.yahoo.co.jp/articles/dcb43aa1a666f001d09b6d8126d3bd4bf320a7d6?source=rss",
-      "type": "earn",
-      "code": "2000",
-      "pub": "Wed, 02 Sep 2026 23:10:08 GMT",
-      "desc": "　丸亀製麺（以下、丸亀）を運営するトリドールホールディングス（以下、トリドール）は2027年3月期第1四半期の決算で、第1四半期としては過去最高売上高を達成した。しかし、営業利益は前年同期比34.3％",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "【ワークマン】疲労回復ウエア、“上下1万円内で揃う”スーツ発売。通勤・オフィス需要開拓へ。決算は第1四半期34%増益(ハフポスト日本版)",
-      "link": "https://news.yahoo.co.jp/articles/e0536b003d8575bf22bdbc6bc5809887eb6b061d?source=rss",
+      "title": "円安修正が大きく進む：トランプ政権からの圧力で日本の金融・財政政策が変わるとの期待が背景に(NRI研究員の時事解説)",
+      "link": "https://news.yahoo.co.jp/articles/9879ecbedd21424c7eabb6c138545044dd5c4e27?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Wed, 02 Sep 2026 22:40:09 GMT",
-      "desc": "作業服・アウトドアウエア大手のワークマンは、疲労回復をうたうリカバリーウエア「メディヒール」シリーズに、ジャケットとスラックスからなるスーツスタイルを投入した。\n\n価格は、「メディヒール　リカバリース",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "亡くなった父のNISAには、配当金が年間「60万円」入る株が残されていました。兄は「そのまま相続すれば非課税」と言いますが、本当でしょうか？(ファイナンシャルフィールド)",
-      "link": "https://news.yahoo.co.jp/articles/2c51b9ac3e42aebee2b30846c5fc39d8eda31e62?source=rss",
-      "type": "div",
-      "code": "",
-      "pub": "Wed, 02 Sep 2026 22:30:20 GMT",
-      "desc": "NISAは、株式や投資信託などの金融商品から得られる配当金や売却益が一定の条件のもとで非課税となる制度です。資産形成の手段のひとつとして、近年注目を集めています。\n \n一方で、NISA口座を利用してい",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "「今回の法改正はいいと思う」「うっかりスピード違反」「実態に合っていなくてキツい」など反響　「生活道路」の法定速度「60→30km／h」に大幅引き下げ(バイクのニュース)",
-      "link": "https://news.yahoo.co.jp/articles/e19f0bdce88dba70ffad4e493ebfa350ccdf1a0c?source=rss",
-      "type": "down",
-      "code": "",
-      "pub": "Wed, 02 Sep 2026 22:25:00 GMT",
-      "desc": "　2026年9月1日より、改正道路交通法施行令にともない、中央線（センターライン）が設けられていない、主に地域住民の日常生活に利用される「生活道路」の法定速度が60km／hから30km／hへと引き下げ",
+      "pub": "Thu, 03 Sep 2026 22:54:17 GMT",
+      "desc": "7月末の日米協調介入の効果が薄れる形で、為替市場では1ドル160円程度まで円安が進んでいたが、9月2日から3日にかけては、円安の修正が大きく進んだ。3日の米国市場では、1ドル155円台前半に達した。こ",
       "source": "yahoo_news"
     }
   ],
