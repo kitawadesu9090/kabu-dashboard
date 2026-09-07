@@ -1,88 +1,34 @@
 {
-  "updated": "2026/09/07 08:22",
-  "date": "2026-09-07",
+  "updated": "2026/09/08 08:52",
+  "date": "2026-09-08",
   "count": {
     "up": 2,
-    "down": 0,
+    "down": 1,
     "div": 0,
-    "earn": 16
+    "earn": 10
   },
   "items": [
     {
-      "title": "【決算速報】カナモト<9678>---26年10月期3Qは増益、経常利益は31.1％増9/4フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f4005c1d7c478d6fb8de0a071fde2990145ecfad",
+      "title": "【決算速報】萩原工業<7856>---26年10月期3Qは増益、経常利益は45％増9/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9813712610d14f5ebabd05adff4e721757c46f4f",
       "type": "earn",
-      "code": "9678",
+      "code": "7856",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ファースト住建<8917>---26年10月期3Qは増益、経常利益は12.2％増9/4フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/30a3bf1d930bd86e94e1f9b4659cee1976ca5376",
+      "title": "【決算速報】アイル<3854>---26年7月期は増益、経常利益は17.6％増9/7フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/3ebc3b48e814b71e09fc5ec60b5630c0bb3a6b34",
       "type": "earn",
-      "code": "8917",
+      "code": "3854",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナトコ<4627>---26年10月期3Qは増益、経常利益は82.9％増9/4フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b361d722a01b8082c2c655aa2a215eef4f2edab5",
-      "type": "earn",
-      "code": "4627",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】エイチーム<3662>---26年7月期は減益、経常利益は63.2％減9/4フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/91ecf121300ed37ffb1ca0711f122391ed93c11e",
-      "type": "earn",
-      "code": "3662",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大和コン<3816>---26年7月期は減益、経常利益は50.1％減9/4フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/da663b5c3fb9b87b052b8297bf7e862483e7be3a",
-      "type": "earn",
-      "code": "3816",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ティーライフ<3172>---26年7月期は減益、経常利益は29.8％減9/4フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/64c46f83dd90e78df48b071aa7090e77af905c82",
-      "type": "earn",
-      "code": "3172",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ロックフィルド<2910>---27年4月期1Qは増益、経常利益は390.5％増9/4フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1924ad7915ca6bcc0a0010952f56f6751876e274",
-      "type": "earn",
-      "code": "2910",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日本ハウスHD<1873>---27年4月期1Qは赤字縮小、経常損益は▲1億3600万円9/4フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/163fcbcc000b9c804e1ea46c1a293a8f1c60996e",
-      "type": "earn",
-      "code": "1873",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (09月04日)9/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6a4e4b8cb691d5c3c86d2e812e2da5bb09220f2b",
+      "title": "★本日の【サプライズ決算】速報 (09月07日)9/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/512feb7dc1478daa6ae5bb2230d0bbe88e5b8f3d",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -90,26 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】泉州電業<9824>---26年10月期3Qは増益、経常利益は40.3％増9/4フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/76af20d0280f03c5fe1ee707a04eaa58d66152bf",
-      "type": "earn",
-      "code": "9824",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ファースト住、11-7月期(3Q累計)経常が12％増益で着地・5-7月期も9％増益9/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/212b2badd2000e7c9d54b895fff04a5e5cf7fb57",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】総合商研、前期経常を一転5％増益に上方修正9/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f8b4e3758e11a58fda8a4e167411bf4b74ce87a7",
+      "title": "【決算速報】アイル、今期経常は10％減益、前期配当を1円増額・今期は3円増配へ9/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/51a4e9c55dd39901361098d24d830aab461783f6",
       "type": "up",
       "code": "",
       "pub": "",
@@ -117,8 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大和コン、今期経常は微減益へ9/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/65366aa9a2aa0b757b3c43293b58496e502a00cc",
+      "title": "＜決算速報＞アイル、２６年７月期決算は純利益１９．７％増の２ケタ増益9/7ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/775d4f7ea15b6ac49d307c56cfbb6e0d9ba96efd",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -126,8 +54,53 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】トミタ電機、上期経常を3倍上方修正9/4株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9d51f187d1116a4fe9a3aab3b81001af52668073",
+      "title": "【決算速報】アイル、経常17.6%増益。アナリスト予想を下回る9/7アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/1da0d14d4d3e221b81299622245ea680a98677d1",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】萩原工業、11-7月期(3Q累計)経常が45％増益で着地・5-7月期も97％増益9/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d511e7b2bba6cb1b842866a700c98773d8aef633",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】売れるＧ、前期最終を一転赤字に下方修正9/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/cbd6ecddb5285c77069ed24d1ae8c54f8d495432",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞萩原工業、２６年１０月期第３四半期決算は純利益４．０％減9/7ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/1475d41453bc36bc935e5f01164f8c7858190075",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】萩原工業、3Q累計経常2,157百万。9/7アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/1f56137be2a136813c61341a80d604f5d0b2252f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】旭コン、上期経常を53％上方修正、通期も増額9/7株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1e8458ec0ea84296e21fae1d614d23b422571174",
       "type": "up",
       "code": "",
       "pub": "",
@@ -135,39 +108,21 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ファースト住、２６年１０月期第３四半期決算は純利益１５．３％増の２ケタ増益9/4ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/864884e6cc4bd4d17407eaedfa7235186c742702",
+      "title": "業績悪化の英ジャガー・ランドローバー、大規模リストラを計画［新聞ウォッチ］(レスポンス)",
+      "link": "https://news.yahoo.co.jp/articles/79923ceda66d3d72a6c6270728e5743e1f9c34b0?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Mon, 07 Sep 2026 23:06:59 GMT",
+      "desc": "英国の高級車メーカーのジャガー・ランドローバー（JLR）が、従業員の約1割に相当する最大4000人の人員削減を計画していることが明らかになったという。\n\nきょうの日経が報じているが、急転直下、独フォル",
+      "source": "yahoo_news"
     },
     {
-      "title": "＜決算速報＞大和コン、２６年７月期決算は純利益４７．９％減の大幅減益9/4ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/e72add265f5446eb8097c4e7c61ce756812701c3",
+      "title": "急速に進み始めた円安の修正：為替介入直後の円高水準を超える(NRI研究員の時事解説)",
+      "link": "https://news.yahoo.co.jp/articles/6572a4ea085cd24348a7699be77eb6fc344c0119?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ファースト住建、3Q累計経常1,868百万。9/4アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/0f015a10a94504efb28cc5bdb19198332452d93e",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "リニア開発が遅れても…JR東海が同業比「営業利益4倍」もある秘密(ダイヤモンド・オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/1b743499d1cbf71ee6de81b8201b02f3b01a2428?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Sun, 06 Sep 2026 22:57:18 GMT",
-      "desc": "　「会計がわからない」という人にオススメなのが「サンキー図」を通じた理解です。今回は2社を比較して、視覚的に決算書を読み解いてみましょう。書籍『サンキー図で「お金の流れ」が1秒でわかる　見るだけ決算書",
+      "pub": "Mon, 07 Sep 2026 22:47:36 GMT",
+      "desc": "9月7日の東京市場の夕刻に、ドル円レートは154円台前半と今年2月以来の円高水準となった。4月末～5月初めの為替介入後の円高水準、7月末の日米協調介入後の円高水準をともに上回り、節目を抜けた感もある。",
       "source": "yahoo_news"
     }
   ],
