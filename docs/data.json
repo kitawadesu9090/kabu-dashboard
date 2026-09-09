@@ -1,79 +1,16 @@
 {
-  "updated": "2026/09/09 08:45",
-  "date": "2026-09-09",
+  "updated": "2026/09/10 08:42",
+  "date": "2026-09-10",
   "count": {
-    "up": 2,
-    "down": 1,
-    "div": 1,
-    "earn": 14
+    "up": 1,
+    "down": 2,
+    "div": 2,
+    "earn": 16
   },
   "items": [
     {
-      "title": "【決算速報】スバル興<9632>---27年1月期2Q9/8フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7c0d2158ea0e2937b8aa7b531d76e23c20507f62",
-      "type": "earn",
-      "code": "9632",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ナ・デックス<7435>---27年4月期1Qは黒字転換、経常利益は2億1900万円9/8フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/fcc82faee8e7c136aa5d4074992de3eac3b690fe",
-      "type": "earn",
-      "code": "7435",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ミライアル<4238>---27年1月期2Qは増益、経常利益は54.9％増9/8フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/be83759069d9096284556aed823ffe8fc0c3ab6e",
-      "type": "earn",
-      "code": "4238",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ストリーム<3071>---27年1月期2Qは増益、経常利益は150.4％増9/8フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/102da1ddfc6b7afe92e0eab7e140fa55b6f18f36",
-      "type": "earn",
-      "code": "3071",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】グリーンエナ<1436>---27年4月期1Qは黒字転換、経常利益は4億8300万円9/8フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c9a3fff5aaf5d6195aef7e27aa77d4ec3409c83b",
-      "type": "earn",
-      "code": "1436",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アスカネット<2438>---27年4月期1Qは赤字拡大、経常損益は▲6200万円9/8フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c6da7c6c5a4a72fb2832266aa12fbf66fc190407",
-      "type": "earn",
-      "code": "2438",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アルビス、今期経常を一転9％減益に下方修正、今期配当を見送り9/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/480ee0c6dcfabb28bed33eee76360ede13e6ef36",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アルビス、27年03月年間1株配当0円。9/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/fc9d3a9cd9788b2a1d436dc77c2120d04f79c41d",
+      "title": "【決算速報】シェアリングＴ、26年09月年間1株配当27.50円。9/9アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/c1505918cbd67b55033e2fc834f92654c1cd24e1",
       "type": "div",
       "code": "",
       "pub": "",
@@ -81,71 +18,107 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (09月08日)9/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/3338aed4ae67768d222cc9aaac83dd77668d36f1",
-      "type": "earn",
+      "title": "【決算速報】シェアテク、下期配当を見送り（訂正）9/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/70c2df99cd46fe3ab2b350ab653495d22ed1626a",
+      "type": "div",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スバル、上期経常が12％減益で着地・5-7月期も10％減益9/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/fa85cf091283ebc602483a526328325d9f62d3a9",
+      "title": "【決算速報】ビーアンドピー<7804>---26年10月期3Qは増益、経常利益は1.7％増9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6bf15bf0e30a0ed68617d99ac3bc3362c259141c",
       "type": "earn",
-      "code": "",
+      "code": "7804",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞スバル興、２７年１月期第２四半期決算は純利益１１．１％減の２ケタ減益9/8ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/5e5d342dbb3d291bfdd6776c40563b6d02112a87",
+      "title": "【決算速報】あさくま<7678>---27年1月期2Qは減益、経常利益は4.8％減9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4e4562aa56d1754de18524f27240b739278db9b8",
       "type": "earn",
-      "code": "",
+      "code": "7678",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スバル興業、中間経常2,500百万。9/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7e7415d76292d0263c173e6632bc3ccfd746d228",
+      "title": "【決算速報】三井ハイテク<6966>---27年1月期2Qは増益、経常利益は122.8％増9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ee30514fc153f61678f099805daee7b06e4260b7",
       "type": "earn",
-      "code": "",
+      "code": "6966",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナ・デックス、5-7月期(1Q)経常は黒字浮上で着地9/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/088d08d96e6863c2622c4289b77f5eb2244bade6",
+      "title": "【決算速報】ハウテレビジョン<7064>---27年1月期2Qは増益、経常利益は14.2％増9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c9a8e56a90bf6fa69532ce7d07370be5c0bf5f3a",
       "type": "earn",
-      "code": "",
+      "code": "7064",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ナデックス、２７年４月期第１四半期決算は純損益１２００万円の黒字9/8ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/aee4c3abd0b3142b1efda7c5496b274b0e38afed",
+      "title": "【決算速報】ｐｌｕｓｚｅｒｏ<5132>---26年10月期3Qは増益、経常利益は29.3％増9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/50ea25f5276800c4a5ba67fcbe33704dea8ba825",
       "type": "earn",
-      "code": "１２００",
+      "code": "5132",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナ・デックス、1Q経常219百万。9/8アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/28ffc4af5f9cba265da3e0cd021266d8a3a1becd",
+      "title": "【決算速報】ＡＮＹＣＯＬＯＲ<5032>---27年4月期1Qは減益、経常利益は8.8％減9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/158affadd1610588f916cbb971b1e467afcc7b00",
       "type": "earn",
-      "code": "",
+      "code": "5032",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】セルソース、今期経常を一転黒字に上方修正9/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1e2567fd875b5b85fb23f3a87b87ff817c7310a5",
+      "title": "【決算速報】テンポスHD<2751>---27年4月期1Qは減益、経常利益は41.7％減9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a61cdc7b809f9544eb895baa09f17c3035ca89ce",
+      "type": "earn",
+      "code": "2751",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】柿安本店<2294>---27年4月期1Qは減益、経常利益は65.6％減9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/74401eb7a7eb939525d9b8cf557b7de780c02986",
+      "type": "earn",
+      "code": "2294",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｂガレジ<3180>---27年4月期1Qは増益、経常利益は88.2％増9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/e6a1fe6da4fdc3b2c870aae5208890a2cdaa11c8",
+      "type": "earn",
+      "code": "3180",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ベステラ<1433>---27年1月期2Qは増益、経常利益は183.2％増9/9フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d7eeb5cce69d1085d23768dc28b8f6ebd5c59df4",
+      "type": "earn",
+      "code": "1433",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日清紡ＨＤ、今期最終を一転1％増益に上方修正9/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2c2a31150b322faf3baafa709cf52b6ce59ee306",
       "type": "up",
       "code": "",
       "pub": "",
@@ -153,21 +126,75 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】グリーンエナ、今期経常を19％上方修正・最高益予想を上乗せ9/8株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/052e2413baa7b94c38539613ceaa75f62919fc0e",
-      "type": "up",
+      "title": "★本日の【サプライズ決算】速報 (09月09日)9/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/efa7c22d2b8f516437d75bb3dec98f4e3c7627a6",
+      "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "ウシオ電機の半導体関連事業“営業利益約9倍”急回復の中身を読み解く　業績を押し上げた“一過性利益”と“想定以上の光源需要”(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/6b2c59eb38194781f705634c2a8fd67983b479f1?source=rss",
+      "title": "【決算速報】あさくま、上期経常は一転5％減益で下振れ着地9/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/466c7fbd415fed7d4bee39f25bbe0c53f6576627",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞あさくま、２７年１月期第２四半期決算は純利益２６．３％減の大幅減益9/9ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/5b73e4ba10358f1c4e30b50c67706265142c663c",
       "type": "earn",
       "code": "",
-      "pub": "Tue, 08 Sep 2026 22:15:00 GMT",
-      "desc": "　スマートフォンの製造にも、最先端半導体の露光技術にも、実は「光」が欠かせない。その光をつくる日本企業がある。EUV（極端紫外線）光源など特殊光源で存在感を持つウシオ電機だ。注目度の高いAI・半導体に",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】プラスゼロ、11-7月期(3Q累計)経常が30％増益で着地・5-7月期も91％増益9/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/166339256de423b76db6ebae0446158f13fde58e",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】テンポスＨＤ、5-7月期(1Q)経常は42％減益で着地9/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9a9265efaa69d43509f2b1728eaf9245a7b7f05c",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ステムリム、前期最終は赤字縮小で着地、今期業績は非開示9/9株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d941deaaa4d0484c6e40b03750493bc552706a82",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞テンポスＨＤ、２７年４月期第１四半期決算は純利益３０．５％減の大幅減益9/9ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/8f31facba2139c408553b9277d761339784c527a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "丸亀製麺の運営会社 “不当減額”で勧告(ABEMA TIMES)",
+      "link": "https://news.yahoo.co.jp/articles/52ce300c5987e9cbda6e13320e811a5344bdf61a?source=rss",
+      "type": "down",
+      "code": "",
+      "pub": "Wed, 09 Sep 2026 23:21:16 GMT",
+      "desc": "　丸亀製麺の運営会社に公正取引委員会が勧告を出しました。\n\n　公正取引委員会によりますと、トリドールホールディングスはおととし8月から今年7月までカット野菜などの製造を委託業者に発注する際、システム利",
       "source": "yahoo_news"
     }
   ],
