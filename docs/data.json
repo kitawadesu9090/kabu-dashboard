@@ -1,160 +1,25 @@
 {
-  "updated": "2026/09/11 08:34",
-  "date": "2026-09-11",
+  "updated": "2026/09/14 08:48",
+  "date": "2026-09-14",
   "count": {
     "up": 0,
     "down": 0,
-    "div": 0,
-    "earn": 22
+    "div": 1,
+    "earn": 19
   },
   "items": [
     {
-      "title": "【決算速報】ジェリビンズ<3070>---27年1月期2Qは赤字拡大、経常損益は▲6億6600万円9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3d264d016eea1713a810d145d797ad3df8f9d758",
-      "type": "earn",
-      "code": "3070",
+      "title": "【今週読まれた記事】好悪材料強し！ 中間期末を控え“高配当＆バリュー”も9/12株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f1ef7a8ee735cfb748592a9a36300c5598711a40",
+      "type": "div",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】シーイーシー<9692>---27年1月期2Qは増益、経常利益は20.4％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0994e73fb60aaeb3f7394518efe97bdd89d98aac",
-      "type": "earn",
-      "code": "9692",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】浜木綿<7682>---26年7月期は増益、経常利益は7.9％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8ecbf4c54e840c87b4abffc2fe954f40d55fd212",
-      "type": "earn",
-      "code": "7682",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Casa<7196>---27年1月期2Qは赤字縮小、経常損益は▲6200万円9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/38eee145ade07abf0ffa1196c886dbf6df2a3768",
-      "type": "earn",
-      "code": "7196",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】トップカルチャ<7640>---26年10月期3Qは黒字転換、経常利益は1億300万円9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8e4d2b059e417e6647b7025caa3fb9f9edeb6e2c",
-      "type": "earn",
-      "code": "7640",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アルチザ<6778>---26年7月期は増益、経常利益は35.8％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3e052ac1ed58cc17c9b8ad1f052f120a3c966a03",
-      "type": "earn",
-      "code": "6778",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＷＳＣＯＰＥ<6619>---27年1月期2Qは赤字縮小、経常損益は▲30億9100万円9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f91662c5039ad492e1eca8734c6a9128d7e3a7ff",
-      "type": "earn",
-      "code": "6619",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】MacbeeP<7095>---27年4月期1Qは増益、経常利益は0.7％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ad83213ec2c9919668cc510270bcb95e43416433",
-      "type": "earn",
-      "code": "7095",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】鎌倉新書<6184>---27年1月期2Qは増益、経常利益は37％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/05dc810d20b2af3a5d03ce9ca8e3e93fcb2ce33f",
-      "type": "earn",
-      "code": "6184",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】共和工業<5971>---27年4月期1Qは減益、経常利益は14.2％減9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4a0d43c77cf9678724e44a01c51f676c9b0a7ed7",
-      "type": "earn",
-      "code": "5971",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ベストワンドット<6577>---26年7月期は増益、経常利益は1139.7％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ff81af864c7f757841033c07ad9d868e48d79587",
-      "type": "earn",
-      "code": "6577",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ユークス<4334>---27年1月期2Q9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ce754575a0a5a6957c0df4beb526391aa71d8605",
-      "type": "earn",
-      "code": "4334",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】モイ<5031>---27年1月期2Qは増益、経常利益は0.1％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6f9394428a27eb8919cd4d8ca494d79284f1f232",
-      "type": "earn",
-      "code": "5031",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ビジョナル<4194>---26年7月期は増益、経常利益は17.5％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/771c4fb867fabe644238a45924c13900ff1900dd",
-      "type": "earn",
-      "code": "4194",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アールエイシ<3248>---26年10月期3Qは減益、経常利益は7.8％減9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/fd5907e982721181436ceea71bb69e32d7583498",
-      "type": "earn",
-      "code": "3248",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】神島化学工業<4026>---27年4月期1Qは増益、経常利益は33％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/60ae47a5caf8371abf36386112e09272da68c2ef",
-      "type": "earn",
-      "code": "4026",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】デジタルグリッド<350A>---26年7月期9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/892fdbef25907aa4a63b4ee14e87f5ce3635599e",
+      "title": "【決算速報】ＢＲＡＮＵ<460A>---26年10月期3Q9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9054e3221e3e9c20d076868e561231e7c9a108bb",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -162,48 +27,165 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】コーセーＲＥ<3246>---27年1月期2Qは赤字転落、経常損益は▲2300万円9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7b4b266a3c2f58a598b640d1a35b93ce34739dd6",
+      "title": "【決算速報】アゼアス<3161>---27年4月期1Qは黒字転換、経常利益は6900万円9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6fd9121e84abc0094ec2d77db1a986c923cae2bb",
       "type": "earn",
-      "code": "3246",
+      "code": "3161",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アールプランナー<2983>---27年1月期2Qは増益、経常利益は43.8％増9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/414ff61944a71217b6d8fad29e36207adcc4e00f",
+      "title": "【決算速報】Ｈ．Ｉ．Ｓ．<9603>---26年10月期3Qは減益、経常利益は23.8％減9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/14ae40cbebd37a31b4e41312d46acc16eb2623cb",
       "type": "earn",
-      "code": "2983",
+      "code": "9603",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サトウ食品<2923>---27年4月期1Qは減益、経常利益は84.5％減9/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0999cfb5094e67d0ebabfed6db965ae346e4976b",
+      "title": "【決算速報】丹青社<9743>---27年1月期2Qは減益、経常利益は39.7％減9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/03659bfd0b122d348c19a84f312057ecf8567afb",
       "type": "earn",
-      "code": "2923",
+      "code": "9743",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "日産は本当に凋落したのか？ “そうとも言い切れない理由”が決算書でわかる(ダイヤモンド・オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/fdac6256219c9ee7a25268e536cf8fc25565955c?source=rss",
+      "title": "【決算速報】ジャパンＭ＆Ａ<9236>---26年10月期3Qは黒字転換、経常利益は1億3500万円9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/223265115cb9c65c6c7865b8040c1823c1439e8b",
+      "type": "earn",
+      "code": "9236",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】メディア総研<9242>---26年7月期は増益、経常利益は3.1％増9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/1bf7f8eed15a3f9d63797e08a767426d76106193",
+      "type": "earn",
+      "code": "9242",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ナレルグループ<9163>---26年10月期3Qは減益、経常利益は2.8％減9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d115fac1f25aa8715e4fc7dbd23294263efb2146",
+      "type": "earn",
+      "code": "9163",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＧＥＮＤＡ<9166>---27年1月期2Qは減益、経常利益は53.4％減9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9d23e061002e3f4780328f6e6124834b22c1dc23",
+      "type": "earn",
+      "code": "9166",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】正栄食<8079>---26年10月期3Qは増益、経常利益は14％増9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/7ac69b15f174ed276bffba0e8fabe83bfac68af1",
+      "type": "earn",
+      "code": "8079",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】トーホー<8142>---27年1月期2Qは増益、経常利益は8.1％増9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ba9f03fd3352e226ec8d5672c048a2d6ae01bf3c",
+      "type": "earn",
+      "code": "8142",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】トルク<8077>---26年10月期3Qは減益、経常利益は33.6％減9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/5109ed3635d8d9c8c10dea0a66c22a16a8d92d7b",
+      "type": "earn",
+      "code": "8077",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミロク<7983>---26年10月期3Qは減益、経常利益は0.9％減9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/e4c372648069005c40cb9baf8577c5af7fd2c59a",
+      "type": "earn",
+      "code": "7983",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ナイガイ<8013>---27年1月期2Qは赤字縮小、経常損益は▲1億6600万円9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bb3aa0dbd86f1dbdcea48523010a910d55de57b7",
+      "type": "earn",
+      "code": "8013",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ウイルコＨＤ<7831>---26年10月期3Qは赤字縮小、経常損益は▲2億5100万円9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c8a112ea51a9c767e4fce37725e7dd5623ce3f7c",
+      "type": "earn",
+      "code": "7831",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】光・彩<7878>---27年1月期2Qは増益、経常利益は360.8％増9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a1f741fd05b4f837b1c46a998095cb083fda2aaf",
+      "type": "earn",
+      "code": "7878",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】総合商研<7850>---26年7月期は増益、経常利益は4.8％増9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/cef4b9db1058ae805cb4d2ef2f00dab4c69c072c",
+      "type": "earn",
+      "code": "7850",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アシロ<7378>---26年10月期3Qは減益、経常利益は18.2％減9/11フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/dd8515de09d076be2b76ef1d9321db578188b2bd",
+      "type": "earn",
+      "code": "7378",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【OpenAIへの出資1.6兆円】ソフトバンクGの決算書にどれほど影響を与えたのか、説明できますか？(ダイヤモンド・オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/827e2c9dd04f283bcce120b2ff08617c96ca4040?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Thu, 10 Sep 2026 23:12:18 GMT",
-      "desc": "　「決算書が読み解けない」という人は多いでしょう。しかしそこでオススメなのが「視覚的に会計を読む」方法です。書籍『サンキー図で「お金の流れ」が1秒でわかる 見るだけ決算書』に登場するPLサンキー図を見",
+      "pub": "Sun, 13 Sep 2026 23:00:34 GMT",
+      "desc": "2026年4月1日、ソフトバンクGはOpenAIへ100億ドルを追加出資しました。日本円では、約1.6兆円にのぼります。ただ、「100億ドル」「1.6兆円」と数字だけを聞いても、会社にとってどれほど大",
       "source": "yahoo_news"
     },
     {
-      "title": "抹茶ブームがまさかの減益に？ 底値圏の【伊藤園】が急反転した裏側(MONEY PLUS)",
-      "link": "https://news.yahoo.co.jp/articles/2ead85f113ab4e432c9b64a1ed1d443cac7e4914?source=rss",
+      "title": "なぜ!? ホルムズ閉鎖でピンチなのに海運大手の「業績が絶好調」な理由 “遠回り”で稼ぐカラクリ 沈んだ部門も(乗りものニュース)",
+      "link": "https://news.yahoo.co.jp/articles/67d3fea84a0988fdfe6465c5633acdd368929d34?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Thu, 10 Sep 2026 22:30:43 GMT",
-      "desc": "伊藤園（2593）が9月1日に発表した2027年4月期第1四半期決算をきっかけに、株価が年初来高値をつけました。実はこの数カ月、抹茶原料の高騰を背景に「値上げが進まず株価も渋い」などと揶揄されるほど株",
+      "pub": "Sun, 13 Sep 2026 22:42:00 GMT",
+      "desc": "　ホルムズ海峡の航行正常化が見通せない中、日本郵船、商船三井、川崎汽船の邦船大手3社が2027年3月期の通期業績見通しを引き上げました。地政学リスクの急速な高まりが運航コストを押し上げた一方で、業績を",
       "source": "yahoo_news"
     }
   ],
