@@ -1,25 +1,16 @@
 {
-  "updated": "2026/09/16 08:51",
-  "date": "2026-09-16",
+  "updated": "2026/09/17 08:59",
+  "date": "2026-09-17",
   "count": {
     "up": 8,
-    "down": 2,
-    "div": 5,
-    "earn": 5
+    "down": 1,
+    "div": 3,
+    "earn": 3
   },
   "items": [
     {
-      "title": "【決算速報】アスクル<2678>---27年5月期1Qは赤字転落、経常損益は▲4億5200万円9/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3fed1ee2840f60d8078e6aedee2f683ef2a231fc",
-      "type": "earn",
-      "code": "2678",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】グロースｘＰ、前期経常を21％上方修正9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1aa3fce317778134faad6672849a54975a43ca0c",
+      "title": "【決算速報】クリングル、今期最終を赤字縮小に上方修正9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ef6568a2e153e0398573ac7c44076298734d3dd6",
       "type": "up",
       "code": "",
       "pub": "",
@@ -27,8 +18,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】リベルタ、今期最終を一転赤字に下方修正、配当も無配転落9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4899ee1715ad625f05acd6711547ee6293eb6cdf",
+      "title": "★本日の【サプライズ決算】速報 (09月16日)9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0d01252719166c5defb67bee63e77e75a62c05fe",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＸＮＥＴ、上期経常を29％上方修正、通期も増額、上期配当も5円増額9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6852824ec72c982af3e10f7d99be70577359d3ff",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ジャストプラ、今期経常を1％下方修正9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8a3a233c3a4c13b78cac871ac0b691ea37599b5f",
       "type": "down",
       "code": "",
       "pub": "",
@@ -36,8 +45,17 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (09月15日)9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/98ebd3983cf07c2e24e1018624bff0b3c3beb438",
+      "title": "【決算速報】電算、上期経常を2.6倍上方修正9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/30ca1ca57fa9a9b8a53a472b585a6eba01cc95ca",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】霞ヶ関ホテル、今期経常は9.2億円へ9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/275605874a0c82c50862a6aee4491ee60cc155c7",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,26 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＫｅｅＰｅｒ、株式分割に伴い配当予想を修正9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7f3f5eb32f1a73b30b0212a1ac4c72a12e9e1ed6",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＫｅｅＰｅｒ技研、27年06月年間1株配当50円。9/15アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/3a1135b571faf86d73169055570d8826dffe53de",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】マーチャント、今期配当を1円増額修正9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e2c29599913225c164a70a8d12c7c14c51695589",
+      "title": "【決算速報】ミタチ産業、上期経常を60％上方修正、通期も増額9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e7ca51de7ad75995716513ac8ef0dc637bf8f4b1",
       "type": "up",
       "code": "",
       "pub": "",
@@ -72,8 +72,35 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＭＢＫ、26年10月年間1株配当3円。9/15アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/50c5281a83433c62f3d0a6cbb63b73e2270d59ed",
+      "title": "【決算速報】アイナボＨＤ、今期配当を2円増額修正9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d7fb8f834de3e5ba9db54947928e93755953b98a",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】クニミネ、上期経常を31％上方修正・5期ぶり最高益、通期も増額9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/36a09ae6e1d2b15993c40874fa3d9c5580a8e83a",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】テーオーシー、今期配当を1円増額修正9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/44fb57a6458d8fa0d999901b4d07c8f100cdfdc4",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】テーオーシー、27年03月年間1株配当11円。9/16アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/c5348127b3bf4c0aa6d46b25d417c0f324823413",
       "type": "div",
       "code": "",
       "pub": "",
@@ -81,8 +108,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】丸三、未定だった上期配当は4円増配9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/725b1c40b58797fe9ae3079592e18568c62f952c",
+      "title": "【決算速報】アイナボＨ、26年09月年間1株配当28円。9/16アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/0a4973b71d0e7edb656210d31d5fc453d5dc2a5a",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日産証券Ｇ、未定だった上期配当は3円実施9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7869ab965f2e6587055c25ca0f3a7c2d1fcb95b8",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】いちよし、未定だった上期配当は8円増配9/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/884733e26e35bf78dee8032288f89da6751a3c74",
       "type": "up",
       "code": "",
       "pub": "",
@@ -90,102 +135,12 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】トライアイズ、今期配当を6円増額修正9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9ec94368a458c0f4c189d0ad36bf3a99be7de7ea",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アスクル、6-8月期(1Q)経常は赤字転落で着地9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4835a46b9098724380c7f2ee82731b9d4c409bdf",
+      "title": "【ヴィレヴァン】大赤字で62店舗を閉鎖……しかし「決算書」でわかる”裏側の意外な変化”知っていますか？(ダイヤモンド・オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/e883483ed3b62df9c8a2eb141219eeb84aa501ca?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】パレモ・ＨＤ、今期経常を一転46％減益に下方修正9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9d6d74e9efbea752fc21faf6f4cb2e6780f736a2",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】コプロＨＤ、今期配当を5円増額修正9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c6fe04ac5dc73161297dbf988307b0dc3d51d3ae",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】信越化、今期配当を20円増額修正9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0251910317783e71c41e5f9824003a134f01f0e3",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】今村証券、未定だった上期配当は17円増配9/15株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/02575bb9ed356a5a9f6c5deb176b300f8878537f",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞アスクル、２７年５月期第１四半期決算は純損益５億円の赤字9/15ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/f4aebf86ebfbcb5be19921e8c6f79c3677c1a0bd",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】トライアイズ、26年12月年間1株配当11円。9/15アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/5f9cbc202bfea9ad5f8ac813b7ce4f6908e3e7cc",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "最新「四季報」配当利回りランキングTOP50　業績堅調で株主還元にも積極的な会社はここだ！【本日発売】(東洋経済オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/1dc458a10b5d37961609a0382d2273356aee0646?source=rss",
-      "type": "div",
-      "code": "",
-      "pub": "Tue, 15 Sep 2026 23:00:39 GMT",
-      "desc": "　中東情勢の混乱が長期化し、中央銀行の利上げ観測が内外で伝わるなど、株式市場を取り巻く環境が大きく動いている。外部環境の不透明さが増す中で、ますます注目度が高まるのが配当利回りだ。\n\nそこで今回は9月",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "「簿記」を一度も学ばないまま大人になってしまった人へ。今から決算書を勉強する画期的な方法(ダイヤモンド・オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/da90e182f6d6c4f7ff8c958efcfcbf35ba6eb2a1?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Tue, 15 Sep 2026 22:51:18 GMT",
-      "desc": "　「大人なんだから、会計の勉強くらいしておかないと恥ずかしい」「決算書が読めるようになりたい」 そう思っても、数字だらけの資料を見るのは正直しんどい……そんな人にオススメなのが「お金の流れ」を見える化",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "高額療養費制度の改正で上限が引き上げ！ 「年収1000万円」の私でも継続治療を受けていれば制度の対象になりますか？(ファイナンシャルフィールド)",
-      "link": "https://news.yahoo.co.jp/articles/2473c0d61255e2366ebe7ddce209809621495907?source=rss",
-      "type": "up",
-      "code": "1000",
-      "pub": "Tue, 15 Sep 2026 22:50:12 GMT",
-      "desc": "所得が高いため、高額療養費制度の恩恵をあまり受けられないのではないかと考える人もいるかもしれません。高額療養費制度改正により自己負担上限額が引き上げられましたが、所得が高くても、条件を満たせば制度の対",
+      "pub": "Wed, 16 Sep 2026 22:45:31 GMT",
+      "desc": "　62店舗を閉鎖したヴィレヴァン。その決算書には、意外な変化が表れていました。書籍『サンキー図で「お金の流れ」が1秒でわかる 見るだけ決算書』に登場するサンキー図を使い、大量閉店の裏側に迫ります。\n\n",
       "source": "yahoo_news"
     }
   ],
