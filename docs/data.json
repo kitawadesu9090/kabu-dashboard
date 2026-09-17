@@ -1,16 +1,34 @@
 {
-  "updated": "2026/09/17 08:59",
-  "date": "2026-09-17",
+  "updated": "2026/09/18 08:49",
+  "date": "2026-09-18",
   "count": {
-    "up": 8,
-    "down": 1,
-    "div": 3,
-    "earn": 3
+    "up": 4,
+    "down": 2,
+    "div": 1,
+    "earn": 11
   },
   "items": [
     {
-      "title": "【決算速報】クリングル、今期最終を赤字縮小に上方修正9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ef6568a2e153e0398573ac7c44076298734d3dd6",
+      "title": "【決算速報】ファーマライズ<2796>---27年5月期1Qは減益、経常利益は31.3％減9/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/fa44c01d9730e191ed46a4bf4659c147c60c8d4b",
+      "type": "earn",
+      "code": "2796",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＣＯＴＡ<4923>---27年3月期1Qは黒字転換、経常利益は6100万円9/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/667bfbc255764d7e369f1ae7c09760e5c7ecaccf",
+      "type": "earn",
+      "code": "4923",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ほぼ日、前期経常を67％上方修正9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ee23acd3d032aec66fbd1c5217cf760f6e883f8d",
       "type": "up",
       "code": "",
       "pub": "",
@@ -18,8 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (09月16日)9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0d01252719166c5defb67bee63e77e75a62c05fe",
+      "title": "★本日の【サプライズ決算】速報 (09月17日)9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/15eb2da3d891a7e39f34dfc6121c8b279a99edc5",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,17 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＸＮＥＴ、上期経常を29％上方修正、通期も増額、上期配当も5円増額9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6852824ec72c982af3e10f7d99be70577359d3ff",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ジャストプラ、今期経常を1％下方修正9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8a3a233c3a4c13b78cac871ac0b691ea37599b5f",
+      "title": "【決算速報】ミンカブ、今期経常を22％下方修正9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e08843053e6b84d48961516c94a0cfd914634d9b",
       "type": "down",
       "code": "",
       "pub": "",
@@ -45,8 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】電算、上期経常を2.6倍上方修正9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/30ca1ca57fa9a9b8a53a472b585a6eba01cc95ca",
+      "title": "【決算速報】水戸、未定だった上期配当は5円増配9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b4547b35de7a91d97f4aa9d47bbd619645ce4ab0",
       "type": "up",
       "code": "",
       "pub": "",
@@ -54,8 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】霞ヶ関ホテル、今期経常は9.2億円へ9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/275605874a0c82c50862a6aee4491ee60cc155c7",
+      "title": "【決算速報】ファマライズ、6-8月期(1Q)経常は31％減益で着地9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/a1f1210d163fe71b4db5a6cb9e1a02a9b726d392",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -63,84 +72,102 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ミタチ産業、上期経常を60％上方修正、通期も増額9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e7ca51de7ad75995716513ac8ef0dc637bf8f4b1",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アイナボＨＤ、今期配当を2円増額修正9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d7fb8f834de3e5ba9db54947928e93755953b98a",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】クニミネ、上期経常を31％上方修正・5期ぶり最高益、通期も増額9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/36a09ae6e1d2b15993c40874fa3d9c5580a8e83a",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】テーオーシー、今期配当を1円増額修正9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/44fb57a6458d8fa0d999901b4d07c8f100cdfdc4",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】テーオーシー、27年03月年間1株配当11円。9/16アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/c5348127b3bf4c0aa6d46b25d417c0f324823413",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アイナボＨ、26年09月年間1株配当28円。9/16アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/0a4973b71d0e7edb656210d31d5fc453d5dc2a5a",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日産証券Ｇ、未定だった上期配当は3円実施9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7869ab965f2e6587055c25ca0f3a7c2d1fcb95b8",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】いちよし、未定だった上期配当は8円増配9/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/884733e26e35bf78dee8032288f89da6751a3c74",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【ヴィレヴァン】大赤字で62店舗を閉鎖……しかし「決算書」でわかる”裏側の意外な変化”知っていますか？(ダイヤモンド・オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/e883483ed3b62df9c8a2eb141219eeb84aa501ca?source=rss",
+      "title": "【決算速報】アドバンスＲ、今期経常は6％減益へ9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1fb051c8fb4bdaa674fe2d77dac759362f563d28",
       "type": "earn",
       "code": "",
-      "pub": "Wed, 16 Sep 2026 22:45:31 GMT",
-      "desc": "　62店舗を閉鎖したヴィレヴァン。その決算書には、意外な変化が表れていました。書籍『サンキー図で「お金の流れ」が1秒でわかる 見るだけ決算書』に登場するサンキー図を使い、大量閉店の裏側に迫ります。\n\n",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ファマライズ、２７年５月期第１四半期決算は純損益３６００万円の赤字9/17ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/4cf8fa12b17476c39d923c6d222a2fa6c1eb7341",
+      "type": "earn",
+      "code": "３６００",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ファーマライズＨ、1Q経常79百万。9/17アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/20bb1a9cc864064092370bdc786d15a2f1daa8d3",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】東海道リート、今期経常は4％増で2期連続最高益更新へ9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/fb009df4726fc958c35c1207a906d2a29b186c66",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】抵抗器、下期配当を見送り9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d718b56c527c9bdb2ef82338802a8a7183775711",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】霞ヶ関Ｃ、前期経常を7％上方修正・最高益予想を上乗せ9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/411835347650b3ee8c8918538b47561e8cfad235",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＣＯＴＡ、4-6月期(1Q)経常は黒字浮上で着地9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5e4e8575187216ed8c23cb7b405a5c220524238e",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞コタ、２７年３月期第１四半期決算は純損益３７００万円の黒字9/17ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/fc928702220bd2c3ec38255eb6af74b61135efd0",
+      "type": "earn",
+      "code": "３７００",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アップル、今期経常を18％上方修正、配当も5円増額9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c3364cb5644536a1b9306af751f5488114a48e0a",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】中部鋼鈑、今期経常を一転46％減益に下方修正9/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b34ff3462decc9b2115e2c1efe41b0c3abee2370",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "第2次高市改造内閣が発足：政策姿勢は修正されるか(NRI研究員の時事解説)",
+      "link": "https://news.yahoo.co.jp/articles/8f2f848ca4900e4f16b32a4445b29288575def66?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Thu, 17 Sep 2026 22:43:04 GMT",
+      "desc": "高市首相は17日午後、同日に発表した内閣改造と前日の自民党役員人事を受けて、首相官邸で記者会見を行った。\n \n党役員人事では、麻生副総裁、鈴木幹事長が留任、改造内閣では、主要ポストで茂木外務大臣、片山",
       "source": "yahoo_news"
     }
   ],
