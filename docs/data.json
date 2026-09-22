@@ -1,11 +1,11 @@
 {
-  "updated": "2026/09/21 08:44",
-  "date": "2026-09-21",
+  "updated": "2026/09/22 09:26",
+  "date": "2026-09-22",
   "count": {
     "up": 5,
-    "down": 4,
-    "div": 1,
-    "earn": 6
+    "down": 3,
+    "div": 0,
+    "earn": 5
   },
   "items": [
     {
@@ -81,6 +81,24 @@
       "source": "yahoo"
     },
     {
+      "title": "【決算速報】昭栄薬品、上期経常を一転45％増益に上方修正・4期ぶり最高益更新へ9/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/56ab364701cdd9c62918c202e00fd5d30fbe5512",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本インシュ、上期経常を40％上方修正9/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/15046cbc7e8fd4b617b900d0cc8728f85c98c4b7",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
       "title": "【決算速報】篠崎屋、非開示だった今期経常は28％増益へ（訂正）9/18株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/ce1e5301a692647369aef2dc1c152987c3096821",
       "type": "earn",
@@ -99,15 +117,6 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】昭栄薬品、上期経常を一転45％増益に上方修正・4期ぶり最高益更新へ9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/56ab364701cdd9c62918c202e00fd5d30fbe5512",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
       "title": "【決算速報】サツドラＨＤ、6-8月期(1Q)経常は赤字転落で着地9/18株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/d81f557deab259a4e31b1ef3d4df0e66173eff88",
       "type": "earn",
@@ -115,42 +124,6 @@
       "pub": "",
       "desc": "",
       "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日本インシュ、上期経常を40％上方修正9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/15046cbc7e8fd4b617b900d0cc8728f85c98c4b7",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アイザワ証Ｇ、未定だった上期配当は48円実施9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e56c364290939b32ddd2e84708cdbca28009c131",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "JX金属の株価が昨秋以降で大きく振れた背景。2026年3月期通期は営業利益+56%の大幅増益(LIMO)",
-      "link": "https://news.yahoo.co.jp/articles/9ea088d260ab008e92417ca053186d33c3e72d13?source=rss",
-      "type": "earn",
-      "code": "2026",
-      "pub": "Sun, 20 Sep 2026 23:21:14 GMT",
-      "desc": "※編集部注:外部配信先ではハイパーリンクや図表などの画像を全部閲覧できない場合があります。その際はLIMO内でご確認ください。",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "年上夫の年金に「月3万5000円」上乗せされていたのに、妻の私が65歳になったら突然カット！ 毎年「42万円」も減るなんて生活できません…… この謎の減額の正体は一体何なのでしょうか？(ファイナンシャルフィールド)",
-      "link": "https://news.yahoo.co.jp/articles/76b9194b7d864c565cd8f467ba68106c93a2ba22?source=rss",
-      "type": "down",
-      "code": "5000",
-      "pub": "Sun, 20 Sep 2026 22:50:01 GMT",
-      "desc": "「夫の年金が急に月3万5000円も少なくなった！」となると、家計や日々の暮らしに大きな影響が出て、びっくりしてしまうかもしれません。年金が突然減った理由が分からず、「年金の計算を間違えられた？」「何か",
-      "source": "yahoo_news"
     }
   ],
   "schedule": []
