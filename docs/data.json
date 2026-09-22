@@ -1,11 +1,11 @@
 {
-  "updated": "2026/09/22 09:26",
-  "date": "2026-09-22",
+  "updated": "2026/09/23 08:55",
+  "date": "2026-09-23",
   "count": {
     "up": 5,
     "down": 3,
     "div": 0,
-    "earn": 5
+    "earn": 6
   },
   "items": [
     {
@@ -81,24 +81,6 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】昭栄薬品、上期経常を一転45％増益に上方修正・4期ぶり最高益更新へ9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/56ab364701cdd9c62918c202e00fd5d30fbe5512",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日本インシュ、上期経常を40％上方修正9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/15046cbc7e8fd4b617b900d0cc8728f85c98c4b7",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
       "title": "【決算速報】篠崎屋、非開示だった今期経常は28％増益へ（訂正）9/18株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/ce1e5301a692647369aef2dc1c152987c3096821",
       "type": "earn",
@@ -117,6 +99,15 @@
       "source": "yahoo"
     },
     {
+      "title": "【決算速報】昭栄薬品、上期経常を一転45％増益に上方修正・4期ぶり最高益更新へ9/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/56ab364701cdd9c62918c202e00fd5d30fbe5512",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
       "title": "【決算速報】サツドラＨＤ、6-8月期(1Q)経常は赤字転落で着地9/18株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/d81f557deab259a4e31b1ef3d4df0e66173eff88",
       "type": "earn",
@@ -124,6 +115,24 @@
       "pub": "",
       "desc": "",
       "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日本インシュ、上期経常を40％上方修正9/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/15046cbc7e8fd4b617b900d0cc8728f85c98c4b7",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "「自分の決算日」を決めたら、お金の不安がスッと消えた(ダイヤモンド・オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/172898ac188b0330d6de34864c9c7217c5dea68a?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 22 Sep 2026 22:45:31 GMT",
+      "desc": "　「老後はいくら必要？」「今の使い方で大丈夫？」。お金の不安は、考え始めるほど膨らみがちです。そんなモヤモヤを手放すためにおすすめなのが、「自分の決算日」を決めること。お金の流れを定期的に見える化すれ",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
