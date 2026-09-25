@@ -1,34 +1,43 @@
 {
-  "updated": "2026/09/24 09:08",
-  "date": "2026-09-24",
+  "updated": "2026/09/25 09:10",
+  "date": "2026-09-25",
   "count": {
     "up": 5,
     "down": 3,
-    "div": 0,
-    "earn": 6
+    "div": 2,
+    "earn": 9
   },
   "items": [
     {
-      "title": "【決算速報】アドバンクリエ<8798>---26年9月期3Qは赤字縮小、経常損益は▲3億4000万円9/18フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0ac38d513c2f1625cbd9320c629ac1f6d74c792f",
+      "title": "【決算速報】アスカ<7227>---26年11月期3Qは増益、経常利益は27.8％増9/24フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9a3386792c39c3bb24e69a0b8cf69ba608ce73a3",
       "type": "earn",
-      "code": "8798",
+      "code": "7227",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サツドラホールディングス<3544>---27年5月期1Qは赤字転落、経常損益は▲1億7600万円9/18フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/da02dbaa71ecb6054a9471fc2888146d234b155d",
+      "title": "【決算速報】日本オラクル<4716>---27年5月期1Qは増益、経常利益は24.9％増9/24フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/5173906fe5fc3d0784e4d23470daa02e4343f885",
       "type": "earn",
-      "code": "3544",
+      "code": "4716",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (09月18日)9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6fde80bc9908034fb72937d0f3591ca99cde3a6c",
+      "title": "【決算速報】大光<3160>---27年5月期1Qは減益、経常利益は71.4％減9/24フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/55043cb8f1eda3f1055a46aa16f53ce5c12f20cb",
+      "type": "earn",
+      "code": "3160",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (09月24日)9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/93886702bbf6145ae75db54005e1c01d05f96105",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,17 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】岩井コスモ、未定だった上期配当は5円増配9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6aa94704d24547f83253865222faa2729f3dbcf5",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＹＥデジタル、上期経常を一転15％減益に下方修正9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d03f50586e3f8fe22873dbb0774f46aee91ee38f",
+      "title": "【決算速報】生化学、今期最終を一転赤字に下方修正、配当も10円減額9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/dd3034d3cad056b3e2048bf5477d862e28e8bcde",
       "type": "down",
       "code": "",
       "pub": "",
@@ -54,8 +54,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ニッカトー、上期経常を37％上方修正・19期ぶり最高益、通期も増額、配当も4円増額9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bac54434ba34d6cd95dbdf206811a5b124ce8499",
+      "title": "【決算速報】ｍｅｉｔｏ、株式分割に伴い配当予想を修正9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ba7663c7d4307c0a670e50c7f1d1784516ed18ff",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＧＭＯコマス、今期経常を12％上方修正、配当も1.56円増額（訂正）9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/89468387d8daa8d4956e79c91190e07168dd2c01",
       "type": "up",
       "code": "",
       "pub": "",
@@ -63,17 +72,53 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】いちごオフィ、今期経常を27％上方修正・最高益予想を上乗せ、分配金も1610円増額9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/25571d82921170eb40e0c45efcc858ebf4785eb6",
+      "title": "【決算速報】カバー、上期経常を一転27％増益に上方修正・2期ぶり最高益更新へ9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/db51c95ed789c613733a346ea68f9340160974d8",
       "type": "up",
-      "code": "1610",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】Ａクリエイト、今期最終を一転赤字に下方修正9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/793ce97b45c9d0c4910df293605acb8aa078edde",
+      "title": "【決算速報】田中商事、今期配当を7円増額修正9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/fe3de5e8b3edb27e56ee589093d98aae6c392a61",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】トーシンＨＤ、前期経常は2.3億円の赤字転落で着地9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/38c9fbcee75c1741e29e21c815b7d88b401cf57b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】田中商事、27年03月年間1株配当38円。9/24アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/5a0b9967331d971d60315bc9ca00c7f615eb06e8",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＫＤＸ不動産、今期経常を1％下方修正、分配金は41円増額9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e362125a242c3ce605b818831dbdf95739e4040d",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ディアライフ、今期経常を一転22％減益に下方修正9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7bbf7d5e7d8c5ff489217f048af097cf327785e1",
       "type": "down",
       "code": "",
       "pub": "",
@@ -81,17 +126,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】篠崎屋、非開示だった今期経常は28％増益へ（訂正）9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ce1e5301a692647369aef2dc1c152987c3096821",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＣＳ－Ｃ、今期経常を赤字拡大に下方修正9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/cc4ee468f55b17fdb5aab6039e8179a65a028879",
+      "title": "【決算速報】インソース、今期経常を4％下方修正9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/fc854336215948c8fe937329fbaafc855b393e0b",
       "type": "down",
       "code": "",
       "pub": "",
@@ -99,8 +135,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】昭栄薬品、上期経常を一転45％増益に上方修正・4期ぶり最高益更新へ9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/56ab364701cdd9c62918c202e00fd5d30fbe5512",
+      "title": "【決算速報】古河電、上期最終を36％上方修正9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e0c699577e1812a7d30e413f0c52e6edc7c96130",
       "type": "up",
       "code": "",
       "pub": "",
@@ -108,8 +144,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サツドラＨＤ、6-8月期(1Q)経常は赤字転落で着地9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d81f557deab259a4e31b1ef3d4df0e66173eff88",
+      "title": "【決算速報】アスカ、12-8月期(3Q累計)経常が28％増益で着地・6-8月期も19％増益9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3f7d8334a8fae0e20cb53c9ace166057e94467e0",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,21 +153,30 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本インシュ、上期経常を40％上方修正9/18株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/15046cbc7e8fd4b617b900d0cc8728f85c98c4b7",
-      "type": "up",
+      "title": "【決算速報】日本オラクル、6-8月期(1Q)経常は25％増益で着地9/24株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b7f4a89a9f2e1b918407e8c48ccf98db7499d474",
+      "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【すごい】日本ディズニー赤字460億円→黒字1,684億円に。決算書は、コロナ期からどう変わったのか(ダイヤモンド・オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/94f6089dcbf5bf4c3d5f74dbbaec425a312988dd?source=rss",
+      "title": "景品は食品や日用品！クレーンゲームが「スーパー化」で売上10倍の店舗も。業績好調の裏に“1円パチンコの影”(SPA!)",
+      "link": "https://news.yahoo.co.jp/articles/ef8119b58c0e8bfbb829dfc43b361d997f704586?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Wed, 23 Sep 2026 23:15:27 GMT",
-      "desc": "　企業の決算を見るとき、つい直近の業績ばかりに注目してしまいがちです。しかし、その会社の特徴を知るうえでは、「業績が大きく悪化したとき」に何が起きたのかを見ることも重要です。売上が落ちたとき、費用はど",
+      "pub": "Thu, 24 Sep 2026 23:49:04 GMT",
+      "desc": "キャラクターグッズやぬいぐるみなどを扱ってきたクレーンゲームに異変が生じつつあります。日用品や飲食料品などを扱うプライズゲームが増え、施設も大型化しているのです。クレーンゲームはレジャーの中でも成長著",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "「ロア」がヘアアクセ・ツールに参入　27年3月期売上高は60億円着地見込み、29年に100億円へ(WWDJAPAN.com)",
+      "link": "https://news.yahoo.co.jp/articles/7b04d03e08a128bf8d61a4c5bf7fec4ce5c289a0?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Thu, 24 Sep 2026 23:00:00 GMT",
+      "desc": "美容室専売ヘアケアブランド「ロア（LOA）」を展開するジェイド・ジャパンが事業領域を広げる。ヘアツールやヘアアクセサリーを投入し、2027年3月期の売上高は前期比約2倍の60億円前後を見込む。29年に",
       "source": "yahoo_news"
     }
   ],
