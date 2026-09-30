@@ -1,16 +1,16 @@
 {
-  "updated": "2026/09/29 10:22",
-  "date": "2026-09-29",
+  "updated": "2026/09/30 09:55",
+  "date": "2026-09-30",
   "count": {
-    "up": 7,
+    "up": 4,
     "down": 1,
-    "div": 2,
-    "earn": 9
+    "div": 0,
+    "earn": 12
   },
   "items": [
     {
-      "title": "【決算速報】グリーＨＤ、今期売上を一転11％増収に上方修正9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/666c972c075f72ca4ad801fed13141ed03424aca",
+      "title": "【決算速報】ニレコ、今期経常を5％上方修正・2期ぶり最高益更新へ9/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/91b53cc412782f0de79009c8259cf8faf49ac18d",
       "type": "up",
       "code": "",
       "pub": "",
@@ -18,8 +18,71 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】旭有機材、今期経常を41％上方修正、配当も50円増額9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/426d852bf9d427a29d8def278f1b846edfa98cd7",
+      "title": "【決算速報】セキチュー<9976>---27年2月期2Qは増益、経常利益は17.8％増9/29フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/fb85a589eb626b3583843688341d794198891fb5",
+      "type": "earn",
+      "code": "9976",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】スローガン<9253>---27年2月期2Qは増益、経常利益は8.1％増9/29フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/235f0424d48a8eb0f57dd64dac7c8e29a6cae69d",
+      "type": "earn",
+      "code": "9253",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】FフォースG<7068>---27年5月期1Qは増益、経常利益は11.5％増9/29フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/3da8d5e59ff0ba8c963754c55eac599a995ed9ce",
+      "type": "earn",
+      "code": "7068",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】TAKARA & COMPANY<7921>---27年5月期1Qは増益、経常利益は24％増9/29フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/7ecd5437abfbc659ce5dd8f4471bf2592bc04b18",
+      "type": "earn",
+      "code": "7921",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】クラウディア<3607>---26年8月期は増益、経常利益は60.4％増9/29フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a8b4b5366b20c8feb818f8c8266574e684f44284",
+      "type": "earn",
+      "code": "3607",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＤＣＭ<3050>---27年2月期2Qは増益、経常利益は1.4％増9/29フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/3ded5219b4cd06482ae915b31731d20f8981f2c0",
+      "type": "earn",
+      "code": "3050",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ハニーズHD<2792>---27年5月期1Qは減益、経常利益は45.5％減9/29フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6b78251d3a9d3e3fce89c9676abafcbb900751d8",
+      "type": "earn",
+      "code": "2792",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイトウボウ、上期経常を2.3倍上方修正9/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ecebd0d34dce80746b043652162577befcf7db5a",
       "type": "up",
       "code": "",
       "pub": "",
@@ -27,157 +90,76 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】しまむら<8227>---27年2月期2Qは増益、経常利益は7.3％増9/28フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/be0f7c6054ab3baffcef8c7faea730809ed85473",
+      "title": "★本日の【サプライズ決算】速報 (09月29日)9/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/861a1b803e2e1ea337a121e4b9ccae3076616d6c",
       "type": "earn",
-      "code": "8227",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＮａＩＴＯ<7624>---27年2月期2Qは増益、経常利益は276.9％増9/28フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f87bbd4aba366c20717ca341cbb530d0c664f12f",
+      "title": "＜決算速報＞神戸物産、２６年１０月期第３四半期決算は純利益１０．９％減の２ケタ減益9/29ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/49ca77fceb640c8fa3c4f770a1e663029a75fe2f",
       "type": "earn",
-      "code": "7624",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】プロＨＤ、今期最終を56％下方修正9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8522639fc2ed8a5da6f1175aa38469ad50663162",
+      "title": "【決算速報】オークワ<8217>---27年2月期2Qは減益、経常利益は98.1％減9/29フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9fe4174d8a62dd1718f8e3ccac0f2c81a53f3b9b",
+      "type": "earn",
+      "code": "8217",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】セキチュー、今期経常を9％上方修正9/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5cd62d2c878e5711818bbd7930f24bea75a268d5",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞セキチュー、２７年２月期第２四半期決算は純利益２２．３％増の大幅増益9/29ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/c0e0d89de3ce0d07cf19a2f4eb67d844b9b850f7",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】セキチュー、中間経常624百万。事前予想を上回る9/29アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/4516f9ef5b1c24d85ed531c2b0883c8372e3a241",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＤＣＭ、上期経常は一転1％増益で上振れ着地9/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7cc084383b326b1aa3fe65b5294b654d7568d9e3",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】大井電気、上期経常を一転赤字に下方修正9/29株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/038c20e48c52d3bd8c37f99a9f371fbb5f78698e",
       "type": "down",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＮＳＤ、27年03月年間1株配当100円。9/28アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/1218aaeba402153b40b3803465a41e23468baf98",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＮＳＤ、今期経常を4％上方修正・最高益予想を上乗せ、配当も3円増額9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/85a27b79a96d48b7c043e4cec286cc165ce52d85",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (09月28日)9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/618a57e1ae439653d4b6086220e22dc5a5964840",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＮａＩＴＯ、今期経常を一転2.9倍増益に上方修正9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a98adf9d568eaf6b8a6e2134e9ec6b133937b33d",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞日本電技、２７年３月期第１四半期決算は純利益３９．３％増の大幅増益9/28ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/f8b85442ce64b03e23b01b97615c9559d72c2a36",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞ＮａＩＴＯ、２７年２月期第２四半期決算は純利益３．９倍9/28ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/3d24acabf98e6985fc007b5364fcedda069e2357",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＮａＩＴＯ、中間経常863百万。9/28アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/1c3fc402128623d453ae5710b59240953ed58ad0",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】メイコー、株式分割に伴い配当予想を修正9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1445443e680ad92785b4be0a089d963a90ab4062",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】サムティＲ、今期経常を2％上方修正、分配金も55円増額9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7e60fba5214bd94f4e8256ac5c64aff81b1e93aa",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】しまむら、上期経常が7％増益で着地・6-8月期は4％減益9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/cc2448f850cd21764a9686916e33c8e00ad0b612",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アクセル、今期経常を一転31％増益に上方修正、配当も38円増額9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8eae2587cdeb1a3c1b7069005f07bc61c583db11",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ハピネット、上期経常を一転51％増益に上方修正・最高益更新へ9/28株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/07448a45ffed7c49e553991f8ececdeb2591eb79",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞しまむら、２７年２月期第２四半期決算は純利益５．６％増9/28ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/95a6865e3b90f36ae301d3255b1e5ad41b52e633",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【オフィス市場を開拓】不二貿易、新チームが増収をけん引(日本ネット経済新聞)",
-      "link": "https://news.yahoo.co.jp/articles/09eba7275bcb94ff35dca45eb8a1b93452c981ad?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "desc": "法人や個人向けに家具やインテリア雑貨を販売する不二貿易がオフィス向け市場の開拓を強化している。\n\n2024年に結成したオフィスチームは、現在、各部から集まった9人で営業活動を続けている。チームの成長は",
-      "source": "yahoo_news"
     }
   ],
   "schedule": []
