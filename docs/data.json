@@ -1,97 +1,16 @@
 {
-  "updated": "2026/09/30 09:55",
-  "date": "2026-09-30",
+  "updated": "2026/10/01 09:56",
+  "date": "2026-10-01",
   "count": {
-    "up": 4,
+    "up": 0,
     "down": 1,
     "div": 0,
-    "earn": 12
+    "earn": 20
   },
   "items": [
     {
-      "title": "【決算速報】ニレコ、今期経常を5％上方修正・2期ぶり最高益更新へ9/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/91b53cc412782f0de79009c8259cf8faf49ac18d",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】セキチュー<9976>---27年2月期2Qは増益、経常利益は17.8％増9/29フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/fb85a589eb626b3583843688341d794198891fb5",
-      "type": "earn",
-      "code": "9976",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スローガン<9253>---27年2月期2Qは増益、経常利益は8.1％増9/29フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/235f0424d48a8eb0f57dd64dac7c8e29a6cae69d",
-      "type": "earn",
-      "code": "9253",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】FフォースG<7068>---27年5月期1Qは増益、経常利益は11.5％増9/29フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3da8d5e59ff0ba8c963754c55eac599a995ed9ce",
-      "type": "earn",
-      "code": "7068",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】TAKARA & COMPANY<7921>---27年5月期1Qは増益、経常利益は24％増9/29フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7ecd5437abfbc659ce5dd8f4471bf2592bc04b18",
-      "type": "earn",
-      "code": "7921",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】クラウディア<3607>---26年8月期は増益、経常利益は60.4％増9/29フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a8b4b5366b20c8feb818f8c8266574e684f44284",
-      "type": "earn",
-      "code": "3607",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＤＣＭ<3050>---27年2月期2Qは増益、経常利益は1.4％増9/29フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3ded5219b4cd06482ae915b31731d20f8981f2c0",
-      "type": "earn",
-      "code": "3050",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ハニーズHD<2792>---27年5月期1Qは減益、経常利益は45.5％減9/29フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6b78251d3a9d3e3fce89c9676abafcbb900751d8",
-      "type": "earn",
-      "code": "2792",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ダイトウボウ、上期経常を2.3倍上方修正9/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ecebd0d34dce80746b043652162577befcf7db5a",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (09月29日)9/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/861a1b803e2e1ea337a121e4b9ccae3076616d6c",
+      "title": "【決算速報】ＢｌｕｅＭｅｍｅ、経常51百万。事前予想を下回る9/30アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/70ec5b2a754efd976f93f57c9154708a57d85572",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,67 +18,184 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞神戸物産、２６年１０月期第３四半期決算は純利益１０．９％減の２ケタ減益9/29ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/49ca77fceb640c8fa3c4f770a1e663029a75fe2f",
+      "title": "【決算速報】ＥＲＩ　ＨＤ<6083>---27年5月期1Qは増益、経常利益は9.9％増9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/80bf89f4d33f2fb51c6282cf55c512e1af135807",
       "type": "earn",
-      "code": "",
+      "code": "6083",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】オークワ<8217>---27年2月期2Qは減益、経常利益は98.1％減9/29フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/9fe4174d8a62dd1718f8e3ccac0f2c81a53f3b9b",
+      "title": "【決算速報】イリソ電子<6908>---26年3月期は増益、経常利益は10.1％増9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c2ecde6c06926b9e2c6cc2bb47743d231ad41c03",
       "type": "earn",
-      "code": "8217",
+      "code": "6908",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】セキチュー、今期経常を9％上方修正9/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/5cd62d2c878e5711818bbd7930f24bea75a268d5",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞セキチュー、２７年２月期第２四半期決算は純利益２２．３％増の大幅増益9/29ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/c0e0d89de3ce0d07cf19a2f4eb67d844b9b850f7",
+      "title": "【決算速報】テクノアルファ<3089>---26年11月期3Qは減益、経常利益は66.9％減9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/e8ea7830bb3d2d321702f5f3c85bcc57087e9b0e",
       "type": "earn",
-      "code": "",
+      "code": "3089",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】セキチュー、中間経常624百万。事前予想を上回る9/29アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/4516f9ef5b1c24d85ed531c2b0883c8372e3a241",
+      "title": "【決算速報】スター・マイカ・ホールディングス<2975>---26年11月期3Qは増益、経常利益は78％増9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f7a50aaef473a192382ceb153ec6482440db019e",
       "type": "earn",
-      "code": "",
+      "code": "2975",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＤＣＭ、上期経常は一転1％増益で上振れ着地9/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7cc084383b326b1aa3fe65b5294b654d7568d9e3",
-      "type": "up",
-      "code": "",
+      "title": "【決算速報】ピックルスＨＤ<2935>---27年2月期2Qは減益、経常利益は21.7％減9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/445650e1afc03e0be737db1984312f1a24b7a78d",
+      "type": "earn",
+      "code": "2935",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大井電気、上期経常を一転赤字に下方修正9/29株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/038c20e48c52d3bd8c37f99a9f371fbb5f78698e",
+      "title": "【決算速報】アンドST<2685>---27年2月期2Qは増益、経常利益は42.1％増9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6600d5621b0dd20a6090b058836f49c29492161b",
+      "type": "earn",
+      "code": "2685",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】YEデジタル<2354>---27年2月期2Qは減益、経常利益は13％減9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4099d95f128fd2e9f8ed3ff42d33b96e2abe63d0",
+      "type": "earn",
+      "code": "2354",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】インテグループ<192A>---27年5月期1Qは黒字転換、経常利益は7900万円9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/8922d863400d0a52cc06dce98124a568ac4115b3",
+      "type": "earn",
+      "code": "7900",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ブルーミーム、前期最終が下振れ着地・今期は赤字転落へ9/30株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3228c78e0ce4a345c87e483ff71a123fce7784d0",
       "type": "down",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ＢｌｕｅＭｅ、２６年３月期決算は純損益２４００万円の黒字9/30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/1e397b750df05124476fc90680669cf5b8d3e5c7",
+      "type": "earn",
+      "code": "２４００",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (09月30日)9/30株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6ee5b552d4e0fd06bd6434b534c7bc888fe2bc95",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】日プロ<9651>---27年5月期1Qは増益、経常利益は9.8％増9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/0bcb7e1b01d0714b8d5dbc546bda446d9266778a",
+      "type": "earn",
+      "code": "9651",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ヤマシタヘルスケアホールディングス<9265>---27年5月期1Qは赤字転落、経常損益は▲1億600万円9/30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/05ea4ccfebb6f29125f8c6ceb744c7400f2c521d",
+      "type": "earn",
+      "code": "9265",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ニデック、税引前赤字。アナリスト予想を下回る9/30アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/80eaea6e380573235b7f887e0c7affb26230b28f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】キユーソー流通Ｓ、3Q累計経常3,590百万。9/30アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/d91a8c306c426e652b92f8f973179bea132594d5",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】キユソ流通、12-8月期(3Q累計)経常は5％減益で着地9/30株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/18f654da851369d0f9379ca9f05f4ea3024367b0",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞キユソ流通、２６年１１月期第３四半期決算は純利益１１．９％減の２ケタ減益9/30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/e919a2ca3004e3a3f4d8f250fa579c9a37a9ddbb",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ニデック、今期最終は黒字浮上へ9/30株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2381048dcf86ba86dab47f27400e3c50751a566b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ニデック、２６年３月期決算は純損益５６４６億円の赤字9/30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/4a3a373dd2f1ff55661624a4e85b58f88204e05b",
+      "type": "earn",
+      "code": "５６４６",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "課題山積み“戒田ニデック”新体制始動、拡大路線で生じた歪みを修正できるか(ニュースイッチ)",
+      "link": "https://news.yahoo.co.jp/articles/4cf0113a1f5e18a6612264a6548511385fd74673?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Thu, 01 Oct 2026 00:40:09 GMT",
+      "desc": "ニデックは29日、新たな経営体制を始動した。不正会計や品質問題への対応に加え、大規模減損処理の検討など課題が山積する中、社長執行役員最高経営責任者（CEO）兼最高技術責任者（CTO）に就いた戒田理夫氏",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
