@@ -1,79 +1,16 @@
 {
-  "updated": "2026/10/02 10:12",
-  "date": "2026-10-02",
+  "updated": "2026/10/05 09:20",
+  "date": "2026-10-05",
   "count": {
-    "up": 3,
+    "up": 2,
     "down": 2,
     "div": 0,
-    "earn": 14
+    "earn": 18
   },
   "items": [
     {
-      "title": "【決算速報】西松屋チェ<7545>---27年2月期2Q10/1フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a380e6717d6f5fa6087c41841d728c9245e9ee07",
-      "type": "earn",
-      "code": "7545",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ナガイレーベ<7447>---26年8月期は増益、経常利益は3.5％増10/1フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/479f3a234d5d97b38f3b515a8993ac884d2da251",
-      "type": "earn",
-      "code": "7447",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】イーサポート<2493>---26年11月期3Qは増益、経常利益は3.1％増10/1フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8b981f804684aeb9442986da38ab8787ae0635dc",
-      "type": "earn",
-      "code": "2493",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】クスリのアオキ<3549>---27年5月期1Qは増益、経常利益は17.6％増10/1フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/55b6eb7d0758c0549c219824b7d55516539316d8",
-      "type": "earn",
-      "code": "3549",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (10月01日)10/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e28ac667c46609236f351dd6e85c062f9db17978",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日フイルコン<5942>---26年11月期3Qは増益、経常利益は137.7％増10/1フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b42a515f2c74d752ab18c870c9fe40e1190c7bd1",
-      "type": "earn",
-      "code": "5942",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】平和堂<8276>---27年2月期2Qは減益、経常利益は17.6％減10/1フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0cbda57d8fe635e2ce18f45d7a9d8c9df8a773de",
-      "type": "earn",
-      "code": "8276",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】イーサポート、今期経常を一転25％減益に下方修正10/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/90c26f501f6f803fd8bdcfb46daa6dcdcf4dbc41",
+      "title": "【決算速報】あみやき、今期経常を一転12％減益に下方修正9:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c2970780612d9e970fae96f91675584c83cd2102",
       "type": "down",
       "code": "",
       "pub": "",
@@ -81,8 +18,125 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】グラファイト、上期経常を3.9倍上方修正、通期も増額10/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9e4a0a3c44a0fcfed84c565bfa5bb7d5e91019fc",
+      "title": "＜決算速報＞あみやき、２７年３月期第２四半期決算は純利益３３．０％減の大幅減益9:00ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/6dce6db962f1a03fc9c9deee04a0728bbb03154a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】あみやき亭、中間経常901百万。アナリスト予想を下回る9:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/cc9a1a2b59fdf8cbf64314b31fdf3e45185ce4a6",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】和田興産<8931>---27年2月期2Qは減益、経常利益は38.2％減10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6e5e5c9a7eb506246bd17f976216c477dc97c7f8",
+      "type": "earn",
+      "code": "8931",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】北恵<9872>---26年11月期3Qは増益、経常利益は3％増10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/47fcafcbfe36863306b75a07b311e48e34348c2c",
+      "type": "earn",
+      "code": "9872",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】象印マホービン<7965>---26年11月期3Qは増益、経常利益は3.9％増10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bd14e199b6dabac418f8ef504f6aad6b844a7a1b",
+      "type": "earn",
+      "code": "7965",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】リヒトラブ<7975>---27年2月期2Qは増益、経常利益は40.9％増10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/8a55dc18136cfde889a1b106fd4aea0db3bdca59",
+      "type": "earn",
+      "code": "7975",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ハイデ日高<7611>---27年2月期2Qは増益、経常利益は11.4％増10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/cf61b2b6f92152ef661b878f21b39df20e75189d",
+      "type": "earn",
+      "code": "7611",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】福島印<7870>---26年8月期は増益、経常利益は63.4％増10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/b281959861e74e676ab4f3d19b931025cd08d805",
+      "type": "earn",
+      "code": "7870",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】瑞光<6279>---27年2月期2Qは赤字転落、経常損益は▲1億5800万円10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/0d3ae6bf9f2284cf86b31ec588b83adcc01f6599",
+      "type": "earn",
+      "code": "6279",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オプトエレクト<6664>---26年11月期3Qは赤字縮小、経常損益は▲2億1200万円10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/798b7192a62f61ccbae68fbe95e3496cb4043921",
+      "type": "earn",
+      "code": "6664",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】エクスモーション<4394>---26年11月期3Qは増益、経常利益は17.8％増10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/26bf2f34b4311fb12e4143980bbb70ebffaee8e1",
+      "type": "earn",
+      "code": "4394",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミタチ<3321>---27年5月期1Qは増益、経常利益は7％増10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/1381f99e23c62efa05ecc98a311a07a400128763",
+      "type": "earn",
+      "code": "3321",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ハンワホームズ<275A>---27年2月期2Q10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d830f6e762548281f64113bd2867f2da9995b3dc",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＨＥＮＮＧＥ、前期配当を5円増額修正10/2株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/91657f3dfa2d5e1c1a2bccc0607a095626e5f28f",
       "type": "up",
       "code": "",
       "pub": "",
@@ -90,8 +144,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナガイレーベ、今期経常は2％増益へ10/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/a21f04e234a316548a27a4feaa6f98f43551d3d1",
+      "title": "★本日の【サプライズ決算】速報 (10月02日)10/2株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f18bfe5a7996d54e2b24d62204a958057b2548be",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,17 +153,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】クスリアオキ、6-8月期(1Q)経常は18％増益で着地10/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/04550696c3f3647f617e9e6beb3ddcca2972c99d",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】西松屋チェ、6-8月期(2Q)経常は19％減益、今期配当を1円増額修正10/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/fdac3818c2f2fedadd7d0b00296d16a400e074bf",
+      "title": "【決算速報】ＩＤＥＣ、今期経常を33％上方修正10/2株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/78b84ac1acc9390063b07d7becffc8f7ff6b488c",
       "type": "up",
       "code": "",
       "pub": "",
@@ -117,66 +162,48 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】リヒトラブ、今期経常を52％下方修正10/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/117ea48cbc787d05518f8cf4cecc2787fcfd4bdf",
-      "type": "down",
-      "code": "",
+      "title": "【決算速報】ＫＴＫ<3035>---26年8月期は増益、経常利益は25.9％増10/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/75afb15640c395a31e451b9c1d2add66f5e3fa57",
+      "type": "earn",
+      "code": "3035",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】フェリシモ、上期経常を一転6％増益に上方修正10/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/53d51a85d558d0510f15205d98d4e51cb3f7b557",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞西松屋チェ、２７年２月期第２四半期決算は純利益０．５％増10/1ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/ff78815b570922fe8a325212ec87373143f9e29e",
+      "title": "金融市場への配慮を示す首相の所信表明演説：リフレ政策の修正はあるか(NRI研究員の時事解説)",
+      "link": "https://news.yahoo.co.jp/articles/56aae2ac73bd586f57d2ad642ba29b122d19fd0d?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞クスリアオキ、２７年５月期第１四半期決算は純利益３６．４％増の大幅増益10/1ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/c5eb23d7032797ea7ee5b07b287b4b81a530f100",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞イーサポート、２６年１１月期第３四半期決算は純損益１２００万円の赤字10/1ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/f48d5c9d3edc99f3a47483f807e672c564046279",
-      "type": "earn",
-      "code": "１２００",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "石炭ボイラ業績低迷で構造改革…IHI、子会社売却(ニュースイッチ)",
-      "link": "https://news.yahoo.co.jp/articles/c5303e53fa9b190051dbfbde526d91788d4de501?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Fri, 02 Oct 2026 01:10:10 GMT",
-      "desc": "IHIはドイツ連結子会社のシュタインミュラー・エンジニアリングの全持ち分を、独投資会社ムタレスの完全子会社に譲渡する。譲渡額は非開示。10月中旬の譲渡を予定する。IHIの海外カーボンソリューション（C",
+      "pub": "Sun, 04 Oct 2026 23:02:21 GMT",
+      "desc": "10月5日に召集される臨時国会の初日に、高市首相は所信表明演説を行う。その原案について多くのメディアが報じており、所信表明演説の内容は既に概ね明らかになっている。それによると、高市首相は「責任ある積極",
       "source": "yahoo_news"
     },
     {
-      "title": "名古屋城観覧料が倍の1000円に　物価高で32年ぶり改定　半年で増収4億円、施設整備に(テレビ朝日系（ANN）)",
-      "link": "https://news.yahoo.co.jp/articles/7a762ac1c7a8b9931e052f1731872c1faa1c6e7a?source=rss",
+      "title": "「小さな習慣」で、人生はポジティブに軌道修正できる(ライフハッカー・ジャパン)",
+      "link": "https://news.yahoo.co.jp/articles/edd6bf0e4f27c6f4fb0e408592a2062529cca4f2?source=rss",
       "type": "earn",
-      "code": "1000",
-      "pub": "Fri, 02 Oct 2026 00:44:34 GMT",
-      "desc": "愛知県の人気観光地・名古屋城では、1日から高校生以上の観覧料が従来の500円から1000円に引き上げられました。料金の改定は32年ぶりとなります。茨城から来た人（60代）「あまり違和感はない。保存した",
+      "code": "",
+      "pub": "Sun, 04 Oct 2026 23:01:01 GMT",
+      "desc": "成功するためには、なにが必要なのか。そのひとつは、日常生活において適切な戦略を一致して実行していくこと──。『1日1ページ、人生をひらく小さな習慣』（スコット・アラン 著、弓場 隆 訳、ディスカヴァー",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "米9月雇用統計の下振れでFRBの連続利上げ観測は後退(NRI研究員の時事解説)",
+      "link": "https://news.yahoo.co.jp/articles/46df50697bb39e8b23edfbf8d196f692b26b5f3a?source=rss",
+      "type": "down",
+      "code": "",
+      "pub": "Sun, 04 Oct 2026 23:00:44 GMT",
+      "desc": "米労働省が10月2日発表した9月の雇用統計によると、非農業部門雇用者数は2万9,000人増と前月から伸びが鈍化し、また市場予想の約9万人増も下回った。さらに過去2か月分の数字も大幅に下方改定された。8",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "【阪神タイガース】決算書でわかる「甲子園球場の持ち主」が意外すぎた(ダイヤモンド・オンライン)",
+      "link": "https://news.yahoo.co.jp/articles/c6d799781f372c9c08b241e563d28fc673a9f6ac?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Sun, 04 Oct 2026 22:51:18 GMT",
+      "desc": "阪神タイガースと聞いて、真っ先に「甲子園球場」を思い浮かべる人は多いでしょう。実は、企業の決算書を見ると、普段のイメージだけではわからない「会社が何を持ち、何を持たずに事業をしているのか」が見えてきま",
       "source": "yahoo_news"
     }
   ],
