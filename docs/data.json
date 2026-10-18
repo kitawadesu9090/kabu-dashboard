@@ -1,200 +1,137 @@
 {
-  "updated": "2026/10/16 08:59",
-  "date": "2026-10-16",
+  "updated": "2026/10/19 08:49",
+  "date": "2026-10-19",
   "count": {
-    "up": 0,
-    "down": 0,
+    "up": 4,
+    "down": 1,
     "div": 0,
-    "earn": 21
+    "earn": 9
   },
   "items": [
     {
-      "title": "【決算速報】さいか屋<8254>---26年8月期は減益、経常利益は21.8％減10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4230271b0923d53ebf4422b70f71ab5d15618cb5",
+      "title": "【決算速報】ゲンダイＡＧ<2411>---27年3月期2Qは減益、経常利益は32.9％減10/16フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/4f7dae3b6d3f60376a41b8800720b46de98bb121",
       "type": "earn",
-      "code": "8254",
+      "code": "2411",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】識学<7049>---27年2月期2Qは赤字転落、経常損益は▲1億4600万円10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/fdcfa721ec71bc95a768f02aec0839e0bac7e25c",
-      "type": "earn",
-      "code": "7049",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ｐｒｏｐｅｔｅｃ<5527>---26年11月期3Qは増益、経常利益は9.5％増10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/471bc9776168e7400bf30ec2964e68ad6e6b5e95",
-      "type": "earn",
-      "code": "5527",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｕ＆Ｃ<3557>---27年2月期2Qは赤字転落、経常損益は▲7700万円10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/877ae9a20e6c5875a8d467d18b71d47b4647b914",
-      "type": "earn",
-      "code": "3557",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ユニシアHD<3547>---26年11月期3Qは増益、経常利益は5.3％増10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c9b503ae7d81f08871f46338a397e2e5d6d97908",
-      "type": "earn",
-      "code": "3547",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ANAPHD<3189>---26年8月期10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/211329390e11084498587e2e291f7194715e3753",
-      "type": "earn",
-      "code": "3189",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】abc<8783>---26年8月期10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ae2fb07b1444e19cd7955d58946983ce4a341a92",
-      "type": "earn",
-      "code": "8783",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東京ボード工業<7815>---27年2月期2Q10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/94bb2af51f4d636010726016006db148d2686c06",
-      "type": "earn",
-      "code": "7815",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Shinwa<2437>---27年5月期1Qは赤字縮小、経常損益は▲1億8600万円10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/9ddac6fea6922190df6275d896ef939fc89404e0",
-      "type": "earn",
-      "code": "2437",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大庄<9979>---26年8月期は減益、経常利益は23.6％減10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7df40c7c7db2e69849cc70496d370525e794cddc",
-      "type": "earn",
-      "code": "9979",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】昴<9778>---27年2月期2Qは赤字縮小、経常損益は▲700万円10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4abcd5bfd84dda1769ff0f092ec7cc4366e6a034",
-      "type": "earn",
-      "code": "9778",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】パパネッツ<9388>---27年2月期2Qは増益、経常利益は7.1％増10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6f6a89116e567d26a61615c229b97a49031f7dc1",
-      "type": "earn",
-      "code": "9388",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】文教堂ＨＤ<9978>---26年8月期は黒字転換、経常利益は600万円10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/256a572213938d2dbd14897d170101a99ca72446",
-      "type": "earn",
-      "code": "9978",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ラストワンマイル<9252>---26年8月期は増益、経常利益は70.9％増10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/53bbe3aa5e10deaae68f5450afe0ae5f5e2a2fc6",
-      "type": "earn",
-      "code": "9252",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】関通ホールディングス<9326>---27年2月期2Qは赤字転落、経常損益は▲7300万円10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7f24dd4edb3a97d84a21a0fe95b21b86be4cac78",
-      "type": "earn",
-      "code": "9326",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＧＲＣＳ<9250>---26年11月期3Q10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/744e909b4723d90199a409d018f74f579ed9d8ab",
-      "type": "earn",
-      "code": "9250",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】シーラHD<8887>---27年5月期1Qは減益、経常利益は3.5％減10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b780d3166f08be3481af36263cedbd097b9ef550",
-      "type": "earn",
-      "code": "8887",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】バリューＣ<9238>---27年2月期2Qは赤字転落、経常損益は▲3800万円10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/291b483df08aba32ebae55b25412216592d8d296",
-      "type": "earn",
-      "code": "9238",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＦＬＮ<9241>---26年8月期は赤字拡大、経常損益は▲8700万円10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/694e27fa6c5cb529b6102fc3ec554364e6daf93d",
-      "type": "earn",
-      "code": "9241",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】くろがね工作所<7997>---26年11月期3Qは赤字拡大、経常損益は▲1億9500万円10/15フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/83f157c49e2834de518803f2484910b579209d70",
-      "type": "earn",
-      "code": "7997",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "ミニストップ、上期決算は大幅な赤字に、通期は50億円の純損失予想(食品産業新聞社ニュースWEB)",
-      "link": "https://news.yahoo.co.jp/articles/d187edca9a44e909d159b44e854f7a084d357f52?source=rss",
+      "title": "★本日の【サプライズ決算】速報 (10月16日)10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c0d6f3558caca2255d4b6cab06e92d0bacba7f0b",
       "type": "earn",
       "code": "",
-      "pub": "Thu, 15 Oct 2026 22:40:28 GMT",
-      "desc": "ミニストップが発表した2027年2月期の上期(3～8月)の決算で、売上高は前年同期を上回るも、利益面では赤字となった。天候不順によるコールドスイーツの販売不順などで売り上げの改善などが計画に届かず利益",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】星野Ｒリート、今期経常を1％上方修正、分配金は359円減額10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/080dd343c6271c93274c5a770cf62ca815e7f5cc",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】岩井コスモ、非開示だった上期経常は42％増で3期連続最高益更新へ10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6687356329f311af4f8f0dd715eb03d16a7026a7",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】名古屋電機、上期経常を赤字縮小に上方修正10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/aca040aef09471c51c37293d46c19603ec748f20",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】昭和真空、上期経常を一転赤字に下方修正10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9d7bf7ac760c780462a9d0193c796bd02f93bd6f",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】犬猫生活、27年4月期経常は7.2億円10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4821a36158d13f5ce7ada300c3a9fb97ae50e082",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ゲンダイ、上期経常が33％減益で着地・7-9月期も31％減益10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e92fc0216c45cd48079bd780e880ab969f18e382",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】丸三、非開示だった上期経常は78％増益へ10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c58ca6d76bd67016032163b67519479b7378f527",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】メディネット、前期最終を赤字縮小に上方修正10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4a266b8c114ac7b271d12741aa3e2407b5239056",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】サンケイＲＥ、今期経常は46％減益へ10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/231d1b1c28ca24429abf32a9f8e77625371def94",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】野村マスター、今期経常は14％減益へ10/16株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d52ca26f00e45c3a0d001c73dc2f08e097aa2204",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ゲンダイＡＧ、２７年３月期第２四半期決算は純利益４１．２％減の大幅減益10/16ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/c7773dfe6721560d95d08449b920148f1bc1b734",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【年収の壁】12月の年末調整から変わる。19歳以上23歳未満の子を扶養する親の控除が満額になる給与収入は「159万円以下」に引き上げへ(LIMO)",
+      "link": "https://news.yahoo.co.jp/articles/a6872678b1a42ecf4e9ea85463c9d1b394001b2e?source=rss",
+      "type": "up",
+      "code": "",
+      "pub": "Sun, 18 Oct 2026 23:05:44 GMT",
+      "desc": "大学生などの子どもがアルバイトをしている家庭では、年末が近づくと「今年は子どもの収入がいくらまでなら、親の税金の控除が受けられるか」が気になります。2026年は、この線が12月の年末調整から動きます。",
       "source": "yahoo_news"
     }
   ],
