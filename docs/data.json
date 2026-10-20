@@ -1,25 +1,16 @@
 {
-  "updated": "2026/10/19 08:49",
-  "date": "2026-10-19",
+  "updated": "2026/10/20 09:50",
+  "date": "2026-10-20",
   "count": {
-    "up": 4,
-    "down": 1,
-    "div": 0,
-    "earn": 9
+    "up": 7,
+    "down": 2,
+    "div": 2,
+    "earn": 6
   },
   "items": [
     {
-      "title": "【決算速報】ゲンダイＡＧ<2411>---27年3月期2Qは減益、経常利益は32.9％減10/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4f7dae3b6d3f60376a41b8800720b46de98bb121",
-      "type": "earn",
-      "code": "2411",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (10月16日)10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c0d6f3558caca2255d4b6cab06e92d0bacba7f0b",
+      "title": "★本日の【サプライズ決算】速報 (10月19日)10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b01e03db33026185dd950e43f1c80b6a72bcd541",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,8 +18,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】星野Ｒリート、今期経常を1％上方修正、分配金は359円減額10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/080dd343c6271c93274c5a770cf62ca815e7f5cc",
+      "title": "【決算速報】Ｆインタ、上期配当を36.5円実施10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ff220c80ff5c3e077d3746d42a9f11acd672a9cf",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】フロンティアＩ、27年04月年間1株配当73円。10/19アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/4820df3e725bf638519177f74589ce1517b6a54b",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＧＭＯ－ＧＳ、今期最終を25％上方修正・6期ぶり最高益、配当も14.68円増額10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/94032064622ee0fa5831b4104e32cb8354379258",
       "type": "up",
       "code": "",
       "pub": "",
@@ -36,8 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】岩井コスモ、非開示だった上期経常は42％増で3期連続最高益更新へ10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6687356329f311af4f8f0dd715eb03d16a7026a7",
+      "title": "★本日の【サプライズ決算】速報 (10月19日)10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1505061fd507e4ddb8cc4e7b89b894febb058d8d",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,8 +54,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】名古屋電機、上期経常を赤字縮小に上方修正10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/aca040aef09471c51c37293d46c19603ec748f20",
+      "title": "【決算速報】ハウスリート、今期経常は13％増益へ10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/426c56125bce7905144b367cd0bcfee3d7fb84f5",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】コーテクＨＤ、上期経常を一転40％増益に上方修正10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f703d6f53346419b6a1ce5871ee3a57849413d76",
       "type": "up",
       "code": "",
       "pub": "",
@@ -54,8 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】昭和真空、上期経常を一転赤字に下方修正10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9d7bf7ac760c780462a9d0193c796bd02f93bd6f",
+      "title": "【決算速報】ブランジスタ、前期経常を4％下方修正10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/88ac9c9d098c92e6a24e2f1f1fe1699f1f8faeef",
       "type": "down",
       "code": "",
       "pub": "",
@@ -63,35 +81,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】犬猫生活、27年4月期経常は7.2億円10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4821a36158d13f5ce7ada300c3a9fb97ae50e082",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ゲンダイ、上期経常が33％減益で着地・7-9月期も31％減益10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e92fc0216c45cd48079bd780e880ab969f18e382",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】丸三、非開示だった上期経常は78％増益へ10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c58ca6d76bd67016032163b67519479b7378f527",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】メディネット、前期最終を赤字縮小に上方修正10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4a266b8c114ac7b271d12741aa3e2407b5239056",
+      "title": "【決算速報】シライ電子、今期経常を2倍上方修正、配当も8円増額10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8b3498bc840dc01f42c90971feca877159f267c8",
       "type": "up",
       "code": "",
       "pub": "",
@@ -99,8 +90,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サンケイＲＥ、今期経常は46％減益へ10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/231d1b1c28ca24429abf32a9f8e77625371def94",
+      "title": "【決算速報】菱地所物流Ｒ、今期経常は11％減益へ10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/fc5c2aae3f073a41aa180efe4feac664c8c39cc9",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -108,8 +99,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】野村マスター、今期経常は14％減益へ10/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d52ca26f00e45c3a0d001c73dc2f08e097aa2204",
+      "title": "【決算速報】セントラルＲ、今期経常は7％減益へ10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/fc3fb8d75af21ff6b1ef39a89febd911f668ed8c",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,8 +108,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ゲンダイＡＧ、２７年３月期第２四半期決算は純利益４１．２％減の大幅減益10/16ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/c7773dfe6721560d95d08449b920148f1bc1b734",
+      "title": "【決算速報】ＨＵＬＩＣＲ、今期経常は8％減益へ10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/534057cb9fcbb40fff4cd9a03ee7b64d403824b9",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -126,13 +117,49 @@
       "source": "yahoo"
     },
     {
-      "title": "【年収の壁】12月の年末調整から変わる。19歳以上23歳未満の子を扶養する親の控除が満額になる給与収入は「159万円以下」に引き上げへ(LIMO)",
-      "link": "https://news.yahoo.co.jp/articles/a6872678b1a42ecf4e9ea85463c9d1b394001b2e?source=rss",
+      "title": "【決算速報】ＳＥＨＩ、今期経常を一転25％増益に上方修正10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bd3f8d7bcfa1464cc60cc3f297084f8d0670bee2",
       "type": "up",
       "code": "",
-      "pub": "Sun, 18 Oct 2026 23:05:44 GMT",
-      "desc": "大学生などの子どもがアルバイトをしている家庭では、年末が近づくと「今年は子どもの収入がいくらまでなら、親の税金の控除が受けられるか」が気になります。2026年は、この線が12月の年末調整から動きます。",
-      "source": "yahoo_news"
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】南陽、上期経常を一転27％増益に上方修正・2期ぶり最高益更新へ10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/884c17343ac96820aa8009030f7cf559aea02d5a",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】桜島埠、上期経常を54％下方修正10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/82716d4632aa7d0979a1e2b6e1d7ce571e9c7eed",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アサヒペン、今期経常を10％上方修正10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/6dd21973d590d7b5099622868449ac8dc89b48c5",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】いちよし、非開示だった上期経常は2.1倍増益、上期配当も4円増額10/19株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/393bba75ee07556dd5f44c53d403c638dd718448",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
     }
   ],
   "schedule": []
