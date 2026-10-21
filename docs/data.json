@@ -1,25 +1,16 @@
 {
-  "updated": "2026/10/20 09:50",
-  "date": "2026-10-20",
+  "updated": "2026/10/21 09:16",
+  "date": "2026-10-21",
   "count": {
-    "up": 7,
+    "up": 3,
     "down": 2,
-    "div": 2,
-    "earn": 6
+    "div": 1,
+    "earn": 9
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (10月19日)10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b01e03db33026185dd950e43f1c80b6a72bcd541",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｆインタ、上期配当を36.5円実施10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ff220c80ff5c3e077d3746d42a9f11acd672a9cf",
+      "title": "【決算速報】Ｗディッシュ、前期配当を無配転落10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4951bf71018af3aefb03c8abd4b64cd30c7a0852",
       "type": "div",
       "code": "",
       "pub": "",
@@ -27,26 +18,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】フロンティアＩ、27年04月年間1株配当73円。10/19アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/4820df3e725bf638519177f74589ce1517b6a54b",
-      "type": "div",
-      "code": "",
+      "title": "【決算速報】スーパーツール<5990>---27年3月期2Qは減益、経常利益は33.2％減10/20フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/3b4410cb702d3fb17bd117d66d07417ce8002161",
+      "type": "earn",
+      "code": "5990",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＧＭＯ－ＧＳ、今期最終を25％上方修正・6期ぶり最高益、配当も14.68円増額10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/94032064622ee0fa5831b4104e32cb8354379258",
-      "type": "up",
-      "code": "",
+      "title": "【決算速報】アルインコ<5933>---27年3月期2Qは減益、経常利益は7.4％減10/20フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/7b63928aae015e9694595788d298d1c63b57ec2e",
+      "type": "earn",
+      "code": "5933",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (10月19日)10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1505061fd507e4ddb8cc4e7b89b894febb058d8d",
+      "title": "★本日の【サプライズ決算】速報 (10月20日)10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1709c071729aac5f2cdf196c14f22ee1adf0309f",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -54,17 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ハウスリート、今期経常は13％増益へ10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/426c56125bce7905144b367cd0bcfee3d7fb84f5",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】コーテクＨＤ、上期経常を一転40％増益に上方修正10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f703d6f53346419b6a1ce5871ee3a57849413d76",
+      "title": "【決算速報】ヴィアＨＤ、上期経常を2倍上方修正、通期も増額10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3bf83e6369bdbe039f31990238244d5a39f07ba0",
       "type": "up",
       "code": "",
       "pub": "",
@@ -72,8 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ブランジスタ、前期経常を4％下方修正10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/88ac9c9d098c92e6a24e2f1f1fe1699f1f8faeef",
+      "title": "【決算速報】スーパツール、上期最終は一転赤字転落で下振れ着地10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1724a1ff43374946ccb958d83ae012e8ce154a66",
       "type": "down",
       "code": "",
       "pub": "",
@@ -81,17 +63,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】シライ電子、今期経常を2倍上方修正、配当も8円増額10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/8b3498bc840dc01f42c90971feca877159f267c8",
-      "type": "up",
-      "code": "",
+      "title": "＜決算速報＞スパツール、２７年３月期第２四半期決算は純損益１６００万円の赤字10/20ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/1e17104b5e54a400e1bd492b83268da9f6648d26",
+      "type": "earn",
+      "code": "１６００",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】菱地所物流Ｒ、今期経常は11％減益へ10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/fc5c2aae3f073a41aa180efe4feac664c8c39cc9",
+      "title": "【決算速報】スーパーツール、中間経常143百万。事前予想を下回る10/20アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/acbd00b803ee5544361ac18190db44c13144afe8",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,8 +81,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】セントラルＲ、今期経常は7％減益へ10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/fc3fb8d75af21ff6b1ef39a89febd911f668ed8c",
+      "title": "【決算速報】ハウテレ、今期経常を8500万～1億8500万円に上方修正10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f8e7505e72d008b9cc65181964f4814d65e53d01",
+      "type": "up",
+      "code": "8500",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】福岡リート、今期経常は1％減益へ10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/48c082eeaeddc03d6dd6b6beaeb81766d09e7675",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -108,8 +99,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＨＵＬＩＣＲ、今期経常は8％減益へ10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/534057cb9fcbb40fff4cd9a03ee7b64d403824b9",
+      "title": "【決算速報】リボミック、今期最終を赤字縮小に上方修正10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/652930c778f1a26411537286dbc3a6f7ff2d7bce",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アイザワ証Ｇ、非開示だった上期経常は9.4倍増益へ10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/436f5afdfca09d8d5707832942c6edbf4ac91ccc",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,26 +117,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＳＥＨＩ、今期経常を一転25％増益に上方修正10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bd3f8d7bcfa1464cc60cc3f297084f8d0670bee2",
-      "type": "up",
+      "title": "【決算速報】今村証券、非開示だった上期経常は2.1倍増益へ10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4fe4cf76a3a50911c14e8b80aadd112127036f4a",
+      "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】南陽、上期経常を一転27％増益に上方修正・2期ぶり最高益更新へ10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/884c17343ac96820aa8009030f7cf559aea02d5a",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】桜島埠、上期経常を54％下方修正10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/82716d4632aa7d0979a1e2b6e1d7ce571e9c7eed",
+      "title": "【決算速報】アルインコ、上期経常は一転7％減益で下振れ着地10/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/705748bb7319b0966caef4da9df84f903e225716",
       "type": "down",
       "code": "",
       "pub": "",
@@ -144,22 +135,13 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アサヒペン、今期経常を10％上方修正10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6dd21973d590d7b5099622868449ac8dc89b48c5",
-      "type": "up",
+      "title": "スペースX、売上高161％増で黒字転換──AI部門は約681億円の営業黒字、通信事業も69％増収(Forbes JAPAN)",
+      "link": "https://news.yahoo.co.jp/articles/70f4d0e170988fab6f197b1c0ef734e0d38dd85f?source=rss",
+      "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】いちよし、非開示だった上期経常は2.1倍増益、上期配当も4円増額10/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/393bba75ee07556dd5f44c53d403c638dd718448",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Tue, 20 Oct 2026 23:30:00 GMT",
+      "desc": "スペースX（SpaceX）は、米国時間2026年10月20日に第3四半期決算を発表した。人工知能（AI）部門は4億3100万ドル（約681億円）の営業利益を上げ、衛星通信サービスStarlink（スタ",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
