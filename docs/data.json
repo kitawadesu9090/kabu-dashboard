@@ -1,43 +1,34 @@
 {
-  "updated": "2026/10/21 09:16",
-  "date": "2026-10-21",
+  "updated": "2026/10/22 09:19",
+  "date": "2026-10-22",
   "count": {
-    "up": 3,
+    "up": 4,
     "down": 2,
-    "div": 1,
-    "earn": 9
+    "div": 0,
+    "earn": 14
   },
   "items": [
     {
-      "title": "【決算速報】Ｗディッシュ、前期配当を無配転落10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4951bf71018af3aefb03c8abd4b64cd30c7a0852",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スーパーツール<5990>---27年3月期2Qは減益、経常利益は33.2％減10/20フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3b4410cb702d3fb17bd117d66d07417ce8002161",
+      "title": "【決算速報】アジュバン<4929>---27年3月期2Qは黒字転換、経常利益は2200万円10/21フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/18e1efcd3383aa2ba3d780a4fdb6973bf15a2714",
       "type": "earn",
-      "code": "5990",
+      "code": "4929",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アルインコ<5933>---27年3月期2Qは減益、経常利益は7.4％減10/20フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7b63928aae015e9694595788d298d1c63b57ec2e",
+      "title": "【決算速報】オービーシステム<5576>---27年3月期2Qは増益、経常利益は20.9％増10/21フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/20c26a6aaf97fe72ee808bc543d4550403cc1858",
       "type": "earn",
-      "code": "5933",
+      "code": "5576",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (10月20日)10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1709c071729aac5f2cdf196c14f22ee1adf0309f",
+      "title": "★本日の【サプライズ決算】速報 (10月21日)10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7f887f9bc46ecbf672b55ffbd5ef95892a9a9296",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,8 +36,62 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ヴィアＨＤ、上期経常を2倍上方修正、通期も増額10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/3bf83e6369bdbe039f31990238244d5a39f07ba0",
+      "title": "【決算速報】Ｏｎｅリート、今期経常は7％増で11期ぶり最高益更新へ10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ae32637a26ceea27743d1fe852085d041db05f96",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】都市ファンド、今期経常は17％減益へ10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/45dc5b2cb91ee673d39fa615a1ebf03b3bf7c65c",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＯＢシステム、上期経常は44％増益で着地10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ec029e4278cf6cfb1e17e73272b6802b601ed81b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞オービーシス、２７年３月期第２四半期決算は純利益３６．２％増の大幅増益10/21ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/10768e2c57497938c5b1fd976c6f4bea5589f498",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オービーシステム、中間経常332百万。10/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/8b3584554ea6e2e9401f3218bf52bcb41844a438",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アジュバン、上期経常が黒字浮上で着地・7-9月期は赤字拡大10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f344e19f9543a9a5381e17079ae08fb0cdf32a03",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】岡野バ、前期経常を34％上方修正・最高益予想を上乗せ、配当も30円増額10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f7d01fe152ad8ce0417a5f6a42f98cd2fd350d22",
       "type": "up",
       "code": "",
       "pub": "",
@@ -54,8 +99,26 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】スーパツール、上期最終は一転赤字転落で下振れ着地10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/1724a1ff43374946ccb958d83ae012e8ce154a66",
+      "title": "【決算速報】タスキＨＤ、前期経常を25％上方修正・最高益予想を上乗せ10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/445541c72535f61190713d0fb243a4dda491d7a2",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ストライクＧ、前期経常を26％上方修正10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/79b8605960bd6c8a412735435f555dc0366fc7ea",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】セブン工業、上期経常を一転赤字に下方修正10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/bbdda0cc8816c25d996f954bc800099dcdb1eed1",
       "type": "down",
       "code": "",
       "pub": "",
@@ -63,17 +126,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞スパツール、２７年３月期第２四半期決算は純損益１６００万円の赤字10/20ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/1e17104b5e54a400e1bd492b83268da9f6648d26",
-      "type": "earn",
-      "code": "１６００",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スーパーツール、中間経常143百万。事前予想を下回る10/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/acbd00b803ee5544361ac18190db44c13144afe8",
+      "title": "＜決算速報＞アジュバンＨ、２７年３月期第２四半期決算は純利益２．０倍10/21ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/8593e3a01bf6488d876af4ed3b6282d3cefca566",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,17 +135,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ハウテレ、今期経常を8500万～1億8500万円に上方修正10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f8e7505e72d008b9cc65181964f4814d65e53d01",
-      "type": "up",
-      "code": "8500",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】福岡リート、今期経常は1％減益へ10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/48c082eeaeddc03d6dd6b6beaeb81766d09e7675",
+      "title": "【決算速報】アジュバンＨ、中間経常22百万。10/21アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/67cf3ca33a6eb745a65fe8e18d06a19ed386aab4",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -99,8 +144,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】リボミック、今期最終を赤字縮小に上方修正10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/652930c778f1a26411537286dbc3a6f7ff2d7bce",
+      "title": "【決算速報】令和ＡＨ<296A>---27年3月期2Qは増益、経常利益は29.7％増10/21フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/2a07b7f9f74df616d792d08a5e6cfd7b41fd0e14",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】植松商会、上期経常を28％上方修正10/21株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/31abb8e8dc922bdafd620db475f19fc04cbffed7",
       "type": "up",
       "code": "",
       "pub": "",
@@ -108,39 +162,30 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アイザワ証Ｇ、非開示だった上期経常は9.4倍増益へ10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/436f5afdfca09d8d5707832942c6edbf4ac91ccc",
+      "title": "値上げラッシュのお菓子業界で分かれる明暗。ブルボンは最高益、グリコ・不二家は苦戦…明治も減益に陥るワケ(SPA!)",
+      "link": "https://news.yahoo.co.jp/articles/074fa4334da9d7128c1d7d695e7da121ae971703?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Wed, 21 Oct 2026 23:53:02 GMT",
+      "desc": "ハロウィンが近づき、スーパーやコンビニなどの小売店に特別仕様の菓子が目に付くようになりました。今やハロウィン文化が日本にもすっかり定着しています。 国内の菓子メーカーの業績は明暗が分かれてきました。原",
+      "source": "yahoo_news"
     },
     {
-      "title": "【決算速報】今村証券、非開示だった上期経常は2.1倍増益へ10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4fe4cf76a3a50911c14e8b80aadd112127036f4a",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アルインコ、上期経常は一転7％減益で下振れ着地10/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/705748bb7319b0966caef4da9df84f903e225716",
+      "title": "最大50万円の減額も…“EV補助金”の「削減」が決定 「もう普通にハイブリッドでいい」声も(くるまのニュース)",
+      "link": "https://news.yahoo.co.jp/articles/b7cc03a180d321e1b4ae8682ef54382726300920?source=rss",
       "type": "down",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Wed, 21 Oct 2026 23:50:00 GMT",
+      "desc": "経済産業省は2026年10月21日、令和7年度補正予算の「クリーンエネルギー自動車導入促進補助金(CEV補助金)」について、補助額を見直すと公表しました。【画像】お買い得感なくなる？ これが「人気のE",
+      "source": "yahoo_news"
     },
     {
-      "title": "スペースX、売上高161％増で黒字転換──AI部門は約681億円の営業黒字、通信事業も69％増収(Forbes JAPAN)",
-      "link": "https://news.yahoo.co.jp/articles/70f4d0e170988fab6f197b1c0ef734e0d38dd85f?source=rss",
+      "title": "米テスラ7～9月期、56％減益　AI投資重荷、EV販売は堅調(共同通信)",
+      "link": "https://news.yahoo.co.jp/articles/c7bbd35a0200cd9788cd646fa2a0f12a1b4a3451?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Tue, 20 Oct 2026 23:30:00 GMT",
-      "desc": "スペースX（SpaceX）は、米国時間2026年10月20日に第3四半期決算を発表した。人工知能（AI）部門は4億3100万ドル（約681億円）の営業利益を上げ、衛星通信サービスStarlink（スタ",
+      "pub": "Wed, 21 Oct 2026 23:34:01 GMT",
+      "desc": "【ニューヨーク共同】米電気自動車（EV）大手テスラが21日発表した2026年7～9月期決算は、本業のもうけを示す営業利益が前年同期比56％減の7億1800万ドル（約1135億円）だった。EV販売は堅調",
       "source": "yahoo_news"
     }
   ],
