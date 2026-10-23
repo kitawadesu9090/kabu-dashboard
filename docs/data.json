@@ -1,34 +1,16 @@
 {
-  "updated": "2026/10/22 09:19",
-  "date": "2026-10-22",
+  "updated": "2026/10/23 09:17",
+  "date": "2026-10-23",
   "count": {
-    "up": 4,
-    "down": 2,
+    "up": 3,
+    "down": 1,
     "div": 0,
-    "earn": 14
+    "earn": 11
   },
   "items": [
     {
-      "title": "【決算速報】アジュバン<4929>---27年3月期2Qは黒字転換、経常利益は2200万円10/21フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/18e1efcd3383aa2ba3d780a4fdb6973bf15a2714",
-      "type": "earn",
-      "code": "4929",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】オービーシステム<5576>---27年3月期2Qは増益、経常利益は20.9％増10/21フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/20c26a6aaf97fe72ee808bc543d4550403cc1858",
-      "type": "earn",
-      "code": "5576",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (10月21日)10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7f887f9bc46ecbf672b55ffbd5ef95892a9a9296",
+      "title": "本日注目すべき【好決算】銘柄 関電化、Ｔスマート、ＧＭＯ－ＦＨ (22日引け後 発表分)7:01株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ec2a777416baab7c8d65d67f46cd0058659920ee",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,8 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】Ｏｎｅリート、今期経常は7％増で11期ぶり最高益更新へ10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ae32637a26ceea27743d1fe852085d041db05f96",
+      "title": "★本日の【イチオシ決算】 関電化、Ｔスマート、ＧＭＯ－ＦＨ (10月22日)10/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/e5ef760fd8d6c8ec930f67086d1176efe6d601ca",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,53 +27,44 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】都市ファンド、今期経常は17％減益へ10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/45dc5b2cb91ee673d39fa615a1ebf03b3bf7c65c",
+      "title": "【決算速報】ＳＥ　Ｈ＆Ｉ<9478>---27年3月期2Qは増益、経常利益は149％増10/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/093ba491ace4fbb802a226f7d6d693d2db3c83a0",
       "type": "earn",
-      "code": "",
+      "code": "9478",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＯＢシステム、上期経常は44％増益で着地10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ec029e4278cf6cfb1e17e73272b6802b601ed81b",
+      "title": "【決算速報】ディスコ<6146>---27年3月期2Qは増益、経常利益は44％増10/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/0e3301745e93cf0c091251753b5e187e5f00023d",
       "type": "earn",
-      "code": "",
+      "code": "6146",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞オービーシス、２７年３月期第２四半期決算は純利益３６．２％増の大幅増益10/21ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/10768e2c57497938c5b1fd976c6f4bea5589f498",
+      "title": "【決算速報】ブロンコＢ<3091>---26年12月期3Qは増益、経常利益は44.1％増10/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f6eabf4b62349ae381e17cc6674410a1c8d1c4cf",
       "type": "earn",
-      "code": "",
+      "code": "3091",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】オービーシステム、中間経常332百万。10/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/8b3584554ea6e2e9401f3218bf52bcb41844a438",
+      "title": "【決算速報】オーミケンシ<3111>---27年3月期1Qは赤字縮小、経常損益は▲1700万円10/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/52303c68029f7f84316932b440b6d49087860fdc",
       "type": "earn",
-      "code": "",
+      "code": "3111",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アジュバン、上期経常が黒字浮上で着地・7-9月期は赤字拡大10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f344e19f9543a9a5381e17079ae08fb0cdf32a03",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】岡野バ、前期経常を34％上方修正・最高益予想を上乗せ、配当も30円増額10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f7d01fe152ad8ce0417a5f6a42f98cd2fd350d22",
+      "title": "【決算速報】日本調理機、前期経常を一転50％増益に上方修正・2期ぶり最高益、配当も30円増額10/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d623c4757ace977f196d879aa8f1b3385814c823",
       "type": "up",
       "code": "",
       "pub": "",
@@ -99,8 +72,35 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】タスキＨＤ、前期経常を25％上方修正・最高益予想を上乗せ10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/445541c72535f61190713d0fb243a4dda491d7a2",
+      "title": "★本日の【サプライズ決算】速報 (10月22日) （訂正）10/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/66fbdcac4ecbff2ada20b3ef2d8ee843591fe306",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】丸八証券、非開示だった上期経常は2.2倍増益へ10/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/afc908764fc578ba59e939c3fb28335eef660235",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】石塚硝<5204>---27年3月期2Qは減益、経常利益は4.8％減10/22フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/63ebeed65ebb7d26877534e97456ffa9f3e5c43c",
+      "type": "earn",
+      "code": "5204",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｔスマート、上期経常を64％上方修正10/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2a70e82be41cd29f10603469bbdcffffda0abfe8",
       "type": "up",
       "code": "",
       "pub": "",
@@ -108,8 +108,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ストライクＧ、前期経常を26％上方修正10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/79b8605960bd6c8a412735435f555dc0366fc7ea",
+      "title": "【決算速報】ディスコ、上期経常は44％増益で着地、上期配当を15円増額10/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/2fe209d47ec8edefba82931d09ec9936fe11f207",
       "type": "up",
       "code": "",
       "pub": "",
@@ -117,8 +117,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】セブン工業、上期経常を一転赤字に下方修正10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/bbdda0cc8816c25d996f954bc800099dcdb1eed1",
+      "title": "【決算速報】サークレイス、上期経常を一転赤字に下方修正10/22株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/37852b9c4d535b542f22bf4130d921b910f048f5",
       "type": "down",
       "code": "",
       "pub": "",
@@ -126,8 +126,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞アジュバンＨ、２７年３月期第２四半期決算は純利益２．０倍10/21ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/8593e3a01bf6488d876af4ed3b6282d3cefca566",
+      "title": "＜決算速報＞ディスコ、２７年３月期第２四半期決算は純利益４３．７％増の大幅増益10/22ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/73d2024eb8daa991f208b91ee6de82aad39d3e13",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -135,58 +135,13 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アジュバンＨ、中間経常22百万。10/21アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/67cf3ca33a6eb745a65fe8e18d06a19ed386aab4",
+      "title": "【決算速報】ディスコ、中間経常114,437百万。アナリスト予想を上回る10/22アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/edd88e29bba1e9f032cc56f92b5f258feb7ae9af",
       "type": "earn",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】令和ＡＨ<296A>---27年3月期2Qは増益、経常利益は29.7％増10/21フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2a07b7f9f74df616d792d08a5e6cfd7b41fd0e14",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】植松商会、上期経常を28％上方修正10/21株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/31abb8e8dc922bdafd620db475f19fc04cbffed7",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "値上げラッシュのお菓子業界で分かれる明暗。ブルボンは最高益、グリコ・不二家は苦戦…明治も減益に陥るワケ(SPA!)",
-      "link": "https://news.yahoo.co.jp/articles/074fa4334da9d7128c1d7d695e7da121ae971703?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Wed, 21 Oct 2026 23:53:02 GMT",
-      "desc": "ハロウィンが近づき、スーパーやコンビニなどの小売店に特別仕様の菓子が目に付くようになりました。今やハロウィン文化が日本にもすっかり定着しています。 国内の菓子メーカーの業績は明暗が分かれてきました。原",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "最大50万円の減額も…“EV補助金”の「削減」が決定 「もう普通にハイブリッドでいい」声も(くるまのニュース)",
-      "link": "https://news.yahoo.co.jp/articles/b7cc03a180d321e1b4ae8682ef54382726300920?source=rss",
-      "type": "down",
-      "code": "",
-      "pub": "Wed, 21 Oct 2026 23:50:00 GMT",
-      "desc": "経済産業省は2026年10月21日、令和7年度補正予算の「クリーンエネルギー自動車導入促進補助金(CEV補助金)」について、補助額を見直すと公表しました。【画像】お買い得感なくなる？ これが「人気のE",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "米テスラ7～9月期、56％減益　AI投資重荷、EV販売は堅調(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/c7bbd35a0200cd9788cd646fa2a0f12a1b4a3451?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Wed, 21 Oct 2026 23:34:01 GMT",
-      "desc": "【ニューヨーク共同】米電気自動車（EV）大手テスラが21日発表した2026年7～9月期決算は、本業のもうけを示す営業利益が前年同期比56％減の7億1800万ドル（約1135億円）だった。EV販売は堅調",
-      "source": "yahoo_news"
     }
   ],
   "schedule": []
