@@ -1,16 +1,16 @@
 {
-  "updated": "2026/10/26 08:41",
-  "date": "2026-10-26",
+  "updated": "2026/10/27 10:01",
+  "date": "2026-10-27",
   "count": {
-    "up": 0,
-    "down": 1,
+    "up": 2,
+    "down": 0,
     "div": 0,
-    "earn": 14
+    "earn": 16
   },
   "items": [
     {
-      "title": "今週の決算発表予定 キオクシア、アドテスト、レーザーテクなど (10月26日～30日)10/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/3347d1db29bb4e6302c2e1fa98565a6475fedb84",
+      "title": "★本日の【イチオシ決算】 鈴茂器工、コーテクＨＤ、信越ポリ (10月26日)10/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/71232f08c6f97aba07937ab399161d624bfd2fe9",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,89 +18,80 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】Ｓｃｈｏｏ、前期経常を51％下方修正10/23株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d971b89c606e38d535a72265c60513f01b0f4252",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ヒガシHD<9029>---27年3月期2Qは増益、経常利益は15.5％増10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/aa32f4cfc10fcf17919aae20bbec73d427c88b43",
+      "title": "【決算速報】キヤノンＭＪ<8060>---26年12月期3Qは増益、経常利益は20.7％増10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c1aaa79b3b754d6f4c13093a6134e01ba2e3e70a",
       "type": "earn",
-      "code": "9029",
+      "code": "8060",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】未来工<7931>---27年3月期2Qは増益、経常利益は20.7％増10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/9a4bd9b90df961eeb8b86ec34b33a321add64ffc",
+      "title": "【決算速報】信越ポリマ<7970>---27年3月期2Qは増益、経常利益は26％増10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/38661043eb8eb3cb1e47e36123a49b17d65a40ba",
       "type": "earn",
-      "code": "7931",
+      "code": "7970",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】東邦レマック<7422>---26年12月期3Qは赤字拡大、経常損益は▲1億200万円10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/32f08f97be4065ebe9c9bdd629a32dc523e14689",
+      "title": "【決算速報】スタンレー電<6923>---27年3月期2Qは減益、経常利益は12.5％減10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a4de1c5d9c54bc8d61ea19c238b4d9460a0c44cc",
       "type": "earn",
-      "code": "7422",
+      "code": "6923",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＫＯＡ<6999>---27年3月期2Qは増益、経常利益は146.2％増10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b2a28a83e9e1a116592db39f8f0a860e98a90cf2",
+      "title": "【決算速報】小野測器<6858>---26年12月期3Qは黒字転換、経常利益は2億7900万円10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a25ffcddd4dacd3210cb6727c8c0058989ee5e46",
       "type": "earn",
-      "code": "6999",
+      "code": "6858",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ファナック<6954>---27年3月期2Qは増益、経常利益は38.1％増10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c6714dfcdb75bb681b8d9deec25e2597d99cf571",
+      "title": "【決算速報】太洋テクノ<6663>---26年12月期3Q10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/be71799b7817be7b4efdf2a13492704588883261",
       "type": "earn",
-      "code": "6954",
+      "code": "6663",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ブルソース<2804>---27年3月期2Qは増益、経常利益は28.6％増10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0eedbe6d5d41eb9f1aa2b8cb214946bd1c4b9140",
+      "title": "【決算速報】コーエーテクモ<3635>---27年3月期2Qは増益、経常利益は43.4％増10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/52bde0dd4a08b45023216a06fc00a04c45ade6fb",
       "type": "earn",
-      "code": "2804",
+      "code": "3635",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】サーティワン<2268>---26年12月期3Qは増益、経常利益は3.6％増10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/54f5434627111c019de3eb91da21b4cfc8a7d0db",
+      "title": "【決算速報】不二家<2211>---26年12月期3Qは減益、経常利益は60.5％減10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/014d35620f86d1e0ffc62faab66ba558b3c768d6",
       "type": "earn",
-      "code": "2268",
+      "code": "2211",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】宝ＨＬＤ<2531>---27年3月期1Qは減益、経常利益は9％減10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7011caa5731b3c73a64b878c1df589c23b7d5616",
+      "title": "【決算速報】美樹工業<1718>---26年12月期3Qは減益、経常利益は30.4％減10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c5f65047a7aa9467c7b63841fb46a866d1cfb68d",
       "type": "earn",
-      "code": "2531",
+      "code": "1718",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (10月23日)10/23株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f4b8d20e7061f48ad05eeb87e4d7329433cf0544",
+      "title": "★本日の【サプライズ決算】速報 (10月26日)10/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f2d4a4477b055ded6d91991a3ec5d8019545be8b",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -108,8 +99,35 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ミラースＲ、今期経常は2％減益へ10/23株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/2d9ef50cf4ef60507c31ce0a6df5f97931dbebc5",
+      "title": "【決算速報】ナガワ<9663>---27年3月期2Qは増益、経常利益は11.3％増10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bafb9b7da8578bb510bb0fdb9f9d45eddbc3a603",
+      "type": "earn",
+      "code": "9663",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ヤマナカ<8190>---27年3月期2Qは赤字転落、経常損益は▲3億5100万円10/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/d8281ecbffdbea80a9ec6d38f9fb5bc09a78607b",
+      "type": "earn",
+      "code": "8190",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】コーテクＨＤ、今期経常を21％上方修正、配当も8円増額10/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9d5267c0ef3f39ae8bb72d6642297867fe995322",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞コーエテクモ、２７年３月期第２四半期決算は純利益３８．１％増の大幅増益10/26ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/9cd5628bb1eaed046c36fec07ac384f749b3f803",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -117,30 +135,39 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】桜島埠頭<9353>---27年3月期2Qは減益、経常利益は31.1％減10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c8102aae6a90c9ab8b3ddf6c7896d185cd877576",
-      "type": "earn",
-      "code": "9353",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東製鉄<5423>---27年3月期2Qは赤字転落、経常損益は▲29億4900万円10/23フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/5814e5a2f6e9428e15ddcd0639e86870401bf70c",
-      "type": "earn",
-      "code": "5423",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "CATL、7~9月期純利益14.5％増も利益率低下　電池への課税再開が影響(36Kr Japan)",
-      "link": "https://news.yahoo.co.jp/articles/11562dde4f27e69117dcad2f46fefd3ed61cc8ec?source=rss",
+      "title": "【決算速報】コーエーテクモＨ、中間経常25,523百万。事前予想を上回る10/26アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/fe2c780990a59c52d72377de615329f4d2ab4c69",
       "type": "earn",
       "code": "",
-      "pub": "Sun, 25 Oct 2026 23:03:07 GMT",
-      "desc": "中国の車載電池大手、寧徳時代新能源科技（CATL）は10月20日、2026年1～9月期決算を発表した。売上高は前年同期比56.19％増の4421億3700万元（約10兆円）、親会社株主に帰属する純利益",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "明日の決算発表予定　信越化、中外薬など30社 (10月26日)10/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7fe773d3de156e1611319add759ad3fbac496d6b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】イントラスト、上期経常を12％上方修正、通期も増額、配当も3.5円増額10/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/42dd3bbb6819ebaca77d31659bfd5c8f0c39e463",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "米決算シーズン最大の山場、主役はアルファベット・マイクロソフト・アマゾン(Forbes JAPAN)",
+      "link": "https://news.yahoo.co.jp/articles/3cb126c9fb204d7651d0274c706a48a883acd1be?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Mon, 26 Oct 2026 23:30:00 GMT",
+      "desc": "米国企業の7〜9月期（第3四半期）の決算シーズンは、米国時間10月26日から30日までの1週間で、発表が最も集中する山場を迎える。S&P500（米国の代表的な株価指数で、大型株500銘柄で構成される）",
       "source": "yahoo_news"
     }
   ],
