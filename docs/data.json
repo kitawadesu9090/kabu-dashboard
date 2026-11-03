@@ -1,16 +1,43 @@
 {
-  "updated": "2026/11/02 10:08",
-  "date": "2026-11-02",
+  "updated": "2026/11/03 12:13",
+  "date": "2026-11-03",
   "count": {
-    "up": 0,
+    "up": 2,
     "down": 0,
     "div": 0,
-    "earn": 20
+    "earn": 22
   },
   "items": [
     {
-      "title": "【決算速報】ＳＢＩ新生銀、上期経常が48％増益で着地・7-9月期も54％増益10:05株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f8879cc1fa1203166e3116a0f9189f3f96dbba35",
+      "title": "【決算速報】日缶<5905>---27年3月期2Qは赤字縮小、経常損益は▲6000万円11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bdd51a0c18bb7ed67831d0c0ab02896f609ce070",
+      "type": "earn",
+      "code": "5905",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】リビンＴ、前期経常を35％上方修正11/2株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d7daafb5e0ac8a970c03fe6862ace24eb2200e0e",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】インソース<6200>---26年9月期は増益、経常利益は3.8％増11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/aa3bb56cf4411fa32e8c9bd77253470a154d5fff",
+      "type": "earn",
+      "code": "6200",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【イチオシ決算】 フェローテク、インソース、商船三井 (11月2日)11/2株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9c07e9eec7d8b2ebb7f1fd37c37216f05999b1af",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +45,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ＳＢＩ新生銀行、２７年３月期第２四半期決算は純利益０．４％減10:00ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/a75917641113e2d0be25439fa6772604a3a80d99",
+      "title": "【決算速報】インソース、経常3.8%増益。アナリスト予想を下回る11/2アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/a716d6f8e228e47106c747d433f742fae93e016e",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,8 +54,17 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＳＢＩ新生銀行、中間経常92,182百万。10:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/15c6ef59708ab97ea8662bd1195cb5636d3bc03e",
+      "title": "【決算速報】インソース、今期経常は10％増で7期連続最高益、1円増配へ11/2株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/f9292e691f7760f81a80b1b14794920914f10399",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞インソース、２６年９月期決算は純利益５．９％増11/2ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/3fcce05edb5e83870818a1a0c9133685e49b6a0f",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,156 +72,156 @@
       "source": "yahoo"
     },
     {
-      "title": "今週の決算発表予定 三菱重、トヨタ、任天堂など (11月2日～6日)11/1株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/fd158c544cae3fb3d1bf072af4b506725b208771",
+      "title": "【決算速報】いであ<9768>---26年12月期3Qは増益、経常利益は18.4％増11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/8f2e1f7e805a44fcf17ade1604fcdb19cab763f6",
       "type": "earn",
-      "code": "",
+      "code": "9768",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】プロネクサス<7893>---27年3月期2Qは減益、経常利益は7.9％減10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/42f8c230e94242c6350bb40b6e77ef115bca0cf4",
+      "title": "【決算速報】ヨンキュウ<9955>---27年3月期2Qは増益、経常利益は134.7％増11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/bc80a3bd36c99a27d63c465737b49794a05be79d",
       "type": "earn",
-      "code": "7893",
+      "code": "9955",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ホクシン<7897>---27年3月期2Qは黒字転換、経常利益は1億8300万円10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/02fc686e2aa968996c786a2fa253c701baefde22",
+      "title": "【決算速報】東洋テック<9686>---27年3月期2Qは減益、経常利益は37.1％減11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/7a4dfbc88ec2253a84274ad15fc72a7b1a28f40d",
       "type": "earn",
-      "code": "7897",
+      "code": "9686",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＫＩＭＯＴＯ<7908>---27年3月期2Qは減益、経常利益は5.5％減10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/adefd481f0575c6157b3940b696bb6e4924c8ae4",
+      "title": "【決算速報】ＤＴＳ<9682>---27年3月期2Qは減益、経常利益は0.8％減11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/ed104f5ae57ac1bc97600eadb96d4f49c0d845db",
       "type": "earn",
-      "code": "7908",
+      "code": "9682",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ウェッズ<7551>---27年3月期2Qは増益、経常利益は6.1％増10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3ed38cd38b282fb47cae97f8f36d20dca2cc4d72",
+      "title": "【決算速報】アルメディオ<7859>---27年3月期2Qは赤字縮小、経常損益は▲1億4000万円11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/1492032fa3a66740533235d147c5ce2440b30536",
       "type": "earn",
-      "code": "7551",
+      "code": "7859",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アズワン<7476>---27年3月期2Qは増益、経常利益は14.2％増10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6933002b4b9b9b6a1e9db98a8ad6884e127d2606",
+      "title": "【決算速報】スズデン<7480>---27年3月期2Qは増益、経常利益は136.2％増11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a5b3a8d364c5a6a031b353378fe40dbd2156f152",
       "type": "earn",
-      "code": "7476",
+      "code": "7480",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】中山福<7442>---27年3月期2Qは増益、経常利益は302.1％増10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f479f0e1e71d32b9f2d3163b8b183791e7c22a34",
+      "title": "【決算速報】ニチダイ<6467>---27年3月期2Qは黒字転換、経常利益は2億9700万円11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/681e6a5f60f6e9a454cb98f8d7b9211131dbb183",
       "type": "earn",
-      "code": "7442",
+      "code": "6467",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日アビオ<6946>---27年3月期2Qは増益、経常利益は96.5％増10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/271097793d27d06f930748756560d3c7029520d8",
+      "title": "【決算速報】ティラド<7236>---27年3月期2Qは増益、経常利益は5％増11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/5fe0a4e2848970c30c826c16d110be8641f66b95",
       "type": "earn",
-      "code": "6946",
+      "code": "7236",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】遠藤照明<6932>---27年3月期2Qは増益、経常利益は3.7％増10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a9c94aadf1bde279e71009cd0b8924a75e78b10a",
+      "title": "【決算速報】ＬＩＴＡＬＩＣＯ<7366>---27年3月期2Qは増益、経常利益は44.7％増11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/279a277040554eb838514ef026931ac17c65a12f",
       "type": "earn",
-      "code": "6932",
+      "code": "7366",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＮＴＮ<6472>---27年3月期2Qは増益、経常利益は79.1％増10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1cee7be0fdfb131121c7594eaf98dda605d80a67",
+      "title": "【決算速報】ニッカトー<5367>---27年3月期2Qは増益、経常利益は89.2％増11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/780dfec2705bebad5122443a2d7b0c387f0612f6",
       "type": "earn",
-      "code": "6472",
+      "code": "5367",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日特殊陶<5334>---27年3月期2Qは増益、経常利益は81.4％増10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/cc32d1b4ef28d89ac3799eb3261c057257fd13f9",
+      "title": "【決算速報】カネソウ<5979>---27年3月期2Qは減益、経常利益は19.9％減11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/85958b91dc7dffbb8721f28a5199b4cdb0d100c7",
       "type": "earn",
-      "code": "5334",
+      "code": "5979",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】洋シヤター<5936>---27年3月期2Qは減益、経常利益は50.8％減10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/958e424c3dec7cbead00eeb7048c18703e475f8e",
+      "title": "【決算速報】ワイズHD<5955>---27年3月期2Qは増益、経常利益は54.1％増11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a7f2786de984616c51a629eeb140c750c293d725",
       "type": "earn",
-      "code": "5936",
+      "code": "5955",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】日本空調<4658>---27年3月期2Qは増益、経常利益は21.5％増10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d365d8bb778f5cd0cb0c449d4699c4a94b50c0da",
+      "title": "【決算速報】クリエート<5187>---26年12月期3Qは減益、経常利益は34.8％減11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/cce91528c5499583acfa6c27104ddd9fabae855a",
       "type": "earn",
-      "code": "4658",
+      "code": "5187",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】扶桑化学<4368>---27年3月期2Qは増益、経常利益は36.2％増10/30フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/066ad678880941a667e4e8e0bb47fb22e3013f54",
+      "title": "4年で美容室1500店舗に導入された「テオン」　鹿児島の農園発、営業は自力、異色の化粧品ブランドが描く売上高40億円への道筋(WWDJAPAN.com)",
+      "link": "https://news.yahoo.co.jp/articles/a625168632fed588ecb1f11aef86e0358f490090?source=rss",
       "type": "earn",
-      "code": "4368",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "人型ロボットの中国Unitree、7～9月は売上高7割増も純利益17％減(36Kr Japan)",
-      "link": "https://news.yahoo.co.jp/articles/085c50451d292ee01765cbef1d0c14c709877fc3?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Mon, 02 Nov 2026 01:01:06 GMT",
-      "desc": "中国の人型ロボット大手、宇樹科技（Unitree Robotics；ユニツリー・ロボティクス）は10月28日、2026年1～9月期決算を発表した。今年8月に上海証券取引所の新興企業向け市場「科創板」に",
+      "code": "1500",
+      "pub": "Tue, 03 Nov 2026 03:00:00 GMT",
+      "desc": "鹿児島県の約4000坪の農園で植物を栽培し、原料の抽出から手掛ける化粧品ブランド「テオン（TE.ON）」が事業を拡大している。2022年のブランド誕生以降、美容室への直接営業で販路を開拓し、約4年で全",
       "source": "yahoo_news"
     },
     {
-      "title": "残業代4割減、売上高は2倍増に…従業員11人のヘッドスパが導入した出退勤管理ツールの発する《ナッジな問いかけ》(東洋経済オンライン)",
-      "link": "https://news.yahoo.co.jp/articles/b0278d71873eb893a68df7cda01bd252de550340?source=rss",
+      "title": "アップル第4四半期決算、iPhone売上高9.1兆円と好調　市場予想を上回る(Forbes JAPAN)",
+      "link": "https://news.yahoo.co.jp/articles/9f5727b6a301d6923f04fee6f9b8d396b4f4f872?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Mon, 02 Nov 2026 01:00:40 GMT",
-      "desc": "従業員が自分で考え、職場や働き方の改善のために動く。マネジャーの見果てぬ夢は、いつか現実になる時が来るのでしょうか。本稿では、「健康経営」と「ナッジ理論」を掛け合わせた出退勤ツールを導入し、従業員の自",
+      "pub": "Tue, 03 Nov 2026 02:30:00 GMT",
+      "desc": "アップルが発表した2026年会計年度第4四半期（7〜9月期）のiPhone売上高は、576億ドル（約9兆1000億円）に達した。これは、ジョン・ターナス新CEOの体制下で初となる四半期決算であり、時価",
       "source": "yahoo_news"
     },
     {
-      "title": "相場の波に乗って利益を抜く。億超え投資家がキオクシアの決算を前に用意した“3つのシナリオ”(SPA!)",
-      "link": "https://news.yahoo.co.jp/articles/0687c85aef1c716f4638b3d04910e21e8b689765?source=rss",
+      "title": "東京エレクトロンが通期予想を初公表、「営業利益87％増」の強気計画の裏付けは？　下期に高採算体質を実現できるかどうかのカギ(マネーポストWEB)",
+      "link": "https://news.yahoo.co.jp/articles/908f022cd40b5c9a4daf4cf23e9ed8a28ea6de06?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Sun, 01 Nov 2026 23:51:03 GMT",
-      "desc": "2026年もあと2か月。今年の相場を振り返れば日経平均株価は6月に7万円を超えて推移。その象徴となったのが半導体関連のキオクシア（東P・285A）であり、一時は時価総額60兆円となりトヨタ自動車を抜い",
+      "pub": "Tue, 03 Nov 2026 02:15:00 GMT",
+      "desc": "半導体製造装置大手の東京エレクトロンは10月30日、2027年3月期第2四半期（中間期）の決算と合わせて、期初には示していなかった通期の業績予想を初めて公表した。営業利益は前期比87.1％増の1兆16",
+      "source": "yahoo_news"
+    },
+    {
+      "title": "キオクシアの4－12月期見通し、営業利益19倍…「明らかにスーパーサイクルに入っている」(ニュースイッチ)",
+      "link": "https://news.yahoo.co.jp/articles/06fec0f43b936ffead84de31dcb9470ee4f6b686?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Tue, 03 Nov 2026 02:10:28 GMT",
+      "desc": "キオクシアホールディングス（HD）は2026年4―12月期連結業績予想（国際会計基準）で、売上高が前年同期比5・1倍の6兆7471億円、営業利益が同19・2倍の5兆2597億円となる見通しを示した。A",
       "source": "yahoo_news"
     }
   ],
