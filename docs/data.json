@@ -1,13 +1,22 @@
 {
-  "updated": "2026/11/03 12:13",
-  "date": "2026-11-03",
+  "updated": "2026/11/04 10:46",
+  "date": "2026-11-04",
   "count": {
-    "up": 2,
+    "up": 5,
     "down": 0,
     "div": 0,
-    "earn": 22
+    "earn": 19
   },
   "items": [
+    {
+      "title": "【決算速報】洋埠頭<9351>---27年3月期2Qは増益、経常利益は5.9％増9:30フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6d40ac82b4ead5000060eca400a202abe98f8ba7",
+      "type": "earn",
+      "code": "9351",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】日缶<5905>---27年3月期2Qは赤字縮小、経常損益は▲6000万円11/2フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/bdd51a0c18bb7ed67831d0c0ab02896f609ce070",
@@ -126,6 +135,15 @@
       "source": "yahoo"
     },
     {
+      "title": "【決算速報】ＬＩＴＡＬＩＣＯ<7366>---27年3月期2Qは増益、経常利益は44.7％増11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/279a277040554eb838514ef026931ac17c65a12f",
+      "type": "earn",
+      "code": "7366",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
       "title": "【決算速報】ニチダイ<6467>---27年3月期2Qは黒字転換、経常利益は2億9700万円11/2フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/681e6a5f60f6e9a454cb98f8d7b9211131dbb183",
       "type": "earn",
@@ -144,28 +162,10 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＬＩＴＡＬＩＣＯ<7366>---27年3月期2Qは増益、経常利益は44.7％増11/2フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/279a277040554eb838514ef026931ac17c65a12f",
-      "type": "earn",
-      "code": "7366",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
       "title": "【決算速報】ニッカトー<5367>---27年3月期2Qは増益、経常利益は89.2％増11/2フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/780dfec2705bebad5122443a2d7b0c387f0612f6",
       "type": "earn",
       "code": "5367",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】カネソウ<5979>---27年3月期2Qは減益、経常利益は19.9％減11/2フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/85958b91dc7dffbb8721f28a5199b4cdb0d100c7",
-      "type": "earn",
-      "code": "5979",
       "pub": "",
       "desc": "",
       "source": "yahoo"
@@ -180,48 +180,48 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】クリエート<5187>---26年12月期3Qは減益、経常利益は34.8％減11/2フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/cce91528c5499583acfa6c27104ddd9fabae855a",
+      "title": "【決算速報】カネソウ<5979>---27年3月期2Qは減益、経常利益は19.9％減11/2フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/85958b91dc7dffbb8721f28a5199b4cdb0d100c7",
       "type": "earn",
-      "code": "5187",
+      "code": "5979",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "4年で美容室1500店舗に導入された「テオン」　鹿児島の農園発、営業は自力、異色の化粧品ブランドが描く売上高40億円への道筋(WWDJAPAN.com)",
-      "link": "https://news.yahoo.co.jp/articles/a625168632fed588ecb1f11aef86e0358f490090?source=rss",
-      "type": "earn",
-      "code": "1500",
-      "pub": "Tue, 03 Nov 2026 03:00:00 GMT",
-      "desc": "鹿児島県の約4000坪の農園で植物を栽培し、原料の抽出から手掛ける化粧品ブランド「テオン（TE.ON）」が事業を拡大している。2022年のブランド誕生以降、美容室への直接営業で販路を開拓し、約4年で全",
+      "title": "日軽金HD、営業益370億円　通期予想　40億円上振れ(日刊産業新聞)",
+      "link": "https://news.yahoo.co.jp/articles/d1d8954b2adef14ee12f440fb171a6a63c3c4433?source=rss",
+      "type": "up",
+      "code": "",
+      "pub": "Wed, 04 Nov 2026 01:38:26 GMT",
+      "desc": "日本軽金属ホールディングスは2日、2027年3月期の連結営業利益が370億円になりそうだと発表した。前回8月の予想より40億円上振れる。二次合金の需要が高水準で推移。半導体関連やリチウムイオン電池（L",
       "source": "yahoo_news"
     },
     {
-      "title": "アップル第4四半期決算、iPhone売上高9.1兆円と好調　市場予想を上回る(Forbes JAPAN)",
-      "link": "https://news.yahoo.co.jp/articles/9f5727b6a301d6923f04fee6f9b8d396b4f4f872?source=rss",
+      "title": "「すし店」 売上増も「減益」企業が約4割　コメ価格など物価高が重し、廃業・倒産が急増(東京商工リサーチ)",
+      "link": "https://news.yahoo.co.jp/articles/17f199d284e0f9f0282ead60ad80b9e73824a562?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "Tue, 03 Nov 2026 02:30:00 GMT",
-      "desc": "アップルが発表した2026年会計年度第4四半期（7〜9月期）のiPhone売上高は、576億ドル（約9兆1000億円）に達した。これは、ジョン・ターナス新CEOの体制下で初となる四半期決算であり、時価",
+      "pub": "Wed, 04 Nov 2026 01:32:38 GMT",
+      "desc": "11月1日は「すしの日」。「すしの日」は、新米が出荷される季節で、すしのネタになる海や山の幸が美味しい時期として、全国すし商生活衛生同業組合連合会（TSRコード:29161942、豊洲市場内）が196",
       "source": "yahoo_news"
     },
     {
-      "title": "東京エレクトロンが通期予想を初公表、「営業利益87％増」の強気計画の裏付けは？　下期に高採算体質を実現できるかどうかのカギ(マネーポストWEB)",
-      "link": "https://news.yahoo.co.jp/articles/908f022cd40b5c9a4daf4cf23e9ed8a28ea6de06?source=rss",
-      "type": "earn",
+      "title": "大和工業　通期予想上振れ　経常益955億円、米国堅調(日刊産業新聞)",
+      "link": "https://news.yahoo.co.jp/articles/a26c45ac2aaabd4fab12070a69e643471061ecf8?source=rss",
+      "type": "up",
       "code": "",
-      "pub": "Tue, 03 Nov 2026 02:15:00 GMT",
-      "desc": "半導体製造装置大手の東京エレクトロンは10月30日、2027年3月期第2四半期（中間期）の決算と合わせて、期初には示していなかった通期の業績予想を初めて公表した。営業利益は前期比87.1％増の1兆16",
+      "pub": "Wed, 04 Nov 2026 01:27:15 GMT",
+      "desc": "大和工業は2日、2027年3月期通期の連結経常利益が前期比46・4％増の955億円になる見通しだと発表した。経常利益の上方修正は今期2回目で、前回予想から85億円引き上げた。米国で堅調な需要を背景に鋼",
       "source": "yahoo_news"
     },
     {
-      "title": "キオクシアの4－12月期見通し、営業利益19倍…「明らかにスーパーサイクルに入っている」(ニュースイッチ)",
-      "link": "https://news.yahoo.co.jp/articles/06fec0f43b936ffead84de31dcb9470ee4f6b686?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Tue, 03 Nov 2026 02:10:28 GMT",
-      "desc": "キオクシアホールディングス（HD）は2026年4―12月期連結業績予想（国際会計基準）で、売上高が前年同期比5・1倍の6兆7471億円、営業利益が同19・2倍の5兆2597億円となる見通しを示した。A",
+      "title": "社長の報酬はどのくらい？　中央値は約8000万円　引き上げ理由の最多は“他社も上がったから”(ねとらぼ)",
+      "link": "https://news.yahoo.co.jp/articles/7e0e81713c74b7953dd90b17ce4a326b4709e4a0?source=rss",
+      "type": "up",
+      "code": "8000",
+      "pub": "Wed, 04 Nov 2026 00:50:00 GMT",
+      "desc": "デロイト トーマツ グループ（東京都千代田区）は、日本企業の役員報酬や報酬制度などを調べる「役員報酬サーベイ（2026年度版）」を実施した。【画像】「社長の報酬」じっくり見る その結果、プライム上場企",
       "source": "yahoo_news"
     }
   ],
