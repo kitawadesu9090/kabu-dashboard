@@ -1,34 +1,25 @@
 {
-  "updated": "2026/11/11 10:36",
-  "date": "2026-11-11",
+  "updated": "2026/11/12 11:37",
+  "date": "2026-11-12",
   "count": {
-    "up": 0,
-    "down": 1,
+    "up": 2,
+    "down": 3,
     "div": 0,
-    "earn": 21
+    "earn": 17
   },
   "items": [
     {
-      "title": "【決算速報】セーラー広告<2156>---27年3月期2Q10:18フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b438c1255b41f1f72b83f5673d970dddf8bfe935",
-      "type": "earn",
-      "code": "2156",
+      "title": "【決算速報】セグエＧ、今期経常を17％上方修正・最高益予想を上乗せ、配当も10円増額11:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ca6a45f5ca8b9ee9602f850aac91a42d8551aefe",
+      "type": "up",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】不二製油<2607>---27年3月期2Qは増益、経常利益は50％増10:18フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b39d5321d1498149b114f7152d44b9b01a028f7d",
-      "type": "earn",
-      "code": "2607",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大英産業、前期経常を42％下方修正9:51株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/70bb03b51a77090ab21c510153c3fe83607c20b1",
+      "title": "【決算速報】力の源ＨＤ、今期経常を一転39％減益に下方修正11:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c2d46995e08f0463f9d86c99d4228492dea735e6",
       "type": "down",
       "code": "",
       "pub": "",
@@ -36,116 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】フォスター電<6794>---27年3月期2Qは増益、経常利益は0％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/34c329d112efabecb63cf9179b2d5930e7251739",
-      "type": "earn",
-      "code": "6794",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】エリア<8912>---27年6月期1Qは減益、経常利益は2.8％減11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c099092591c2ecc521c00af4b900a40f804e58c8",
-      "type": "earn",
-      "code": "8912",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スポーツフィール<7080>---26年12月期3Qは増益、経常利益は22％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d4623925a2b00c368f44dee26085a577e132f890",
-      "type": "earn",
-      "code": "7080",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】新家工<7305>---27年3月期2Qは増益、経常利益は49.5％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3d44a189d74a3ac54cd7215b3f65b23a005be8c6",
-      "type": "earn",
-      "code": "7305",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日本光電<6849>---27年3月期2Qは減益、経常利益は55％減11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/10c926303bb00eb19488eb134b747fe317030a3c",
-      "type": "earn",
-      "code": "6849",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】トーアミ<5973>---27年3月期2Qは増益、経常利益は43.3％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b33fdde4d7e48443ccb2f78a0939c46595f6b883",
-      "type": "earn",
-      "code": "5973",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】生化学<4548>---27年3月期2Qは増益、経常利益は13.4％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/4f3bbcb41f27e24dea8359fa1cf825e00765bacb",
-      "type": "earn",
-      "code": "4548",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】富士製薬<4554>---26年9月期は増益、経常利益は38.5％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/d8ac36c5794b7275af68a589433ab0238095bf84",
-      "type": "earn",
-      "code": "4554",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アイキューブド<4495>---27年6月期1Qは増益、経常利益は6.9％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b7ac9e2208acafabeb35d06e30832503bd8ec01b",
-      "type": "earn",
-      "code": "4495",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】飯田ＧＨＤ<3291>---27年3月期2Qは増益、経常利益は30.7％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ea0b21daabd6d011199382acc21410649b40c979",
-      "type": "earn",
-      "code": "3291",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大阪ソーダ<4046>---27年3月期2Qは増益、経常利益は29.9％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2828f0499a8d06f89f924b225553f8357da26a43",
-      "type": "earn",
-      "code": "4046",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】富士ピー・エス<1848>---27年3月期2Qは増益、経常利益は1.5％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/ed3abc3c6263335f4a9ec2812cb921d69e329b04",
-      "type": "earn",
-      "code": "1848",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】フォスター電機、中間経常3,864百万。11/10アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/8812b2860827282741a9142d011516b8a17de9ae",
+      "title": "【決算速報】ランサーズ、上期経常が51％増益で着地・7-9月期は38％減益11:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8638d072f9e9a9c3f0581bfd93c8b834e8a50cb5",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -153,8 +36,17 @@
       "source": "yahoo"
     },
     {
-      "title": "★本日の【イチオシ決算】 藤コンポ、資生堂、住友不 (11月10日)11/10株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/178fd1201168bb14669779428cd808556a7f36e4",
+      "title": "【決算速報】理計器、上期経常は29％増益で上振れ着地11:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/79df84bc184f37775540dcfdde44bd803ed7827b",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ソリトン、1-9月期(3Q累計)経常は59％増益で着地11:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b22de9928f9385cac5856a593a4a5c247762ab8f",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -162,48 +54,156 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】大阪チタ<5726>---27年3月期2Qは減益、経常利益は50.9％減11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/cbd2044f3a3aa24e818eb31f2ea71d27a7f190b5",
-      "type": "earn",
-      "code": "5726",
+      "title": "【決算速報】ソニーＦＧ、今期最終を26％下方修正11:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ac50f04582f464a3e8b2eb68ebf44020677f6c79",
+      "type": "down",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】山田債権<4351>---26年12月期3Qは赤字拡大、経常損益は▲1億8900万円11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/2399adb8d2a04bfb2175f51dfe56fc54e9acdc94",
-      "type": "earn",
-      "code": "4351",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】日化薬<4272>---27年3月期2Qは増益、経常利益は36.6％増11/10フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b1241cffab1fc7d021e5f87a2d04537041d14521",
-      "type": "earn",
-      "code": "4272",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "トランプ・メディア株が好決算で10％高、トランプの資産は「約54億円」増加(Forbes JAPAN)",
-      "link": "https://news.yahoo.co.jp/articles/fcfd30c7f3633242d16d683a49c5f04f0bcd3bbe?source=rss",
+      "title": "【決算速報】東洋エンジ、上期経常が黒字浮上で着地・7-9月期も黒字浮上11:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/74c0317a5d7517c41228bb97ce6bb12d11127571",
       "type": "earn",
       "code": "",
-      "pub": "Wed, 11 Nov 2026 01:00:00 GMT",
-      "desc": "米国時間11月10日、前日の決算発表で増収が示されたことを受け、トランプ・メディア・アンド・テクノロジー・グループの株価が10％上昇した。しかし、米中間選挙後の下落分はまだ完全には取り戻せていない。ト",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】博展、1-9月期(3Q累計)経常が28％減益で着地・7-9月期も60％減益11:32株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/8dd85a65311a9e566cec067621f618f1be341f0e",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞セグエ、２６年１２月期第３四半期決算は純利益９４．９％増の大幅増益11:30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/19af4771a46932bfd96c2a51af5288f771695717",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞洋エンジ、２７年３月期第２四半期決算は純損益４４．７億円の黒字11:30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/b3453b90b24d97bed96806cf2852a656e65cc643",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ランサーズ、２７年３月期第２四半期決算は純利益３１．７％増の大幅増益11:30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/2aefa3014da810fa4cf3c53497e257d03f6ebe72",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ソニーＦＧ、２７年３月期第２四半期決算は純利益６５．８％増の大幅増益11:30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/142a256511397d4cf00c9caa5bbe5bc9fff2a4fa",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞理計器、２７年３月期第２四半期決算は純利益２６．６％増の大幅増益11:30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/4f2039c6ce347717898d471c7c56d158d53f9457",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞力の源ＨＤ、２７年３月期第２四半期決算は純利益８２．８％減の大幅減益11:30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/9a728130465319f61f439c1f3d417e0c32ad62bb",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ソリトン、２６年１２月期第３四半期決算は純利益５７．３％増の大幅増益11:30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/ad33eae6b8591af350021b2bfe27ac65f0c2030d",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞博展、２６年１２月期第３四半期決算は純利益２６．７％減の大幅減益11:30ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/71f617ae46ba2f41e35eb2171c62223b698a4f67",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ソニーＦＧ、中間税引前41,694百万。11:30アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/8f9f3c2f4115e792819dcaa53bd513f16102a098",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】理研計器、中間経常7,467百万。事前予想を上回る11:30アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/ae65c8c1aba3f8f6073dfd85b808584b4db5a5d5",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】セグエＧ、3Q累計経常2,956百万。11:30アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/56501c0796e7dc161ccedd79357f0699e2819a1a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】力の源Ｈ、中間経常496百万。アナリスト予想を下回る11:30アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/e55218b96ea5956d5d035a28998ab3345d0ec381",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "携帯3社トップが異例の謝罪…好決算の影でサイバー禍、会見で語ったこと(ニュースイッチ)",
+      "link": "https://news.yahoo.co.jp/articles/3503178995ef901959a033904bba19d770632b53?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Thu, 12 Nov 2026 02:20:36 GMT",
+      "desc": "携帯通信3社の2026年4―9月期連結決算（国際会計基準）は全社が増収営業増益だった。スマートフォン決済やクレジットカードなどの金融事業が伸長。AI（人工知能）やクラウドサービスの需要増を受け法人事業",
       "source": "yahoo_news"
     },
     {
-      "title": "新型SUV「CX-5」けん引…マツダの4-9月期、売上高最高2.6兆円(ニュースイッチ)",
-      "link": "https://news.yahoo.co.jp/articles/6863bbeecc3229837631d55098c0b4b545520121?source=rss",
-      "type": "earn",
+      "title": "商用車2グループ、国内販売台数見通し下方修正…架装逼迫で成長に影(ニュースイッチ)",
+      "link": "https://news.yahoo.co.jp/articles/2142bc16614e7575f47f4d42abe78c1ec3358dba?source=rss",
+      "type": "down",
       "code": "",
-      "pub": "Wed, 11 Nov 2026 00:40:02 GMT",
-      "desc": "マツダが9日発表した2026年4―9月期連結決算は売上高が前年同期比20・1％増の2兆6881億円で過去最高を更新した。新型スポーツ多目的車（SUV）「CX―5」がけん引し、日本や欧州、北米、中国での",
+      "pub": "Thu, 12 Nov 2026 01:40:02 GMT",
+      "desc": "国内商用車2グループの2026年4―9月期連結決算（国際会計基準）が10日出そろい、ともに商用車（CV）の27年3月期国内販売台数見通しを5月公表時から下方修正した。架装工程の逼迫（ひっぱく）が国内市",
       "source": "yahoo_news"
     }
   ],
