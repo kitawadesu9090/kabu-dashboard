@@ -1,16 +1,16 @@
 {
-  "updated": "2026/11/13 11:17",
-  "date": "2026-11-13",
+  "updated": "2026/11/16 10:29",
+  "date": "2026-11-16",
   "count": {
     "up": 0,
-    "down": 1,
-    "div": 1,
-    "earn": 18
+    "down": 0,
+    "div": 0,
+    "earn": 20
   },
   "items": [
     {
-      "title": "【決算速報】ダイヤＨＤ、上期最終が赤字転落で着地・7-9月期も赤字転落11:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e31bb5b6076499df1c4e946ee5f768527eb8d526",
+      "title": "＜決算速報＞ハイブテクノ、２６年９月期決算は純損益９億円の赤字8:00ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/da3c75d054723c02e77880afe49d8789ea563ff7",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -18,8 +18,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナイス、上期経常が48％増益で着地・7-9月期も75％増益11:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/57a398000cd67b3e4b5798bb6832f0ff6e6e43fa",
+      "title": "＜決算速報＞バルコス、２６年１２月期第３四半期決算は純利益９．６倍8:00ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/9bb5c894f2ad95883ad8bbe2ead16629b8350a24",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,17 +27,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ノザワ、今期経常を一転25％減益に下方修正11:00株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ab99e0896c1c81188f7282d67ca6006412ddabd0",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞ノザワ、２７年３月期第２四半期決算は純利益２６．４％減の大幅減益11:00ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/3014ece276ef8347147cf5ed8f7dedd3e58d8c3a",
+      "title": "＜決算速報＞ＡＩストーム、２６年１２月期第２四半期決算は純損益１１．９億円の赤字8:00ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/bb0249091c5c49ad2d3df103f45105f9c34944c7",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -45,8 +36,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ダイヤＨＤ、２７年３月期第２四半期決算は純損益１．６億円の赤字11:00ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/d40003f2a77c099b154864a31b61943d5d91e441",
+      "title": "＜決算速報＞ＡＩストーム、２６年１２月期第３四半期決算は純損益１７．１億円の赤字8:00ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/18947cc96b1da46c1eff1fe36906683cf5025a70",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -54,8 +45,17 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞ナイス、２７年３月期第２四半期決算は純利益２．５倍11:00ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/f771ef45a75f918224f4432745e32a8405ea08f6",
+      "title": "【決算速報】バルコス<7790>---26年12月期3Qは赤字転落、経常損益は▲1億2200万円0:16フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f23bee5fbd8cbbd802158b524086901d1565b2c5",
+      "type": "earn",
+      "code": "7790",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "今週の決算発表予定 ＳＯＭＰＯ、ＭＳ＆ＡＤ、東京海上など (11月16日～20日)11/15株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b5a1ef6ec599a6749161f27eca05580553903576",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -63,8 +63,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ダイヤエレＨ、中間経常146百万。事前予想を上回る11:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/660011013e2c4d4926597503c5e4d568e1341201",
+      "title": "【決算速報】バルコス、1-9月期(3Q累計)経常が赤字転落で着地・7-9月期も赤字転落11/15株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7e3730ef1b1efae67cbab7a3758d75b380918c40",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -72,8 +72,8 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ノザワ、中間経常865百万。事前予想を下回る11:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/0f4a1a5a16fe04f648cc306150c6d94cbd3de7c4",
+      "title": "【決算速報】バルコス、3Q累計経常-122百万。11/15アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/f65da4a146b94d5dee26f1602f338f5b5deb0459",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -81,112 +81,112 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ナイス、中間経常1,571百万。11:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/8c802f4d7b59af86056613af10e360ea4b7acae5",
+      "title": "【決算速報】ＴＨＫ<6481>---26年12月期3Qは増益、経常利益は282％増11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a9e432676201fb927f113c6892911e1cf18ae3bc",
+      "type": "earn",
+      "code": "6481",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＮＦＫ－ＨＤ<6494>---27年3月期2Qは黒字転換、経常利益は2億6700万円11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9e3082f7dc7db002fe8870da9d37a0feed6624e7",
+      "type": "earn",
+      "code": "6494",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】オーイズミ<6428>---27年3月期2Qは減益、経常利益は44.1％減11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/f600e29aeb00f0748393ba0c38457154053327b0",
+      "type": "earn",
+      "code": "6428",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ユニバーサル<6425>---26年12月期3Qは黒字転換、経常利益は7億2600万円11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/017f14c614dfd3ddcffe2929aba01b0b56756b5b",
+      "type": "earn",
+      "code": "6425",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＴＰＲ<6463>---27年3月期2Qは減益、経常利益は4％減11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/70a6b84b929570e779faf4278d328bb4fca14d84",
+      "type": "earn",
+      "code": "6463",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ガリレイ<6420>---27年3月期2Qは増益、経常利益は16.7％増11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/fffea30a63e02dfa54ad33ac9d7a21e36abd26aa",
+      "type": "earn",
+      "code": "6420",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】鈴茂器工<6405>---27年3月期2Qは増益、経常利益は929.8％増11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/9186bba9fff6104f9d0fddffe5e82fd54a704088",
+      "type": "earn",
+      "code": "6405",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】高見サイ<6424>---27年3月期2Qは赤字転落、経常損益は▲5億900万円11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/c1963681f646574cc68b7b9f44f29e761e735211",
+      "type": "earn",
+      "code": "6424",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】荏原製<6361>---26年12月期3Qは増益、経常利益は53.1％増11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/e3cd08aacf4f9ab1bda36d7d42b8bb85d3dbef15",
+      "type": "earn",
+      "code": "6361",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】酒井重<6358>---27年3月期2Qは減益、経常利益は3.2％減11/13フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/fe5fec3c778a4f67037eb84d602a3f09ba94ef65",
+      "type": "earn",
+      "code": "6358",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "AI相場を占うアンソロピック上場　今週はエヌビディアなど国内外で注目企業が決算発表(テレビ朝日系（ANN）)",
+      "link": "https://news.yahoo.co.jp/articles/7dc218184b7db0d0319ee1f9e054bcf4a483cd6f?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Mon, 16 Nov 2026 00:28:20 GMT",
+      "desc": "先週の日経平均株価は、アメリカ中間選挙後に急落した前の週から反発し、6万1000円台を回復しています。 今週は、東京海上ホールディングスやエヌビディアなど国内外で注目企業が決算を発表するほか、アメリカ",
+      "source": "yahoo_news"
     },
     {
-      "title": "【決算速報】スマートドライブ<5137>---26年9月期は増益、経常利益は62.2％増10:16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a498f08ae27fbd5eaf1cfe8301a79f75c9f42288",
-      "type": "earn",
-      "code": "5137",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】 リネットジャパン<3556>---26年9月期は増益、経常利益は139.7％増10:16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/7360d14367b5d8152b471238a7cbd13654f2526a",
-      "type": "earn",
-      "code": "3556",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＫＰＰＧＨＤ、上期経常が64％増益で着地・7-9月期も62％増益8:55株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9cc6c514080619a51b90fff571328c2bc7e8f7f7",
+      "title": "JALは減益でもマイルと金融が稼ぐ。なぜ航空会社が利益の約3割を非航空で生むのか？元機関投資家が分析(LIMO)",
+      "link": "https://news.yahoo.co.jp/articles/831123b0a4b0c4645c7c09a96e0e84a47777f1e4?source=rss",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞ＫＰＰＧＨＤ、２７年３月期第２四半期決算は純利益７９．５％増の大幅増益8:55ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/e595a440673cc0a6176427b78ec4383df8141734",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＫＰＰＧＨ、中間経常3,231百万。8:55アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/8643f4c12973411a1fd94fd654f940ac3ca19ddd",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スマートＤ、今期経常は46％増で4期連続最高益更新へ8:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/dfaa84beb7492751e0280c9c1c0bf821413f6e49",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】リネットＪ、今期経常は26％増で2期連続最高益、12円で初配当へ8:01株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b334dd6e98d863520ae0127989d15ad34123d8d5",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞スマートドラ、２６年９月期決算は純利益７０．５％増の大幅増益8:00ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/d39fb6d11baa9e68fd83a2b7f304d6c14fbe12fa",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞リネットＪ、２６年９月期決算は純利益６６．３％増の大幅増益8:00ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/2d183accdf224618ab4ba4c69b1c83ec3ea33b79",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】リネットジャパン、経常1,190百万。アナリスト予想を下回る8:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/633d822b590028ccbd477fa98bfe69b7fa7e36a8",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】スマートドライブ、経常54.6%増益。アナリスト予想を上回る8:00アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/bdc84a8248981a859d960a588ae2d7989254ca20",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Mon, 16 Nov 2026 00:16:06 GMT",
+      "desc": "日本を代表する航空会社として、国内外の空の便を支える日本航空（JAL）。飛行機を飛ばして稼ぐ会社、というのが多くの人のイメージでしょう。ところが2026年11月2日に発表した中間決算を見ると、本業の利",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
