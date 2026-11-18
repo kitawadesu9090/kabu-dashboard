@@ -1,15 +1,96 @@
 {
-  "updated": "2026/11/17 13:15",
-  "date": "2026-11-17",
+  "updated": "2026/11/18 12:15",
+  "date": "2026-11-18",
   "count": {
-    "up": 0,
+    "up": 1,
     "down": 1,
     "div": 0,
-    "earn": 16
+    "earn": 9
   },
   "items": [
     {
-      "title": "【決算速報】電通グループ<4324>---26年12月期3Q9:04フィスコ",
+      "title": "★本日の【サプライズ決算】速報 (11月17日)11/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/30ae42aa2a722f70606e141901a6ba5933553abf",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】太洋物産、今期経常は1％増益へ11/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/aa807aaea81de1e0ad8ed61ae1f24913ee78fbaa",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞太洋物産、２６年９月期決算は純損益１．９億円の黒字11/17ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/f9892db015b4211d742417f4691bf48d259e6888",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】太洋物産、経常232百万。11/17アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/82cede010658b84ce7b95b3c85ea3e1cec91bc65",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アジア投資<8518>---27年3月期2Qは赤字拡大、経常損益は▲8億8500万円11/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/454b2f09b802c8123238cc8429594c211577407f",
+      "type": "earn",
+      "code": "8518",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】綜研化学、今期経常を一転8％増益に上方修正・2期ぶり最高益、未定だった配当は60円増配11/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/477c5e06c4c9ed07005ee5e2fdae066485375e6d",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ツクルバ、今期経常を一転赤字に下方修正11/17株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4a3e0315e23c78b04211e4b279f27a383df26c6f",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アドベンチャー<6030>---27年6月期1Qは増益、経常利益は20.7％増11/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/aa1fc64a610b1644789474213c7adad5d2c30e09",
+      "type": "earn",
+      "code": "6030",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アミューズ<4301>---27年3月期2Q11/17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/8660681998a1fb310b31f7d8ad9668c254804799",
+      "type": "earn",
+      "code": "4301",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】電通グループ<4324>---26年12月期3Q11/17フィスコ",
       "link": "https://finance.yahoo.co.jp/news/detail/b9534b2e37ff3e790065cb83ca7adae52c799ce5",
       "type": "earn",
       "code": "4324",
@@ -18,145 +99,10 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞Ｄセクション、２７年３月期第２四半期決算は純損益２３．４億円の赤字8:00ウエルスアドバイザー",
+      "title": "＜決算速報＞Ｄセクション、２７年３月期第２四半期決算は純損益２３．４億円の赤字11/17ウエルスアドバイザー",
       "link": "https://finance.yahoo.co.jp/news/detail/666abe76d0adbcf1db9eec44179040ae75448342",
       "type": "earn",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】データセク<3905>---27年3月期2Qは黒字転換、経常利益は15億9400万円11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/f456924406a8ac888b30c43077ac179c028b4321",
-      "type": "earn",
-      "code": "3905",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】AMGHD<8891>---27年3月期2Qは増益、経常利益は44.7％増11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/c7dd389025a416d95a3c03c957ad6f5d4756e138",
-      "type": "earn",
-      "code": "8891",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ジョイフル<9942>---27年6月期1Qは減益、経常利益は1.5％減11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8b4c91b80fcff13e474bfaa1e77a66b0b4928b58",
-      "type": "earn",
-      "code": "9942",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】平山<7781>---27年6月期1Qは増益、経常利益は83％増11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0189f509ed2d60bc291fed205047af1d8319d51a",
-      "type": "earn",
-      "code": "7781",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ニチリョク<7578>---27年3月期2Q11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/0858fef433bed761a2190f87f81884c86340b376",
-      "type": "earn",
-      "code": "7578",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ウインテスト<6721>---26年12月期3Qは赤字縮小、経常損益は▲5億8500万円11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/3049985e2dfd65a2506cc535dc43e13bcbe3c6fb",
-      "type": "earn",
-      "code": "6721",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】キュービーネットHD<6571>---27年6月期1Qは減益、経常利益は12.6％減11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/e09f7831ff576a4b9d5d9a72b10d13ae4d891503",
-      "type": "earn",
-      "code": "6571",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】イクヨ<7273>---27年3月期2Qは赤字転落、経常損益は▲9億4900万円11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/afabb35bf85b455f94775e392a9367fbbf588c66",
-      "type": "earn",
-      "code": "7273",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】VLCセキュ<2467>---27年3月期2Qは赤字拡大、経常損益は▲3億1200万円11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a1f43c77d38adcfe78fa1dac0e0a20b1f89c805b",
-      "type": "earn",
-      "code": "2467",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】データセク、今期最終を一転赤字に下方修正11/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/24dae63198ca7a288fb00bd41467c705fc16fa47",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】データセクション、中間経常1,594百万。11/16アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/eaf34ebadb7f6e496590d7009ad5a5c6947eaa07",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【イチオシ決算】 イオレ、フェローテク、ネットプロ (11月16日)11/16株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/b94b75945512c311beaee06a425f58a062de5c53",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】サンウェルズ<9229>---27年3月期2Qは赤字縮小、経常損益は▲10億4700万円11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/54318b048eefe86e36fa292a3c43191c14cce466",
-      "type": "earn",
-      "code": "9229",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ロイヤルＨＤ<8179>---26年12月期3Qは増益、経常利益は2.3％増11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/5873950d3e5b2cc7e73a9b0065142f609609a800",
-      "type": "earn",
-      "code": "8179",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ポート<7047>---27年3月期2Qは減益、経常利益は25.7％減11/16フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/1010a464afb2bbc016d2d3a486a26b06745695c8",
-      "type": "earn",
-      "code": "7047",
       "pub": "",
       "desc": "",
       "source": "yahoo"
