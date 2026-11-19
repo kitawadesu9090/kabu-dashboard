@@ -1,13 +1,67 @@
 {
-  "updated": "2026/11/18 12:15",
-  "date": "2026-11-18",
+  "updated": "2026/11/19 11:53",
+  "date": "2026-11-19",
   "count": {
-    "up": 1,
-    "down": 1,
-    "div": 0,
-    "earn": 9
+    "up": 2,
+    "down": 0,
+    "div": 2,
+    "earn": 8
   },
   "items": [
+    {
+      "title": "【決算速報】センコーHD<9069>---27年3月期2Qは増益、経常利益は31.3％増10:17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/a98989af950df6606e08931867fe4f3ddc164b49",
+      "type": "earn",
+      "code": "9069",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】表示灯<7368>---27年3月期2Q10:17フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/57a48be8f59bc5eacf97421a4d3ff31a34cb485e",
+      "type": "earn",
+      "code": "7368",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (11月18日)11/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ee78f4286ba5e26da7cb6b755827790bb3a27f0f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アズ企画設計、株式分割に伴い配当予想を修正11/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/86b3474095917ecb3d512c762070708a246b1372",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アズ企画設計、27年02月年間1株配当10円。11/18アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/e5aa03ac70d283e85586636bff353dbf98d9e55d",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ベルグアース、前期経常を2.4倍上方修正11/18株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d57f179d83a8e1dd1ec2e035115473fcc7658a0f",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "★本日の【サプライズ決算】速報 (11月17日)11/17株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/30ae42aa2a722f70606e141901a6ba5933553abf",
@@ -54,58 +108,13 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】綜研化学、今期経常を一転8％増益に上方修正・2期ぶり最高益、未定だった配当は60円増配11/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/477c5e06c4c9ed07005ee5e2fdae066485375e6d",
+      "title": "バンドー化学・三ツ星ベルトは上方修正…伝動ベルト3社の通期見通し、地政学リスク懸念も底堅く(ニュースイッチ)",
+      "link": "https://news.yahoo.co.jp/articles/4e01a562385a30c1dbe2c9d0601ccbdc404c51e3?source=rss",
       "type": "up",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ツクルバ、今期経常を一転赤字に下方修正11/17株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4a3e0315e23c78b04211e4b279f27a383df26c6f",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アドベンチャー<6030>---27年6月期1Qは増益、経常利益は20.7％増11/17フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/aa1fc64a610b1644789474213c7adad5d2c30e09",
-      "type": "earn",
-      "code": "6030",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アミューズ<4301>---27年3月期2Q11/17フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/8660681998a1fb310b31f7d8ad9668c254804799",
-      "type": "earn",
-      "code": "4301",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】電通グループ<4324>---26年12月期3Q11/17フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/b9534b2e37ff3e790065cb83ca7adae52c799ce5",
-      "type": "earn",
-      "code": "4324",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞Ｄセクション、２７年３月期第２四半期決算は純損益２３．４億円の赤字11/17ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/666abe76d0adbcf1db9eec44179040ae75448342",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
+      "pub": "Thu, 19 Nov 2026 02:20:01 GMT",
+      "desc": "伝動ベルトメーカーの業績が好調だ。3社とも2027年3月期連結業績は増収、営業増益（バンドー化学はコア営業利益）を見込み、バンドーはコア営業利益を従来予想から4億円増の100億円、三ツ星ベルトは営業利",
+      "source": "yahoo_news"
     }
   ],
   "schedule": []
