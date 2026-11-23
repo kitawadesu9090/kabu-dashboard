@@ -1,106 +1,16 @@
 {
-  "updated": "2026/11/20 11:45",
-  "date": "2026-11-20",
+  "updated": "2026/11/23 11:05",
+  "date": "2026-11-23",
   "count": {
     "up": 5,
-    "down": 2,
-    "div": 2,
-    "earn": 7
+    "down": 1,
+    "div": 8,
+    "earn": 2
   },
   "items": [
     {
-      "title": "★本日の【サプライズ決算】速報 (11月19日)11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f99a3473ec8fba5b17e9f816012036a1a91aaa9a",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】東京海上、上期最終は8％増益で着地11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/926865d8437fd0f2958b2b69dddd89b87f42058f",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】平和不、今期営業を1％上方修正11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/5a49d038d7d762bfdd1ce900c822321bee38e058",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＭＳ＆ＡＤ、今期最終を15％上方修正11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/f5141586df8d1944ef50ac5aae868610374c5336",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＪＴ、今期最終を一転赤字に下方修正、配当も68円減額11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/655a639f2584129ca7cf5ccb2b5faedb5047bcbe",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＳＯＭＰＯ、今期最終を6％下方修正11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/e64fd744e372a55433f3fc16bd5afda451f02921",
-      "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】毎コムネット、上期経常を一転16％増益に上方修正11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/68db648c7ef8a8b2acb49fd54ceedd42e8f7b373",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大和証券リビ、今期経常は微減益へ11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0a9c0420e2aa9be18870ac8e3e73b996978e59d8",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】グロバワン、今期経常は6％減益へ11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/6bd25a5bca161841ba450e16296f0d38e7fedfde",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】モリト、今期配当を3円増額修正11/19株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/695df91631b0a3e07206f4a13630104d9975d2b5",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】モリト、26年11月年間1株配当75円。11/19アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/4829e36f6d529b35ba48a2ff50c76e3916f1b998",
+      "title": "【決算速報】ワコム、下期配当を見送り（訂正）11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/3e91896dc06ce55baa7575c54173773035ba9125",
       "type": "div",
       "code": "",
       "pub": "",
@@ -108,48 +18,138 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】東建物<8804>---26年12月期3Qは増益、経常利益は15.1％増11/19フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/dff08af80678b5f9a78abdea9ac438b3fe54ceb9",
-      "type": "earn",
-      "code": "8804",
+      "title": "【決算速報】ワコム、27年03月年間1株配当12円。11/20アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/cadf02d209c45a06cc84441fd866c2c2b0a65acf",
+      "type": "div",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】マーキュリアＨＤ<7347>---26年12月期3Qは増益、経常利益は422.2％増11/19フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/91767f32b388ead547ce9d7c42328a467990dd3a",
-      "type": "earn",
-      "code": "7347",
+      "title": "【決算速報】Ｉｎｅ、下期配当を見送り（訂正）11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/51e8c10a706b716f9c4805616348e1b541326523",
+      "type": "div",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】センコーHD<9069>---27年3月期2Qは増益、経常利益は31.3％増11/19フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/a98989af950df6606e08931867fe4f3ddc164b49",
-      "type": "earn",
-      "code": "9069",
+      "title": "【決算速報】Ｉ－ｎｅ、26年12月年間1株配当7円。11/20アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/5715d11ec830246fea159418fa43ec3c3281b9ba",
+      "type": "div",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "カネカ･ADEKA･デンカ…機能化学6社が営業益上振れ､半導体向け業績押し上げ(ニュースイッチ)",
-      "link": "https://news.yahoo.co.jp/articles/cdec0bb74adf1bedb3ff994938f0d1be0f789e7a?source=rss",
+      "title": "★本日の【サプライズ決算】速報 (11月20日)11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/82dafbde002019f19a9c28112e462bcfb56f0a4b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＡＤＷＧ、今期最終を3％上方修正11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/4a7c37562572caa3190f264fed8f36bd871a87ab",
       "type": "up",
       "code": "",
-      "pub": "Fri, 20 Nov 2026 02:20:10 GMT",
-      "desc": "機能化学8社の2027年3月期連結業績予想が出そろい、このうち6社が営業利益見通しを上方修正した。AI（人工知能）データセンター（DC）関連需要の拡大を背景に、半導体向け製品の販売などが堅調に推移して",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】大阪油化、株式分割に伴い配当予想を修正11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/ddee0112a70f08cbcab4ad9e70719e5eacdb207c",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】大阪油化工業、27年09月年間1株配当26円。11/20アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/d3e741d69d1b056566a2951eac1574b8256a5e06",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ミタチ産業、今期経常を一転11％増益に上方修正・最高益、配当も20円増額11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d8a07e5e7fbbdff87bdd858997fb25cd416bd19d",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】トライアイズ、今期経常を9％上方修正11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5e2eb7c94f343b028e7ec8b2925660f8a59a5ed2",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】エラン、今期経常を15％上方修正・最高益予想を上乗せ11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/9021a0433acf8a03f631340c4163c6525d5bc33c",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】セレ、株式分割に伴い配当予想を修正（訂正）11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/07e65fba047e94c1cf68e06f7407cc97cde4bced",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】セレＣ、27年02月年間1株配当80円。11/20アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/a6765876987335f566d5b7dc9883d89cefcbd739",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】クリヤマＨＤ、今期経常を11％上方修正・最高益予想を上乗せ11/20株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/5cc77acf52f306664dab14d8f69e7cbd767a4f07",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "Temu運営のPDD、7～9月期売上高2.6兆円で足踏み　販促費削減で営業増益(36Kr Japan)",
+      "link": "https://news.yahoo.co.jp/articles/dc63efd04b4be99f6fbd959eda9968c009997003?source=rss",
+      "type": "earn",
+      "code": "",
+      "pub": "Mon, 23 Nov 2026 01:30:05 GMT",
+      "desc": "中国EC「拼多多（ピンドゥオドゥオ）」や越境EC「Temu（テム）」を運営するPDDホールディングスは11月19日、2026年7～9月期決算を発表した。売上高は前年同期とほぼ同水準の1083億4100",
       "source": "yahoo_news"
     },
     {
-      "title": "財務相、JT配当減「支障ない」　ロシア問題で(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/b2db8e4ddab12028c2b1c5f651d04be9bb49e25d?source=rss",
-      "type": "div",
+      "title": "「NISAで人気の高配当株」JTが32％急落、さらに25％減配へ…億超え投資家が読み解く“暴落後の買い場と売り時”の判断基準(SPA!)",
+      "link": "https://news.yahoo.co.jp/articles/8f9a1450c1ab02a0e1af1b62a965d0dcab137804?source=rss",
+      "type": "down",
       "code": "",
-      "pub": "Fri, 20 Nov 2026 02:07:15 GMT",
-      "desc": "片山さつき財務相は20日の閣議後記者会見で、日本たばこ産業（JT）がロシア事業の実質的な経営権を失い、株式の配当金を減額する影響に関し「投資環境全体で見れば、（国の）産業投資に直ちに支障することは全く",
+      "pub": "Sun, 22 Nov 2026 23:50:38 GMT",
+      "desc": "ここ数年の相場を騒がせてきたのが「トランプ関税ショック」である。製造業を中心とした輸出関連企業の株価は影響を受けてきた。そんななかでも安定した値動きを見せていたのが高配当株だ。とりわけ、日本たばこ産業",
       "source": "yahoo_news"
     }
   ],
