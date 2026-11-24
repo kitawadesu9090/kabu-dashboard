@@ -1,13 +1,22 @@
 {
-  "updated": "2026/11/23 11:05",
-  "date": "2026-11-23",
+  "updated": "2026/11/24 14:41",
+  "date": "2026-11-24",
   "count": {
-    "up": 5,
-    "down": 1,
-    "div": 8,
-    "earn": 2
+    "up": 4,
+    "down": 0,
+    "div": 7,
+    "earn": 1
   },
   "items": [
+    {
+      "title": "【決算速報】令和ＡＨ、今期経常を13％上方修正・最高益予想を上乗せ、配当も1円増額11:30株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/c17577386a3961e0e2c1ee4569da6bdc87da18bf",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
     {
       "title": "【決算速報】ワコム、下期配当を見送り（訂正）11/20株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/3e91896dc06ce55baa7575c54173773035ba9125",
@@ -99,57 +108,12 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】エラン、今期経常を15％上方修正・最高益予想を上乗せ11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/9021a0433acf8a03f631340c4163c6525d5bc33c",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】セレ、株式分割に伴い配当予想を修正（訂正）11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/07e65fba047e94c1cf68e06f7407cc97cde4bced",
+      "title": "5年前に「キヤノン株」を“1000株”購入して、年間配当「10万円→16万円」に増加！ でも税金が「約3万2500円」引かれるため、父は「NISAで買い直したい」と言います。本当にお得なのでしょうか？(ファイナンシャルフィールド)",
+      "link": "https://news.yahoo.co.jp/articles/423c147b21c0867044fc8f9d1d914bf72c7144b6?source=rss",
       "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】セレＣ、27年02月年間1株配当80円。11/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/a6765876987335f566d5b7dc9883d89cefcbd739",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】クリヤマＨＤ、今期経常を11％上方修正・最高益予想を上乗せ11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/5cc77acf52f306664dab14d8f69e7cbd767a4f07",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "Temu運営のPDD、7～9月期売上高2.6兆円で足踏み　販促費削減で営業増益(36Kr Japan)",
-      "link": "https://news.yahoo.co.jp/articles/dc63efd04b4be99f6fbd959eda9968c009997003?source=rss",
-      "type": "earn",
-      "code": "",
-      "pub": "Mon, 23 Nov 2026 01:30:05 GMT",
-      "desc": "中国EC「拼多多（ピンドゥオドゥオ）」や越境EC「Temu（テム）」を運営するPDDホールディングスは11月19日、2026年7～9月期決算を発表した。売上高は前年同期とほぼ同水準の1083億4100",
-      "source": "yahoo_news"
-    },
-    {
-      "title": "「NISAで人気の高配当株」JTが32％急落、さらに25％減配へ…億超え投資家が読み解く“暴落後の買い場と売り時”の判断基準(SPA!)",
-      "link": "https://news.yahoo.co.jp/articles/8f9a1450c1ab02a0e1af1b62a965d0dcab137804?source=rss",
-      "type": "down",
-      "code": "",
-      "pub": "Sun, 22 Nov 2026 23:50:38 GMT",
-      "desc": "ここ数年の相場を騒がせてきたのが「トランプ関税ショック」である。製造業を中心とした輸出関連企業の株価は影響を受けてきた。そんななかでも安定した値動きを見せていたのが高配当株だ。とりわけ、日本たばこ産業",
+      "code": "1000",
+      "pub": "Tue, 24 Nov 2026 05:10:05 GMT",
+      "desc": "株式投資では、株価の値上がりだけでなく、定期的に受け取れる配当金も魅力の1つです。特に、長期間保有している株式の配当金が増えると、今後も保有し続けたいと考える人もいるでしょう。一方、配当金にかかる税金",
       "source": "yahoo_news"
     }
   ],
