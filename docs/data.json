@@ -1,15 +1,60 @@
 {
-  "updated": "2026/11/24 14:41",
-  "date": "2026-11-24",
+  "updated": "2026/11/25 13:43",
+  "date": "2026-11-25",
   "count": {
-    "up": 4,
+    "up": 3,
     "down": 0,
-    "div": 7,
+    "div": 5,
     "earn": 1
   },
   "items": [
     {
-      "title": "【決算速報】令和ＡＨ、今期経常を13％上方修正・最高益予想を上乗せ、配当も1円増額11:30株探ニュース",
+      "title": "【決算速報】アクシス、今期配当を2円増額修正12:00株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/717950db29b72e0f1326b08a0f2fb13a4d5029d4",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アクシス、26年12月年間1株配当62円。12:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/b1e9d887f092543b15b265a95f68dffba3b91929",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｆブラザーズ、今期配当を17円増額修正11:35株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/789d865b40dcc0b43978bbc1b3c93f416384211b",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】Ｆブラザーズ、26年11月年間1株配当54円。11:35アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/09c6b04022953e555551c24f3a2603ed6f214b6e",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞マテリアルＧ、２６年８月期決算は純利益５８．３％増の大幅増益11/24ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/92e4cb90f0e472955a788f6b54c04bd695bbae05",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】令和ＡＨ、今期経常を13％上方修正・最高益予想を上乗せ、配当も1円増額11/24株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/c17577386a3961e0e2c1ee4569da6bdc87da18bf",
       "type": "up",
       "code": "",
@@ -36,84 +81,12 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】Ｉｎｅ、下期配当を見送り（訂正）11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/51e8c10a706b716f9c4805616348e1b541326523",
+      "title": "友人は「市役所勤務・年収800万円」ですが、追加で「不動産収入400万円」「配当金100万円」と聞きうらやましい！“公務員は副業禁止”のはずですが、投資で「多額の収入」があっても問題ないのですか？(ファイナンシャルフィールド)",
+      "link": "https://news.yahoo.co.jp/articles/b74b31690dcb6d06f95fe3eaba6894e5309c905e?source=rss",
       "type": "div",
       "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｉ－ｎｅ、26年12月年間1株配当7円。11/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/5715d11ec830246fea159418fa43ec3c3281b9ba",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "★本日の【サプライズ決算】速報 (11月20日)11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/82dafbde002019f19a9c28112e462bcfb56f0a4b",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ＡＤＷＧ、今期最終を3％上方修正11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/4a7c37562572caa3190f264fed8f36bd871a87ab",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大阪油化、株式分割に伴い配当予想を修正11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/ddee0112a70f08cbcab4ad9e70719e5eacdb207c",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】大阪油化工業、27年09月年間1株配当26円。11/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/d3e741d69d1b056566a2951eac1574b8256a5e06",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ミタチ産業、今期経常を一転11％増益に上方修正・最高益、配当も20円増額11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d8a07e5e7fbbdff87bdd858997fb25cd416bd19d",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】トライアイズ、今期経常を9％上方修正11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/5e2eb7c94f343b028e7ec8b2925660f8a59a5ed2",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "5年前に「キヤノン株」を“1000株”購入して、年間配当「10万円→16万円」に増加！ でも税金が「約3万2500円」引かれるため、父は「NISAで買い直したい」と言います。本当にお得なのでしょうか？(ファイナンシャルフィールド)",
-      "link": "https://news.yahoo.co.jp/articles/423c147b21c0867044fc8f9d1d914bf72c7144b6?source=rss",
-      "type": "div",
-      "code": "1000",
-      "pub": "Tue, 24 Nov 2026 05:10:05 GMT",
-      "desc": "株式投資では、株価の値上がりだけでなく、定期的に受け取れる配当金も魅力の1つです。特に、長期間保有している株式の配当金が増えると、今後も保有し続けたいと考える人もいるでしょう。一方、配当金にかかる税金",
+      "pub": "Wed, 25 Nov 2026 04:40:02 GMT",
+      "desc": "公務員が副業をしていると聞くと、「副業禁止なのでは？」という感想を持つ人は多いかもしれません。しかし実は、公務員の副業は全面禁止されているわけではなく、一定の条件や許可の下で認められるケースもあります",
       "source": "yahoo_news"
     }
   ],
