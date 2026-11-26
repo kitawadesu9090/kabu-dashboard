@@ -1,15 +1,105 @@
 {
-  "updated": "2026/11/25 13:43",
-  "date": "2026-11-25",
+  "updated": "2026/11/26 12:51",
+  "date": "2026-11-26",
   "count": {
-    "up": 3,
-    "down": 0,
-    "div": 5,
-    "earn": 1
+    "up": 2,
+    "down": 1,
+    "div": 2,
+    "earn": 7
   },
   "items": [
     {
-      "title": "【決算速報】アクシス、今期配当を2円増額修正12:00株探ニュース",
+      "title": "【決算速報】プラネット<2391>---27年7月期1Qは減益、経常利益は10％減11/25フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/6fde1f36d5e08a70cf568d5c644409d1d1fb665b",
+      "type": "earn",
+      "code": "2391",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (11月25日)11/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d312f8907c4573ecb164421c2e73ded6952e8d70",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞梅乃宿酒造、２７年６月期第１四半期決算は純利益１５．４％減の２ケタ減益11/25ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/2d19d9b1671496dd80e6b29119edde37c80e3246",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＯＤＫ、今期経常を44％下方修正11/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/7aede1283e278325c311c94cef8427d8d2a12945",
+      "type": "down",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】プラネット、8-10月期(1Q)経常は10％減益で着地11/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/0bf4120429f728d0b6f88aa258ce01855dfcc1c4",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞プラネット、２７年７月期第１四半期決算は純利益１１．６％減の２ケタ減益11/25ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/f743c853536c27c2c04d1364ccbbef04f2e2620f",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】プラネット、1Q経常161百万。11/25アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/7b8a431bf362d2b8df9e235729a44fc6cbc4c0e6",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】メディアドゥ、今期配当を45円増額修正11/25株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/682826708c253d997f3fc167c905fb1f783f5afb",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】メディアドゥ、27年02月年間1株配当100円。11/25アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/cd5b7a04028d84e322cbc3aebccac3044e86eac7",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞サッポロビール、２６年１２月期第３四半期決算は純利益３０１７億円11/25ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/2f0c0c6da8314347fd4c620285cefbdfc1686679",
+      "type": "earn",
+      "code": "３０１７",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】アクシス、今期配当を2円増額修正11/25株探ニュース",
       "link": "https://finance.yahoo.co.jp/news/detail/717950db29b72e0f1326b08a0f2fb13a4d5029d4",
       "type": "up",
       "code": "",
@@ -18,76 +108,13 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】アクシス、26年12月年間1株配当62円。12:00アイフィス株予報",
+      "title": "【決算速報】アクシス、26年12月年間1株配当62円。11/25アイフィス株予報",
       "link": "https://finance.yahoo.co.jp/news/detail/b1e9d887f092543b15b265a95f68dffba3b91929",
       "type": "div",
       "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｆブラザーズ、今期配当を17円増額修正11:35株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/789d865b40dcc0b43978bbc1b3c93f416384211b",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】Ｆブラザーズ、26年11月年間1株配当54円。11:35アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/09c6b04022953e555551c24f3a2603ed6f214b6e",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞マテリアルＧ、２６年８月期決算は純利益５８．３％増の大幅増益11/24ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/92e4cb90f0e472955a788f6b54c04bd695bbae05",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】令和ＡＨ、今期経常を13％上方修正・最高益予想を上乗せ、配当も1円増額11/24株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/c17577386a3961e0e2c1ee4569da6bdc87da18bf",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ワコム、下期配当を見送り（訂正）11/20株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/3e91896dc06ce55baa7575c54173773035ba9125",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】ワコム、27年03月年間1株配当12円。11/20アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/cadf02d209c45a06cc84441fd866c2c2b0a65acf",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "友人は「市役所勤務・年収800万円」ですが、追加で「不動産収入400万円」「配当金100万円」と聞きうらやましい！“公務員は副業禁止”のはずですが、投資で「多額の収入」があっても問題ないのですか？(ファイナンシャルフィールド)",
-      "link": "https://news.yahoo.co.jp/articles/b74b31690dcb6d06f95fe3eaba6894e5309c905e?source=rss",
-      "type": "div",
-      "code": "",
-      "pub": "Wed, 25 Nov 2026 04:40:02 GMT",
-      "desc": "公務員が副業をしていると聞くと、「副業禁止なのでは？」という感想を持つ人は多いかもしれません。しかし実は、公務員の副業は全面禁止されているわけではなく、一定の条件や許可の下で認められるケースもあります",
-      "source": "yahoo_news"
     }
   ],
   "schedule": []
