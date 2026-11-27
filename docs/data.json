@@ -1,25 +1,52 @@
 {
-  "updated": "2026/11/26 12:51",
-  "date": "2026-11-26",
+  "updated": "2026/11/27 12:52",
+  "date": "2026-11-27",
   "count": {
     "up": 2,
     "down": 1,
     "div": 2,
-    "earn": 7
+    "earn": 10
   },
   "items": [
     {
-      "title": "【決算速報】プラネット<2391>---27年7月期1Qは減益、経常利益は10％減11/25フィスコ",
-      "link": "https://finance.yahoo.co.jp/news/detail/6fde1f36d5e08a70cf568d5c644409d1d1fb665b",
-      "type": "earn",
-      "code": "2391",
+      "title": "【決算速報】シリウスＶ、未定だった今期配当は2期ぶり3円で復配8:00株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/12624426577032c851e727c952b4145854c251f6",
+      "type": "div",
+      "code": "",
       "pub": "",
       "desc": "",
       "source": "yahoo"
     },
     {
-      "title": "★本日の【サプライズ決算】速報 (11月25日)11/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/d312f8907c4573ecb164421c2e73ded6952e8d70",
+      "title": "【決算速報】シリウスビジョン、26年12月年間1株配当3円。8:00アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/b19970ac44e3d074ccc6be4c19c301ea4502b326",
+      "type": "div",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タカショー<7590>---27年1月期3Qは増益、経常利益は69.8％増11/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/5d87abb60b1832bce691e4b1bfd4b7d8e0afb5f5",
+      "type": "earn",
+      "code": "7590",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】DyDo<2590>---27年1月期3Qは増益、経常利益は164.6％増11/26フィスコ",
+      "link": "https://finance.yahoo.co.jp/news/detail/613442a726f194ccd2e888f2ce0822f7310e1538",
+      "type": "earn",
+      "code": "2590",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "★本日の【サプライズ決算】速報 (11月26日)11/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/00c206013326f362faaa8ea354edc9bd343ed19e",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -27,8 +54,8 @@
       "source": "yahoo"
     },
     {
-      "title": "＜決算速報＞梅乃宿酒造、２７年６月期第１四半期決算は純利益１５．４％減の２ケタ減益11/25ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/2d19d9b1671496dd80e6b29119edde37c80e3246",
+      "title": "【決算速報】ファンペップ、非開示だった今期最終は赤字縮小へ11/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/25e918a85042fee39d612f41be3b72cb7a13491c",
       "type": "earn",
       "code": "",
       "pub": "",
@@ -36,81 +63,81 @@
       "source": "yahoo"
     },
     {
-      "title": "【決算速報】ＯＤＫ、今期経常を44％下方修正11/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/7aede1283e278325c311c94cef8427d8d2a12945",
+      "title": "【決算速報】タカショー、2-10月期(3Q累計)経常が70％増益で着地・8-10月期は赤字縮小11/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/379ca57e19aecf05a83db73c62fdcdc3687b0636",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ＤｙＤｏ、2-10月期(3Q累計)経常は2.6倍増益で着地11/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/afc2e6f58c82a4bf7668f8bdc3f7afc17341b5f3",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】パワーソリュ、今期経常を一転微増益に上方修正・最高益更新へ11/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/1f7a15ea0352de7a3046360a926e76323cf24e0e",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞タカショー、２７年１月期第３四半期決算は純損益２６００万円の黒字11/26ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/312254a6df4edb52fed056bf0323d3d6076c5d55",
+      "type": "earn",
+      "code": "２６００",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "＜決算速報＞ＤｙＤｏ、２７年１月期第３四半期決算は純利益５６．７億円11/26ウエルスアドバイザー",
+      "link": "https://finance.yahoo.co.jp/news/detail/c824346976e9bb0d6507a1db772b17e53bf39c9b",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】ダイドーＧＨ、3Q累計経常8,221百万。11/26アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/9cefe3163ae922ffe9a5514ad091a5435925890a",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】タカショー、3Q累計経常401百万。11/26アイフィス株予報",
+      "link": "https://finance.yahoo.co.jp/news/detail/b3d070d465776787e2375de79eeb1c22216829f8",
+      "type": "earn",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】東陽倉、今期最終を一転20％増益に上方修正11/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/d34734b1c613f7ddf362c4ed5d00c39715fe4e95",
+      "type": "up",
+      "code": "",
+      "pub": "",
+      "desc": "",
+      "source": "yahoo"
+    },
+    {
+      "title": "【決算速報】松竹、今期最終を25％下方修正11/26株探ニュース",
+      "link": "https://finance.yahoo.co.jp/news/detail/b480b90b458905c15ad304352390b61b6436afb6",
       "type": "down",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】プラネット、8-10月期(1Q)経常は10％減益で着地11/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/0bf4120429f728d0b6f88aa258ce01855dfcc1c4",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞プラネット、２７年７月期第１四半期決算は純利益１１．６％減の２ケタ減益11/25ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/f743c853536c27c2c04d1364ccbbef04f2e2620f",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】プラネット、1Q経常161百万。11/25アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/7b8a431bf362d2b8df9e235729a44fc6cbc4c0e6",
-      "type": "earn",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】メディアドゥ、今期配当を45円増額修正11/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/682826708c253d997f3fc167c905fb1f783f5afb",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】メディアドゥ、27年02月年間1株配当100円。11/25アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/cd5b7a04028d84e322cbc3aebccac3044e86eac7",
-      "type": "div",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "＜決算速報＞サッポロビール、２６年１２月期第３四半期決算は純利益３０１７億円11/25ウエルスアドバイザー",
-      "link": "https://finance.yahoo.co.jp/news/detail/2f0c0c6da8314347fd4c620285cefbdfc1686679",
-      "type": "earn",
-      "code": "３０１７",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アクシス、今期配当を2円増額修正11/25株探ニュース",
-      "link": "https://finance.yahoo.co.jp/news/detail/717950db29b72e0f1326b08a0f2fb13a4d5029d4",
-      "type": "up",
-      "code": "",
-      "pub": "",
-      "desc": "",
-      "source": "yahoo"
-    },
-    {
-      "title": "【決算速報】アクシス、26年12月年間1株配当62円。11/25アイフィス株予報",
-      "link": "https://finance.yahoo.co.jp/news/detail/b1e9d887f092543b15b265a95f68dffba3b91929",
-      "type": "div",
       "code": "",
       "pub": "",
       "desc": "",
